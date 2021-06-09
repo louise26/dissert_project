@@ -1,0 +1,25 @@
+Progress report for period 2021-06-03 to 2021-06-10: 
+
+Activity this week:
+- DOER submission - focus on objecive definition
+- Ethics Assessment submission
+- Research and readings for Literature Review
+- Started an online course to build a scraper using Python tool Scrapy 
+- Organised my goals and schedule for the entire project
+
+Goals for next week: 
+- Create table of contents with all the chapter and section headings 
+- Keep reading articles and academic papers for Literature Review 
+- Submit a first draft of the Literature Review and Table of Contents
+- Start building my scraper
+
+Items to discuss in meeting: 
+- Literature review (LR): How many sources should I read?
+- LR structure: How should I organise/structure the LR? 
+- LR content: Should I focus mainly on the concepts behind my dissertation (i.e. legitimate interest, impact assessment methodologies, legal basis for data processing, etc.), or should my LR also include research on scraping tools, topic modelling tools... 
+
+- How is it feasible to do all of this in less than a week? I feel like I'm already falling behind. 
+- Can I use GitHub to share my progress with you? 
+- What is actually expected from the context survey? 
+- How precise should my table of contents be? Will I be able to change it later/ lose points for changing it later?
+- What do you think of my DOER (description and objectives)? 
