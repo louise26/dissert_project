@@ -1,0 +1,21 @@
+Progress report for period 2021-06-10 to 2021-06-17: 
+
+Activity this week:
+- Read all articles and papers for my Literature Review 
+- Structured the Literature Review and wrote content with bullet points
+- Created a table contents with all my chapters and section headings (that I could come up with so far)
+- Created a roadmap ("Work Plan) for the rest of the Summer Term, with clear timelines to work on certain tasks, including aims and details about each task
+- Continued the scraping course on Undemy
+- Started looking at UK-retail companies' website and privacy policies to prepare for my manual data collection step. 
+
+Goals for next week:
+- Write a clean version of my literature version (I was sick for a couple of days so a bit delayed here)
+- Manual review of 50 UK-retail companies' websites: gather information that will be useful for the scraping (inc. position of the privacy notice on main pages, term used to describe it, legal basis in privacy policies for each company, keywords used that are associated with legitimate interests, etc.)
+- Continue scraping course
+- Brainstorm/research a way I could standardise outputs of Legitimate Interests Assessment (one of my primary objectives, which I'm still confused about)
+
+Questions for Tristan: 
+- Discuss my Work Plan - is this realistic? Was I too ambitious with my objectives? 
+- When do you expect to receive our last draft for review? 
+- What is the Interim Demos? What are we expected to have ready? 
+- I'm really not sure about one of my primary objectives "Find a standardised way of recording the output of a LIA." I think it might be a bit too much. Wouldn't it be better to focus on the other two primary objectives, and the secondary objectives that go with them? There's clearly not much about LIs in academic research, so my project could be a "status report" of legitimate interests in privacy policies. It would also give me more time to play with topic modeling. 
