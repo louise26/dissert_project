@@ -1,0 +1,18 @@
+Progress report for period 2021-06-17 to 2021-06-23: 
+
+Activity this week:
+- Continued course on scrapy and tried to apply it to Trainline website
+- Learnt about Selenium, gave up on Scrapy and decided to read more about Selenium
+- Built scraper for Trainline with Selenium: starting from the website link, I managed to find the privacy button, get the link of the privacy page and access it. Then I managed to parse the data from the page, and save the text in a file. 
+- Kept working on literature review (still need to finish it)
+
+Goals for next week:
+- Clean code with functions and no 'magic variables'
+- Get the scraper to work on 50+ webistes (getting the links from a csv file)
+- Find a database with more websites and make sure the scraper works on these too. 
+- Start learning about topic modelling 
+
+Questions for Tristan: 
+- Which websites should I focus on when extending the use of my scraper? 
+- Is it ok to get the websites' links from a database file? 
+- When explaining how I built the scraper in my report, in which level of depth should I go? Should I explain why I chose Selenium rather than Scrapy? 
