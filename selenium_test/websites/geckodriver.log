@@ -206,3 +206,90 @@ JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.22074e3e
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1624815038641	geckodriver	INFO	Listening on 127.0.0.1:64249
+1624815039646	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yf/g8lt6nwj3dg9m6tyjm2fg0r40000gn/T/rust_mozprofileFAgBQQ"
+1624815041630	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/yf/g8lt6nwj3dg9m6tyjm2fg0r40000gn/T/rust_mozprofileFAgBQQ/search.json.mozlz4", (void 0)))
+1624815046091	Marionette	INFO	Listening on port 64260
+1624815046186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.13.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+1624815086484	Marionette	INFO	Stopped listening on port 64260
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624815296136	geckodriver	INFO	Listening on 127.0.0.1:64538
+1624815297150	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yf/g8lt6nwj3dg9m6tyjm2fg0r40000gn/T/rust_mozprofileZ4notW"
+1624815298053	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/yf/g8lt6nwj3dg9m6tyjm2fg0r40000gn/T/rust_mozprofileZ4notW/search.json.mozlz4", (void 0)))
+1624815301347	Marionette	INFO	Listening on port 64549
+1624815301413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624815317594	Marionette	INFO	Stopped listening on port 64549
+1625728026896	geckodriver	INFO	Listening on 127.0.0.1:65094
+1625728027750	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yf/g8lt6nwj3dg9m6tyjm2fg0r40000gn/T/rust_mozprofile44QcrE"
+1625728033108	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/yf/g8lt6nwj3dg9m6tyjm2fg0r40000gn/T/rust_mozprofile44QcrE/search.json.mozlz4", (void 0)))
+1625728036806	Marionette	INFO	Listening on port 65101
+1625728036923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.13.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1625728116908	Marionette	INFO	Stopped listening on port 65101
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625728397795	geckodriver	INFO	Listening on 127.0.0.1:65511
+1625728397810	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yf/g8lt6nwj3dg9m6tyjm2fg0r40000gn/T/rust_mozprofileo222rL"
+1625728398825	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/yf/g8lt6nwj3dg9m6tyjm2fg0r40000gn/T/rust_mozprofileo222rL/search.json.mozlz4", (void 0)))
+1625728401496	Marionette	INFO	Listening on port 65516
+1625728401581	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.13.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1625728700377	Marionette	INFO	Stopped listening on port 65516
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625728738614	geckodriver	INFO	Listening on 127.0.0.1:49553
+1625728739615	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yf/g8lt6nwj3dg9m6tyjm2fg0r40000gn/T/rust_mozprofileW5ynuD"
+1625728740686	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/yf/g8lt6nwj3dg9m6tyjm2fg0r40000gn/T/rust_mozprofileW5ynuD/search.json.mozlz4", (void 0)))
+1625728743939	Marionette	INFO	Listening on port 49562
+1625728744052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625729422352	geckodriver	INFO	Listening on 127.0.0.1:49904
+1625729423357	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yf/g8lt6nwj3dg9m6tyjm2fg0r40000gn/T/rust_mozprofilecTBzaB"
+1625729424549	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/yf/g8lt6nwj3dg9m6tyjm2fg0r40000gn/T/rust_mozprofilecTBzaB/search.json.mozlz4", (void 0)))
+1625729427518	Marionette	INFO	Listening on port 49911
+1625729427600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.redditstatic.com/desktop2x/runtime~Reddit.3fedf436e62479d93653.js, line 1: Error: Loading CSS chunk NotificationsPrePromptLoader failed.
+(https://www.redditstatic.com/desktop2x/chunkCSS/NotificationsPrePromptLoader.a97a4ca8feba3044fe8e.css)
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.files.bbci.co.uk/orbit/86efadef229d1a4ee7019331f832e9f5//js/require.min.js, line 1: Error: Script error for "idcta-v2/statusbar"
+http://requirejs.org/docs/errors.html#scripterror
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1625731453020	geckodriver	INFO	Listening on 127.0.0.1:51169
+1625731454025	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yf/g8lt6nwj3dg9m6tyjm2fg0r40000gn/T/rust_mozprofileCX49jl"
+1625731454936	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/yf/g8lt6nwj3dg9m6tyjm2fg0r40000gn/T/rust_mozprofileCX49jl/search.json.mozlz4", (void 0)))
+1625731458583	Marionette	INFO	Listening on port 51176
+1625731458623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.13.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://mybbc.files.bbci.co.uk/notification-ui/4.3.7/js/NotificationsMain.js, line 2: ChunkLoadError: Loading chunk 15 failed.
+(error: https://mybbc.files.bbci.co.uk/notification-ui/4.3.7/js/15.NotificationsMain.js)
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css without a browsingContextID set
+1625731718534	Marionette	INFO	Stopped listening on port 49911
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625731721575	Marionette	INFO	Stopped listening on port 51176
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://ow2.res.office365.com/owalanding/2021.4.9.04/stylesheets/compiled.css without a browsingContextID set
+JavaScript error: https://privacy.microsoft.com/en-gb/privacystatement, line 5: TypeError: $(...).attr(...) is undefined
