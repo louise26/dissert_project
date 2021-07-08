@@ -1,0 +1,15 @@
+Progress report for period 2021-06-25 to 2021-07-08: 
+
+Activity in the past two weeks: 
+- Manually inspected top 5 websites from Alexa to document communalities and differences between them, and inform choices for the scraper
+- Built a scraper that 1) gets a list of urls from Alexa top UK websites, 2) Visits each url, finds the privacy policy button and goes to the privacy page 3) Saves the text of the policy in a txt file. 
+
+Goals for next week:
+- Deal with websites where there are mutliple privacy buttons on main page. 
+- Clean data further in the txt files. 
+- Start analysing the data. 
+
+Questions for Tristan:
+- How should I approach the analysis part? 
+- Does my data (privacy policy text files) need to be "pretty" or just clean enough to work for the analysis? 
+- Best advice at this stage? 
