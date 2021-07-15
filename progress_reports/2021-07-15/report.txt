@@ -1,0 +1,21 @@
+Progress report for period 2021-06-25 to 2021-07-08: 
+
+Activity last week: 
+- Made the scraper more robust to avoid errors and get some data.
+- Found some heuristics to look for in script. 
+- Extract 10 html websites which I manually reviewed. 
+- Inspected the htmls and found some heuristics and identified sections and topics. 
+
+  
+
+Goals for next week:
+- Write BeautifulSoup script to find heuristics with regular expressions.
+- Try scraper on bigger list of websites (Alexa top 500 UK) and make the scraper more sophisticated. 
+- Go further in understanding use of "necessary" to mean "legitimate interests"
+- Try scraper on french websites? (Alex Top 50 French websites)
+
+Questions for Tristan:
+- What is the interim demos? What am I supposed to submit? Will I need to present something? 
+- Should I aim at making the scraper more sophisticated for UK websites now, or try to expand it to French websites? 
+- Not sure how to scale my manual review to hundreds of site. I will probably find out when I start playing with BeautifulSoup. What if I can't find anything. 
+- What is my MVP? 
