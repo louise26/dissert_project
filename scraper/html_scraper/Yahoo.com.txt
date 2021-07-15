@@ -1,0 +1,253 @@
+<html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
+        <title>Your Privacy Controls  | Verizon Media Policies</title>
+        <meta name="description" content="Your Privacy Controls  | Verizon Media Policies">
+        <meta name="keywords" content="">
+
+        <link rel="apple-touch-icon" sizes="180x180" href="https://s.yimg.com/cv/apiv2/vzm/sites/fav/favicon.ico">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://s.yimg.com/cv/apiv2/vzm/sites/fav/favicon.ico">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://s.yimg.com/cv/apiv2/vzm/sites/fav/favicon.ico">
+        <!--<link rel="manifest" href="/js/manifest.json">
+        <link rel="mask-icon" href="https://s.yimg.com/ge/toc/assets/safari-pinned-tab.svg" color="#000000">
+        -->
+        <meta name="theme-color" content="#ffffff">
+        <meta property="og:image" content="https://s.yimg.com/cv/apiv2/vzm/sites/vz-image-1.0.0.png"> 
+        <meta property="og:image:width" content="279">
+        <meta property="og:image:height" content="279">
+        <meta property="og:title" content="">
+        <meta property="og:description" content="">
+        <meta property="og:url" content="">
+        <link rel="stylesheet" href="https://s.yimg.com/zz/combo?ge/oath/policies/fonts/font_awesome_min_v1.1.css">
+        <link rel="stylesheet" href="https://s.yimg.com/cv/api/toc/ass/css/v2/tocCustom_min.css">
+        <link rel="stylesheet" href="https://s.yimg.com/ge/oath/policies/css/oathstyles_min.css">
+        <link rel="stylesheet" href="https://s.yimg.com/zz/combo?ge/oath/policies/css/oathplcy_custom_min_v1.5.css&amp;ge/oath/policies/css/ckeditor_min.css&amp;ge/oath/policies/css/header_fixes_min_v1.2.css">
+        <link rel="stylesheet" href="https://s.yimg.com/cv/apiv2/oathsites/overlay/css/verizon-overlay-v1-min.css">
+        <link rel="stylesheet" href="https://s.yimg.com/cv/apiv2/vzm/sites/css/vzm-policies-v2.95.min.css">
+        <link rel="stylesheet" href="https://s.yimg.com/cv/apiv2/vzm/sites/css/vzm-privacy-page-emea-v2.05.min.css">
+        <script src="https://s.yimg.com/ge/toc/ass/js/modernizr.min.js"></script>
+        <!--if lt IE 9
+        script(src='https://s.yimg.com/ge/toc/ass/js/3.7.3/html5shiv.js')
+        script(src='https://s.yimg.com/ge/toc/ass/js/1.4.2/respond.min.js')
+
+        -->
+        <script src="https://s.yimg.com/ss/rapid3.js"></script> 
+                <script>
+            var spaceId = "1197810130";
+            var pageType = "content";
+            var pageId = "ott:2903";
+            var mrktParm = "ie";
+            var langParm = "en-IE";
+        </script> 
+            <script type="text/javascript">
+        var queryParms = [];
+        var login_hint, device_session_id, device_verifier; var expectedUrls = ["/policies/", "mydashboard.oath.com/"];   
+    </script> 
+    </head>
+    <body class="sticky-header" style="cursor: pointer;">
+    
+    
+    <header class="site-header" id="site-header">
+  <div class="sticky-content">
+    <div class="container">
+       <a class="logo" href="https://www.verizonmedia.com/"><img class="full" src="https://s.yimg.com/mi/verizonmedia/assets/images/verizon-logo-1.0.1.png" alt="Verizon Media" title="Verizon Media"><img class="short" src="https://s.yimg.com/mi/verizonmedia/assets/images/verizon-logo-1.0.1.png" alt="Verizon Media" title="Verizon Media"></a>      <nav class="site-nav" role="navigation">
+        <button class="btn-menu disable-hover"><span class="burger"><span></span></span></button>
+      </nav>
+    </div>
+  </div>
+</header>
+    
+    
+        <div class="page-menu" id="page-menu" aria-hidden="true">
+      <div class="container">
+        <nav role="navigation">
+          <button class="circle btn-close disable-hover"><i class="times"></i></button>
+          <ul class="menu-primary" id="menu-primary-navigation">
+                                    <li class="menu-item timing-delay-1">
+                       <div class="line-wrap">
+                          <a href="/policies/ie/en/verizonmedia/terms/otos/index.html">Terms</a>
+                       </div>
+                     
+                </li>
+                            <li class="menu-item menu-parent timing-delay-2">
+                    <div class="line-wrap"><span>Privacy Centre</span></div>
+                    <div class="menu-submenu" id="menu-solutions">
+                        <button class="btn-back disable-hover"><i class="chevron-left"></i>Back</button>
+                        <ul class="menu-nodes">
+                        <li class="timing-delay-1"><div class="line-wrap"><a href="/policies/ie/en/verizonmedia/privacy/overview/index.html">Privacy Centre</a></div></li>
+                                                <li class="timing-delay-2"><div class="line-wrap"><a href="/policies/ie/en/verizonmedia/privacy/index.html">Privacy Policy</a></div></li>
+                                                <li class="timing-delay-3"><div class="line-wrap"><a href="/policies/ie/en/verizonmedia/privacy/yourprivacycontrols/index.html">Your Privacy Controls</a></div></li>
+                                                <li class="timing-delay-4"><div class="line-wrap"><a href="/policies/ie/en/verizonmedia/privacy/advertising/index.html">How Digital Advertising Works</a></div></li>
+                                                <li class="timing-delay-5"><div class="line-wrap"><a href="/policies/ie/en/verizonmedia/privacy/topic/index.html">Topics</a></div></li>
+                                                <li class="timing-delay-6"><div class="line-wrap"><a href="/policies/ie/en/verizonmedia/privacy/cookies/index.html">Cookie Policy</a></div></li>
+                                              </ul>
+                    </div>
+                     
+                </li>
+                                <li class="menu-item timing-delay-3">
+                       <div class="line-wrap">
+                          <a href="/policies/ie/en/verizonmedia/ip/index.html">Copyright/IP</a>
+                       </div>
+                     
+                </li>
+                                <li class="menu-item timing-delay-4">
+                       <div class="line-wrap">
+                          <a href="/policies/ie/en/verizonmedia/guidelines/index.html">Community Guidelines (New)</a>
+                       </div>
+                     
+                </li>
+             
+          </ul>
+        </nav>
+      </div>
+    </div>
+<div class="with-sidebar with-no-mobile-padding"><div class="container" id="outer-wrapper"><div class="grid">    
+    
+    <aside class="sidebar col-12 col-3-small col-3-medium" id="site-sidebar">
+    <div class="sidebar-navigation">
+      <div class="page-navigation" id="page-navigation">
+        <div class="container">
+          <nav role="navigation">
+            <ul class="menu-secondary" id="menu-secondary-navigation">            
+                                      <li class="menu-item"><a href="/policies/ie/en/verizonmedia/terms/otos/index.html" class="is-not-active">Terms</a>
+                     
+                </li>
+                            <li class="menu-item">
+                    <a class="active open" href="/policies/ie/en/verizonmedia/privacy/overview/index.html" style="border-bottom: medium none;">Privacy Centre</a>
+                    <div class="menu-submenu">
+                        <ul class="menu-nodes">
+                       
+                                                <li class="timing-delay-1"><a href="/policies/ie/en/verizonmedia/privacy/index.html" class="is-not-active">Privacy Policy</a></li>
+                                                <li class="timing-delay-2"><a href="/policies/ie/en/verizonmedia/privacy/yourprivacycontrols/index.html" class="active">Your Privacy Controls</a></li>
+                                                <li class="timing-delay-3"><a href="/policies/ie/en/verizonmedia/privacy/advertising/index.html" class="is-not-active">How Digital Advertising Works</a></li>
+                                                <li class="timing-delay-4"><a href="/policies/ie/en/verizonmedia/privacy/topic/index.html" class="is-not-active">Topics</a></li>
+                                                <li class="timing-delay-5"><a href="/policies/ie/en/verizonmedia/privacy/cookies/index.html" class="is-not-active">Cookie Policy</a></li>
+                                              </ul>
+                    </div>
+                     
+                </li>
+                                <li class="menu-item"><a href="/policies/ie/en/verizonmedia/ip/index.html" class="is-not-active">Copyright/IP</a>
+                     
+                </li>
+                                <li class="menu-item"><a href="/policies/ie/en/verizonmedia/guidelines/index.html" class="is-not-active">Community Guidelines (New)</a>
+                     
+                </li>
+                        </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+</aside>
+    
+    
+            <main class="col-12 privacyArticle col-9-medium col-9-small" id="site-main">
+            <section class="no-top-margin full-width-mobile">
+                <div class="container">
+	                <div class="grid">
+	                    <div class="grid-item col-10-small content-container entry__content">
+                                <h1>Your Privacy Controls </h1>
+	                        <p>Your privacy is important to us. Select a brand below to see and manage how your information is used by Verizon Media.</p>
+
+<hr>
+<div class="grid grid-v-gutters">
+<div class="grid-item col-5 col-4-small col-4-medium col-4-large"><a href="https://aol.mydashboard.oath.com/"><img src="https://s.yimg.com/cv/apiv2/default/20191001/brands-icon-aol.svg" style="filter: none;"></a></div>
+
+<div class="grid-item col-5 col-4-small col-4-medium col-4-large"><a href="https://autoblog.mydashboard.oath.com/"><img src="https://s.yimg.com/cv/apiv2/default/20191001/brands-icon-autoblog.svg" style="filter: none;"></a></div>
+
+<div class="grid-item col-5 col-4-small col-4-medium col-4-large"><a href="https://buildseries.mydashboard.oath.com/"><img src="https://s.yimg.com/cv/apiv2/default/20191001/brands-icon-build.svg" style="filter: none;"></a></div>
+
+<div class="grid-item col-5 col-4-small col-4-medium col-4-large"><a href="https://builtbygirls.mydashboard.oath.com/"><img src="https://s.yimg.com/cv/apiv2/default/20191001/brands-icon-builtbygirls.svg" style="filter: none;"></a></div>
+
+<div class="grid-item col-5 col-4-small col-4-medium col-4-large"><a href="https://engadget.mydashboard.oath.com/"><img src="https://s.yimg.com/cv/apiv2/default/20191001/brands-icon-engadget.svg" style="filter: none;"></a></div>
+
+<div class="grid-item col-5 col-4-small col-4-medium col-4-large"><a href="https://huffingtonpost.mydashboard.oath.com/"><img src="https://s.yimg.com/cv/apiv2/default/20191001/brands-icon-huffpost__1_.svg" style="filter: none;"></a></div>
+
+<div class="grid-item col-5 col-4-small col-4-medium col-4-large"><a href="https://makers.mydashboard.oath.com/"><img src="https://s.yimg.com/cv/apiv2/default/20191001/brands-icon-makers.svg" style="filter: none;"></a></div>
+
+<div class="grid-item col-5 col-4-small col-4-medium col-4-large"><a href="https://rivals.mydashboard.oath.com/"><img src="https://s.yimg.com/cv/apiv2/default/20191001/brands-icon-rivals.svg" style="filter: none;"></a></div>
+
+<div class="grid-item col-5 col-4-small col-4-medium col-4-large"><a href="https://ryot.mydashboard.oath.com/"><img src="https://s.yimg.com/cv/apiv2/default/20191001/brands-icon-ryot.svg" style="filter: none;"></a></div>
+
+<div class="grid-item col-5 col-4-small col-4-medium col-4-large"><a href="https://techcrunch.mydashboard.oath.com/"><img src="https://s.yimg.com/cv/apiv2/default/20191001/brands-icon-techcrunch.svg" style="filter: none;"></a></div>
+
+<div class="grid-item col-5 col-4-small col-4-medium col-4-large"><a href="https://yahoo.mydashboard.oath.com/"><img src="https://s.yimg.com/cv/apiv2/default/20181220/brands-icon-new-yahoo-black.svg" style="filter: none;"></a></div>
+
+<div class="grid-item col-5 col-4-small col-4-medium col-4-large"><a href="https://yahoo.mydashboard.oath.com/">&nbsp;</a></div>
+</div>
+
+<p><a href="https://yahoo.mydashboard.oath.com/">
+<style type="text/css">.grid.grid-v-gutters {
+  overflow-y: hidden;
+} 
+.grid.grid-v-gutters>.grid-item {
+    margin-bottom: -15%;
+}
+.col-5{
+  display: inline-block;
+}
+@media only screen and (min-width: 600px) {
+  .contrib-img{
+    margin-top:40%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .contrib-img{
+    margin-bottom:34%;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .contrib-img{
+    margin-bottom:34%;
+  }
+}
+</style>
+</a></p>
+	                    </div>
+	                </div>
+	            </div>
+	        </section>
+        </main>
+<!---->  </div></div></div>    
+    
+    <footer class="site-footer" id="site-footer">
+      <div class="container">
+        <div class="grid grid-mobile grid-gutters">
+            <div class="grid__item col-12 col-4--small footer__address-holder">
+               <div class="grid grid--mobile">
+                                            <div class="grid__item col-6 col-11-small">
+    <div class="build-brands">
+            </div>
+</div>
+<div class="grid__item col-6 col-11-small">
+    <p>
+        ©2021 Verizon Media. All Rights Reserved.    </p>
+</div>
+                                   
+               </div>
+            </div>     
+        </div>
+      </div>
+</footer>
+
+        <!-- Bootstrap core JavaScript -->
+       
+       <script src="https://s.yimg.com/zz/combo?ge/toc/ass/js/2.2.4/jquery.min.js&amp;ge/toc/ass/js/libs.min.js&amp;ge/toc/ass/js/tocCustom.js&amp;cv/apiv2/oath/policies/js/app-min-v2.js"></script>
+       <script src="https://s.yimg.com/zz/combo?ge/oath/policies/js/oathTableStyle_v1_min.js&amp;ge/oath/policies/js/oathplcy_custom_min.js"></script>
+       <script type="text/javascript" src="https://s.yimg.com/zz/combo?ge/oath/policies/v1/dist/scripts/aimdata-min.js&amp;ge/policies/js/v2/redirectTool_links_replacement_v2.js"></script>
+       <script src="https://s.yimg.com/cv/apiv2/oathsites/overlay/js/verizon-overlay-v3-min.js"></script> 
+       <script>
+         var custKeys = {st_sec:"us.oathpol",mrkt:mrktParm,lang:langParm,pt:pageType,pct:"story",paid:pageId,ver:"drupal7"};
+         var rapidConfig = { 
+           spaceid:spaceId,
+           anonymized: true,
+           keys:custKeys
+         } ;
+         var myRapidInstance = new YAHOO.i13n.Rapid(rapidConfig);
+       </script>
+       <script src="https://s.yimg.com/cv/apiv2/vzmsites/policies/js/vzm-policies-v1.3.min.js"></script>
+       <script src="https://s.yimg.com/cv/apiv2/vzmsites/policies/js/cpqp_v2.js"></script>
+       <script src="https://s.yimg.com/cv/apiv2/vzmsites/policies/js/vzm-privacy-page-emea-v2.03.min.js"></script>
+    
+
+</body></html>

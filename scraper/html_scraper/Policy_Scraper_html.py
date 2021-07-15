@@ -48,7 +48,8 @@ def get_policy(browser, url):
 
     page_source = browser.page_source
 
-    policy_text = clean_policy(page_source)
+    #policy_text = clean_policy(page_source)
+    policy_text = page_source
 
     #add text to file
     file = open(f"{url.split('//')[1]}.txt", "w")
@@ -57,7 +58,7 @@ def get_policy(browser, url):
 
     return policy_text
 
-def clean_policy(policy_text):
+""" def clean_policy(policy_text):
     '''Clean data in policy text'''
 
     soup = BeautifulSoup(policy_text, features="html.parser")
@@ -77,14 +78,14 @@ def clean_policy(policy_text):
     text_sanitized = '\n'.join(chunk for chunk in chunks if chunk)
 
     #return policy_text
-    return text_sanitized
+    return text_sanitized """
 
 
 #MAIN#
 url_list = get_websites(driver, website_database)
 print(url_list)
 
-for url in url_list[29:]:
+for url in url_list[:17]:
     print(f"Getting policy for {url}")
     policy = get_policy(driver, url) 
 
