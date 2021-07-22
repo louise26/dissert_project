@@ -3,9 +3,9 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from bs4 import BeautifulSoup
 
-#Get list of top 50 website names from Alexa and store the list on a txt file. 
-
 driver = webdriver.Firefox()
+
+#Get list of top 50 website names from Alexa and store the list on a txt file. 
 # website_database = "https://www.alexa.com/topsites/countries/GB"
 
 # def get_websites(browser, starting_point):
@@ -17,7 +17,6 @@ driver = webdriver.Firefox()
 #         url_list.append("https://" + value.text)
 
 #     return url_list
-
 
 def score_buttons(buttons):
     '''Returns the most likely button with the privacy policy'''
@@ -54,7 +53,8 @@ def get_policy(browser, url):
     elif len(privacy_buttons) == 0:
         print(f"Error: No buttons found for {url}")
         return ""
-        
+
+    #dealing with StaleElementReferenceException  
     try:
         chosen_button = score_buttons(privacy_buttons)
         policy_link = chosen_button.get_attribute("href")
@@ -110,10 +110,12 @@ def clean_policy(policy_text):
 
 
 #MAIN#
+
+#Getting the 500 website list from file "url_list.csv" and adding "https://" in front of all
 url_list = pd.read_csv('site_data/url_list.csv')['URL'].apply(lambda x: "https://"+x)
 print(url_list)
 
-for url in url_list.values[400:500]:
+for url in url_list.values:
     print(f"Getting policy for {url}")
     policy = get_policy(driver, url) 
 
