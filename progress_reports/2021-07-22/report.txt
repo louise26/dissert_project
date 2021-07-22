@@ -1,0 +1,19 @@
+Progress report for period 2021-07-15 to 2021-06-22: 
+
+Activity this week:
+- Got a bigger dataset - Alexa 500 Top UK Website on Alexa API. 
+- Created new functions to access API, get data and feed it to scraper. 
+- Ran the scraper on list of 500 sites and got 321 policies. 
+- When they are multiple privacy buttons - created a scoring function to give more weight to some buttons. 
+- Created a topic model using Turicreate and tested it on Netflix.com policy (see TopicModel.ipynb Jupyter for results).
+
+
+Goals for next week:
+- Study scraper errors to get more policies and make scraper more robust. 
+- Focus on topic modelling, either with Turicreate or try LDA (unsupervised learning might work better here).
+
+Questions for Tristan: 
+- Can you help me with Turicreate? I'm not sure what I'm trying to get out of it. 
+- What would be interesting to see with topic modelling? Words that are associated with each legal basis? 
+- Many top UK sites not from UK-based companies. I think it's still interesting because if they operate in the UK they should comply with GDPR. What do you think? 
+- What sort of findings/conclusions should I be getting to? 
