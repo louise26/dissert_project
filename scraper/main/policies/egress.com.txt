@@ -1,0 +1,440 @@
+Website Privacy Policy | Legal | Egress
+Support
+Sign up
+My account
+United States
+UK & Ireland
+Nederlands
+UK & Ireland
+Why Egress?
+Our customers
+For your industry
+Education
+Financial Services
+Healthcare
+Legal
+Local Government
+Emergency Services
+Central Government
+Third Sector
+For compliance
+HIPAA
+CCPA
+GLBA
+GDPR
+Our technology
+Human Layer Security
+Integrations
+Outlook Encryption
+Office 365 Encryption
+TLS Email Encryption
+Secure Digitalisation
+Information for free users
+Products
+Intelligent Email Security
+Egress Defend
+Egress Prevent
+Egress Protect
+Egress Respond
+Collaboration & File Sharing
+Egress Secure Workspace
+Egress Secure Web Form
+Customer Success
+Product training
+Pricing
+Resources
+Cybersecurity information
+What is Human Layer Security?
+Email DLP & Data Loss Prevention
+Phishing
+Remote working securely
+Email encryption
+Customer stories
+Datasheets
+Product downloads
+Reports & research
+Webinars
+Company
+Contact us
+Blog
+News
+Egress in the news
+Events
+Careers
+Vacancies
+Employee spotlights
+Industry Placements
+Security hub
+Measures and Controls
+Product Alignment 27k1
+Cloud Security FAQs
+Hosting
+Certifications
+Partners
+Environment, Social, Governance
+Our environment
+Governance
+Our supply chain
+Diversity, gender and equality
+Employment
+Book a demo
+Home
+Legal & compliance
+Website privacy policy
+Website privacy policy
+Download PDF
+We are Egress Software Technologies Limited, part of the Egress Software Technologies Group. More information about us and our group can be found at https://www.egress.com/about.
+This privacy policy sets out details about the information that we collect when you use or browse www.egress.com, our partner portal, or the apps that we make available to access our services (collectively, our Sites). By using our Sites you confirm that you accept this policy. If you do not, then please do not use them.
+This policy describes:
+the information we collect and how we get it
+how we use that information
+who we may share it with and why
+where we may transfer and process it
+what you need to do if you provide information to us about others
+If you have any questions we would be happy to answer them. Just get in touch at DPO@egress.com.
+This policy was last updated on 26 April 2021.
+The way we talk about the information we collect through browsing our Sites
+Data type
+How we describe it
+Personal Contact Information
+Information about you that you provide to us, or that we obtain such as:
+§  name, address, phone number, email address and other contact details
+§  any permissions, consents or preferences that you give us
+§  how you use our Sites (where you can be identified)
+§  information that we obtain from third parties that may be linked to you, your employer or your organisation
+Third-party data
+Information that you provide about a third-party (e.g. a prospect, business contact or business with a need for a product or service that we provide or sell).
+Website data
+(i) Usage statistics, system logs, performance and security data, feedback data and aggregated data about how our Sites are used (e.g. performance counters, access logs, metrics, associated metadata, unique identifiers for devices, technical information about the devices used, the network, operating system and browser). (ii) data identified as malicious (e.g. malware infections, cyberattacks, unsuccessful security incidents, or other threats).
+The information we collect and how we get it
+We collect information about you in a number of ways. We may combine the information that we receive from these various sources with other information that we collect or receive. We set out further below how we use this information.
+Security
+The security and confidentiality of your personal information is very important to us. We have implemented commercially reasonable technical and organizational safeguards to appropriately protect your personal information against accidental, unauthorized, or unlawful access, use, loss, destruction or damage. The measures that we utilize are administrative--[such as the training of employees on privacy and information security-related activities], technical--[such as pseudonymization or encryption techniques, and network firewalls], and physical--[such as locks and video surveillance].
+We limit access to your personal information to those employees, agents, contractors and other third-parties who have a business need to know.  They will only process your personal data on our instructions and they are subject to a duty of confidentiality.  Still, no system can be guaranteed to be 100% secure. If you have questions about the security of your personal information, or if you have reason to believe that the personal information that we hold about you is no longer secure, please contact us immediately as described in this Privacy Notice.
+From
+How we obtain or receive it
+Examples of the types of information
+You
+§  filling out forms on our website or apps
+§  contacting us
+§  taking part in our competitions or promotions
+§  attending our webinars. We may record our webinars, and therefore your participation in them. We will also keep a record of your attendance
+§  registering to use any services that we provide (including our partner portal)
+§  uploading information to our partner portal
+§  Personal contact information
+§  Website data
+§  IP address (this may not always be personal to you – e.g. where using shared networks)
+§  Third-party data
+Third parties
+§  publicly accessible records
+§  third-party data providers who we purchase information from (e.g. name, email address, telephone number, job role, employer, market sector/industry, country)
+§  making use of our Sites
+§  filling out forms on our Sites and providing information about you
+§  contacting us and providing information about you
+§  government and law enforcement agencies
+§  filling out forms on websites or webforms that we host on behalf of a third-party
+§  open data and public records
+§  records provided by third-parties
+§  information sent by or received from third-parties
+§  Personal contact information
+§  Website data
+§  Third-party data
+General use of our Sites
+§  Accessing and using our Sites
+§  Cookies
+§  Personal contact information
+§  IP address (this may not always be personal to you – e.g. where using shared networks)
+§  Website data
+IP address
+§  when you visit our Sites we will record your IP address.
+§  your IP address may be kept in log files or matched against public or proprietary IP address databases to provide us with information about your visit. This may identify the organisation to whom the IP address is registered (and may in some cases enable us to identify you)
+§  IP address
+§  Personal contact information
+How we use the data that we collect
+We use the personal contact information and website data in each of the following ways.
+Relationship management
+What we use it for
+Our reasons
+Our lawful basis where you are an individual
+Our lawful basis where you are a business
+Information type
+Manage, track and develop our relationship with you
+Processing to complete any pre-contract processes that you request.
+Performance of contract, Legitimate interests
+Legitimate interests
+Personal contact information
+To ensure that we have a productive relationship where we are able to meet user needs and respond to them both proactively and reactively. This is core to our business and forms the cornerstone of success. If we were unable to process personal data for this purpose, our business would cease to function properly. If you participate in the Egress Partner Programme and we were unable to process this information, we would be unable to work effectively with you in pursuing the collective aims of that programme.
+Legitimate interests
+Legitimate interests
+Personal contact information, website data
+To contact you in relation to potential sales opportunities, and to understand you and your employer or organisation better through the use of data that we receive from third party providers.
+Legitimate interests
+Legitimate interests
+Personal contact information, website data
+We may use your information to create reports or profiles (both of you and the organisations or third-parties that you provide information about) for marketing and analytics purposes.
+Legitimate interests
+Legitimate interests
+Personal contact information, website data
+Delivery of services
+What we use it for
+Our reasons
+Our lawful basis where you are an individual
+Our lawful basis where you are a business
+Information type
+Ensure our Sites are functioning properly
+To ensure that we can provide the access to our Sites.
+Legitimate interests
+Legitimate interests
+Personal contact information, website data
+To provide guidance on using our Sites or other support.
+Legitimate interests
+Legitimate interests
+Personal contact information, website data
+Respond to and resolve complaints, queries and requests
+To respond to your queries, complaints and to ensure that you are able to use our Sites appropriately. This may involve the recording of calls that you make to our support desks or sales teams for training and monitoring purposes. We use a ‘follow-the-sun’ support structure which means that calls may be answered and recorded outside the country you are located in depending on the time of your call and the support staff responding.
+Legitimate interests
+Legitimate interests
+Personal contact information, website data, Third party data
+Alert you to issues or updates to our partner portal
+To ensure that you are presented with relevant information if we change aspects of our partner portal and decide to alert users to those changes.
+Not applicable
+Legitimate interests
+Personal contact information, website data
+Service information by electronic means
+If you use our partner portal we may send, or otherwise display, to you information about the portal (e.g. how you use it, how you could do so more efficiently, faults, issues, updates or notices of times when it will not be available).
+Not applicable
+Legitimate interests
+Personal contact information, website data
+Delivering on contractual obligation and exercising rights
+What we use it for
+Our reasons
+Our lawful basis where you are an individual
+Our lawful basis where you are a business
+Information type
+Make and manage payments made by, or due to, you, your employer or your organisation
+Processing to achieve this purpose may take place both pre and post contract agreement (e.g. initial subscription payment and renewals).
+Performance of contract, Legitimate interests
+Legitimate interests
+Personal contact information, website data, Third-party data
+Meet and perform our audit obligations
+We recognise that processing may be required in order for our own compliance purposes (e.g. to ensure that our financial processes are accurate and working properly).
+Legitimate interests, Legal obligation
+Legitimate interests, Legal obligation
+Personal contact information, website data, Third-party data
+Recover money owed to us or other companies in our group
+To ensure that payments are both made and timely.
+Legitimate interests
+Legitimate interests
+Personal contact information, website data, Third-party data
+Service information by electronic means
+If you use our partner portal we may send, or otherwise display, to you information about the portal (e.g. how you use it, how you could do so more efficiently, faults, issues, updates or notices of times when it will not be available).
+Not applicable
+Legitimate interests
+Personal contact information, website data
+Exercising our rights
+We may need to process certain information (including personal data) in order to exercise or enforce our rights under this and any other relevant policies.
+Legitimate interests, Legal obligation
+Legitimate interests, Legal obligation
+Personal contact information, website data, Third-party data
+Progressing opportunities provided by you through our Partner Portal
+If you use our partner portal, once you have provided Third-party data through it to us, we will use it to progress the opportunity (if any) including to qualify the Third-party data as a lead and, where possible, close it out to a sale. Third-party data is held by us as an independent controller, not a joint controller with you.
+Not applicable
+Legitimate interests
+Personal contact information, website data, Third-party data
+Responding to and actioning any request by you in exercising your legal rights in relation to your personal data
+Processing may be required to provide confirmation of information to you (e.g. if you make a data subject access or data portability request) or in order to action a request that you make (e.g. correction, deletion, erasure or restriction).
+Legitimate interests, Legal obligation
+Legitimate interests
+Personal contact information, website data, Third-party data
+Legal and regulatory risk management
+What we use it for
+Our reasons
+Our lawful basis where you are an individual
+Our lawful basis where you are a business
+Information type
+Detect and prevent crime
+To ensure that we and our group can both detect and report criminal activity.
+Legitimate interests
+Legitimate interests
+Personal contact information, website data, Third-party data
+Manage risk for us, our group and users
+To ensure that we and our group can manage legal and regulatory risk and do so in the most appropriate and compliant manner.
+Legitimate interests, Legal obligation
+Legitimate interests, Legal obligation
+Personal contact information, website data, Third-party data
+Obey our or our group’s legal obligations
+To ensure that we and our group can manage legal and regulatory risk and requests in the most appropriate and compliant manner. This may include adapting the way we and our group operates or engages to meet new or future obligations.
+Legitimate interests, Legal obligation
+Legitimate interests, Legal obligation
+Personal contact information, website data, Third-party data
+Keep our records accurate and up-to-date
+Processing to ensure we meet our obligations in respect of data accuracy (this may include acting in response to your notifications).
+Legitimate interests, Legal obligation
+Legitimate interests, Legal obligation
+Personal contact information, website data, Third-party data
+Run our and our group’s businesses in an efficient and proper way
+We use shared systems, activities, suppliers and sub-processors in order to help manage legal and regulatory risk within our group, and to operate in a way that ensures quality, consistency and security of service delivery.
+Legitimate interests
+Legitimate interests
+Personal contact information, website data, Third-party data
+Innovation and system development
+What we use it for
+Our reasons
+Our lawful basis where you’re an individual
+Our lawful basis where you’re a business
+Information type
+Develop new systems, features, functionality and ways to meet user needs
+We have a legitimate interest to understand how our Sites are used, and to look at areas where user needs could be met either as new functionality, or in improved ways.
+Legitimate interests
+Legitimate interests
+Personal contact information, website data
+Study how users are using our Sites
+We have a legitimate interest to understand how our Sites are used, and how users benefit from the services that we provide to them.
+Legitimate interests
+Legitimate interests
+Personal contact information, website data
+Test new products and services
+We have a legitimate interest in ensuring that prior to being launched, functionality operates in a secure and efficient manner.
+Legitimate interests
+Legitimate interests
+Personal contact information, website data, Third-party data
+Show you the right Sites
+To ensure that you enter into any contractual relationship with the right company in our group. This also enables us to present content relevant to that jurisdiction where appropriate.
+Legitimate interests
+Legitimate interests
+Personal contact information, website data, IP address, Third-party data
+To create anonymous reports and statistics
+We have a legitimate interest in understanding market risks, trends and activities and, where relevant, utilising the anonymous insights that we can gain from our Sites in the provision of both internal and publicly available reports, blogs and other communications.
+Legitimate interests
+Legitimate interests
+Personal contact information, website data, Third-party data
+Marketing and promotion
+What we use it for
+Our reasons
+Our lawful basis where you’re an individual
+Our lawful basis where you’re a business
+Information type
+To enable your participation in competitions and promotions
+Where you have elected to take part, we will process your information in order to enable you to participate.
+Consent
+N/A
+Personal contact information, website data
+To develop and carry out marketing activities
+We have a legitimate interest to conduct marketing, promotional and other advertising activities in order to grow our brand, and the awareness of our products and services. We may use information that we source from third-party data providers to contact you where this is permitted by law. We may also use information we collect about the domain of your email address (e.g. about your employer or organisation, it’s sector/industry) or that we can relate back to you (e.g. through cookies) about the products you’re interested in to tailor our communications and make them more relevant to you.
+Legitimate interests, Consent
+Legitimate interests
+Personal contact information, website data
+We may use information that we hold about you (or if you are a business, your users) to send information about our and our group companies’ products and services. This may be by email or other electronic means available to us in the future. We may use other information available to us in order to tailor our communications. If you are an individual in most circumstances we wi’ll only do this if we have your consent but there may be some situations where we have a legitimate interest in doing so (e.g. where you complete a purchase through our online ecommerce platform, or where otherwise permitted in line with regulatory and industry guidelines in respect of B2B marketing activity).
+If you have given your consent, you can withdraw this at any time, or if we are reliant on our legitimate interests for sending you marketing you can object. In either case, just let us know using the details at www.egress.com/legal/your-rights.  If you have received a direct marketing emails from us and no longer wish to do so, the easiest way to let us know is to click on the unsubscribe link at the bottom of our group marketing emails.  If you receive a personal marketing email from one of our Sales team, just respond to let them know you do not want to receive any more communications.
+We partner with a third party to manage our advertising on other sites. Our third party partner may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click the links below. Please note you will continue to receive generic ads.
+Digital Advertising Alliance (DAA)’s self-regulatory opt-out page (http://optout.aboutads.info/) and mobile application-based "AppChoices" download page (https://youradchoices.com/appchoices)
+European Interactive Digital Advertising Alliance (EDAA)'s consumer opt-out page (http://youronlinechoices.eu)
+Network Advertising Initiative (NAI)’s self-regulatory opt-out page (http://optout.networkadvertising.org/).
+Subscribing to our services
+If you purchase a paid-for subscription to our services through our Sites then limited information about your purchase may be shared with relevant payment service providers.  Information may be used by those providers in accordance with their own privacy policies and terms and conditions in order to complete your purchase, manage your relationship and any future renewal, and to comply with applicable law.
+If you provide us with information about others
+If you or your business provide information to us about another person or business (such as Third-party data) you must make sure you have the right and permission to do so (e.g. by providing appropriate data collection notices to individuals who are the subject of Third-party data). We are reliant on this in order to receive and process the information you provide. By providing it, you confirm that you do.
+Ownership of Third-party data: Once you have uploaded Third-party data to our partner portal, we hold that information (including any personal data within it) as a controller. You may yourself be an independent controller, not a joint controller, of some or all of that Third-party data. We are therefore free to use Third-party data for our own purposes and to determine when, how and where it is processed (subject to compliance with relevant data protection laws).
+Who we may share your information with, and sending information outside the country you are located in
+Delivery of our Sites: Details of the subcontractors used in the provision of our Sites, marketing activity, prospect and customer relationship management, and in the delivery of our services can be found through the subcontractor page available at www.egress.com/legal/subcontractors. We share your information with these third-parties to help with our business activities and delivery of our services. They are only authorised to use your personal information as necessary to provide the services to us that we request from them and must abide by data privacy and security obligations set out in applicable law.
+Where any transfer outside of the country or region that you are located in (e.g. the European Economic Area (EEA), the United States or the UK) occurs, we will ensure that any such transfer or processing is subject to appropriate legal and technical safeguards with our subcontractors in line with local law requirements.
+Provision of Partner Portal: We use Salesforce, Inc. to provide both our Portal and the CRM system that information provided through it is stored on. Details about Salesforce’s approach to privacy
+Transfer of rights: We reserve the right to transfer our obligations, rights and permissions in personal contact information and website data to any organisation to which we may transfer our business or assets (including if we, or a relevant part of us or our assets, are proposed to be purchased or acquired by a third party).
+Selling your information: We will not, and do not, sell or rent your information to third-parties for: (i) valuable consideration (as defined in the California Consumer Privacy Act) or for their direct marketing purposes; or (ii) monetary consideration for the person to license or sell it to additional persons (as defined in Nevada Senate Bill 220). Your information may be shared with third parties as set out above for our business purposes, including the provision of services to you and/or your organisation or employer.
+Applicable law: We reserve the right to disclose personal contact information and website data in order to comply with national, EU or Member State law to which we’re subject, including to meet national security and law enforcement requirements. You can find out more on our approach here.
+What we need you to do
+We need to make sure that the information that we hold about you is accurate, up-to-date and still relevant. As a result, we need you to tell us promptly if there are any changes to the information that you provide by letting us know at DPO@egress.com.
+How long we will keep your information for
+We will keep information in accordance with our data retention policies available at www.egress.com/legal, including to maintain records required for legal or regulatory reasons, to show that we complied with our contractual obligations, to respond to any complaints or queries, and for research and statistical purposes.
+Your rights as an individual
+As an individual user of our Sites, you may have certain rights by law in respect of the personal data that we hold about you. These rights may not always apply as your location and the basis on which we’re processing your personal data may affect their availability. You can find out more information about them and our Data Protection Officer at www.egress.com/legal/your-rights.
+If you ever have a complaint relating to the delivery of our services, or our processing of your personal information, you can find details on how to raise this in our Complaints Policy at www.egress.com/legal.
+Privacy Shield
+We participate in the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks and have self-certified to the U.S. Department of Commerce our adherence to the Privacy Shield Principles for all personal information received from countries in the European Economic Area, Switzerland, and the United Kingdom in reliance on the Privacy Shield. To learn more about Privacy Shield, visit the Privacy Shield website at www.privacyshield.gov/list.
+Under Privacy Shield, we are responsible for the processing of personal information we receive and subsequently transfer to a third party acting for or on our behalf. We are liable for ensuring that the third parties we engage support our Privacy Shield commitments. The U.S. Federal Trade Commission has regulatory enforcement authority over our processing of personal information received or transferred pursuant to Privacy Shield. We commit to cooperate and comply with the advice of the regulatory authorities to whom you may raise a concern about our processing of personal information about you pursuant to Privacy Shield, including to the panel established by the EU authorities and the Swiss FDPIC. This is provided at no cost to you.
+If you do not feel that we have resolved your complaint or concern satisfactorily you can contact our U.S. based third-party dispute provider (free or charge) at https://feedback-form.truste.com/watchdog/request. Under certain conditions, more fully described on the Privacy Shield website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+International Privacy Verification
+Whilst the Court of Justice of the European Union (CJEU) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) ruled the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks invalid in the summer of 2020, we remain committed to the Privacy Shield Principles.  In recognition of our continued commitment, in October 2020 we self-certified with the International Privacy Verification programme (IPV). The IPV’s assessment criteria are aligned with those of the Privacy Shield and therefore by certifying with the IPV we are able to continue to demonstrate our compliance with the core Privacy Shield Principles in relation to the protection of personal data transferred outside of the UK and EU.
+If you do not feel that we have resolved your complaint or concern satisfactorily you can contact our U.S based third-party dispute provider (free or charge) at https://feedback-form.truste.com/watchdog/request.
+Cookies
+To find out more about cookies and how we use them, see www.egress.com/legal/cookies. If you live in California, we need to let you know that some web browsers may transmit “do-not-track” signals to the websites and online services you communicate with. Whilst there is no industry standard that governs what, if anything, we should do if we receive such a signal, our website will not set cookies if you have your browser set to ‘Do not track’
+Changes to this policy
+We can change this policy from time to time. You should check the website periodically to make sure that you have read our most recent policy. When we do make changes, we will change the date at the top of this document.
+About us and applicable law
+We are the Egress Software Technologies Group. You can find out more details about us at www.egress.com/about and you can contact us at info@egress.com. When contacting us we strongly recommend you don’t email us confidential or personal information. If you do, it is at your own risk although the terms of this policy will apply to our use of that information.
+Where you are resident
+Who we are
+Governing law
+Courts with exclusive jurisdiction
+Special Terms
+United States
+Egress Software Technologies, Inc., a Massachusetts corporation.Office: Suite 2, Level 3, 268 Summer Street, Boston, MA 02110, United States
+State of Delaware (without regard to its conflict of law principles).
+State or federal courts in and for Boston, Massachusetts
+Where applicable, each of us hereby waives its respective rights to a jury trial of any claim or cause of action relating to or arising out of this policy. This waiver is intended to encompass all disputes that may be filed in any court and that relate to the subject matter of this policy (including contract, tort, breach of duty and all other common law and statutory claims).
+Canada
+Egress Software Technologies Inc., an Ontario corporationOffice: Suite A304, 11685 Yonge Street, Richmond Hill, L4E 0K7, Canada
+Province of Ontario
+Province of Ontario
+N/A
+European Union or European Economic Area
+Egress Software Technologies Limited.A Foreign Entity registered on the Dutch Chamber of Commerce (number 74110462)
+Office: Oval Tower, De Entrée 99-19, Amsterdam, 1101 HE, The Netherlands
+Dutch Law
+NCC District Court and NCC Court of Appeal Chamber
+All proceedings will be in English.  In the event that the NCC District Court and/or the NCC Court of Appeal Chamber are incompetent for any reason, the Courts of Amsterdam, The Netherlands shall have exclusive jurisdiction.
+Rest of the World
+Egress Software Technologies Limited.Registered in England and Wales (number 06393598).Registered office: 12th Floor, The White Collar Factory, 1 Old Street Yard, London, EC1Y 8AF, United Kingdom.VAT number: 921 4606 46.
+England and Wales (except if you're a consumer resident of Northern Ireland or Scotland when you may bring proceedings there)
+Courts of England and Wales (except if you're a consumer resident of Northern Ireland or Scotland and have brought proceedings there when the Northern Irish or Scottish Courts will have jurisdiction).
+N/A
+Our Sites are provided by Egress Software Technologies Limited, registered in England and Wales (number 06393598) for and on behalf of itself and the other members of the Egress Software Technologies Group.
+EU Representative
+Egress Software Technologies Limited (a foreign company registered on the Dutch Chamber of Commerce) further identified in the section above is our EU representative.
+Glossary
+Legitimate Interest means our interest in conducting and managing our business to enable us to give you the best service and experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
+Performance of Contract means processing your personal information where necessary for the performance of a contract that we have with you, or to take steps before entering into such a contract.
+Comply with a legal obligation means processing your personal data where it is necessary for compliance with a legal obligation that we are subject to.
+Here are other specific privacy disclosures:
+Platform Privacy Policy: www.egress.com/legal/privacy-policy
+Visitor Privacy: www.egress.com/legal/visitor-privacy
+Recruitment Privacy: www.egress.com/legal/recruitment-privacy
+Event Privacy: www.egress.com/legal/event-privacy
+View legal hub
+Click here
+Products
+Book a product demo
+Take a 14-day business trial
+Speak to our sales team
+Intelligent Email Security
+Egress Defend
+Egress Prevent
+Egress Protect
+Egress Respond
+File Sharing & Collaboration
+Egress Secure Workspace
+Egress Secure Web Form
+Your account
+Sign up to Egress
+Access your account
+Download Egress for desktop and mobile
+Open secure email online
+Information for recipients
+Purchase business licenses
+Support
+Knowledge base
+Create support ticket
+Service status
+Legal & Compliance
+Legal & compliance hub
+Privacy policy
+Cookie policy
+Report a flaw or vulnerability
+Company
+About Egress
+Contact us
+Our leadership team
+Careers
+Environment, Social, and Governance
+Partners
+© 2009-2021. All rights reserved. Egress Software Technologies Ltd.

@@ -1,0 +1,127 @@
+Terms & Conditions - Privacy Server Hosting - Rent Terms & Conditions - Privacy Game Servers
+Skip to content
+Getting Started
+Help Guides
+Join Discord
+Submit Ticket
+Game Panel
+Client Billing Area
+MAIN NAVIGATION MENUMENUHOME
+GETTING STARTEDNEWSABOUT USAFFILIATE PROGRAMTERMS AND CONDITIONS
+GAMES
+popular pages
+Full Games ListClan PackagesVPS ServersPOPULAR GAME SERVERS7 Days To DieArk Survival EvolvedArma 3: Exile ModArma 3: VanillaAssetto CorsaAssetto Corsa CompetizioneConan ExilesDayZ StandaloneEco Global SurvivalEmpyrion Galactic SurvivalHell Let LooseMinecraftMinecraft: Bedrock EditionRustSpace EngineersTerrariaThe IsleUnturnedValheim
+A-B
+7 Days To DieAftershockAlien ArenaArgoArk Survival EvolvedArma 2: COArma 2: Dayz Epoch 1.0.7+Arma 3: Altis LifeArma 3: Breaking PointArma 3: Desolation ReduxArma 3: Epoch ModArma 3: Exile ModArma 3: Headless ClientArma 3: VanillaArma 3: WastelandAssetto CorsaAssetto Corsa CompetizioneAtlasAstroneerAvorionBallistic OverkillBarotraumaBattalion 1944Beasts of BermudaBlack Ops 3BlackwakeBroke Protocol
+C-F
+Call of Duty 2Call Of Duty 4Call of Duty: MW 3Call of Duty: WAWChivalry 2Citadel: Forged with FireConan ExilesCounter Strike 1.6Counter Strike GOCounter Strike SourceCryoFallCube WorldDark And LightDay Of InfamyDay of DragonsDayZ StandaloneDead By DaylightDead MatterDeadsideDesolateDont Starve TogetherEco Global SurvivalEmpyrion Galactic SurvivalFactorioFallout 76Fear the NightFarming SimulatorFor HonorFractured LandsFragmentedFracture The Flag
+G-O
+Garrys ModGoldenEye SourceGravGTA SAGTAV: RageMPHalo Wars 2HeatHellionHell Let LooseHurtworldHytaleIcarusIdentityInterstellar RiftInsurgencyInsurgency SandstormJaws Of ExtinctionKerbal Space ProgramKilling Floor 2Last OasisLeft 4 Dead 2Life is FeudalLost RegionMaxControlMedieval EngineersMemories of MarsMinecraftMinecraft: Bedrock EditionMiscreatedMordhauMount and Blade WarbandNight of the DeadNo More Room in HellOnsetOut of Reach: Treasure RoyaleOutlaws of the Old WestOutpost Zero
+P-S
+PantropyPath Of TitansPixArkPost ScriptumProject CarsProject Cars 2Project CARS 3Project ZomboidRCON Discord BotReign of KingsRemnantsRendRising Storm 2 VietnamRising WorldRokhRUNE IIRustSatisfactorySCP: Secret LaboratoryScrap MechanicSky NoonSmallandSniper Elite 4Sons of the ForestSpace EngineersSpirit Animal SurvivalStarboundStationeersStaxelStellarisStone RageStormworks: Build and RescueSquadSubsistenceSurvive The Nights
+T-Z
+TannenbergTeam Fortress 2TerrariaTerraria: Mobile EditionThe CullingThe DivisionThe ForestThe IsleThe Mean GreensThe Prison GameUnreal Tournament 1999UnturnedValheimValnir RokVintage StoryWorld War 3WreckfestYlandsWolfenstein: Enemy TerritoryWurm Unlimited
+DEDICATED SERVERS
+dedicated servers from only $93Rack Space/Colocation
+VPS SERVERSTEAMSPEAK 3WEB HOSTING
+Register A DomainWeb HostingReseller Web HostingBeaver Builder LicenseElementor Builder License
+GAME PANELCONTACT US
+Getting Started GuidePrivacy PolicyAbout GTXGamingHow To Contact UsJoin Our Public DiscordTerms And Conditions
+English (English)
+Français (French)
+Español (Spanish)
+Português (Portuguese (Portugal))
+हिन्दी (Hindi)
+Terms and conditions
+Terms and Conditions
+1. Definitions.
+GTXGaming ('Us', 'We', GTX, GTXGaming, GTXGaming.co.uk) provide hosting services ('services', 'server', 'game server', 'dedicated server') to the customer ('You', 'Your', 'Customer', 'Client', 'User').
+2. Conditions
+By purchasing any of GTXGaming's services you agree to the terms and conditions laid out in this document.
+3. Services
+3.1. The cost of a server subscription is valid through the entire rental of the server, subject to fair consumer price index increases.
+3.2. All subscription users have the option to transfer to different products/services.
+3.3. Dedicated servers may take up to 24 hours to set up but we hope that typically these should be set up in 12.
+3.4. GTXGaming does not install add-ons for all games but GTXGaming support staff may help under certain circumstances and with certain games. Some help is achieved by support staff, that play the game, offering their own time-saving scripts to others. GTXGaming and staff members take no responsibility for the use of these scripts. Please use it at your own risk.
+3.5. Service downgrades are nonrefundable. Downgrades occur the instant you make them.  Making downgrades towards then end of the month would be ideal.
+3.6 Domain names held and registered by GTXGaming will be subject to a transfer out admin fee of 100% the cost of a 1-year registration. All domain names are held by GTXGaming on behalf of the client.  If your domain name is not renewed the client will get a 30-day cooling-off period in which to renew after which any party can re-register the domain name.
+4. Payment
+4.1. All game server(s)/dedicated server(s) are to be paid for in advance. Failure to keep up monthly payments on your server can result in suspension and ultimately deletion of your game server(s).
+4.2. If you decide to cancel a subscription with us please also remember to cancel your PayPal subscription, which in some cases does not auto-cancel. GTXGaming is able to refund up all overpayments if the subscription cancellation script fails.
+4.3. Should you need to raise a PayPal dispute the suspension of your service may need to be implemented whilst the investigation is progressing.
+4.4. No personal credit or debit card details are retained by GTXGaming.
+4.5. A monthly order counts as 30 days and GTXGaming provides a cooling-off period of 24 hours if the service is somehow not right for you we can refund you (excluding dedicated servers which we cannot refund unless there are hardware issues). After the 24 hours cooling-off period, refunds can be denied unless a manager feels a refund is justified. We always try to be fair in refund decisions so give us as much information as possible for the reason for your cancellation.
+4.6. Due to price fluctuations caused by currency exchange rate changes, or price increase, or decrease for any reason, upgrades and downgrades are calculated using the latest price listed on our website, upgrades or downgrades done at any time are calculated based on today's prices for any given service.
+4.7. Store credit is refundable at GTXGaming's discretion. This includes your credit balance and any donations received via public/clan pay.
+4.8. Cancellations must be done via our portal. Go to My Services, choose the service you wish to cancel, and then request a cancellation.
+4.9. Cancellations on quarterly, semi-annually, and annual orders will be subject to a £10 early cancellation fee. This is for the admin required to account for the refund and calculate and processing of early cancellation refund.
+4.9.1. Credit stored on GTXGaming's billing area will automatically pay invoices that are due on any service that is not cancelled using this procedure https://help.gtxgaming.co.uk/en/article/how-to-cancel-your-service-with-gtxgaming-2ssuex/.
+4.9.2. Cancellations before the end of the contract will cause the discount (5% Monthly, 10% Semi-Annually, 15% Annually) to be rescinded and added to the total cost of the server.
+5. Communications
+5.1. GTXGaming support staff are here to assist you. They will do their utmost to help within the confines of the support service guidelines (sometimes a little more). Please treat them with respect, it's much harder to fix an issue with overly abusive individuals. Under that kind of pressure, it's hard to help to the best of our ability. In the unlikely event they cannot help you they may be able to point you in the direction of information that you can then research yourself.
+5.2. GTXGaming will contact you via your email to inform you of any downtime or maintenance required on your server. Please also note that there are scheduled restarts of our machines once a week although we do perform this at times of least use, normally 6am, and they will be down only for the time it takes to reboot. Servers will restart automatically.
+6. Hardware and backups
+6.1. Not all hardware is created equal and there will, inevitably, be some failures. GTXGaming have offsite backup stores and backups are performed at regular intervals. To help protect your files auto backup systems are in place and can be retrieved after a hardware failure.
+6.2. There are script functions coded by GTXGaming in your control panel that you can use to manually back up your files or you can store your worlds locally with FTP access. GTXGaming cannot be held responsible for the loss or corruption of your files although GTXGaming will do everything possible to recover data in the unlikely event of a failure. GTXGaming also advises local backups.
+7. Advertising
+7.1. GTXGaming's de-branding is free and will remain free.
+7.2. GTXGaming.co.uk may occasionally send you relevant promotional material to your email address if you have opted into marketing emails. You may stop these by replying back with "Unsubscribe" in the subject and main text. If you opt out of marketing emails, you will not receive competition emails or notification of new games available.
+8. Teamspeak.
+GTXGaming provides Teamspeak servers and are an officially licensed ATHP provider with TeamSpeak Systems GmbH. Teamspeak servers abide by all of the same terms and conditions as regular game servers.
+9. Prohibited Use
+9.1. Any unlawful activity carried out by you or a third party on your rented dedicated servers, game servers can and result in an immediate and non-refundable termination of services and in extreme cases legal action.  This includes copyrighted materials, illicit pornography of children under legal age, illegal material or data of any kind.
+9.2. The customer must defend and pay any damages, fees, judgments and costs incurred by GTXGaming as a result of the customer breaching clause 9.
+9.3. GTXGaming reserve the right to refuse service to anybody, for any reason if we deem it correct to do so. Reasons for this could be abuse, libel, insults and unreasonable behaviour of any kind.
+10. Privacy Policy
+10.1. When users signup to our service they must actively opt into marketing emails like competition and new game/product emails.
+10.2. We only hold your data in our database like name, address, email address, phone number for our own use and do not share data with any 3rd parties.
+10.3. If you wish to be removed from our mailing list you only need to login at our client area go to your user profile and opt out of these emails.
+11. Web Hosting
+11.1. Web hosting services provided by gtxgaming.co.uk must abide by local and international law. Any copyright infringement, illegal materials not only but including adult material, copyright infringement tools, DDoS tools and scripts, phishing sites, data harvesters can be removed without notice, and suspension or termination is highly likely.
+11.2. All of our web hosting services, including our unlimited plans have fair usage policies applied. File servers are not allowed, using our hosting as storage is also not allowed. The term 'unlimited' refers to critical web hosting files only, not stored files for personal or commercial use.
+11.3. If in the unfortunate circumstance that your bill is not paid, we terminate your web hosting within 4 days but we keep up to 180 days of daily backups of your site and are able to easily and quickly restore your account.
+11.4. We cannot guarantee that our backup system will work if your web hosting account exceeds 30GB of used disk space. Any accounts above 30GB should create regular manual backups and download them. Alternatively reduce the size of your account.
+12. Cookies
+11.1. You will be asked upon visiting our website be asked on a banner at the bottom if you accept the use of cookies. We do not make extensive use of cookies on our website but we use cookies on our client area to remember your login status and in (if you came to us from an affiliate) a tracking id so we can pay out the affiliate that linked you. The affiliate cookie expires after 3 months.
+11.2. We log the IP address of all logins to our client area for the security of your account. If at any such time you wish your data to be deleted you can request this via our support or by email, we can delete your account along with all emails, personal data, invoice history, log history, ticket history, all data will be destroyed.
+We are a long-standing server host with a good reputation in the industry. Our goal is it make your hosting experience as easy as possible.
+Products
+Game Servers
+Dedicated Servers
+VPS Servers
+Web Hosting
+Reseller Web Hosting
+Teamspeak 3
+DataCenter Rack Space
+Clients
+Client Area
+Game Control Panel
+Submit Support Ticket
+Contact Us Page
+Pay Invoices
+Clan Pay
+Company
+About GTX
+Contact Us
+Terms And Conditions
+Jobs
+Competitions
+Discord
+Affiliate Program
+Stay Connected
+support@gtxgaming.co.ukPart of MLI Group #932709
+Copyright GTXGaming.co.uk 2007-2020.
+Privacy Policy - Terms And Conditions
+Please accept the use of cookies by GTXGaming.co.uk Accept Reject Read MorePrivacy & Cookies Policy
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the ...
+Necessary
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.
+Non-necessary
+Non-necessary
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.
+SAVE & ACCEPT
+Questions? Chat with me!Support is online.Support is away.Chat with GTXGaming.co.uk TeamSearch help centerChat

@@ -1,0 +1,220 @@
+World of Warcraft News and Raiding Strategies - MMO-Champion
+Remember Me?
+Need an account? Register Now.
+?
+Home
+Forum
+What's New?
+Database
+Blue Tracker
+Wiki
+Talent Calc
+Videos
+Build of the Month
+Premium
+Recent Blue Posts
+40 mins ago
+Coming This Fall: World of Warcraft: Wrath of the Lich King–A Pandemic System Board Game
+15 hours ago
+WoW Hotfixes – Updated July 20
+15 hours ago
+Hotfixes: July 20, 2021
+15 hours ago
+Hotfixes: July 20, 2021
+Yesterday
+Burning Crusade Classic Summer Events
+Yesterday
+Burning Crusade Classic Summer Events
+Yesterday
+Feedback: July 20-27 Same-Faction Battleground Test
+Go to Blue Tracker »
+Recent Forum Posts
+07:11 PM
+Cosmic Conflicts/Cooperations
+07:10 PM
+The Asmongold Effect
+07:09 PM
+2019-2020 NBA Thread
+07:09 PM
+Who's to blame here?
+07:09 PM
+There should be more Evil vs Evil scenarios and moments in Warcraft
+07:05 PM
+Do you feel like the Arcane mage spec flows nicely in end game?
+07:05 PM
+Who do you expect the 9.2 end boss to be?
+Go to Forums »
+Forum Filters
+World of Warcraft News and Raiding Strategies
+Coming This Fall - World of Warcraft: Wrath of the Lich King–A Pandemic Board Game
+by
+chaud
+View Profile
+View Forum Posts
+Private Message
+View Started Threads
+Published on 2021-07-21 05:46 PM
+Coming This Fall: World of Warcraft: Wrath of the Lich King–A Pandemic System Board Game
+Originally Posted by Blizzard
+(Blue Tracker / Official Forums)
+Journey to the frozen continent of Azeroth to face the armies of the Lich King this fall when you pre-purchase the World of Warcraft: Wrath of the Lich King–A Pandemic System Board Game.
+In the Wrath of the Lich King board game, players control one of Azeroth’s heroes and fight their way through the Scourge to reach the throne of fallen Prince Arthas, now feared throughout Azeroth as the terrifying Lich King. Adventure across the frozen continent of Northrend, take on quests, battle monstrous entities, and more to retake Azeroth from the Lich King.
+World of Warcraft: Wrath of the Lich King - A Pandemic System Board Game includes:
+The Pandemic system with familiar mechanics and gameplay, now tweaked to embrace the World of Warcraft universe.An extra-large game board featuring forts, temples, battlegrounds and iconic locations native to Azeroth.Legendary World of Warcraft characters with detailed and sculpted plastic figures, including Thrall, the Warchief of the Horde; Varian Wrynn, King of Stormwind; and Sylvanas Windrunner, Banshee Queen of the Forsaken.Quests, a brand-new mechanic to Pandemic that sees players adventuring across Northrend to battle monstrous entities, destroy evil relics, and more.Hero Cards that give players an edge against their enemies in the form of equipment for more attack power during combat, special mounts that allow players to move more spaces on their turn, healing potions to restore hit points, and much more.
+To learn more about World of Warcraft: Wrath of the Lich King – A Pandemic System Board Game, Pandemic, and Z-man games, go to www.zmangames.com.
+Pre-purchase today on Z-man’s website and on the official Blizzard Gear Store.
+We are part of the Blizzard Gear affiliate program and any purchase made through these links gives a small portion to us to support the site.
+Tweet
+9
+Comments
+Patch 9.1 Hotfixes - July 20, 2021
+by
+Stoy
+View Profile
+View Forum Posts
+Private Message
+View Started Threads
+Published on 2021-07-21 02:45 AM
+Patch 9.1 Hotfixes - July 20, 2021
+Originally Posted by Blizzard
+(Blue Tracker / Official Forums)
+Classes
+Mage
+Arcane
+Fixed an issue with the Clearcasting effect gained from Mirrors of Torment (Venthyr Ability) not granting the effects of Amplification while Arcane Empowerment is talented in PvP.
+Priest
+When Mass Dispel dispels multiple targets, the order of dispels is now random.
+Dungeons and Raids
+Sanctum of Domination
+Defeating Sylvanas on any difficulty will now always drop a Shard of Domination for players who do not yet have all possible Shards.Remnant of Ner’zhul
+The pendulum around the Penance of the Fallen King swings once again.
+Mythic+
+Fixed an issue that could cause small discrepancies in how Mythic+ Rating is displayed in different User Interface elements.
+Items and Rewards
+Shards of Domination
+Scouring Touch no longer incorrectly removes stealth type effects from the caster when applied to targets.
+The amount of Anima dropped by bosses in the Sanctum of Domination is now affected by achievements earned by upgrading your Covenant Sanctum.The Treatise: The Study of Anima and Harnessing Every Drop should now work on Korthia dailies, rares, and treasures as well as the Covenant Maw Assault quests.
+Developers’ note: The original goal was for the Treatise items to give you bonuses when returning to the 4 non-Maw zones or to the Maw proper for the Stygia Treatise. Korthia was themed to be part of the Maw during development and so it was not included. However, since we didn't clarify that well and Korthia is abundant in Anima having not originated in the Maw, we are enabling this item's bonus there as well. Looking forward, the Treatise: Relics Abound in the Shadowlands awarded at Tier 6 with The Archivists' Codex only works on the four original zone factions as a bonus to players who want a way to speed up their reputation with these factions.
+The new socket adding item, Alloy-Warping Facetor and conduit upgrade item, Death-Bound Shard should now be purchasable by all characters on your account from Archivist Roh-Suir once one character has reached Tier 6 Research.Rae'shalare, Death's Whisper is now classified as a Unique item.Fixed an issue that was causing the Foresworn Aspirant's Robes to not show up in the Kyrian Soulbind dailies or in the Transmog appearances user interface.
+Quests
+Resolved a number of issues with the quest "The Nathrezim" in which Mal'Ganis was telling enemies in other player's experiences what to do. He has been notified to stay in his lane.Added a graveyard that is specific for the quest "The Nathrezim."
+Developers’ note: This should eliminate the long run back to the quest if it is in progress and reduce some of the timing bugs that were coming up with Mal'Ganis' gloating moments.
+The Maw
+Fixed an issue where players who accepted a queue in the middle of flying to the Beastwarrens would be pacified until relogging.
+Torghast
+Completing the Adamant Vaults will now always reward Anima and significantly more gold.Bosses in the Adamant Vaults no longer regenerate health after defeating players.
+Tweet
+3
+Comments
+World First Mythic Sylvanas Windrunner by Echo
+by
+Lumy
+View Profile
+View Forum Posts
+Private Message
+View Started Threads
+Published on 2021-07-20 11:02 AM
+Race to World First: Sanctum of Domination
+Sanctum of Domination has been cleared on Mythic difficulty by Echo! Congratulations to them!
+World First Mythic Sylvanas Windrunner by Echo - Raid Composition
+Tweet
+129
+Comments
+Race to World First Update, Patch 9.1 Hotfixes - July 19, 2021
+by
+chaud
+View Profile
+View Forum Posts
+Private Message
+View Started Threads
+Published on 2021-07-20 02:53 AM
+Race to World First: Sanctum of Domination
+Guilds are getting even closer to a Sylvanas kill! Assuming the encounter ends at 45% health, Complexity Limit got less than 1% away from a kill earlier tonight.
+Patch 9.1 Hotfixes - July 19, 2021
+Originally Posted by Blizzard
+(Blue Tracker / Official Forums)
+Classes
+Death Knight
+Fixed an issue with Shackle the Unworthy (Kyrian Ability) not spreading to valid enemy targets.
+Covenants
+Soulbinds
+Venthyr
+Nimble Steps (Nadjia the Mistblade) will no longer cause excessive Immunity messages when the target is immune to its movement reduction effect.
+Dungeons and Raids
+Sanctum of Domination
+Remnant of Ner’zhul
+Orbs of Torment should no longer be able to sneak in a melee attack.
+Painsmith Raznal
+[With regional restarts] Floor spikes created by Instruments of Pain now inflict their damage more closely aligned with the visual effect of the spikes on all difficulties.
+Guardian of the First Ones
+[With regional restarts] The Physical damage portion of Obliterate is now correctly increased by Obliterate’s vulnerability effect, and Obliterate’s vulnerability effect has been increased to 5000% on Heroic and Mythic difficulties.
+Developers' note: On Heroic and Mythic difficulties, the Guardian's Sunder and Obliterate combo is meant to be shared between two tanks. Prior to this change, stringing together multiple immunity effects could allow a single tank to survive the entire encounter; this should no longer be possible. Our goal is to avoid a scenario where the optimal strategy for the encounter involves having only a single tank, unlike all other encounters in Sanctum of Domination.
+Kel'Thuzad
+[With regional restarts] Soul Shards will no longer despawn if the target of Soul Fracture is defeated prematurely.
+Sylvanas Windrunner
+Fixed an issue that could cause Sylvanas to cast a non-intermission Domination Chains prior to casting the intermission Domination Chains if pushed over the health threshold very close to the cooldown of Domination Chains.Fixed an issue that allowed Thrall to affect Dark Sentinels with a knockback.Bolvar should now more reliably cast Winds of Icecrown on Mythic difficulty.Fixed an issue that would prevent Mawforged and Mawsworn enemies from granting on-kill procs.Fixed an issue where Merciless could spawn an unreliable number of zones.Fixed an issue that could cause players to teleport to the wrong location at the start of Stage 3.Sylvanas should now move defeated players between platforms after casting Raze.Fixed an issue that could cause Veil of Darkness to be applied to targets but do no damage.
+Mythic+
+Tormented Affix
+Oros Coldheart's Frost Lance should no longer damage or knock back pets.
+Tazavesh, the Veiled Market
+Mailroom Mayhem
+Fixed an issue where entering The P.O.S.T. while mounted could prevent players from picking up Unstable Goods during the encounter.
+Torghast, Tower of the Damned
+Anima Powers
+Druid
+Fixed an issue where the Mote of Blood Thirst anima power was increasing the duration of Ravenous Frenzy (Venthyr Ability) with Sinful Hysteria (Runecarving Power) equipped.
+Tweet
+8
+Comments
+Sylvanas Encounter Doesn't End at 50%, Echo's Platform Strategy Hotfixed
+by
+Lumy
+View Profile
+View Forum Posts
+Private Message
+View Started Threads
+Published on 2021-07-19 08:30 PM
+Sylvanas Encounter Doesn't End at 50%
+Echo have brought Sylvanas down to 49.57% health, confirming that the encounter does not end at 50% health.
+According to a hotfix implemented on July 6, it looks like the fight is supposed to end at 45% on Mythic difficulty: Sylvanas
+Originally Posted by MMO-Champion
+Sylvanas
+Effect #1 - TriggerSpellOnHealthBelowPct (1)
+Value: 50Value: 45 (Mythic Raid)
+Echo's Platform Strategy Hotfixed
+After coming up with a plan to push for more damage on Sylvanas, Echo's new platform strategy was quickly hotfixed.
+In their new strategy, Naowh would go alone on the left platform in the last bridge split and survive tanking the Mawforged Colossus until Jaina teleported everyone to Oribos. This would let the rest 19 players save all their cooldowns for Sylvanas, instead of wasting them on adds.
+After about an hour of using this strategy, Blizzard pushed a hotfix that makes the Mawforged Colossus get the Berserk buff after ~45 seconds. In the video below Naowh gets 1-shotted, and since there is no one else nearby, the Mawforged Colossus casts Hymn of the End and quickly wipes the raid.
+Tweet
+24
+Comments
+Page 1 of 1007
+12311511015011001
+...
+Last
+Jump to page:
+Site Navigation
+Contact Us
+MMO Champion
+Top
+Video Player is loading.Play VideoUnmuteDuration 0:00/Current Time 0:00Loaded: 0%Remaining Time -0:00 FullscreenPlayThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
+All times are GMT. The time now is 06:12 PM.
+Social Media
+Services
+My Account
+Support
+Advertise
+Resources
+Terms of Service
+Privacy Policy
+Our Communities
+MMO-Champion
+BlueTracker
+HearthPwn
+Minecraft Forum
+Minecraft Station
+Overframe
+MTG Salvation
+DiabloFans
+© 2021 MagicFind, Inc. All rights reserved.
+Update Privacy Preferences

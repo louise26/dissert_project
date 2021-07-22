@@ -1,0 +1,1317 @@
+Getting policy for https://ladbible.com
+Scrapper has found several privacy buttons for https://ladbible.com
+Something went searching for the privacy page link on https://ladbible.com
+
+Getting policy for https://chaturbate.com
+Scrapper has found several privacy buttons for https://chaturbate.com
+
+Getting policy for https://netflix.com
+Scrapper has found several privacy buttons for https://netflix.com
+
+Getting policy for https://www.gov.uk
+
+Getting policy for https://livejasmin.com
+
+Getting policy for https://itv.com
+Message: The element reference of <a class="cp_link cp_footer__link" href="/privacy"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+ https://itv.com Error: at choosen_button
+
+Getting policy for https://zoom.us
+Scrapper has found several privacy buttons for https://zoom.us
+
+Getting policy for https://fandom.com
+
+Getting policy for https://rightmove.co.uk
+
+Getting policy for https://pornhub.com
+
+Getting policy for https://microsoft.com
+Scrapper has found several privacy buttons for https://microsoft.com
+
+Getting policy for https://trustpilot.com
+
+Getting policy for https://theguardian.com
+Scrapper has found several privacy buttons for https://theguardian.com
+
+Getting policy for https://vk.com
+
+Getting policy for https://xhamster.com
+
+Getting policy for https://aparat.com
+Error: No buttons found for https://aparat.com
+
+Getting policy for https://imgur.com
+Scrapper has found several privacy buttons for https://imgur.com
+
+Getting policy for https://sportbible.com
+Scrapper has found several privacy buttons for https://sportbible.com
+Something went searching for the privacy page link on https://sportbible.com
+
+Getting policy for https://roblox.com
+Scrapper has found several privacy buttons for https://roblox.com
+
+Getting policy for https://virginmedia.com
+Scrapper has found several privacy buttons for https://virginmedia.com
+
+Getting policy for https://dailymail.co.uk
+Scrapper has found several privacy buttons for https://dailymail.co.uk
+
+Getting policy for https://bing.com
+Error: No buttons found for https://bing.com
+
+Getting policy for https://ok.ru
+Something went wrong loading website https://ok.ru
+
+Getting policy for https://imdb.com
+
+Getting policy for https://unilad.co.uk
+Scrapper has found several privacy buttons for https://unilad.co.uk
+Something went searching for the privacy page link on https://unilad.co.uk
+
+Getting policy for https://lloydsbank.co.uk
+
+Getting policy for https://redd.it
+
+Getting policy for https://office.com
+Scrapper has found several privacy buttons for https://office.com
+
+Getting policy for https://chess.com
+Scrapper has found several privacy buttons for https://chess.com
+
+Getting policy for https://livein.care
+
+Getting policy for https://hotukdeals.com
+Scrapper has found several privacy buttons for https://hotukdeals.com
+
+Getting policy for https://bt.com
+
+Getting policy for https://disneyplus.com
+Scrapper has found several privacy buttons for https://disneyplus.com
+
+Getting policy for https://www.nhs.uk
+Error: No buttons found for https://www.nhs.uk
+
+Getting policy for https://aol.com
+Something went wrong loading website https://aol.com
+
+Getting policy for https://lloydsbank.com
+
+Getting policy for https://indeed.com
+Scrapper has found several privacy buttons for https://indeed.com
+
+Getting policy for https://msn.com
+Scrapper has found several privacy buttons for https://msn.com
+
+Getting policy for https://autotrader.co.uk
+
+Getting policy for https://varzesh3.com
+Error: No buttons found for https://varzesh3.com
+
+Getting policy for https://instagram.com
+
+Getting policy for https://hsbc.co.uk
+Scrapper has found several privacy buttons for https://hsbc.co.uk
+
+Getting policy for https://spankbang.com
+Error: No buttons found for https://spankbang.com
+
+Getting policy for https://xvideos.com
+Scrapper has found several privacy buttons for https://xvideos.com
+
+Getting policy for https://bbc.com
+
+Getting policy for https://barclays.co.uk
+Scrapper has found several privacy buttons for https://barclays.co.uk
+
+Getting policy for https://amazon.com
+
+Getting policy for https://t.co
+
+Getting policy for https://tumblr.com
+
+Getting policy for https://isams.cloud
+Something went wrong loading website https://isams.cloud
+
+Getting policy for https://mail.ru
+Scrapper has found several privacy buttons for https://mail.ru
+
+Getting policy for https://u.gg
+Scrapper has found several privacy buttons for https://u.gg
+
+Getting policy for https://sky.com
+Scrapper has found several privacy buttons for https://sky.com
+
+Getting policy for https://rmunify.com
+Error: No buttons found for https://rmunify.com
+
+Getting policy for https://santander.co.uk
+
+Getting policy for https://digikala.com
+
+Getting policy for https://adobe.com
+Error: No buttons found for https://adobe.com
+
+Getting policy for https://avito.ru
+Error: No buttons found for https://avito.ru
+
+Getting policy for https://natwest.com
+
+Getting policy for https://nationwide.co.uk
+
+Getting policy for https://4chan.org
+Error: No buttons found for https://4chan.org
+
+Getting policy for https://tesco.com
+Scrapper has found several privacy buttons for https://tesco.com
+
+Getting policy for https://mirror.co.uk
+
+Getting policy for https://just-eat.co.uk
+
+Getting policy for https://sainsburys.co.uk
+Scrapper has found several privacy buttons for https://sainsburys.co.uk
+
+Getting policy for https://skysports.com
+Scrapper has found several privacy buttons for https://skysports.com
+
+Getting policy for https://runescape.wiki
+
+Getting policy for https://savefrom.net
+Scrapper has found several privacy buttons for https://savefrom.net
+
+Getting policy for https://ikea.com
+Something went wrong loading website https://ikea.com
+
+Getting policy for https://op.gg
+
+Getting policy for https://booking.com
+
+Getting policy for https://argos.co.uk
+Scrapper has found several privacy buttons for https://argos.co.uk
+Message: The element reference of <a href="https://privacy-hub.sainsburys.co.uk/"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+ https://argos.co.uk Error: at choosen_button
+
+Getting policy for https://rutracker.org
+Error: No buttons found for https://rutracker.org
+Getting policy for https://yandex.ru
+Error: No buttons found for https://yandex.ru
+
+Getting policy for https://gladly.io
+
+Getting policy for https://4channel.org
+Error: No buttons found for https://4channel.org
+
+Getting policy for https://halifax-online.co.uk
+Scrapper has found several privacy buttons for https://halifax-online.co.uk
+
+Getting policy for https://sageone.com
+Something went wrong loading website https://sageone.com
+
+Getting policy for https://tax.service.gov.uk
+
+Getting policy for https://screwfix.com
+
+Getting policy for https://asda.com
+Scrapper has found several privacy buttons for https://asda.com
+
+Getting policy for https://reverso.net
+Scrapper has found several privacy buttons for https://reverso.net
+
+Getting policy for https://wowhead.com
+
+Getting policy for https://ecosia.org
+Scrapper has found several privacy buttons for https://ecosia.org
+
+Getting policy for https://national-lottery.co.uk
+Scrapper has found several privacy buttons for https://national-lottery.co.uk
+
+Getting policy for https://sxyprn.com
+Error: No buttons found for https://sxyprn.com
+
+Getting policy for https://asos.com
+Scrapper has found several privacy buttons for https://asos.com
+
+Getting policy for https://gismeteo.ru
+Error: No buttons found for https://gismeteo.ru
+
+Getting policy for https://etsy.com
+Scrapper has found several privacy buttons for https://etsy.com
+
+Getting policy for https://gumtree.com
+Scrapper has found several privacy buttons for https://gumtree.com
+
+Getting policy for https://telewebion.com
+Scrapper has found several privacy buttons for https://telewebion.com
+
+Getting policy for https://zoopla.co.uk
+Scrapper has found several privacy buttons for https://zoopla.co.uk
+
+Getting policy for https://tiktok.com
+Scrapper has found several privacy buttons for https://tiktok.com
+
+Getting policy for https://metoffice.gov.uk
+
+Getting policy for https://ilovepdf.com
+Scrapper has found several privacy buttons for https://ilovepdf.com
+
+Getting policy for https://yespornplease.sexy
+Error: No buttons found for https://yespornplease.sexy
+
+Getting policy for https://nih.gov
+Error: No buttons found for https://nih.gov
+
+Getting policy for https://killpls.me
+Error: No buttons found for https://killpls.me
+
+Getting policy for https://sage.com
+
+Getting policy for https://imagefap.com
+
+Getting policy for https://tripadvisor.co.uk
+
+Getting policy for https://travelerdoor.com
+
+Getting policy for https://google.ru
+Scrapper has found several privacy buttons for https://google.ru
+
+Getting policy for https://dropbox.com
+Error: No buttons found for https://dropbox.com
+
+Getting policy for https://duckduckgo.com
+Scrapper has found several privacy buttons for https://duckduckgo.com
+
+Getting policy for https://rarbgget.org
+Error: No buttons found for https://rarbgget.org
+
+Getting policy for https://currys.co.uk
+Something went wrong loading website https://currys.co.uk
+
+Getting policy for https://zoechip.com
+Error: No buttons found for https://zoechip.com
+
+Getting policy for https://strava.com
+Scrapper has found several privacy buttons for https://strava.com
+
+Getting policy for https://shutterstock.com
+Scrapper has found several privacy buttons for https://shutterstock.com
+
+Getting policy for https://amazonaws.com
+Something went wrong loading website https://amazonaws.com
+
+Getting policy for https://rology.net
+Error: No buttons found for https://rology.net
+
+Getting policy for https://independent.co.uk
+
+Getting policy for https://cambridge.org
+Something went wrong loading website https://cambridge.org
+
+Getting policy for https://rangirangi.com
+Error: No buttons found for https://rangirangi.com
+
+Getting policy for https://aol.co.uk
+Scrapper has found several privacy buttons for https://aol.co.uk
+
+Getting policy for https://sinoptik.ua
+Error: No buttons found for https://sinoptik.ua
+
+Getting policy for https://redgifs.com
+Error: No buttons found for https://redgifs.com
+
+Getting policy for https://channel4.com
+
+Getting policy for https://avto.pro
+Error: No buttons found for https://avto.pro
+
+Getting policy for https://siska.tv
+
+Getting policy for https://namnak.com
+Error: No buttons found for https://namnak.com
+
+Getting policy for https://royalmail.com
+
+Getting policy for https://paypal.com
+Scrapper has found several privacy buttons for https://paypal.com
+
+Getting policy for https://dominos.co.uk
+
+Getting policy for https://google.com.tr
+Scrapper has found several privacy buttons for https://google.com.tr
+
+Getting policy for https://johnlewis.com
+Scrapper has found several privacy buttons for https://johnlewis.com
+
+Getting policy for https://patreon.com
+Scrapper has found several privacy buttons for https://patreon.com
+
+Getting policy for https://ultimate-guitar.com
+Scrapper has found several privacy buttons for https://ultimate-guitar.com
+
+Getting policy for https://discordapp.com
+
+Getting policy for https://thetrainline.com
+
+Getting policy for https://satchelone.com
+Scrapper has found several privacy buttons for https://satchelone.com
+
+Getting policy for https://wayfair.co.uk
+Error: No buttons found for https://wayfair.co.uk
+
+Getting policy for https://twitter.com
+Error: No buttons found for https://twitter.com
+
+Getting policy for https://autoweboffice.ru
+Error: No buttons found for https://autoweboffice.ru
+
+Getting policy for https://wetransfer.com
+Error: No buttons found for https://wetransfer.com
+
+Getting policy for https://repubblica.it
+Scrapper has found several privacy buttons for https://repubblica.it
+
+Getting policy for https://airbnb.co.uk
+Scrapper has found several privacy buttons for https://airbnb.co.uk
+
+Getting policy for https://allegro.pl
+Error: No buttons found for https://allegro.pl
+
+Getting policy for https://spotify.com
+Scrapper has found several privacy buttons for https://spotify.com
+
+Getting policy for https://namasha.com
+
+Getting policy for https://adme.ru
+
+Getting policy for https://researchgate.net
+
+Getting policy for https://rutor.info
+Something went wrong loading website https://rutor.info
+
+Getting policy for https://tsb.co.uk
+
+Getting policy for https://next.co.uk
+Something went wrong loading website https://next.co.uk
+
+Getting policy for https://y2mate.com
+
+Getting policy for https://hltv.org
+
+Getting policy for https://schoolpost.co.uk
+
+Getting policy for https://9anime.to
+Error: No buttons found for https://9anime.to
+
+Getting policy for https://xero.com
+Error: No buttons found for https://xero.com
+
+Getting policy for https://pickmypostcode.com
+Scrapper has found several privacy buttons for https://pickmypostcode.com
+
+Getting policy for https://filimo.com
+Error: No buttons found for https://filimo.com
+
+Getting policy for https://filmix.ac
+Error: No buttons found for https://filmix.ac
+
+Getting policy for https://work.ua
+Error: No buttons found for https://work.ua
+
+Getting policy for https://dndbeyond.com
+
+Getting policy for https://gla.ac.uk
+Scrapper has found several privacy buttons for https://gla.ac.uk
+
+Getting policy for https://deviantart.com
+
+Getting policy for https://talktalk.co.uk
+Error: No buttons found for https://talktalk.co.uk
+
+Getting policy for https://aliexpress.com
+
+Getting policy for https://ionos.co.uk
+
+Getting policy for https://gosuslugi.ru
+Error: No buttons found for https://gosuslugi.ru
+
+Getting policy for https://wickes.co.uk
+
+Getting policy for https://lostfilm.tv
+Error: No buttons found for https://lostfilm.tv
+
+Getting policy for https://xnxx.com
+Scrapper has found several privacy buttons for https://xnxx.com
+
+Getting policy for https://google.com.ua
+Scrapper has found several privacy buttons for https://google.com.ua
+
+Getting policy for https://ljmu.ac.uk
+Scrapper has found several privacy buttons for https://ljmu.ac.uk
+
+Getting policy for https://runescape.com
+Scrapper has found several privacy buttons for https://runescape.com
+
+Getting policy for https://adsco.re
+Error: No buttons found for https://adsco.re
+
+Getting policy for https://rspca-preston.org.uk
+Error: No buttons found for https://rspca-preston.org.uk
+
+Getting policy for https://tandfonline.com
+
+Getting policy for https://rspca.org.uk
+Scrapper has found several privacy buttons for https://rspca.org.uk
+
+Getting policy for https://wordpress.com
+Scrapper has found several privacy buttons for https://wordpress.com
+
+Getting policy for https://unblockit.li
+Error: No buttons found for https://unblockit.li
+
+Getting policy for https://probuilds.net
+
+Getting policy for https://loveplanet.ru
+Error: No buttons found for https://loveplanet.ru
+
+Getting policy for https://udemy.com
+
+Getting policy for https://coinmarketcap.com
+Scrapper has found several privacy buttons for https://coinmarketcap.com
+
+Getting policy for https://hegartymaths.com
+Scrapper has found several privacy buttons for https://hegartymaths.com
+
+Getting policy for https://donya-e-eqtesad.com
+Error: No buttons found for https://donya-e-eqtesad.com
+
+Getting policy for https://onlyfans.com
+Error: No buttons found for https://onlyfans.com
+
+Getting policy for https://tyla.com
+Scrapper has found several privacy buttons for https://tyla.com
+Something went searching for the privacy page link on https://tyla.com
+
+Getting policy for https://whatsapp.com
+Scrapper has found several privacy buttons for https://whatsapp.com
+
+Getting policy for https://uefa.com
+Scrapper has found several privacy buttons for https://uefa.com
+
+Getting policy for https://privat24.ua
+Error: No buttons found for https://privat24.ua
+
+Getting policy for https://linkedin.com
+
+Getting policy for https://etoro.com
+
+Getting policy for https://express.co.uk
+
+Getting policy for https://diply.com
+Scrapper has found several privacy buttons for https://diply.com
+
+Getting policy for https://rbs.co.uk
+Something went searching for the privacy page link on https://rbs.co.uk
+
+Getting policy for https://radiopaedia.org
+Scrapper has found several privacy buttons for https://radiopaedia.org
+
+Getting policy for https://freepik.com
+
+Getting policy for https://mit.edu
+
+Getting policy for https://rateyourmusic.com
+Scrapper has found several privacy buttons for https://rateyourmusic.com
+
+Getting policy for https://steamcommunity.com
+Scrapper has found several privacy buttons for https://steamcommunity.com
+
+Getting policy for https://nhs.net
+Something went wrong loading website https://nhs.net
+
+Getting policy for https://topcashback.co.uk
+Scrapper has found several privacy buttons for https://topcashback.co.uk
+
+Getting policy for https://squirt.org
+Scrapper has found several privacy buttons for https://squirt.org
+
+Getting policy for https://noodlemagazine.com
+
+Getting policy for https://rus24.tv
+Error: No buttons found for https://rus24.tv
+
+Getting policy for https://futbin.com
+Scrapper has found several privacy buttons for https://futbin.com
+
+Getting policy for https://access.service.gov.uk
+Something went wrong loading website https://access.service.gov.uk
+
+Getting policy for https://stackexchange.com
+
+Getting policy for https://cgleague.co.uk
+Error: No buttons found for https://cgleague.co.uk
+
+Getting policy for https://rambler.ru
+Error: No buttons found for https://rambler.ru
+
+Getting policy for https://flypgs.com
+Error: No buttons found for https://flypgs.com
+
+Getting policy for https://fashionbeans.com
+
+Getting policy for https://halifax.co.uk
+Scrapper has found several privacy buttons for https://halifax.co.uk
+
+Getting policy for https://vimeo.com
+Scrapper has found several privacy buttons for https://vimeo.com
+
+Getting policy for https://privatbank.ua
+Error: No buttons found for https://privatbank.ua
+
+Getting policy for https://marksandspencer.com
+
+Getting policy for https://livejournal.com
+Error: No buttons found for https://livejournal.com
+
+Getting policy for https://test-for-coronavirus.service.gov.uk
+Error: No buttons found for https://test-for-coronavirus.service.gov.uk
+
+Getting policy for https://unrealengine.com
+Scrapper has found several privacy buttons for https://unrealengine.com
+
+Getting policy for https://animedao.to
+Error: No buttons found for https://animedao.to
+
+Getting policy for https://ninisite.com
+Error: No buttons found for https://ninisite.com
+
+Getting policy for https://hm.com
+Error: No buttons found for https://hm.com
+
+Getting policy for https://theforum365.com
+Scrapper has found several privacy buttons for https://theforum365.com
+
+Getting policy for https://warcraftlogs.com
+Error: No buttons found for https://warcraftlogs.com
+
+Getting policy for https://1337x.to
+Error: No buttons found for https://1337x.to
+
+Getting policy for https://aseannow.com
+Error: No buttons found for https://aseannow.com
+
+Getting policy for https://speedtest.net
+Scrapper has found several privacy buttons for https://speedtest.net
+
+Getting policy for https://googlevideo.com
+Scrapper has found several privacy buttons for https://googlevideo.com
+
+Getting policy for https://totaljobs.com
+Scrapper has found several privacy buttons for https://totaljobs.com
+
+Getting policy for https://fosterandpartners.com
+Scrapper has found several privacy buttons for https://fosterandpartners.com
+
+Getting policy for https://dailyrecord.co.uk
+
+Getting policy for https://lamoda.ru
+Error: No buttons found for https://lamoda.ru
+
+Getting policy for https://google.co.in
+Scrapper has found several privacy buttons for https://google.co.in
+
+Getting policy for https://manyvids.com
+Error: No buttons found for https://manyvids.com
+
+Getting policy for https://myschoolportal.co.uk
+Scrapper has found several privacy buttons for https://myschoolportal.co.uk
+
+Getting policy for https://company-information.service.gov.uk
+Error: No buttons found for https://company-information.service.gov.uk
+
+Getting policy for https://meduza.io
+Error: No buttons found for https://meduza.io
+
+Getting policy for https://wildberries.ru
+Error: No buttons found for https://wildberries.ru
+
+Getting policy for https://apple.com
+Scrapper has found several privacy buttons for https://apple.com
+
+Getting policy for https://sportsdirect.com
+Scrapper has found several privacy buttons for https://sportsdirect.com
+
+Getting policy for https://fdating.com
+Scrapper has found several privacy buttons for https://fdating.com
+
+Getting policy for https://cdkeys.com
+Scrapper has found several privacy buttons for https://cdkeys.com
+
+Getting policy for https://ukr.net
+Error: No buttons found for https://ukr.net
+
+Getting policy for https://nature.com
+Scrapper has found several privacy buttons for https://nature.com
+
+Getting policy for https://youtubetomp3music.com
+
+Getting policy for https://largepornfilms.com
+
+Getting policy for https://funnyjunk.com
+
+Getting policy for https://toolstation.com
+
+Getting policy for https://glassdoor.co.uk
+Scrapper has found several privacy buttons for https://glassdoor.co.uk
+
+Getting policy for https://saednews.com
+Error: No buttons found for https://saednews.com
+
+Getting policy for https://zooqle.com
+Error: No buttons found for https://zooqle.com
+
+Getting policy for https://kemdikbud.go.id
+Error: No buttons found for https://kemdikbud.go.id
+
+Getting policy for https://insearch.site
+Error: No buttons found for https://insearch.site
+
+Getting policy for https://bankofscotland.co.uk
+Scrapper has found several privacy buttons for https://bankofscotland.co.uk
+
+Getting policy for https://nvidia.com
+Scrapper has found several privacy buttons for https://nvidia.com
+
+Getting policy for https://google.nl
+Scrapper has found several privacy buttons for https://google.nl
+
+Getting policy for https://fano.in
+Error: No buttons found for https://fano.in
+
+Getting policy for https://tkmaxx.com
+Scrapper has found several privacy buttons for https://tkmaxx.com
+
+Getting policy for https://britishgas.co.uk
+Error: No buttons found for https://britishgas.co.uk
+
+Getting policy for https://thisvid.com
+
+Getting policy for https://hp.com
+Scrapper has found several privacy buttons for https://hp.com
+
+Getting policy for https://colorful.zone
+
+Getting policy for https://boots.com
+Scrapper has found several privacy buttons for https://boots.com
+
+Getting policy for https://mangasee123.com
+
+Getting policy for https://tamilrockermovies.watch
+
+Getting policy for https://olx.ua
+Error: No buttons found for https://olx.ua
+
+Getting policy for https://odir.org
+Scrapper has found several privacy buttons for https://odir.org
+
+Getting policy for https://plex.tv
+Scrapper has found several privacy buttons for https://plex.tv
+
+Getting policy for https://artstation.com
+Scrapper has found several privacy buttons for https://artstation.com
+
+Getting policy for https://patientaccess.com
+
+Getting policy for https://hallifordschool.co.uk
+Error: No buttons found for https://hallifordschool.co.uk
+
+Getting policy for https://stackoverflow.com
+
+Getting policy for https://servicem8.com
+
+Getting policy for https://thesun.co.uk
+Scrapper has found several privacy buttons for https://thesun.co.uk
+
+Getting policy for https://premierinn.com
+
+Getting policy for https://service-now.com
+Scrapper has found several privacy buttons for https://service-now.com
+
+Getting policy for https://bbcgoodfood.com
+
+Getting policy for https://dailystar.co.uk
+
+Getting policy for https://italki.com
+
+Getting policy for https://viz.com
+Scrapper has found several privacy buttons for https://viz.com
+
+Getting policy for https://tejaratnews.com
+Error: No buttons found for https://tejaratnews.com
+
+Getting policy for https://twimg.com
+Something went wrong loading website https://twimg.com
+
+Getting policy for https://dailymotion.com
+Error: No buttons found for https://dailymotion.com
+
+Getting policy for https://twinkl.co.uk
+
+Getting policy for https://humblebundle.com
+Scrapper has found several privacy buttons for https://humblebundle.com
+Something went searching for the privacy page link on https://humblebundle.com
+
+Getting policy for https://gamingbible.co.uk
+Scrapper has found several privacy buttons for https://gamingbible.co.uk
+Something went searching for the privacy page link on https://gamingbible.co.uk
+
+Getting policy for https://nexusmods.com
+Scrapper has found several privacy buttons for https://nexusmods.com
+
+Getting policy for https://deliveroo.co.uk
+
+Getting policy for https://youm7.com
+
+Getting policy for https://bet365.com
+Something went wrong loading website https://bet365.com
+
+Getting policy for https://omgwtfnzbs.me
+Error: No buttons found for https://omgwtfnzbs.me
+
+Getting policy for https://simpkb.id
+Error: No buttons found for https://simpkb.id
+
+Getting policy for https://veporno.net
+Error: No buttons found for https://veporno.net
+
+Getting policy for https://securly.com
+Scrapper has found several privacy buttons for https://securly.com
+
+Getting policy for https://pof.com
+
+Getting policy for https://walesonline.co.uk
+
+Getting policy for https://egress.com
+
+Getting policy for https://fotostrana.ru
+Error: No buttons found for https://fotostrana.ru
+
+Getting policy for https://google.at
+Scrapper has found several privacy buttons for https://google.at
+
+Getting policy for https://ria.ru
+Scrapper has found several privacy buttons for https://ria.ru
+
+Getting policy for https://icy-veins.com
+
+Getting policy for https://rozetka.com.ua
+Error: No buttons found for https://rozetka.com.ua
+
+Getting policy for https://github.com
+Something went wrong loading website https://github.com
+
+Getting policy for https://vision2learn.com
+Something went wrong loading website https://vision2learn.com
+
+Getting policy for https://zakupki.gov.ru
+Error: No buttons found for https://zakupki.gov.ru
+
+Getting policy for https://unige.it
+Scrapper has found several privacy buttons for https://unige.it
+
+Getting policy for https://healthline.com
+Scrapper has found several privacy buttons for https://healthline.com
+
+Getting policy for https://spkostroma.ru
+Error: No buttons found for https://spkostroma.ru
+
+Getting policy for https://whiterosemaths.com
+Scrapper has found several privacy buttons for https://whiterosemaths.com
+
+Getting policy for https://crunchyroll.com
+Scrapper has found several privacy buttons for https://crunchyroll.com
+
+Getting policy for https://original-carparts.com
+Error: No buttons found for https://original-carparts.com
+
+Getting policy for https://pitchfork.com
+Scrapper has found several privacy buttons for https://pitchfork.com
+
+Getting policy for https://sberbank.ru
+Error: No buttons found for https://sberbank.ru
+
+Getting policy for https://mobalytics.gg
+Scrapper has found several privacy buttons for https://mobalytics.gg
+
+Getting policy for https://eatthis.com
+
+Getting policy for https://ryanair.com
+Something went wrong loading website https://ryanair.com
+
+Getting policy for https://tvchaosuk.com
+Error: No buttons found for https://tvchaosuk.com
+
+Getting policy for https://leagueoflegends.com
+Something went searching for the privacy page link on https://leagueoflegends.com
+
+Getting policy for https://unibo.it
+Something went wrong loading website https://unibo.it
+
+Getting policy for https://cnn.com
+Scrapper has found several privacy buttons for https://cnn.com
+
+Getting policy for https://rp5.ua
+Error: No buttons found for https://rp5.ua
+
+Getting policy for https://teddyfeed.com
+
+Getting policy for https://universal-credit.service.gov.uk
+Something went wrong loading website https://universal-credit.service.gov.uk
+
+Getting policy for https://g2a.com
+Scrapper has found several privacy buttons for https://g2a.com
+
+Getting policy for https://halfords.com
+Error: No buttons found for https://halfords.com
+
+Getting policy for https://nowtv.com
+
+Getting policy for https://hsbc.uk
+Scrapper has found several privacy buttons for https://hsbc.uk
+
+Getting policy for https://padlet.com
+Scrapper has found several privacy buttons for https://padlet.com
+
+Getting policy for https://napier.ac.uk
+Error: No buttons found for https://napier.ac.uk
+
+Getting policy for https://delivery-club.ru
+Error: No buttons found for https://delivery-club.ru
+
+Getting policy for https://myanimelist.net
+Scrapper has found several privacy buttons for https://myanimelist.net
+
+Getting policy for https://roll20.net
+Scrapper has found several privacy buttons for https://roll20.net
+
+Getting policy for https://anodialog.ru
+Error: No buttons found for https://anodialog.ru
+
+Getting policy for https://postermywall.com
+Error: No buttons found for https://postermywall.com
+
+Getting policy for https://4cdn.org
+Error: No buttons found for https://4cdn.org
+
+Getting policy for https://office.net
+Something went wrong loading website https://office.net
+
+Getting policy for https://webex.com
+Scrapper has found several privacy buttons for https://webex.com
+
+Getting policy for https://eghtesadonline.com
+Error: No buttons found for https://eghtesadonline.com
+
+Getting policy for https://filmpotok.ru
+Something went wrong loading website https://filmpotok.ru
+
+Getting policy for https://paddypower.com
+Error: No buttons found for https://paddypower.com
+
+Getting policy for https://woman.ru
+Error: No buttons found for https://woman.ru
+
+Getting policy for https://mymail.co.uk
+Scrapper has found several privacy buttons for https://mymail.co.uk
+
+Getting policy for https://solarmovies.movie
+Error: No buttons found for https://solarmovies.movie
+
+Getting policy for https://ebay.com
+
+Getting policy for https://very.co.uk
+
+Getting policy for https://eghtesadnews.com
+Error: No buttons found for https://eghtesadnews.com
+
+Getting policy for https://sciencedirect.com
+Scrapper has found several privacy buttons for https://sciencedirect.com
+
+Getting policy for https://nwolb.com
+Error: No buttons found for https://nwolb.com
+
+Getting policy for https://e-hentai.org
+Error: No buttons found for https://e-hentai.org
+
+Getting policy for https://zara.com
+Error: No buttons found for https://zara.com
+
+Getting policy for https://ixxx.com
+
+Getting policy for https://force.com
+Scrapper has found several privacy buttons for https://force.com
+
+Getting policy for https://canva.com
+Scrapper has found several privacy buttons for https://canva.com
+
+Getting policy for https://tv-vault.me
+Error: No buttons found for https://tv-vault.me
+
+Getting policy for https://cv-library.co.uk
+
+Getting policy for https://steampowered.com
+Scrapper has found several privacy buttons for https://steampowered.com
+
+Getting policy for https://cdrsample.com
+Scrapper has found several privacy buttons for https://cdrsample.com
+
+Getting policy for https://fnzc.co.uk
+Something went wrong loading website https://fnzc.co.uk
+
+Getting policy for https://mintmanga.live
+Error: No buttons found for https://mintmanga.live
+
+Getting policy for https://diy.com
+
+Getting policy for https://officialcharts.com
+Scrapper has found several privacy buttons for https://officialcharts.com
+
+Getting policy for https://ocado.com
+
+Getting policy for https://neighborhoodcutie.com
+Error: No buttons found for https://neighborhoodcutie.com
+
+Getting policy for https://hotcelebshome.com
+Error: No buttons found for https://hotcelebshome.com
+
+Getting policy for https://myshopify.com
+Error: No buttons found for https://myshopify.com
+
+Getting policy for https://kbhgames.com
+
+Getting policy for https://onmarshtompor.com
+Error: No buttons found for https://onmarshtompor.com
+
+Getting policy for https://discord.com
+Scrapper has found several privacy buttons for https://discord.com
+
+Getting policy for https://data.gov.uk
+
+Getting policy for https://fidelity.co.uk
+
+Getting policy for https://wikimedia.org
+
+Getting policy for https://nationalrail.co.uk
+Something went wrong loading website https://nationalrail.co.uk
+
+Getting policy for https://palletways.com
+Something went wrong loading website https://palletways.com
+
+Getting policy for https://mangahelpers.com
+Scrapper has found several privacy buttons for https://mangahelpers.com
+
+Getting policy for https://instructure.com
+Scrapper has found several privacy buttons for https://instructure.com
+
+Getting policy for https://gtxgaming.co.uk
+Scrapper has found several privacy buttons for https://gtxgaming.co.uk
+
+Getting policy for https://overclockers.co.uk
+Error: No buttons found for https://overclockers.co.uk
+
+Getting policy for https://ozon.ru
+Error: No buttons found for https://ozon.ru
+
+Getting policy for https://bdsmpeople.club
+Error: No buttons found for https://bdsmpeople.club
+
+Getting policy for https://dvsa.gov.uk
+Scrapper has found several privacy buttons for https://dvsa.gov.uk
+
+Getting policy for https://ucl.ac.uk
+
+Getting policy for https://last.fm
+Scrapper has found several privacy buttons for https://last.fm
+
+Getting policy for https://fourth.com
+Scrapper has found several privacy buttons for https://fourth.com
+
+Getting policy for https://animepahe.com
+Error: No buttons found for https://animepahe.com
+
+Getting policy for https://hot-sex-tube.com
+Error: No buttons found for https://hot-sex-tube.com
+
+Getting policy for https://three.co.uk
+Scrapper has found several privacy buttons for https://three.co.uk
+
+Getting policy for https://ig.com
+
+Getting policy for https://fragrantica.com
+
+Getting policy for https://genius.com
+Scrapper has found several privacy buttons for https://genius.com
+
+Getting policy for https://webanywhere.co.uk
+
+Getting policy for https://ea.com
+Scrapper has found several privacy buttons for https://ea.com
+
+Getting policy for https://sahibinden.com
+
+Getting policy for https://dpreview.com
+
+Getting policy for https://watchseries.ninja
+Error: No buttons found for https://watchseries.ninja
+
+Getting policy for https://peopleperhour.com
+Scrapper has found several privacy buttons for https://peopleperhour.com
+
+Getting policy for https://eurocarparts.com
+
+Getting policy for https://espncricinfo.com
+Scrapper has found several privacy buttons for https://espncricinfo.com
+
+Getting policy for https://quotientapp.com
+
+Getting policy for https://telegraph.co.uk
+Scrapper has found several privacy buttons for https://telegraph.co.uk
+
+Getting policy for https://swiggle.org.uk
+
+Getting policy for https://checkbox.ua
+Error: No buttons found for https://checkbox.ua
+
+Getting policy for https://seufaixa.tumblr.com
+Error: No buttons found for https://seufaixa.tumblr.com
+
+Getting policy for https://manoramaonline.com
+Scrapper has found several privacy buttons for https://manoramaonline.com
+
+Getting policy for https://btt.network
+Something went wrong loading website https://btt.network
+
+Getting policy for https://vanguardinvestor.co.uk
+
+Getting policy for https://freeip.me
+Scrapper has found several privacy buttons for https://freeip.me
+
+Getting policy for https://mrporter.com
+Scrapper has found several privacy buttons for https://mrporter.com
+
+Getting policy for https://britishairways.com
+Scrapper has found several privacy buttons for https://britishairways.com
+
+Getting policy for https://boohoo.com
+Scrapper has found several privacy buttons for https://boohoo.com
+
+Getting policy for https://gosearch-uk.com
+Something went wrong loading website https://gosearch-uk.com
+
+Getting policy for https://rule34.xxx
+Error: No buttons found for https://rule34.xxx
+
+Getting policy for https://aldi.co.uk
+
+Getting policy for https://cynergybank.co.uk
+Something went wrong loading website https://cynergybank.co.uk
+
+Getting policy for https://autodesk.com
+Scrapper has found several privacy buttons for https://autodesk.com
+
+Getting policy for https://comparethemarket.com
+Scrapper has found several privacy buttons for https://comparethemarket.com
+
+Getting policy for https://ulster.ac.uk
+
+Getting policy for https://agacelebir.com
+Error: No buttons found for https://agacelebir.com
+
+Getting policy for https://unblockit.uno
+Error: No buttons found for https://unblockit.uno
+
+Getting policy for https://gayboystube.com
+Error: No buttons found for https://gayboystube.com
+
+Getting policy for https://mmo-champion.com
+Scrapper has found several privacy buttons for https://mmo-champion.com
+
+Getting policy for https://heavy.com
+Scrapper has found several privacy buttons for https://heavy.com
+
+Getting policy for https://reed.co.uk
+
+Getting policy for https://cheriesplace.me.uk
+Error: No buttons found for https://cheriesplace.me.uk
+
+Getting policy for https://lolchess.gg
+Error: No buttons found for https://lolchess.gg
+
+Getting policy for https://ups.com
+Scrapper has found several privacy buttons for https://ups.com
+
+Getting policy for https://roboform.com
+Scrapper has found several privacy buttons for https://roboform.com
+
+Getting policy for https://daftsex.com
+
+Getting policy for https://theoldreader.com
+
+Getting policy for https://aliexpress.ru
+Error: No buttons found for https://aliexpress.ru
+
+Getting policy for https://eporner.com
+
+Getting policy for https://bandcamp.com
+Scrapper has found several privacy buttons for https://bandcamp.com
+
+Getting policy for https://prom.ua
+
+Getting policy for https://primelocation.com
+Scrapper has found several privacy buttons for https://primelocation.com
+
+Getting policy for https://audible.co.uk
+
+Getting policy for https://wbs.ac.uk
+
+Getting policy for https://pikabu.ru
+Error: No buttons found for https://pikabu.ru
+
+Getting policy for https://bdsmlr.com
+
+Getting policy for https://lenta.ru
+Error: No buttons found for https://lenta.ru
+
+Getting policy for https://troudigital.com
+
+Getting policy for https://vodafone.co.uk
+Scrapper has found several privacy buttons for https://vodafone.co.uk
+
+Getting policy for https://tradingview.com
+Scrapper has found several privacy buttons for https://tradingview.com
+
+Getting policy for https://mirriad.com
+Scrapper has found several privacy buttons for https://mirriad.com
+
+Getting policy for https://dawn.com
+
+Getting policy for https://pornoakt.click
+Error: No buttons found for https://pornoakt.click
+
+Getting policy for https://pirate-proxy.co
+Error: No buttons found for https://pirate-proxy.co
+
+Getting policy for https://movieweb.com
+Scrapper has found several privacy buttons for https://movieweb.com
+
+Getting policy for https://edgeborough.co.uk
+Scrapper has found several privacy buttons for https://edgeborough.co.uk
+
+Getting policy for https://sportsmole.co.uk
+Scrapper has found several privacy buttons for https://sportsmole.co.uk
+
+Getting policy for https://pinimg.com
+
+Getting policy for https://mymailaccount.co.uk
+Something went wrong loading website https://mymailaccount.co.uk
+
+Getting policy for https://kahoot.it
+
+Getting policy for https://iplt20.com
+
+Getting policy for https://worthpoint.com
+Scrapper has found several privacy buttons for https://worthpoint.com
+
+Getting policy for https://go2affise.com
+Something went wrong loading website https://go2affise.com
+
+Getting policy for https://grammarly.com
+Scrapper has found several privacy buttons for https://grammarly.com
+
+Getting policy for https://wix.com
+Scrapper has found several privacy buttons for https://wix.com
+Message: The element reference of <a href="https://www.wix.com/about/privacy"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+ https://wix.com Error: at choosen_button
+
+Getting policy for https://meetup.com
+
+Getting policy for https://wykop.pl
+Error: No buttons found for https://wykop.pl
+
+Getting policy for https://javcl.com
+Error: No buttons found for https://javcl.com
+
+Getting policy for https://unair.ac.id
+Error: No buttons found for https://unair.ac.id
+
+Getting policy for https://inb.network
+Error: No buttons found for https://inb.network
+
+Getting policy for https://plus.net
+
+Getting policy for https://racingpost.com
+
+Getting policy for https://senturion.to
+Error: No buttons found for https://senturion.to
+
+Getting policy for https://parentpay.com
+
+Getting policy for https://weather.com
+
+Getting policy for https://glodls.to
+Error: No buttons found for https://glodls.to
+
+Getting policy for https://auth0.com
+Scrapper has found several privacy buttons for https://auth0.com
+
+Getting policy for https://box.com
+
+Getting policy for https://from-ua.com
+Error: No buttons found for https://from-ua.com
+
+Getting policy for https://bristolpost.co.uk
+
+Getting policy for https://st-andrews.ac.uk
+Error: No buttons found for https://st-andrews.ac.uk
+
+Getting policy for https://themanc.com
+
+Getting policy for https://lostfilm.win
+Error: No buttons found for https://lostfilm.win
+
+Getting policy for https://worldometers.info
+
+Getting policy for https://fetlife.com
+
+Getting policy for https://advideoblock.com
+Scrapper has found several privacy buttons for https://advideoblock.com
+
+Getting policy for https://ghanaweb.com
+
+Getting policy for https://moneysavingexpert.com
+Scrapper has found several privacy buttons for https://moneysavingexpert.com
+
+Getting policy for https://ask4movie.cc
+
+Getting policy for https://rarbggo.org
+Error: No buttons found for https://rarbggo.org
+
+Getting policy for https://dezeen.com
+Scrapper has found several privacy buttons for https://dezeen.com
+
+Getting policy for https://animeforce.it
+
+Getting policy for https://spareroom.co.uk
+Scrapper has found several privacy buttons for https://spareroom.co.uk
+
+Getting policy for https://publishing.service.gov.uk
+Something went wrong loading website https://publishing.service.gov.uk
+
+Getting policy for https://scribd.com
+Scrapper has found several privacy buttons for https://scribd.com
+
+Getting policy for https://onthemarket.com
+
+Getting policy for https://manchestereveningnews.co.uk
+
+Getting policy for https://pcgamer.com
+
+Getting policy for https://myvue.com

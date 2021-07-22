@@ -1,0 +1,435 @@
+Privacy policy – Pick My Postcode
+If you're reading this, something is wrong
+It looks like you're unable to connect to our content delivery network, which is why the page is un-styled.
+Please try clearing your internet cache and/or logging out of your account and back in again.
+If you're still having issues connecting, please email admin@pickmypostcode.com or follow this link
+Sign up
+Today’s total prize pot
+£{{ store.draws.total.prize }}
+My Bonus
+£{{ store.person.user.data.totalBonus | p2pounds }}
+My Account
+Settings
+Logout
+Sign up
+Sign in
+My Account
+£{{ store.person.user.data.totalBonus | p2pounds }}
+Help
+Logout
+Sign up
+Already a member? Sign
+in
+All Draws
+Useful links
+Rules
+Winners Results
+Referrals
+Bonus leaderboard
+Blog
+FAQ
+My Account
+Help
+Logout
+About us
+Discover the UK’s Biggest Free Online Competition!
+How We Can Be a Free Lottery
+How to Claim Your Free Cash Prize
+Our Daily Freebies
+Raising Money for Charity with Pick My Postcode
+10 reasons to join the Pick My Postcode free daily lottery
+More chances to win!
+Calling all compers! Enter every day for your chance to win 30+ prizes.
+pmpcomps
+We <3 emojis! Winking, lolling or blowing a raspberry? Win money with your fave emojis! freemojilottery.com
+Free food, tasty offers and delicious discounts – everyone’s a winner!
+winadinner.com
+Be our friend
+Formerly Free Postcode Lottery
+Winners' comments
+Privacy policy
+Pick Media Ltd (‘Pick’ / ‘we’) collects and processes information from our members and potential members at several different points on pickmypostcode.com (the ‘Website’) as well as through other methods of contact, including email.
+This Privacy Policy (‘Policy’) along with Pick’s Terms and Conditions and Cookie Policy sets out the way Pick collects, stores and uses data relating to you (your personal data) and the reasons for doing so.
+By continuing to access the Website, by registering on the Website, or by providing information to Pick, you are accepting and consenting to Pick’s use of your personal data, as a Data Controller, in the ways set out in this Policy.
+A summary of how we collect, store and use your data
+When it comes to your personal data, Pick My Postcode operates on three very simple principles:
+We won’t sell your personal information to others without asking you directly;
+We won’t share your contact details without your explicit permission, so the emails you’re agreeing to receive will only be coming from us;
+We will follow industry practices to secure your data and always take our responsibilities as a data controller seriously;
+In order to run the Website effectively, we collect information from various sources, including third parties. This information may be collected automatically, such as when you visit the site, or explicitly, such as when you answer questions or surveys or set your preferences.
+We utilise this information to:
+Improve your experience on the Website, by giving you control over your settings and preferences and by providing more relevant advertisements and offers.
+Measure, fix and improve the Website’s performance.
+Monitor the use of the Website for a wide range of purposes, including the provision of rewards to our members, the prevention of suspicious or fraudulent claims and recording statistics that help Pick run more successfully as a business.
+Share anonymous and aggregated statistics between our trusted partners including our advertisers, affiliates, acquisition partners, survey participants and monitoring services.
+Connect with third party services including social media companies and survey tools.
+Contact you, but only where you have consented or requested that we do so.
+General data collection
+The following personal data relating to you may be collected:
+Information you provide
+You may provide information to us through web forms on the Website, by email, or by phone. The information you provide may include your name, address, postcode, year of birth, e-mail address, phone number or survey responses.
+Other than through the Pick survey tool, we will not intentionally or systematically seek to collect, store, use or otherwise process information about you classed as "Sensitive Personal Data" (for example, information relating to any trade union membership, ethnic origin or medical conditions). We cannot prevent you from disclosing the same to Pick, or Pick’s agents, as part of your correspondence with us but you should ensure that such information is only provided where it is absolutely necessary.
+Please see the section on "Surveys" for details on how Sensitive Personal Data, collected explicitly through the Pick survey tool, may be processed by Pick.
+Information we collect
+We automatically collect certain information to help analyse the Website and our service, including: technical information like the internet protocol (IP) address used to connect your computer or device to the internet, your browser type and version, time zone setting, operating system and platform; and information about your visit including the full uniform resource locators (URL) clickstream to, through and from our site (including date and time); pages you visited or searched for; page response times, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. This General Data may be used for analysing the performance of any aspect of the Website, or the Website as a whole, including split testing experiments (also known as A/B testing).
+Any phone number used to call our contact numbers, postal addresses supplied in correspondence and any email addresses used to contact us are also stored for the purposes of administration and record-keeping.
+We also collect information from the third party services outlined in this Policy.
+Pick's services and the Website are for use by members 18 years old and over only. We do not market to users under the age of 18 and do not intentionally collect data on users under the age of 18.
+Using your information
+Pick uses the information you provide largely to contact you – by email, phone or by post – in order to seek further information, to update you on any changes to our service, to send you general commercial (non-marketing) communications, to send you any communications that you have specifically requested, and to inform you of any similar or related services that we provide that we consider may be of interest to you. We may keep this information on file to record enquiries that we have received about our service, to help us to assess how effective our various marketing programs are, and to comply with any legal obligations that may be imposed upon us from time to time, such as recording your consents to Notifications.
+Pick uses the information we collect to ensure our Website and other communications with you are presented in the most effective way, to administer the Website (including troubleshooting it and carrying out testing and analysis), to ensure that our Website and other arrangements for collecting your data and communicating with you are as secure as possible and for marketing purposes.
+Sharing your information
+Pick might share your information with others, in limited circumstances, including as follows:
+We will share your information amongst Pick’s group companies (that means companies that partially own Pick or are owned by Pick) – as they may help in analysing and progressing your potential instructions.
+As mentioned above, we work closely with selected partners who may provide administrative support, who may assist in collecting and storing your information and who may assist Pick in contacting you.
+We may share information with analytics and search engine providers that assist us in the improvement and optimisation of our site. Please see the section on “Third party tracking” for details on how to opt-out where possible.
+We may need to disclose your information if required by law, if we believe that disclosure is necessary to comply with a current judicial proceeding, or a court order or legal process served on us. In the event Pick goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ your information will, in most instances, be part of the assets transferred.
+Storing your information
+Your information may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). Pick will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+All information you provide to us is stored on secure server space.
+Unfortunately, the transmission of information (in particular, via the internet) is not completely secure. Although we will do our best to protect your information, we cannot guarantee the security of data transmitted either through the Website or by post, email or phone. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+If we become aware of any unauthorised access to data submitted to us, we will contact the Information Commissioner’s Office and the individuals affected in accordance with the General Data Protection Rules.
+Links
+The Website contains links to other sites. Please be aware that Pick is not responsible for the privacy practices or content of such other sites and you should read the terms and conditions, privacy policy and cookies policy before utilising such other sites.
+If you believe that a site linked to from Pick contains improper content or is misleading in content or service, please report the URL containing the link and the URL of the link itself to our admin team.
+Account registration and fulfilment of preferences
+In order to provide a personalised experience on the Website, we store and process information related to each member’s account (‘Account Data’).
+The Account Data includes any email address and any postcode that the member has submitted to the Website. We also record the notifications preferences of each member and their individual answers to our In-house surveys on the survey draw. There are also optional settings for features on the Website such as the leaderboards, as well as advertising preferences. All of these settings can be controlled through your account page.
+The Account Data also includes how each member was referred to us (e.g. whether they conducted a Google search, clicked on an advert for Pick or were referred by an existing member or acquisition partner). This referral information will sometimes come through third parties and is used to calculate rewards for others members as well as fulfil contractual obligations we have towards third parties including acquisition partners.
+We also record the registration time and date and the internet protocol address in use by the member at the time they registered. This is recorded to demonstrate a members eligibility for the draws and assist in preventing fraudulent claims.
+We use the Account Data to customise the offers and advertisements a member may see on the Website or in notifications. This process does not involve sharing the Account Data with third parties.
+Administration of the draws
+The Website runs multiple free-to-play prize draws (‘Draws’). In order to effectively administrate the Draws, we record all results including the email addresses and postcodes of any potential winners as well as ineligible claimants registered to the site at the time of each draw. We also record the details for each prize claim, including the internet protocol address of every member making a claim. This collectively is the Draws Data and is recorded separately from the Account Data.
+The Draws Data will be safely stored on the Website, securely copied to the Website’s internal email system and copied to our external client relationship manager, which is further detailed below.
+The result of the Draws is determined by selecting the postcode of a randomly chosen member. The postcode is then displayed publicly on the Website with the potential prize pot and the number of potential claimants and number of successful claims. If you consider your postcode to be personally identifiable information when viewed on its own, please register or amend your postcode to an alternative, or withdraw from the Website. By sharing your postcode with us, you consent for us to display it as a result of the Draws.
+The records of the Draws will be kept indefinitely to provide a history of all previous Draws. This history is used internally for record keeping and available publicly as a searchable record of the Draws.
+The winning postcode is available as part of this public history, as is the amount won (including any bonus accrued by the winner) but no other Account Data (such as the name or email address of the winner) is provided.
+Email addresses recorded as part of the Draws Data will only be used to help process a successful claim or request feedback from winners of the Draws. This may be done through our external client relationship manager or require the use of a third party payment portal, both detailed below.
+Affiliate networks
+We work alongside affiliate networks to record when a member has completed an offer. These records are used to provide rewards to our members in addition to helping us track the performance of the offer. We also use the records to prevent the member claiming multiple rewards and to display the offers completed by the member on their account page.
+In order to correctly record when a member has completed an offer we share a unique identifier with the affiliate network, which they return back to us when the offer has been completed. This information is most commonly returned to us through a post-back or through a tracking pixel using the details of the offer and a unique identifier. This process is carried out securely over HTTP over TLS (HTTPS).
+The unique identifier used in this process is most likely to be the member’s person id, which is a number assigned to them upon registration. Where this is not possible the unique identifier may also take the form of an irreversibly obfuscated hash of the member’s email address. To generate the hash an email address is combined with a secret passphrase and put through the SHA-256 cryptographically secure hash algorithm, which was developed by the United States National Security Agency. The secret passphrase is random and unique for each affiliate network. The hashing is a one-way process that cannot be reversed and requires the recipient to already be in possession of the email address and secret passphrase to verify the hash.
+Some offers require a voucher code or reference in order to be eligible for the offer. Where possible we automatically share this with our affiliate networks and/or other offer partners to ensure the offer is recorded correctly and any applicable discount or favourable terms are applied for our members. Where the number of voucher codes or references are limited, this could amount to a unique identifier. As detailed above, it is possible that it could be associated with your person id but we never share your contact details or any other Account Data during this process. If you do not consent to this process, please do not take up any offer with a voucher code or reference.
+Advertisements
+Advertisements help fund the prizes on Pick, so we encourage all members to whitelist the Website when using any advertisement blocking software.
+Pick does not share any personally identifiable information it has collected about you with its advertisers, without your informed consent. When connecting you to third party services through the Website, including Pick’s advertisers, your browser will share information about the connection. This is likely to include details about your internet protocol address, the device you are using, your web browser as well as additional information that assists in the connection being made and the transmission of the requested content or advertisement. To limit this information or restrict access to third party cookies, please refer your web browser’s documentation.
+By default the only data Pick shares with advertisers or potential advertisers will be anonymous and aggregated, in order for the advertiser or potential advertiser to better understand the general demographics of Pick’s members, measure the success of different kinds of advertisements with a view to serving more appropriate adverts. None of the data shared by Pick can be used to target a specific individual.
+Pick and its advertising partners, with the exception of JW Player and Brid.tv, adhere to the Interactive Advertising Bureau’s Transparency and Consent Framework version 2.0. The details of which can be found at (https://iabeurope.eu/tcf-2-0/) (‘Consent Framework’).
+The Consent Framework helps ensure that the advertisers on the Website are lawfully processing your personally identifiable information, including any data from third party sources, when serving you advertisements.
+If you would like to see more relevant advertisements and are happy for advertisers to use third party data, including unique identifiers that may allow them to show you products or services that you have searched for or looked at on other websites, then you will need to opt-in through the consent management tool or on the account page. This functionality uses the Quantcast Consent Management Platform or the LiveRamp Privacy Manager; the currently active consent management tool will accessible from the footer of each page as well as on the account page.
+The consent management tool details the purposes your data can be used for and the different partners that are able to process your data. Both the purposes and the partners can be customised on an individual basis, allowing you granular control over how your data is used and who uses it.
+The video players featured on the video draw do not utilise the consent management tool. Your data will be stored, shared and processed in accordance with the privacy policies of JW Player and Brid.tv, linked to in the useful references below.
+To help with the selection of pre-roll advertisments displayed through the video players, Pick will use your Account Data, including your responses to the Pick survey tool, to match you to a potentially suitable advert. The processing for this takes place on the server of the Website and therefore does not share Account Data through the video players.
+The use of video players is in the legitimate interests of both Pick and its members as it helps provide a better video experience and helps generate the prizes for the video draw.
+You are free to opt-out of interest-based advertising in the video players by visiting (http://www.aboutads.info/choices).
+Useful References:
+Your Online Choices (http://www.youronlinechoices.com/uk/your-ad-choices)
+AboutAds.info (http://www.aboutads.info/consumers)
+Hoopla’s Privacy Policy (https://www.hoopladigital.co.uk/privacy-policy)
+Nativo’s Privacy Policy (https://www.nativo.com/privacy-policy/)
+Good Loop’s Privacy Policy (https://www.good-loop.com/privacy-policy)
+Brid.tv's Privacy Policy (https://cms.brid.tv/pages/view/privacy)
+Quantcast's Privacy Policy (https://www.quantcast.com/en-uk/privacy/)
+LiveRamp's Privacy Policy (https://liveramp.uk/privacy/service-privacy-policy/)
+Google's Privacy Policy (https://www.google.com/policies/privacy/)
+External client relationship managers
+In order to appropriately manage communication with our members, Pick utilises various third party tools that help better maintain our relationship with our members (‘CRMs’).
+The CRMs record all information made available through emails to and from our support team and employees, including messages sent through the Pick contact page. This includes responses to and from any such communication.
+By emailing us, responding to our emails, or contacting us through the contact page, you are consenting for these details to be stored within the CRMs indefinitely, for the purposes of record keeping and processed in order to assist with your enquiries or improve how we manage relationships with our members.
+The CRMs may contact you, but only on our behalf, examples of which are when we reply to your enquires, set up an automated response, or request feedback on how helpful our responses have been.
+Payment portals
+Pick is completely free and does not receive payments from its members. Payment portals, such as Paypal, are used to facilitate the payment of prizes or rewards. All payment portals will require some unique personally identifiable information, such as an email address or bank account number, in order to get the payment to the appropriate recipient.
+By making a claim or supplying us with these details, you consent for us to use them in order to make such payments and to store them indefinitely as a record of the prize and related payment.
+Email verification
+When joining Pick or updating your contact details, we send an email to your email address to verify that the address is correct and active.
+We also receive information from a third party that provides automated verification of your email address and determines whether the email address is active, disposable or if it is a role address (a generic address such as sales@ or admin@).
+The third party does not contact you or store any of your personal information in this process. The verification process is conducted through your email service provider.
+Brite Verify's Privacy Policy (https://www.briteverify.com/privacy)
+Social media sharing
+On most pages the Website has buttons that allow you to share its content on social media sites. Please do not use this service if you do not agree with the terms and conditions or privacy policies (or equivalents) of the social media sites you are sharing to.
+Pick reserves the right to collect information you publicly share to social media sites for republication. Where possible Pick will republish this information through the services provided through the social media site. This will allow you to control the shared information through your social media site account.
+We also may collect and store any content you make available through the public comments on the Facebook commenting system.
+Notifications
+When registering an account with Pick or changing the email registered on your account, we will send you an email asking you to verify that the email address is real. We will also send you an email when you initially complete this verification process, confirming your participation in the Draws.
+We will also send you emails in response to any enquiries you send to us, or as part of processing prizes or payments or otherwise administering claims.
+We may also email you if there are changes to our terms and conditions, this privacy policy or our cookies policy, that are likely to effect the majority of our members.
+We will also email you after an extended period of your account being dormant, giving you an opportunity to unsubscribe from future notifications or delete your account with us. Removing your account helps protect your data.
+You will also have the option to receive the following emails from us:
+Daily reminders
+The daily reminder emails are there to help ensure you never miss out on a prize. Pick will send you one email a day to remind you to check the Website for the new results. The daily reminder emails also include daily offers (see below for details).
+Newsletter and important updates
+The newsletter and important updates emails will contain general information about Pick, the Website and its content. Examples of the features we regularly include are luckiest regions, interviews with the Pick team and messages from recent winners. We expect to send one newsletter a month. Examples of important updates will include announcements of new features on the Website, such as new Draws or other competitions run by Pick.
+Deactivation emails
+Deactivation emails are sent to warn users before they become ineligible to claim prizes in the Draws. They do not contain any third party marketing and are sent on a weekly basis.
+Bonus offer confirmation emails
+These are transactional emails that confirm when you've completed a bonus offer on the site and include links to other bonus offers you may like to consider.
+Messages from our trusted partners
+We do not currently have any trusted partners directly emailing our members.
+If you are happy to receive emails direct from our trusted partners, you can register your interest by consenting to the relevant opt-in on the account page. We will then email you or inform you through the Website when a trusted partner has requested to get in touch with you directly. This request can be accepted or declined. This request will also detail any general demographic information that the trusted partner would like to receive about you and why.
+By accepting the request, you consent for us to share your email address and any demographic information outlined in the request with the designated trusted partner. No information will be shared should you choose to decline the request.
+Offers and advertisements in our emails
+Pick will take reasonable care to only include offers in our emails that are in-keeping with the tone and content of the Website. The offers will be in the following areas of interest:
+Baby
+Beauty
+Entertainment
+Fashion
+Finance
+Food & Drink
+Health & Fitness
+Home & Garden
+Kids
+Learning
+Pets
+Sports & Outdoors
+Technology
+Travel
+Our emails may also include advertisements provided by LiveIntent, which are subject to their privacy policy at (https://liveintent.com/services-privacy-policy/).
+In order for LiveIntent to display content through our emails, Pick generates a unique identifier and shares it with LiveIntent. By default this identifier is generated at random, ensuring a different identifier is used for each email that we send. Using a random identifier limits the data LiveIntent is able to process and will prevent them from personalising advertisements in subsequent emails. If you would like to see more relevant advertisements from LiveIntent, you can opt-in to personalisation from your account page.
+Tracking our emails
+In order to better manage the emails we send to you, we collect data to see which emails to our members have been delivered, rejected, marked as spam/junk, opened and/or clicked on. To reduce the likelihood of Pick sending unwanted emails, we also work with third party mail providers that support feedback loops. Feedback loops let us know when you've clicked on the unsubscribe link or have marked us as junk or spam in an email application, so that we can automatically unsubscribe you and prevent you from receiving further emails.
+Contact numbers, phone calls and SMS
+We do not collect landline phone numbers or mobile phone numbers from our members. We may store contact numbers you have sent to us as part of correspondence, but we will not contact you unless you have specifically requested it.
+Surveys
+The Website uses surveys to help us better understand our members and help generate revenue to pay for the prizes. All surveys are optional. By taking part in a survey you agree for your data to be used as detailed below for each of the survey tools use across the site.
+Pick survey tool
+The Pick survey tool is used to collect surveys on behalf of the Website and our sister site, Find Out Now (https://findoutnow.co.uk). These are referred to as ‘In-house surveys’. To confirm a survey is an In-house survey, click on the ‘about your data’ link above the survey. If this opens a notice that confirms ‘Your data is being gathered by PMP’ the responses are being given for an In-house survey.
+No personally identifiable information will be shared with third parties when taking part in an In-house survey, but we may generate and share summaries of the responses as part of an anonymous and aggregated report.
+The Website also uses the Pick survey tool responses to customise the offers and adverts seen by members on the Website and in Notifications.
+The Website may use the Pick survey tool to request information that is considered Sensitive Personal Data. Responding to such requests is not required for participation in the draws and is done at the discretion of the member.
+Pick will not use any Sensitive Personal Data to customise the adverts on the Website, or share any Sensitive Personal Data with third parties without explicit consent from the member.
+Pick may process Sensitive Personal Data to help segment anonymous and aggregated reports, or assist in keeping reports demographically representative of a particular country or region.
+Pick may also process Sensitive Personal Data to present members with opportunites to participate in surveys through the Pick survey tool or other third party survey companies. Where possible, Pick will notify the member of the Senstive Personal Data being processed to present the opportunity and confirm if the Sensitive Personal Data will be automatically deleted when the study is complete.
+If the Pick survey tool is collecting personally identifiable responses on behalf of third parties, the ‘about your data’ notice will default to be open without the need for you to click on the ‘about your data’ link. The notice will confirm who the data is being collected on behalf of, how the data will be used and link to the relevant privacy policy. The data being shared with the third party will be limited to the responses to the question within the survey. Additionally, the Website will store and be able to process this data in the same way as In-house surveys.
+The Website will also pass the data collected in the responses to the third party stated in the ‘about your data’ notice, but will not share any Account Data with the third party unless it forms part of the freely given survey response.
+Any answers you supply to us through the Pick survey tool can be viewed, updated, and deleted on your account page.
+Where responses have been collected and shared to a third party, the account page will show a link the third party’s privacy policy to help the member view, correct or delete their responses with the third party.
+Please note this facility is only available where personally identifiable data (such as an email address) or a unique identifier (such as a user id) has been shared with the third party. Anonymous and aggregated statistics cannot be associated with an account and therefore cannot be amended or deleted.
+Members are free to skip surveys they do not wish to answer. Skipping will reveal the survey draw result.
+Matched Surveys
+The Website has integrations with various third party survey companies ('Survey Partners') that enable members to be matched to survey opportunities.
+In order to match a suitable survey to the member, the Website will compare the member's Account Data to the requirements of the currently available survey opportunities from each of our Survey Partners. The processing for this comparison takes place on the server of the Website and therefore does not share the member's Account Data with the Survey Partners.
+When a survey opportunity is successfully matched to a member, the member is presented with an external link to participate in the survey. The member will also see an overview of the information, or where this is not possible, part of the information, that led to the match. The member will also be told which of the Survey Partners is conducting the Matched Survey.
+The Website does not share the member's email address, postcode or the information that led to the Matched Survey with the Survey Partners. Instead the member is asked to complete this information as part of the Matched Survey and submit the information direct to the Survey Partners. This allows the member full control over the data shared with the Survey Partners.
+Once a member has followed the external link to a Matched Survey, the Survey Partners will become a data controller in their own right and participation will be governed by the terms and policies they set out.
+The Survey Partners may also maintain a profile of the member based on the member's previous answers to Matched Surveys.
+By following the link to participate in the survey, the Survey Partners may be able to infer or guess information about the member. For example a survey targeted at women with pet cats is likely to be presented only to women with pet cats.
+The Website will share a unique identifier with the Survey Partners to enable the member to enforce their data rights with the Survey Partners, and also to apply any incentives due to the member for their pariticipation in the Matched Survey. This unique identifier will vary for each of the Survey Partners.
+The Website is currently working with the following Survey Partners:
+Cint
+Cint's Panelist's terms (https://www.cint.com/panelist-terms) and Panelist's Privacy Policy (https://www.cint.com/panelist-privacy-policy)
+Samplicio.us
+Samplicio.us' terms (https://samplicio.us/s/general-terms/)
+Google Consumer Surveys
+The Google Consumer Survey tool (‘GCS’) is used to collect survey responses to enable Google to provide aggregated data to the third party Google are collecting responses for.
+In contrast to the other survey tools, the GCS tool will be branded with Google’s name and/or trademark. It also links to further information about the survey and a copy of the relevant privacy policy.
+The Website will never receive a copy of the individual responses given through the GCS tool. The Website will receive aggregated and anonymous data for surveys it is conducting through the GCS tool.
+Pick is not a data controller or data processor of the information a member provides to the GCS tool. Please read through the links to further information and privacy policy supplied on the GCS tool survey before submitting any responses.
+Members are free to ask for a different question or skip this process by clicking on the links provided. Skipping will show the survey draw result.
+Pollfish
+Pollfish is a third party online survey platform allowing other third parties to collect responses to surveys.
+In contrast to the other survey tools, the Pollfish surveys shown on the Website will state they are from Pollfish and members will be asked to ‘take part now’ before being shown the content of the Pollfish survey.
+The Website will never receive a copy of the individual responses given through the Pollfish survey tool.
+The Website will receive aggregated and anonymous data for surveys it is conducting through Pollfish. The Website will also receive a confirmation from Pollfish when a Pollfish survey has been completed or the responding member has been screened out. This confirmation is used to provide a reward to the member and does not contain any details of the survey response.
+Pick is not a data controller or data processor of the information a member provides to the Pollfish survey tool. Please do not submit responses to Pollfish unless you agree to its terms and conditions (including privacy policy) available at (https://www.pollfish.com/terms/respondent).
+Members can opt-out of Pollfish surveys by following the instructions at (https://www.pollfish.com/respondent/opt-out).
+Please also carefully consider the following information Pollfish have requested we incorporate into this Privacy Policy:
+Pollfish is a third party on-line survey platform, through which, anyone may conduct surveys. Pollfish collaborates with Developers of applications for smartphones and website owners in order to have access to users of such applications/websites and address survey questionnaires to them.
+This website uses and enables Pollfish cookies. When a user connects to this website, Pollfish detects whether the user is eligible for a survey. Data collected by Pollfish will be associated with your answers to the questionnaires whenever Pollfish sends such questionnaires to eligible users.
+For a full list of data received by Pollfish through this website, please read carefully Pollfish respondent terms located at https://www.pollfish.com/terms/respondent. By using this website you accept this privacy policy document and you hereby give your explicit consent for the placement of a Pollfish cookie in your system and the processing by Pollfish of the aforementioned data.
+Furthermore, you are informed that you may disable Pollfish operation at any time by using the Pollfish “opt out section” available on Pollfish website or by disabling “third party cookies” from your browser’s settings. The prizes on offer through Pollfish are administered solely by Pollfish and are
+Apple, Google and Amazon are not a sponsor nor are involved in any way in the Pollfish contest/draw. No Apple products are being used as prizes.
+Prodege
+Prodege is a third party on-line survey platform, through which anyone may conduct surveys. Unlike the Matched Surveys, Pick are unable to anonymously match members to surveys provided through Prodege.
+If a member agrees to access surveys through Prodege, the Website will create an identifier that connects the account of the member to an account with Prodege. This requires Pick to share basic details about the member with Prodege, including the member's country, gender, age, region, household income and postcode. Prodege will also process the member's IP address when the accounts are initially connected and when the member complete a survey by Prodege.
+Connecting accounts allows Prodege to show members relevant survey opportunities and inform Pick when a members completes a survey or has been screened out. This is to enable Pick to credit the member with a reward, such as PMP bonus.
+The responses given to Prodege's surveys are not automatically shared with the Website, but Pick may have access to answers for the purposes of improving the integration with Prodege, to resolve conflicting answers or to improve the way surveys are matched to members. Responses given to Prodege will not be used to personalise the adverts on the Website.
+By opting-in to see survey opportunities from Prodege, members are agreeing to the following:
+Prodege's Terms of use: ( https://www.prodege.com/terms-of-use-intl/ )
+Prodege's International Privacy Policy: ( https://www.prodege.com/privacy-policy-intl/ )
+Third party tracking
+The Website shares limited information with third parties, including search engines, social media websites, analytics services, affiliate networks and acquisition partners to help monitor traffic to the Website and understand where our visitors are coming from and how they are using the Website. This information is typically used to measure the success of different keywords in search engines, monitor the advertisement of our own services on other website, reward affiliates and acquisition partners making referrals to the Website or record analytics on how the Website is being used, which includes recording information that allows us to recreate a simulation of a visit to the Website.
+The information shared is limited to the details of the keywords or advertisement and may include the use of a referral id and/or temporary unique identifier. It will also include the information required to make a connection, including your internet protocol address at the time the connection is made as well as details about your device and browser.
+The third party tracking services will share aggregated and anonymous data with us, to help us better understand our users and measure success. In the case of Google Analytics, this includes general demographic data.
+Google Analytics
+Google Ad Services
+Twitter
+Facebook
+Bing
+Tradedoubler
+Hotjar
+You can opt-out of Google Analytics tracking by installing the opt-out tool available at
+(https://tools.google.com/dlpage/gaoptout?hl=en-GB)
+Please note this will opt-out of Google Analytics for all websites you visit for as long as the tool is active.
+To prevent us from recreating a simulation of your visits to the Website, you can opt-out of Hotjar's analytics by following the guidance at
+(https://www.hotjar.com/legal/compliance/opt-out)
+Enhanced Recognition
+Enhanced recognition is an opt-in feature that allows the Website to match a hashed and de-identified version of your email address (a 'Hash') with our partners.
+Each Hash is unique and cryptographically secure and cannot be reversed without your email address, so our partners won't be able to use the Hash to contact you.
+Our partners will use the Hash to set cookies on the devices you use when visiting the Website. They may also record other technical information about your visit, such as your IP address or information about your browser or operating system.
+The Hash is just a unique identifier to help our partners, and the companies they work with, to organise and process data from a wide variety of sources. The data will be used to give you a more customised ad experience here, across the web, and across your devices.
+Whilst easy to remove, temporary identifiers such as cookies, may make it difficult for you to enforce your data rights, especially in cases where the identifier has been deleted. Enhanced recognition solves this problem as the Hash can be regenerated if deleted and can easily be verified by a data controller with only your email address.
+You can opt-in to enhanced recognition through the LiveRamp Privacy Manager, which controls your advertising preferences. The Website will prompt you with a confirmation before enabling enhanced recognition for the first time. You can then control your settings from the privacy section of the account page.
+We support enhanced recognition with the following partners:
+LiveRamp Inc
+LiveRamp's Privacy Policy can be viewed at: (https://liveramp.uk/privacy/service-privacy-policy/)
+You can opt-out of LiveRamp's services, or make subject access requests by visiting: (https://your-rights.liveramp.uk/home)
+Changes
+Pick will occasionally update this Privacy Policy to reflect company and customer feedback. Pick encourages you to periodically review this Privacy Policy to be informed of any changes to how we deal with your information. To help you in doing so, the version and date of this policy are stated below.
+This Policy was last updated:
+Monday, 19th July, 2021
+Policy Version:
+2.4.0
+Your rights and our details
+You have the right to access and update the personal data we hold about you and the right to understand how it is being processed, used and shared.
+You also have the right to delete personally identifiable data we hold about you, except where previously outlined in this Policy or as required by law.
+You can exercise these rights at any time by visiting the account page or by sending us details of your subject access request, including your registered postcode and email address, to our Data Protection Officer.
+We aim to respond to subject access requests within 28 days, starting the next working day (Monday through Friday, excluding bank holidays) following receipt of the request.
+If you are unhappy with anything related to the personal data you have shared with Pick, you have the right to make a complaint to our Data Protection Officer, or the Information Commissioner’s Office (https://ico.org.uk/concerns/).
+Our Data Protection Officer can be contacted through email or post as below.
+Email address:dpo@pickmypostcode.com
+Postal address:
+Data Protection Officer
+Pick Media Ltd
+Floor 3, C/O Filmlondon
+The Arts Building
+Morris Place
+London
+England
+N4 3JG
+The admin team are happy to help, so if you have questions about this Policy please read through the Frequently Asked Questions or email admin@pickmypostcode.com before contacting the Data Protection Officer.
+Pick Media Ltd trading as Pick My Postcode and PickMyPostcode.com, registered in England, company number 06377138.
+Registered with the Information Commissioner’s Office as a Data Controller, registration number Z2763081.
+Join the UK's biggest FREE daily lottery
+Sign in
+Not a member? Sign up
+Sign me up
+Your postcode
+Your email address
+Don’t worry, we’ll never pass this on.
+I agree to all the Legal Stuff.
+Join us today for free
+Already a member? Sign in
+Legal Stuff
+Pick My Postcode is completely free and we never sell your personal data or pass on your email address unless you tell us to.
+You'll need to be 18 to play and have a UK postcode.
+All we ask is that you check the draws personally and keep it to one entry per person.
+By playing you accept our full terms and conditions, agree to our privacy policy and consent to our use of cookies too.
+Accept T&Cs
+Full T&Cs
+Privacy Policy
+Cookies
+These terms (the “Terms of Website Use”) set out the terms on which you may use the Website whether as a guest or a registered user. Use of the Website includes accessing, browsing, or registering to use the Website. It is recommended that you print a copy of the Terms of Website Use for future reference.
+By using the Website, you confirm that you are at least 18 years old, accept these Terms of Website Use and that you agree to comply with them. You further confirm that your use of the Website shall be in compliance with all relevant laws and regulations applicable to you in the United Kingdom or elsewhere.
+If you do not agree to the Terms of Website Use, you must not use the Website.
+If you have any questions about the Terms of Website Use, please email our customer service team at admin@pickmypostcode.com
+Definitions
+The definitions set out in this clause shall apply to the Terms of Website Use (except where the context otherwise requires):“Intellectual Property Rights” means patents, inventions, registered designs, copyright, database rights and design rights, trade marks, service marks, logos, domain names, business names, trade names, moral rights, and all registrations or applications to register any of the aforesaid items in any country or jurisdiction.
+The “Website” means the website at https://pickmypostcode.com and includes any notifications, such as emails, you have subscribed to.
+Information about us
+The Website is operated by Pick Media Ltd. (“Pick”); a company registered in England and Wales under company number 06377138, at Floor 3, C/O Filmlondon The Arts Building, Morris Place, London, England, N4 3JG.
+Changes to these terms
+Pick reserves the right to amend the Terms of Website Use at any time by amending this page. New versions of the Terms of Website Use will be effective from the date on which they are posted on the Website. Where substantive changes are made to these Terms of Website Use, users who have registered to use the Website and provided valid e-mail addresses will be sent e-mail notifications notifying them of such changes, or otherwise notified through the messaging system on the Website.
+You agree that you will check the Terms of Website Use each time that you use the Website to ensure that you are aware of the version in force during your visit.
+These Terms were last updated: Tuesday, 28th April, 2020
+Terms of Website Use Version: 2.1.0
+Changes to the Website
+Pick reserves the right to update the Website from time to time, and to remove, add, or change its content and/or functionality at its sole discretion.
+Accessing the Website
+The Website is made available for use free of charge.
+Pick makes no guarantee that the Website, or any aspect of it, will always be available or that access to it will be uninterrupted. Pick shall have no liability for any inability of any user to access the Website for any reason, whether or not caused by any fault of Pick.
+Pick reserves the right to suspend, withdraw, discontinue or change any aspect of the Website without notice. Pick will not be liable to you for any reason if the Website is unavailable at any time or for any period.
+The Pick My Postcode draws and other Competitions
+If you create an account to use the Website, you will be able to enter free prize draws offered by Pick (each a “Competition” and together the “Competitions”).
+All Competitions offered by Pick via the Website are free prize draws; these prize draws are not licensable gambling or betting services and are not regulated by the Gambling Commission. By entering any Competition you accept that you are entering into an arrangement solely between you and Pick, and that you will have no right to appeal to or otherwise involve the Gambling Commission (or any other third party) in the event of any dispute.
+All Competitions will operate as described in the relevant section of the Rules. Before entering a Competition you warrant that you will read the relevant section of the Rules to familiarise yourself with the way in which that Competition will be run.
+You agree that, in the event of any dispute as to the winner of a Competition, Pick shall have sole authority to decide which, if any, party is the winner of any Competition. You further accept that Pick shall be under no obligation to enter into any correspondence with users in relation to any dispute.
+Certain Competitions offered via the Website provide users with a limited window of opportunity in which any prizes that they may win. By entering such Competitions you specifically acknowledge that you will forfeit your right to any prize that you may become entitled to but subsequently fail to claim during the relevant window.
+In instances where a user submits more than one entry to a single Competition, either by design or through error, Pick reserves the right to declare all entries made by that user to the relevant Competition as invalid and void.
+If Pick considers that multiple accounts on the Website have been opened by, or are being operated by, one person, all such accounts shall be terminated and all entries by the accounts’ owner will be declared void and disqualified from participating in the Competitions or receiving any prizes
+Any user that amends their personal details (including without limitation their Email, Postcode, First Name, Last Name, or Mobile Number) during a Competition may have their entry submission declared null-and-void if it is believed to be an attempt to manipulate, evade or circumvent the relevant Rules or the terms of these Terms of Website Use.
+Your account and password
+If you are provided with a user identification code, password or any other piece of information as part of our security procedures for any reason, you must treat that information as confidential and refrain from disclosing it to any third party.
+If you know or suspect that anyone other than you knows your user identification code or password, you must promptly notify us at admin@pickmypostcode.com.
+Pick reserves the right to refuse service to you, and to terminate your user account, or to block or suspend access to the Website, at its sole discretion.
+Pick has the right to disable any user identification code or password, or to terminate any individual user account, whether chosen by you or allocated by us, at any time, if in our reasonable opinion you have failed to comply with any of the provisions of the Terms of Website Use or of the Terms and Conditions.
+If you create any user account on the Website, you accept that it is your responsibility to keep its details valid and up-to-date; Pick shall have no liability for your failure to update your profile details in this fashion.
+You accept that you will have sole responsibility for any content that you publish or display on the Website or that you transmit to other users using your account. You undertake and warrant that you shall not upload to the Website or App any material which you do not have full right and permission to so upload, or that the upload of would breach the intellectual property rights of any third party.
+Content on the Website may include stated facts, views, opinions, advice and recommendations posted by other users. You accept that these views, opinions, advice and recommendations are not endorsed by Pick and, to the maximum extent permitted by law, Pick excludes all liability that may arise as a result of the accuracy, defamatory nature, completeness, timeliness or other defect in the information provided on the Website.
+Intellectual property rights
+Pick is the owner or the licensee of all of the Intellectual Property Rights in the Website, and in the material published on it. All relevant rights are reserved. Nothing in this Agreement, or in your use of the Website more generally, shall serve to transfer any Intellectual Property Rights from Pick to you, nor to generate any right on your behalf over or in any such Intellectual Property Rights owned or licensed by Pick.
+You hereby grant Pick a perpetual, irrevocable, royalty-free, non-exclusive, worldwide licence to use, in any fashion it sees fit, all Intellectual Property Rights inherent in any content or material that you upload or post to the Website. You undertake that you will not upload to the Website any content or material that breaches the Intellectual Property Rights of any third party and undertake to indemnify and hold harmless Pick against any breach by you of this.
+You may print off one copy, and may download extracts, of any page from the Website for your personal, non-commercial use.
+You must not modify the paper or digital copies of any materials you have printed off or downloaded in any way, and you must not use any illustrations, photographs, video or audio sequences or any graphics separately from any accompanying text.
+Pick's status (and that of any identified contributors) as the authors of content on the Website must always be acknowledged by you.
+You must not use any part of the content on the Website for commercial purposes without obtaining a licence to do so from Pick. Commercial use includes any downloading or copying of account or professional information, or other material or information for the benefit of another enterprise or competitor.
+The use of any data mining tools (which may, amongst other terms, be referred to as ‘robots’, ‘spiders’ or ‘web crawlers’) or any other similar data-gathering or extraction tools on the Website is expressly forbidden.
+Unauthorised use of the Website's application programming interface ('API') is strictly prohibited and may result in your access to the Website being revoked.
+If you print off, copy or download any part of the Website in breach of these Terms of Website Use, your right to use the Website will cease immediately and you must, at our option, return or destroy any copies of the materials you have made.
+No reliance on information
+The content on the Website is provided for your information only. It is not intended to amount to advice (legal, professional, or otherwise) on which you should rely. You agree that you will obtain professional or specialist advice before taking, or refraining from, any action on the basis of the content on the Website.
+Although Pick makes reasonable efforts to update the information on the Website, it makes no representations, warranties or guarantees, whether express or implied, that the content on the Website is accurate, complete or up-to-date. This includes, but is not limited to, information associated with the bonus offers featured on the Website.
+The Website may be accessible from jurisdictions other than the United Kingdom and Northern Ireland; however, nothing on the Website shall imply that any product or service offered therein is being offered for sale, or shall be in any way available, outside of the United Kingdom and Northern Ireland.
+Limitation of liability
+Nothing in these Terms of Website Use excludes or limits Pick's liability for death or personal injury arising from negligence, or fraud or fraudulent misrepresentation, or any other liability that cannot be excluded or limited by English law.
+To the extent permitted by law, Pick excludes all conditions, warranties, representations or other terms which may apply to the Website or any content on it, whether express or implied.
+Pick will not be liable to any user for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with:
+use of, or inability to use, the Website; or
+use of or reliance on any content displayed on the Website.
+Please note that Pick provides the Website only for domestic and private use. You agree not to use the Website for any commercial or business purposes, and Pick have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity.
+Pick will not be liable for any loss or damage caused by a virus, distributed denial-of-service attack, or other technologically harmful material that may infect your computer equipment, computer programs, data or other proprietary material due to your use of the Website or to your downloading of any content from it, or on any website linked to it.
+Viruses
+Pick does not guarantee that the Website will be secure or free from viruses or other malicious, harmful third-party software.
+You are responsible for configuring your information technology, computer programmes and platform in order to access the Website. You should use your own virus protection software and it is your responsibility to install and configure such software before accessing the Website.
+You must not misuse the Website by knowingly introducing viruses, trojans, worms, logic bombs or other material which is malicious or technologically harmful. You must not attempt to gain unauthorised access to the Website, the server on which the Website is stored or any server, computer or database connected to the Website. You must not attack the Website via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you may be committing a criminal offence under the Computer Misuse Act 1990 or similar legislation. Pick will report any such breach to the relevant law enforcement authorities and will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use the Website will cease immediately.
+Linking to the Website
+You may link to the Website, provided you do so in a way that is fair and legal and does not damage Pick's reputation or take advantage of it, but you must not establish a link in such a way as to suggest any form of association, approval or endorsement by Pick without its express permission. The Website must not be framed or reproduced on any other website, nor may you create a link to any part of the Website other than the home page at https://pickmypostcode.com. Pick reserves the right to withdraw linking permission for any reason without notice or explanation, and such right shall be deemed to be automatically withdrawn without notice if you breach the Terms of Website Use.
+Third party links and resources in the Website
+Where the Website contains links to other sites and resources provided by third parties, these links are provided for your information only. Pick has no control of the information on third party websites and accepts no liability for loss or damage which might arise as a result of your use of them. When accessing any third party website we advise you to check its terms and conditions and privacy policy in full before using it.
+Communication and Notices
+By accepting the Terms of Website Use you acknowledge that you consent to receive all communications or notices pertaining to the Terms of Website Use by e-mail or via the Website, and that for the purposes of this agreement all such communications from Pick to you shall be considered to be written communications.
+Applicable law
+Please note that these Terms of Website Use, its subject matter and its formation, are governed by English law. You agree that the courts of England and Wales will have exclusive jurisdiction.
+Accept T&Cs
+Privacy
+A summary of how we collect, store and use your data
+When it comes to your personal data, Pick My Postcode operates on three very simple principles:
+We won’t sell your personal information to others without asking you directly;
+We won’t share your contact details without your explicit permission, so the emails you’re agreeing to receive up to will only be coming from us;
+We will follow industry practices to secure your data and always take our responsibilities as a data controller seriously;
+In order to run the Website effectively, we collect information from various sources, including third parties. This information may be collected automatically, such as when you visit the site, or explicitly, such as when you answer questions or surveys or set your preferences.
+We utilise this information to:
+Improve your experience on the Website, by giving you control over your settings and preferences and by providing more relevant advertisements and offers.
+Measure, fix and improve the Website’s performance.
+Monitor the use of the Website for a wide range of purposes, including the provision of rewards to our members, the prevention of suspicious or fraudulent claims and recording statistics that help PMP run more successfully as a business.
+Share anonymous and aggregated statistics between our trusted partners including our advertisers, affiliates, acquisition partners, survey participants and monitoring services.
+Connect with third party services including social media companies and survey tools.
+Contact you, but only where you have consented or requested that we do so.
+If you'd like to know more, please read our full privacy policy, or close this.
+Cookies
+A summary of how we use cookies
+Cookies are small ‘packets’ of data downloaded to your computer help us operate the Website. We use them to improve or change your experience on the Website, distinguish you from other users and help set your preferences. We set the cookies that do this and .
+The website also uses cookies set by third parties to help monitor traffic to the website and understand where our visitors are coming from. This includes cookies set by Google (including Google Analytics), Bing, Facebook, Twitter and Tradedoubler.
+To learn more or set your cookies preferences, please read our full cookies information, or close this.
+Main Draw
+Video Draw
+Survey Draw
+Stackpot
+Bonus Draw
+Rules
+Winners Results
+Referrals
+Bonus leaderboard
+Blog
+FAQ
+My Account
+Be our friend
+Terms & Conditions
+Privacy policy
+Cookies policy
+Advertising Preferences
+You must be 18 or over to play.
+Pick My Postcode is proud to be a completely free alternative to gambling.
+If gambling is a problem for you or your family contact www.BeGambleAware.org for confidential advice and support.
+Pick Media Ltd trading as Pick My Postcode and PickMyPostcode.com, Registered in England No. 06377138
+© 2021 Pick My Postcode.
+All rights reserved. Registered under the Data Protection Act. Registration No. Z2763081
