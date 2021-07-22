@@ -1,3 +1,6 @@
+'''
+makes API requests to Alexa, and store results in site_data
+'''
 import pandas as pd
 
 country_list = ['GB']
