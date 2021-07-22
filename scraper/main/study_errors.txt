@@ -13,8 +13,7 @@ Getting policy for https://www.gov.uk
 Getting policy for https://livejasmin.com
 
 Getting policy for https://itv.com
-Message: The element reference of <a class="cp_link cp_footer__link" href="/privacy"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
- https://itv.com Error: at choosen_button
+Message: The element reference of <a class="cp_link cp_footer__link" href="/privacy"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed https://itv.com Error: at choosen_button
 
 Getting policy for https://zoom.us
 Scrapper has found several privacy buttons for https://zoom.us
