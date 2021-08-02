@@ -1,0 +1,322 @@
+Cookie consent | Zoopla
+Skip to main contentMenuSign inSign inSign inSaved propertiesSaved propertiesMy HomeSign inMy ZooplaAlerts and searchesEmail preferencesSettingsSign outSign inSaved propertiesSaved propertiesMy HomeSign inMy ZooplaAlerts and searchesEmail preferencesSettingsSign outMy ZooplaAlerts and searchesEmail preferencesSettingsSign outFor saleUK property for saleUK new homes for saleUK commercial property for saleUK estate agentsTravel time searchDraw a map searchOverseas property for saleTo rentUK property to rentUK commercial property to letUK letting agentsTravel time searchDraw a map searchHouse pricesUK house prices & valuesHow much is my home worth?New homesUK new homes for saleUK new build developmentsHelp to buyShared ownershipRetirementCommercialUK commercial property to letUK commercial property for saleUK commercial agentsOffice space calculatorOverseasOverseas property for saleOverseas agentsCurrency zoneNews and guidesProperty newsProperty guidesBuying property guidesRenting property guidesTreehouseFind agentsI need an agentUK estate agentsUK letting agentsUK commercial agentsOverseas agentsAward winning agentsGet agent valuationI'm an agentStart listing with ZooplaLogin to ZooplaPro
+Zoopla's Cookie Policy
+We use cookies and similar technologies on our websites and apps.
+A cookie is a piece of information placed on your device to remember something about you or your device. We use cookies to distinguish you from other users and to remember your preferences and to help us make your experience of our websites and apps better. We also use cookies to show you tailored adverts (including on other websites) which are more relevant to your interests.
+Without these cookies, you will see advertising, but they may be irrelevant to you. We need to use some ‘Necessary’ cookies to make our website work, and you can’t turn these off here. For others, you can choose which categories we use by adjusting your preferences below.
+You can find out more about cookies by visiting www.allaboutcookies.org and www.youronlinechoices.eu.
+Your cookie preferences
+We use cookies and similar technologies to improve your Zoopla experience, display advertising more relevant to you and allow you to sign into Zoopla with your social media accounts.
+You can use the settings below to accept all cookies (which we recommend to give you the best personalised online experience) or to enable specific categories of cookies. You can change your settings at any time by returning to this page.
+Accept all cookies
+Necessary
+Tailored advertising
+Personalised experience
+Save my preferences
+Accept all cookies
+Categories of cookies
+Necessary
+We need to use some cookies to make our website work properly and enable you to use all its functions such as the mortgage calculator, and you cannot turn them off on our website but if you disable these cookies in your browser settings, our websites and apps will not work correctly. We also use some cookies that let you use your social media details to log in to your account, and to count visitors to our website and where they most like to go on the site. This helps us to improve its overall functionality and to get paid by advertisers given we provide our services to our visitors without requesting payment from them.
+Name:
+abext
+Purpose:
+Used by the tech team to release new website functionalities in a staged approach.
+Duration:
+3 months
+Name:
+affordabilityCalculator
+Purpose:
+Used to preserve the values you input to the affordability calculator between rental property listings.
+Duration:
+Forever
+Name:
+affordabilityCalculator
+Purpose:
+Used to preserve the values you input to the affordability calculator between rental property listings.
+Duration:
+1 year
+Name:
+alertsPopupClose
+Purpose:
+Used to remember not to prompt you to setup an email alert while viewing search results.
+Duration:
+Session
+Name:
+backToSearchData
+Purpose:
+Used by "Back to search results" functionality.
+Duration:
+Forever
+Name:
+cd_user_id
+Purpose:
+Strictly necessary cookie for lead-sending users.
+Duration:
+1 year rolling
+Name:
+customFontsLoaded
+Purpose:
+Used to load the website's custom fonts.
+Duration:
+Session
+Name:
+filter_results_tooltip_dismissed
+Purpose:
+Used to remember you've dismissed the filter tooltip.
+Duration:
+1 year
+Name:
+lsrp-last-search
+Purpose:
+Used to store previous search query to automatically populate filters when returning to search results.
+Duration:
+1 year
+Name:
+lsrpCollapseState.for-sale
+Purpose:
+Used to remember filters that you have selected in the collapsed filter drawer.
+Duration:
+Session
+Name:
+mortgageCalculator
+Purpose:
+Used to preserve the values you input to the Mortgage Calculator between "for sale" property listings.
+Duration:
+Forever
+Name:
+mortgageCalculator
+Purpose:
+Used to preserve the values you input to the Mortgage Calculator between "for sale" property listings.
+Duration:
+1 year
+Name:
+remortgageCalculator
+Purpose:
+This cookie is used to preserve the values you input to the Re-mortgage Calculator between properties in the "home values" section.
+Duration:
+Forever
+Name:
+remortgageCalculator
+Purpose:
+This cookie is used to preserve the values you input to the Re-mortgage Calculator between properties in the "home values" section.
+Duration:
+1 year
+Name:
+srpViews
+Purpose:
+Stores the number of times you have visited the search results page.
+Duration:
+Session
+Name:
+page_after_login
+Purpose:
+Used to remember you have logged in.
+Duration:
+Forever
+Name:
+site_name
+Purpose:
+Determines which Zoopla site to load based on the site name.
+Duration:
+Forever
+Name:
+cookie_consents
+Purpose:
+Used to remember your cookie category preferences.
+Duration:
+1 year
+Name:
+cookie_consents_history
+Purpose:
+Used to remember your cookie category preferences.
+Duration:
+Forever
+Name:
+debug
+Purpose:
+Used to debug technical issues.
+Duration:
+Forever
+Name:
+zooplasid
+Purpose:
+Responsible for session-specific functionalities such as returning a confirmation message after you have sent an enquiry to an agent/developer and for maintaining your logged-in status.
+Duration:
+Session
+Name:
+zpg_app_wrapper
+Purpose:
+Related to the use of the Zoopla mobile apps.
+Duration:
+1 year
+Name:
+zpg_force_mobile
+Purpose:
+Allows a user to use the desktop version on a mobile device.
+Duration:
+1 hour
+Name:
+zooplapsid
+Purpose:
+Retains some key user preferences such as recent searches and back to search. Set when logged in.
+Duration:
+1 year
+Name:
+zpg_use_ww2_fa_contact
+Purpose:
+Used to record the value of an A/B test to do with contacting an agent
+Duration:
+2 months
+Name:
+iterableEndUserId
+Purpose:
+Used for analysing the outcomes of email marketing campaigns
+Duration:
+1 year
+Name:
+iterableEmailCampaignId
+Purpose:
+Used for analysing the outcomes of email marketing campaigns
+Duration:
+24 hours
+Name:
+iterableTemplateId
+Purpose:
+Used for analysing the outcomes of email marketing campaigns
+Duration:
+24 hours
+Name:
+iterableMessageId
+Purpose:
+Used for analysing the outcomes of email marketing campaigns
+Duration:
+24 hours
+Name:
+Google Analytics
+Purpose:
+Google Analytics helps Zoopla measure the website traffic and perform vital analytics tasks.
+Privacy policy
+Opt-out
+Name:
+ZPG Limited
+Purpose:
+This so-called "data-layer" Identifies a single user across websites operated by ZPG Limited and its subsidiaries.
+Privacy policy
+Opt-out
+Name:
+Usabilla
+Purpose:
+Usabilla enables us to collect feedback from users.
+Privacy policy
+Opt-out
+Name:
+Segment
+Purpose:
+Segment helps Zoopla measure the website traffic and perform vital analytics tasks.
+Privacy policy
+Opt-out
+Name:
+Optimizely
+Purpose:
+Optimizely helps Zoopla to improve customer experience and ship new features faster.
+Privacy policy
+Opt-out
+What's this?
+Got it
+Tailored advertising
+Our advertising partners and we use advertising cookies so that we can work out what you’re interested in based on how you use our websites and apps and other websites. Accepting these cookies means you might see our adverts on other websites and social media platforms. You will also see other adverts which are more relevant to your interests. If you don’t accept these, you will still see untailored online advertising.
+Name:
+Google Ads
+Purpose:
+Google Ads provides Zoopla with the ability to track pay-per-click advertising conversion.
+Privacy policy
+Opt-out
+Name:
+AddThis
+Purpose:
+AddThis provides easy social media bookmarking on our platform.
+Privacy policy
+Opt-out
+Name:
+Facebook
+Purpose:
+Facebook is used as one of our trusted social media integration. Together with Facebook, we gather data on pages viewed and actions completed to make property recommendations via advertisements when browsing Facebook.
+Privacy policy
+Opt-out
+Name:
+Marin Software
+Purpose:
+Marin Software is one of our trusted partners in tailored advertising.
+Privacy policy
+Opt-out
+Name:
+Criteo
+Purpose:
+Criteo is one of our trusted partners in tailored advertising.
+Privacy policy
+Opt-out
+Name:
+Google Analytics Remarketing
+Purpose:
+Google Analytics Remarketing collects statistical information for display and search retargeting.
+Privacy policy
+Opt-out
+Name:
+Google Analytics Demographics and Interest Reporting
+Purpose:
+Google Analytics Demographics and Interest Reporting collects anonymous demographic data and interest targeting to serve online advertisements.
+Privacy policy
+Opt-out
+Name:
+DoubleClick
+Purpose:
+Zoopla partners with third party technologies including Doubleclick to deliver efficient media procurement.
+Privacy policy
+Opt-out
+Name:
+Index Exchange
+Purpose:
+Index Exchange is one of our trusted partners in tailored advertising, using Google Doubleclick.
+Privacy policy
+Opt-out
+Name:
+OpenX
+Purpose:
+OpenX is one of our trusted partners in tailored advertising, using Google Doubleclick.
+Privacy policy
+Opt-out
+Name:
+Rubicon
+Purpose:
+Rubicon is one of our trusted partners in tailored advertising, using Google Doubleclick.
+Privacy policy
+Opt-out
+Name:
+Google Advertising
+Purpose:
+Google Advertising is one of our trusted partners in tailored advertising, using Google Doubleclick.
+Privacy policy
+Opt-out
+Name:
+AppNexus
+Purpose:
+AppNexus is one of our trusted partners in tailored advertising, using Google Doubleclick.
+Privacy policy
+Opt-out
+Name:
+Bing
+Purpose:
+Bing allows us to track the success of adverts.
+Privacy policy
+Opt-out
+What's this?
+Got it
+Personalised experience
+We use functional cookies to improve and personalise your experience on our websites and apps. We think these enhance your experience of using our services.
+Refusing or withdrawing your consent to the use of cookies
+You don't have to give consent to all our cookies. You can refuse consent by selecting only the categories of cookies you want us to use on this page, by adjusting your browser settings, or by using our website in "incognito" or "private" mode.
+If you adjust your browser settings or use our website in "incognito" or "private" mode, you'll also refuse essential cookies and so some parts of our website or apps might not work as well as they otherwise would.
+Updates to this policy
+We change the cookies we use from time to time as we try to make our websites and apps even better. We'll do our best to update this page when we make changes, so make sure you check back regularly.
+Site links and resourcesHow much is my home worth?Check price estimateGet closer to what mattersSearch homes by travel timeFind an agentLook for local agentsExplore ZooplaHelpFor saleNew homesProperty newsContact usFor rentCommercialGuidesSitemapHouse pricesOverseasPostcode finderPrivacyCookie policyTerms of useSlavery statementTreehouseBuild your businessAgents & developersZoopla AdvantageAlto softwareDisplay advertisingPartnershipsUseful toolsAbout usMember T&CsPressZooplaProData feedsJobsTax strategyLinks to Zoopla's social media accountsZoopla Facebook pageZoopla Twitter profileeZoopla LinkedIn profileZoopla Instagram feedZoopla YouTube channelZoopla Pinterest boardLegal and corporate informationZoopla estimatesStreet indexPopular areas©
+2021 Zoopla Limited. All rights reserved.Sold house prices provided by Land Registry/Registers of Scotland. © Crown copyright 2021.Our website is completely free for you to use but we may receive a commission from some of the companies we link to on the site.*Zoopla Limited is an appointed representative of Uswitch Limited which is authorised and regulated by the Financial Conduct Authority (FRN 312850) to provide this mortgage comparison service.**Uswitch Limited is authorised and regulated by the Financial Conduct Authority (FCA) under firm reference number 312850. The Home insurance comparison service is provided by Autonet Insurance Services Ltd, registered in England No. 3642372. Autonet Insurance Services Ltd has its registered office at Nile Street, Burslem, Stoke-on-Trent ST6 2BA United Kingdom. AutoNet Insurance Services Ltd is authorised and regulated by the Financial Conduct Authority (FCA) (Registration number: 308213).***Based on a search within the London postcode areas (E, EC, N, NW, SE, SW, W, WC) on other UK online property portals. As of 11 Mar 2019.
