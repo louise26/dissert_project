@@ -1,0 +1,21 @@
+Progress report for period 2021-07-22 to 2021-08-02: 
+
+Activity this week:
+
+- Studied scraper error messsages. Fixed some errors, and identified interesting patterns (e.g. some policies couldn't be find on first page, which is a potential GDPR infringement). 
+- Got results with the Turi Create for topic modelling - my key terms (legitimate, consent, necessary, contract...) appear in different topics, with different probabilities. 
+- Started writing report. 
+
+Goals for next week:
+
+- Create some grqphs to represent results from the topic model. 
+- Review objectives a table of contents - add more sub-parts. 
+- Write report. 
+
+Questions for Tristan: 
+
+- I have 329 files which are supposed to contain privacy policies. 70 of those files are too small to actually contain anything (probably need to click on another href to get contain). Is 250 too small for my dataset? 
+- Any advice on how to structure my report? 
+- Any advice on writing my report? What should I start with/finish with? 
+- Is Overleaf good? 
+- Will you be able to review my report considering that you are away next week? 
