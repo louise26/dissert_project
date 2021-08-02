@@ -69,7 +69,7 @@ def get_policy(browser, url):
 
     #add text to file
     try: 
-        file = open(f"policies/{url.split('//')[1]}.txt", "w")
+        file = open(f"policies/{url.split('www.')[1]}.txt", "w")
         file.write(policy_text)
         file.close()
     except: 
