@@ -5,19 +5,6 @@ from bs4 import BeautifulSoup
 
 driver = webdriver.Firefox()
 
-#Get list of top 50 website names from Alexa and store the list on a txt file. 
-# website_database = "https://www.alexa.com/topsites/countries/GB"
-
-# def get_websites(browser, starting_point):
-#     '''Retrieves website links from starting point'''
-#     browser.get(starting_point)
-#     websites = browser.find_elements_by_xpath("//p/a")
-#     url_list = []
-#     for value in websites:
-#         url_list.append("https://" + value.text)
-
-#     return url_list
-
 def score_buttons(buttons):
     '''Returns the most likely button with the privacy policy'''
     score = [0] * len(buttons)
@@ -27,7 +14,7 @@ def score_buttons(buttons):
             continue
         if "policy" in button.get_attribute("href"):
             score[i] += 50
-        # TODO if the word "policy can be found in the a body than score += 30"
+
     best_index = 0
     for i in range(len(score)):
         if score[i] > best_index:
@@ -42,33 +29,36 @@ def get_policy(browser, url):
     try:
         browser.get(url) 
     except:
-        print(f"Something went wrong loading website {url}")
+        print(f"Error: Something went wrong loading website {url}")
         return ""
+
 
     #href link or <a> tag contains the word privacy
     privacy_buttons = browser.find_elements_by_xpath("//a[contains(@href, 'privacy')] | //a[contains(@href, 'Privacy')] | //a[contains(.,'privacy')] | //a[contains(.,'Privacy')]")
+    print(len(privacy_buttons))
+    
     #print message if there is more or less than one privacy button 
     if len(privacy_buttons) > 1:
-        print(f"Scrapper has found several privacy buttons for {url}")
+        print(f"Note: Several privacy buttons found for {url}")
     elif len(privacy_buttons) == 0:
-        print(f"Error: No buttons found for {url}")
+        print(f"Error: No privacy button found for {url}")
         return ""
 
     #dealing with StaleElementReferenceException  
     try:
         chosen_button = score_buttons(privacy_buttons)
-        policy_link = chosen_button.get_attribute("href")
-
+        policy_link = chosen_button.get_attribute("href")       
     except Exception as e:
-        print(e, url, f"Error: at choosen_button")
+        print(e, url, f"Error: at chosen_button")
         return ""
     
-   
-   #get policy link and deal with exception when there are more than one policy link 
+
+
+    #get policy link and deal with exception when there are more than one policy link 
     try: 
         browser.get(policy_link)
     except: 
-        print(f"Something went searching for the privacy page link on {url}")
+        print(f"Error: Something went wrong searching for the privacy page link on {url}")
         return ""
 
     # If the word "policy" not in `policy_link` then:
@@ -80,10 +70,13 @@ def get_policy(browser, url):
     policy_text = clean_policy(page_source)
 
     #add text to file
-    file = open(f"policies/{url.split('//')[1]}.txt", "w")
-    file.write(policy_text)
-    file.close()
-
+    try: 
+        file = open(f"policies/{url.split('//')[1]}.txt", "w")
+        file.write(policy_text)
+        file.close()
+    except: 
+        print("Policy file has not been created")
+        return ""
     return policy_text
 
 def clean_policy(policy_text):
@@ -111,11 +104,14 @@ def clean_policy(policy_text):
 
 #MAIN#
 
-#Getting the 500 website list from file "url_list.csv" and adding "https://" in front of all
-url_list = pd.read_csv('site_data/url_list.csv')['URL'].apply(lambda x: "https://"+x)
+url_file = 'site_data/url_list.csv'
+
+#Getting the 500 website list from file "url_list.csv" and adding "https://www" in front of all to find URL
+url_list = pd.read_csv(url_file)['URL'].apply(lambda x: "https://www."+x)
 print(url_list)
 
-for url in url_list.values:
+#for url in url_list.values[:5]:
+for url in url_list:
     print(f"Getting policy for {url}")
     policy = get_policy(driver, url) 
 
