@@ -33,7 +33,7 @@ def get_policy(browser, url):
         return ""
 
 
-    #href link or <a> tag contains the word privacy
+    #look for an href link or <a> tag containing the word 'privacy' or 'Privacy'
     privacy_buttons = browser.find_elements_by_xpath("//a[contains(@href, 'privacy')] | //a[contains(@href, 'Privacy')] | //a[contains(.,'privacy')] | //a[contains(.,'Privacy')]")
     print(len(privacy_buttons))
     
@@ -51,10 +51,8 @@ def get_policy(browser, url):
     except Exception as e:
         print(e, url, f"Error: at chosen_button")
         return ""
-    
 
-
-    #get policy link and deal with exception when there are more than one policy link 
+    #get policy link and deal with exception when url to policy page cannot be found 
     try: 
         browser.get(policy_link)
     except: 
