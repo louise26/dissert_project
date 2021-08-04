@@ -1,0 +1,18 @@
+Progress report for period 2021-08-02 to 2021-08-05: 
+
+Activity this week:
+- Review more scraper errors 
+- Finish Literature Review 
+- Update table of contents 
+- Add focus points for each part 
+
+Goals for next week: 
+- WRITE 
+
+Questions for Tristan: 
+- One of my primary objectives states that I'm going to build a scraper for UK-retail websites. Can I change this to UK Top 500 websites? Am I supposed to write exactly the same objective as the ones I wrote in my DOER? 
+- How should I come up with a title? 
+- Can we have a look at my Table of Contents? Do the titles and organisation make sense? 
+- How would you describe Design/Implementation/Evaluation? 
+- In which part should I explain error handling? 
+- Can we have a look at my bullet points for 3.2.1 - Design of Web Scraper?
