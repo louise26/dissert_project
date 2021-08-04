@@ -4,6 +4,8 @@ from selenium.webdriver.firefox.options import Options
 from bs4 import BeautifulSoup
 
 driver = webdriver.Firefox()
+#handling websites with dynamically-loaded content
+driver.implicitly_wait(10)
 
 def score_buttons(buttons):
     '''Returns the most likely button with the privacy policy'''
@@ -68,13 +70,10 @@ def get_policy(browser, url):
     policy_text = clean_policy(page_source)
 
     #add text to file
-    try: 
-        file = open(f"policies/{url.split('www.')[1]}.txt", "w")
-        file.write(policy_text)
-        file.close()
-    except: 
-        print("Policy file has not been created")
-        return ""
+    file = open(f"policies/{url.split('www.')[1]}.txt", "w")
+    file.write(policy_text)
+    file.close()
+    
     return policy_text
 
 def clean_policy(policy_text):
@@ -108,7 +107,7 @@ url_file = 'site_data/url_list.csv'
 url_list = pd.read_csv(url_file)['URL'].apply(lambda x: "https://www."+x)
 print(url_list)
 
-#for url in url_list.values[:5]:
+#for url in url_list.values[:10]:
 for url in url_list:
     print(f"Getting policy for {url}")
     policy = get_policy(driver, url) 
