@@ -194,23 +194,6 @@ The sources from which we collect Personal Data, and the purposes for which we c
 Over the preceding 12 months, we have disclosed for business purposes each of the categories of Personal Data with the categories of third parties as described in section 5.
 Revision Date: January 8, 2021
 Privacy Feedback
-ABOUT STEAM
-What is Steam?
-Gifting on Steam
-The Steam Community
-ABOUT VALVE
-About Valve
-Business Solutions
-Steamworks
-Jobs
-HELP
-Support
-Forums
-Stats
-NEWS FEEDS
-Steam News
-Game Releases
-Daily Deals
 © 2021 Valve Corporation.
 All rights reserved.
 All trademarks are property of their respective owners in the US and other countries.
@@ -226,9 +209,10 @@ Refunds
 Cookies
 View mobile website
 About Valve
-|  Steamworks
 |  Jobs
+|  Steamworks
 |  Steam Distribution
+|  Support
 |  Gift Cards
 |   Steam
 |   @steam

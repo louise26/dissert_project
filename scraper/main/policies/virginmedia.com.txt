@@ -17,94 +17,75 @@ My Virgin Media
 Expanding our network
 Help
 For business
-Bundles
-Bundles
-Shop
-Compare TV, broadband and phone
-Oomph bundles
-Shop home
-Our bundles
-Big bundle
-Big bundle + Drama Pick
-Bigger bundle
-Bigger bundle + Movies
-Bigger bundle + Sports
-Bigger bundle + Sports and Movies
-Ultimate Oomph bundle
-Thinking of switching?
-Switching to Virgin Media?
-QuickStart self install
-Refer a friend
+Packages
+Packages
+Shop broadband packages
+Broadband, TV and landline packages
+Broadband and TV packages
+Broadband and landline packages
+Compare all broadband packages
 Broadband
 Broadband
 Broadband deals
-Broadband, TV and phone
-Broadband and phone
+Broadband, TV and landline
+Broadband and landline
 Broadband only
 Broadband and TV
-Mobile broadband
-Business broadband
-Gigabit broadband
-Learn about broadband
-Discover broadband
+Gigabit Broadband
 Intelligent WiFi
-Our broadband speeds
-Broadband for Gamers
-Broadband speed test
-Parental controls and security
-Get the new My Virgin Media app
-Fibre broadband
-Unlimited broadband
-Student broadband
+Fibre Broadband
+Gaming Broadband
+Student Broadband
+Unlimited Broadband
+Mobile Broadband
+Parental Controls and Security
+Business Broadband
+Broadband Speed Test
+Our Broadband Speeds
+Get the new My Virgin Media App
 TV
 TV
-Shop
-Compare TV, broadband and phone
-Shop home
-Broadband and TV
-Learn about TV
-Discover Virgin TV
-What you can watch
-Movies
-Sports
-TV apps
-NEW Virgin TV 360
-Asian TV channels
-Get the new My Virgin Media app
-Multiroom
-Phone
-Phone
-Shop
-Home phone packages
+Shop TV packages
+TV, broadband and phone
+TV and broadband
+Virgin TV and Sky Cinema
+Virgin TV and Sports
+TV Boxes and apps
+Asian TV Channels
+Virgin TV Channels
+Virgin TV 360 box
+Virgin Media Multiroom
+Landline
+Landline
+Shop landline deals
+Landline international calls
 Phones for business
-Home phone only
-Shop home
 Home phone international calls
-Learn about phone
-Home phone calling features
-Get the new My Virgin Media app
+Broadband and landline packages
+Landline packages
+Landline calling features
 Mobile
 Mobile
 Top Offers
-iPhone 12 @ £28
-iPhone 11 @ £24
-Galaxy A12 & Switch @ £21
-iPhone 12 Mini @ £25
+iPhone 12 deals
+iPhone 11 deals
+Samsung Galaxy A12 & Nintendo Switch
+iPhone 12 mini deals
 Shop
 Pay Monthly Phones
-Phones by Manufacturers
-Pay Monthly SIMs
-Early Bird
-Virgin Mobile Deals
-Refer A friend
 iPad & Tablets
+SIM only deals
+Virgin Mobile deals
+Early Bird
+Refer A Friend
+Phones by Manufacturer
 Business Mobile
 Upgrade
 Upgrade your phone
 Trade in your phone
 Help
 Get help with your mobile
-Virgin Mobile Perks
+Virgin mobile perks
 What to watch
 What to watch
 Discover great TV and movies
@@ -114,9 +95,10 @@ Virgin Media Store
 Switching
 Switching
 Switching to Virgin Media
-Broadband, TV and phone
-Postcode checker
-Mobile
+Switching Broadband, TV and Landline
+Switching Mobile
+Broadband Postcode Checker
+Refer a friend
 Help & Support
 Help & Support
 Browse help by topic
@@ -126,7 +108,8 @@ Landline help
 Mobile help
 Billing & payment help
 Moving home
-Help getting started
+Getting started
+Self install broadband
 Track my order
 Return or recycle equipment
 Complaints
@@ -134,19 +117,19 @@ Blog
 Blog
 Read our blog articles
 Blog home
-Parental controls blog
-Smart home blog
-Wi-Fi blog
-Online safety blog
-Internet browsers blog
 Broadband blog
-Online security blog
-Digital wellbeing blog
-Technology
-Social media
-Gaming
+Wi-Fi blog
 TV blog
 Mobile blog
+Online safety blog
+Parental controls blog
+Smart home blog
+Internet browsers blog
+Technology blog
+Online security blog
+Digital wellbeing blog
+Social media blog
+Gaming blog
 Your BasketYour Basket is empty
 Shop
 My Virgin Media
@@ -519,10 +502,10 @@ Careers
 Advertise with us
 Partner with us
 Accessibility
-Legal stuff
+Legal
 Site map
-Contact us
-Our cookies
+Contact Us
+Our Cookies
 Virgin Media and O2
 ©2021 Virgin Media
 All Rights Reserved

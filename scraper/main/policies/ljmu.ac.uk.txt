@@ -7,6 +7,7 @@ Find a course
 Staff
 Students
 Study
+Back
 Study
 Undergraduate students
 Postgraduate study
@@ -15,12 +16,14 @@ Continuing Professional Development
 LJMU On Demand
 Applicant Area
 Discover
+Back
 Discover
 Your student experience
 Liverpool
 Student support
 Fees and funding
 Research
+Back
 Research
 World-leading research
 Research areas
@@ -34,6 +37,7 @@ Staff research outputs
 Professorial Lecture Series
 Research participation
 International
+Back
 International
 Thinking of applying
 Making your application
@@ -42,6 +46,7 @@ International partnerships
 International opportunities
 International Summer School
 Business
+Back
 Business
 Case studies
 Research and expertise
@@ -52,6 +57,7 @@ Degree Apprenticeships
 Centre for Entrepreneurship
 Maritime Knowledge Hub
 About us
+Back
 About us
 Information on coronavirus
 Black Lives Matter

@@ -1,9 +1,9 @@
 Booking.com:
 Privacy & Cookie Statement.
 Skip to main content
-GBP
+EUR
 Choose your currency.
-Your current currency is Pound sterling
+Your current currency is Euro
 Choose your language.
 Your current language is English (UK)
 Get help with your reservation
@@ -473,4 +473,4 @@ Please sign in to continue
 Sign in to your account
 or use one of these options
 Don't have an account yet? Create your account
-1369160,1370170,1362300
+1307160,1374860,1374540|1,1375110,1374540

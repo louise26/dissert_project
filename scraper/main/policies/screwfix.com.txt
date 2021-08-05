@@ -44,8 +44,8 @@ Air Tools
 Air Compressors
 Radios
 Power Tool Batteries & Chargers
-Breakers & Demolition
-Dust Extraction
+Concrete Breakers
+Dust Extractors
 Planers
 Welders
 Generators
@@ -245,7 +245,7 @@ Smart Lighting
 Smart Home Kits
 Lighting
 Light Bulbs
-Tubes
+Tube Lights
 Indoor Lighting
 Outdoor Lighting
 Wall Lights
@@ -266,7 +266,7 @@ Shower Pumps
 Shower Enclosures
 Shower Trays
 Shower Screens
-Wetrooms
+Wet rooms
 Shower Kits & Riser Rails
 Shower Hoses
 Shower Heads
@@ -547,7 +547,7 @@ Drainage Channels
 Construction Equipment
 Cement Mixers
 Wheelbarrows
-Breakers & Demolition
+Concrete Breakers
 Wall Chasers
 Disc Cutters
 View All
@@ -657,7 +657,7 @@ Tile Adhesive & Grout
 Grab Adhesives
 Contact Adhesives
 Wood Glues
-Floor Adhesives
+Adhesive for Floor Tiles
 Hybrid Sealants & Adhesives
 Wallpaper Paste
 Fillers & Putty
@@ -675,7 +675,7 @@ Water Seal
 Additives & Plasticisers
 PVA Sealers
 Jointing Compound
-Ready Mix Cement
+Cement Mix
 Waterproof Sealants
 Ready Mixed Plaster
 Pothole Filler
@@ -689,22 +689,21 @@ Telescopic Ladders
 Step Ladders
 Loft Ladders
 Roof Ladders
-Step Ups
+Step Stools
 Ladder Accessories
-Warehouse Steps
-Work Towers
-Narrow Scaffold Towers
-Standard Scaffold Towers
-Double Scaffold Towers
-Shop By Tower Height
-Scaffold Accessories
-Height Safety
-Manual Handling
-Sack Trucks
-Dollies & Trolleys
-Flatbed Trolleys
-Storage Boxes
+Podium Steps
+Office Furniture
+Desks
+Office Chairs
+Office Storage
+Shelving
+Shelf Boards
+Racking Systems
+Garage Shelving
+Shelf Brackets
+Louvred Panels & Bins
 Storage
+Office Storage
 Storage Boxes
 Louvred Panels & Bins
 Garage Storage Solutions
@@ -713,12 +712,18 @@ Garden Storage
 Lockers & Cabinets
 Vehicle & Site Safes
 Packaging
-Shelving
-Shelf Boards
-Racking Systems
-Garage Shelving
-Shelf Brackets
-Louvred Panels & Bins
+Manual Handling
+Sack Trucks
+Dollies & Trolleys
+Flatbed Trolleys
+Storage Boxes
+Scaffolding
+Narrow Scaffold Towers
+Standard Scaffold Towers
+Double Scaffold Towers
+Shop By Tower Height
+Scaffold Accessories
+Height Safety
 Auto & Cleaning
 Mechanics Tools
 Car Battery Care

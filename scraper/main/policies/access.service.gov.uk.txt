@@ -1,0 +1,70 @@
+Privacy notice - GOV.UK
+Cookies on Government Gateway
+We use some essential cookies to make this service work.
+We’d also like to use analytics cookies so we can understand how people use this service and make improvements.
+Accept analytics cookies Reject analytics cookies View cookies
+Skip to main content
+GOV.UK
+BETA
+This is a new service – your feedback will help us to improve it.
+English
+Cymraeg
+Privacy notice
+Government Gateway is provided by HM Revenue and Customs (HMRC) to government departments. HMRC will be referred to as ‘we’ throughout this notice.
+We are committed to protecting the privacy and security of your personal information.
+The purpose of this notice
+This privacy notice describes how we collect and use personal information about you in accordance with data protection law, including the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act (DPA) 2018.
+What data we collect
+The personal data we collect from you includes:
+your name and email address
+information about the device (for example phone or laptop) you used
+the internet connection you used
+details about your role, for example what rights you have to view certain data
+your phone number, if you set up additional security to receive access codes via text or voice call. Your phone number is only used for authentication purposes
+Why we collect your personal data
+We collect your personal data to help you access government services securely. You use Government Gateway to confirm your identity and we send this information to the government service you are trying to access.
+This data can be viewed by authorised people in HMRC, supplier organisations, other government departments, agencies and public bodies to:
+allow you to access government services
+improve Government Gateway by monitoring how you use it
+gather feedback to improve Government Gateway
+respond to any feedback you send us, if you have asked us to
+Keeping your data secure
+We have put in place measures to protect the security of your information.
+We treat the security of your data very seriously. We have strict security standards, and all our staff and other people who process personal data on our behalf get regular training about how to keep information safe.
+We have put in place appropriate technical, physical and managerial procedures to safeguard and secure the information we collect about you.
+Your personal information will only be seen by those who have a business or legal need to see it.
+Where we use third-party service providers they will only process your personal information on our instructions or with our agreement, and where they have agreed to treat the information confidentially and to keep it secure.
+We have put in place procedures to deal with any suspected data security breach and will notify you and the regulator of a suspected breach where we are legally required to do so.
+You should prevent the unauthorised or fraudulent use of your details, for example by using secure passwords.
+How long we keep your data
+While your Government Gateway user ID and password remains active we will hold your personal data.
+Transaction monitoring data, audit and data collected by government services will normally be held for seven years but you should read the data retention policies that relate to these government services before you use them.
+If you do not sign in for 3 years, your details will be deleted.
+Transaction monitoring
+In order to protect your data and our services we operate a transaction monitoring capability. This records how you connect to our systems, and what you do whilst you are on them. Read more information in our Transaction Monitoring Privacy Notice.
+Sharing your information
+We may pass on your personal information if we have a legal obligation to do so.
+Overseas data transfers
+We will share information about your device including its IP address with a third party supplier which has data centres located in the EU and the USA, and which complies with the EU-US Privacy Shield Framework.
+Your rights
+Under certain circumstances, by law you have the right to:
+request access to your personal information
+request correction of personal information
+request erasure of information
+object to processing of personal information
+Details of how to contact HMRC’s Data Protection Officer, contact HMRC or make a complaint can be found in the HMRC Privacy Notice.
+You can also report a complaint to the Information Commissioner’s Office.
+Cookies and analytics
+You can read our full cookie policy to find out how we use cookies to track user journeys using Google Analytics.
+Links to other government services
+This privacy policy does not cover other government services we link to. You should read privacy policies that relate to these government services before you use them.
+Changes to this notice
+We may modify or amend this privacy notice at any time. Any modification or amendment to this privacy notice will be applied to your data immediately. We encourage you to review this privacy notice regularly to stay informed about how we’re protecting your data.
+This privacy notice was last updated on 8 March 2021.
+Get help with this page
+Accessibility statement
+Cookies
+Privacy notice
+Terms and conditions
+All content is available under the Open Government Licence v3.0, except where otherwise stated
+© Crown copyright

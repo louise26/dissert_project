@@ -1,14 +1,13 @@
 Amazon.co.uk Help: Privacy Notice
 Skip to main content
 .co.uk
-Hello
-Select your address
+Deliver to
+France
 All
 Select the department you want to search in
 All Departments
 Alexa Skills
 Amazon Devices
-Amazon Fresh
 Amazon Global Store
 Amazon Warehouse
 Apps & Games
@@ -25,7 +24,6 @@ Digital Music
 DIY & Tools
 DVD & Blu-ray
 Electronics & Photo
-Morrisons
 Fashion
 Garden & Outdoors
 Gift Cards
@@ -58,17 +56,18 @@ Returns
 0
 Basket
 All
+Grocery
 Best Sellers
 Gift Ideas
 New Releases
 Customer Service
 Prime
-Prime Video
 Vouchers
 Books
 Fashion
-Home & Garden
+Prime Video
 PC & Video Games
+Home & Garden
 PC
 Gift Cards & Top Up
 Electronics
@@ -76,17 +75,16 @@ Toys & Games
 Health & Personal Care
 Beauty
 Sports & Outdoors
-Baby
 Car & Motorbike
+Baby
 Pet Supplies
 Kindle Books
 Today's Deals
-Sell on Amazon
-Shopper Toolkit
 Free Delivery
+Shopper Toolkit
+Sell on Amazon
 Subscribe & Save
 Wish Lists
-Home Improvement
 Disability Customer Support
 Amazon.co.uk
 Today's Deals

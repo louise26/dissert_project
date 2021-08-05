@@ -50,6 +50,7 @@ All credit cards
 Balance transfer credit cards
 Large purchase credit cards
 Everyday spending credit cards
+Cashback credit cards
 Already have a credit card with us?
 Existing credit card customers
 Managing your credit card
@@ -223,7 +224,6 @@ Coronavirus help and supportcontains a sub menu
 How to get online
 Lloyds Bank Academy
 Coronavirus FAQs
-Payment holidays
 Bereavement
 Fraud Hub
 Financial wellbeing
@@ -257,7 +257,6 @@ Car finance
 Insurance
 Protecting yourself from fraudcontains a sub menu
 New scam code
-Keep your details safe
 Shop safely online
 Keep your family safe
 Keep your home safe
@@ -274,6 +273,7 @@ Universal Credit support
 Persistent debt
 Help with life challenges
 Free independent advice
+Help with your payments
 Life events
 By your sidecontains a sub menu
 Approaching retirement

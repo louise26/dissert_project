@@ -17,6 +17,8 @@ Retail & eCommerce
 Publishing
 Media & Entertainment
 Pricing
+Business
+Publishing
 Blog
 Company
 About Us
@@ -117,6 +119,8 @@ Retail & eCommerce
 Publishing
 Media & Entertainment
 Pricing
+Business
+Publishing
 Blog
 Company
 About Us

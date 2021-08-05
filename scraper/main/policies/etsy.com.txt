@@ -8,7 +8,7 @@ Sign in
 Basket with 0 items
 0
 Basket
-Back to school
+Everyday Finds
 Jewellery & Accessories
 Clothing & Shoes
 Home & Living
@@ -16,7 +16,7 @@ Wedding & Party
 Toys & Entertainment
 Art & Collectibles
 Craft Supplies
-Gifts
+Vintage
 All Jewellery & Accessories
 Accessories
 Bags & Purses
@@ -96,8 +96,6 @@ Shoulder Jewellery
 Toe Rings
 Lip Rings
 All Body Jewellery
-Editors' Picks
-Jewellery favourites
 All Clothing & Shoes
 Women's
 Men's
@@ -141,8 +139,6 @@ Nappy Bags
 Luggage & Duffel Bags
 Phone Cases
 All Bags & Purses
-Editors' Picks
-Women's fashion
 All Home & Living
 Home
 Bath & Beauty
@@ -182,8 +178,6 @@ Pet Clothing & Shoes
 Pet Bedding
 Pet Carriers & Houses
 All Pet Supplies
-Editors' Picks
-Home favourites
 All Wedding & Party
 Party Supplies
 Invitations & Paper
@@ -258,8 +252,6 @@ Necklaces
 Bracelets
 Jewellery Sets
 All Wedding Jewellery
-Editors' Picks
-The Wedding Shop
 Toys
 Baby & Toddler Toys
 Dolls & Action Figures
@@ -295,8 +287,6 @@ Sheet Music
 All Movies
 All Music
 All Toys & Entertainment
-Editors' Picks
-Home accessories
 Prints
 Photography
 Painting
@@ -314,8 +304,6 @@ Figurines & Knick Knacks
 Memorabilia
 Coins & Money
 All Art & Collectibles
-Editors' Picks
-Home gallery
 All Craft Supplies & Tools
 Home & Hobby
 Jewellery & Beauty
@@ -367,8 +355,6 @@ Ceramics & Pottery
 Metalworking
 Carving & Whittling
 All Sculpting & Forming
-Editors' Picks
-DIY craft projects
 Take full advantage of our site features by enabling JavaScript.
 Learn more.
 Our House Rules
@@ -583,8 +569,8 @@ Facebook
 Pinterest
 Twitter
 Youtube
-UK
-United Kingdom   |   English (UK)   |   £ (GBP)
+FRANCE
+France   |   English (UK)   |   € (EUR)
 © 2021 Etsy, Inc.
 Terms of Use
 Privacy

@@ -1,7 +1,7 @@
 General Data Protection Regulation | GDPR  – HSBC UK
-Getting in touch
+Payment services - planned outage
 Close
-Our contact centres are extremely busy because of the global coronavirus pandemic. See our Help page for guidance and to find out what you can do through online and mobile banking.
+We'll be running some essential maintenance on our Move Money service from 00:00 to 05:00 on Saturday 7th August. During this time you’ll still be able to move money between your own accounts but will be unable to pay someone you've paid before, pay a new payee or to receive money from someone else. Any payments you already have set-up for this date will not be impacted. We apologise for any inconvenience.
 Our website doesn't support your browser so please upgrade.
 Skip page header and navigation
 Personal
@@ -52,6 +52,7 @@ Everyday spending cards
 Credit building cards
 Premier cards
 Ways to borrow
+Credit card eligibility checker
 See all credit cards
 Loans
 Personal Loan
@@ -95,6 +96,7 @@ Improve your knowledge
 Your financial action plan
 Guides to investing
 Investment calculator
+Investing in your children's education calculator
 Wealth Insights
 Already investing with us?
 Existing customers
@@ -229,6 +231,7 @@ Everyday spending cards
 Credit building cards
 Premier cards
 Ways to borrow
+Credit card eligibility checker
 See all credit cards
 Loans
 Personal Loan
@@ -272,6 +275,7 @@ Improve your knowledge
 Your financial action plan
 Guides to investing
 Investment calculator
+Investing in your children's education calculator
 Wealth Insights
 Already investing with us?
 Existing customers

@@ -1,5 +1,7 @@
 Privacy Policy - The Forum
 Jump to content
+Last Man Standing 2021/22
+×
 Community Home
 All Activity
 Home
@@ -49,18 +51,6 @@ Privacy Policy
 Invisible reCAPTCHA
 This site uses a CAPTCHA to ensure humans are performing certain actions. The CAPTCHA provider may set a session cookie and get information about your internet browser and device accessing this website.
 Privacy Policy
-Email Verifier
-The Email Verifier passes the email address of the registering member to the service to determine the likelihood an email is disposable or invalid.
-Privacy Policy
-Validator.pizza
-The Validator.pizza passes the email address of the registering member to the service to determine the likelihood an email is disposable, invalid or alias.
-Privacy Policy
-IP Intelligence
-The IP Intelligence passes the IP address of the registering member to the service to determine the likelihood a registering account uses proxy, VPN or Tor.
-Privacy Policy
-ipdata
-The ipdata passes the IP address of the registering member to the service to determine the location of a registering account and the likelihood a registering account uses proxy, VPN, Tor, known attacker or abuser IP address.
-Privacy Policy
 All Activity
 Home
 Privacy Policy
@@ -79,6 +69,7 @@ Rugby Forum
 Rules
 Activity
 Back
+Activity
 View My Posts
 Status
 ×

@@ -1,4 +1,5 @@
 Privacy Policy | Fandom
+FANDOM
 Games
 Movies
 TV
@@ -7,21 +8,11 @@ Wikis
 Explore Wikis
 Community Central
 Start a Wiki
-Search
-Sign In
-Don't have an account?
 Register
->
-Sign In | Register
-Games
-Movies
-TV
-Video
-Wikis
-Back
-Explore Wikis
-Community Central
-Start a Wiki
+Don't have an account?
+Sign In
+Search the world's largest fan wiki platform
+Search
 Privacy Policy
 Effective Date: August 3, 2020
 Fandom, Inc. (“Fandom” “we,” “us,” and “our”) provides a home to explore, contribute to, and celebrate the world of pop culture. Our Privacy Policy (“Privacy Policy”) is designed to help you understand how we collect, use and share your personal information and to assist you in exercising the privacy rights available to you.
@@ -200,8 +191,8 @@ Cortex RPG
 Muthead
 Futhead
 Fanatical
-Follow Us
 Overview
+What is Fandom?
 About
 Careers
 Press
@@ -217,8 +208,9 @@ Help
 Do Not Sell My Info
 Advertise
 Media Kit
+Fandomatic
 Contact
+Follow Us
 Fandom Apps
 Take your favorite fandoms with you and never miss a beat.
-D&D Beyond
 Copyright 2021 Fandom, Inc.

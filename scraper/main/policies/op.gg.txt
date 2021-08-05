@@ -1,5 +1,6 @@
 Privacy Policy :: League of Legends (LOL) Search Summoner Stats
-League of LegendsEternal Return: Black SurvivalPUBGOVERWATCHDesktopaggroexpandEternal Return: Black SurvivalPUBGOVERWATCHDesktopaggroLanguageEnglishLanguageEnglish한국어日本語język polskifrançaisDeutschespañolNederlandsdanskSvenskaNorskрусский языкmagyarsuomiTürkçelimba românăportuguês简体中文繁體中文српски језикitalianoไทยTiếng Việt
+League of LegendsEternal ReturnPUBGOVERWATCHTALKDesktopaggroexpandEternal ReturnPUBGOVERWATCHTALKDesktopaggroLanguageEnglishLanguageEnglish한국어日本語język polskifrançaisDeutschespañolNederlandsdanskSvenskaNorskрусский языкmagyarsuomiTürkçelimba românăportuguês简体中文繁體中文српски језикitalianoไทยTiếng Việt
+Login
 Stay Home
 Champions
 A.R.A.M
@@ -8,8 +9,10 @@ Stats
 Leaderboards
 Pro Matches
 Multi-Search
-EUWEurope WestKoreaJapanNorth AmericaEurope Nordic & EastOceaniaBrazilLASLANRussiaTurkeyRecent SearchFavoritesThere is no summoner you have seen recently.Add your
-favorite summoner for easy updates on the latest stats.STOP ALT-TAB! Automatic Runes & Builds with Multi-Search! [OP.GG for Desktop]
+OP-ficial
+Community
+KREurope WestKoreaJapanNorth AmericaEurope Nordic & EastOceaniaBrazilLASLANRussiaTurkeyRecent SearchFavoritesThere is no summoner you seen recently.Add your
+favorite summoner for easy updates on the latest stats.[부산] e스포츠 데이터분석 전문가 양성과정! 지금 신청해보세요!
 Terms of Use
 Privacy Policy
 PRIVACY POLICY
@@ -144,9 +147,9 @@ Occasionally we provide links to other websites for your convenience and informa
 Notice of Privacy Rights to California Residents
 Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, information related to the personal information disclosed by We to third parties for direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year.
 You may make one request each year by emailing us at privacy@op.gg or sending a letter to: Mokcheon B/D, 35-6, Samseong-ro 85-gil, Gangnam-gu, Seoul, Republic of Korea 06196.
-About OP.GGLogo HistoryPrivacy PolicyHelpBusinessAdvertiseFeedbackDownload Overwolf
+About OP.GGLogo HistoryPrivacy PolicyHelpBusinessAdvertiseFeedback
 © 2012-2021
 OP.GG.
 OP.GG isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing
 League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
-TwitterInstagramFacebookOverwolf
+TwitterInstagramFacebook

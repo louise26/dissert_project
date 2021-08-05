@@ -89,6 +89,7 @@ Foundation science
 Atmospheric processes and parametrizations
 Dynamic research
 Global modelling
+Informatics Lab
 Observation-based research
 Regional model evaluation and development
 Library

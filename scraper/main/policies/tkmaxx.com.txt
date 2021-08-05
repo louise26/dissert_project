@@ -33,8 +33,76 @@ Kids
 View All
 View All
 View All
+Clearance
+Final Clearance
+Women's Clothing
+Women's Shoes
+Women's Accessories
+Beauty & Grooming
+Men's Clothing
+Men's Shoes
+Men's Accessories
+Kids & Toys
+Home
+View All Clearance
+Women
+Men
+Kids' & Toys
+Home
+View All
+Size 4
+Size 6
+Size 8
+Size 10
+Size 12
+Size 14
+Size 16
+Size 18
+Size 20+
+View All
+Size 1-2
+Size 3
+Size 4
+Size 5
+Size 6
+Size 7
+Size 8
+Size 9+
+View All
+View All
+Women's Beauty
+Men's Grooming
+Size XS
+Size S
+Size M
+Size L
+Size XL
+Size XXL+
+View All
+Size 6
+Size 7
+Size 8
+Size 9
+Size 10
+Size 11
+Size 12+
+View All
+View All
+Baby & Nursery
+Boys' Clothing
+Girls' Clothing
+Shoes
+Toys
+View All
+View All
+Women
+Men
+Kids & Toys
+Home
+View All Clearance
 Women
 New In
+Clearance
 Gold Label
 Clothing
 Dresses
@@ -48,7 +116,12 @@ Jewellery & Watches
 Bags & Purses
 Mod Box
 Style Edits
-Clearance
+View All
+Final Clearance
+Accessories
+Beauty
+Clothing
+Shoes
 View All
 View All
 Coats & Jackets
@@ -154,13 +227,9 @@ View All
 Athleisure
 Loungewear
 All Dressed Up
-Accessories
-Beauty
-Clothing
-Shoes
-View All
 Men
 New In
+Clearance
 Gold Label
 Clothing
 T-Shirts & Polo Shirts
@@ -170,7 +239,11 @@ Accessories
 Men's Grooming
 Mod Box
 Style Edits
-Clearance
+View All
+Final Clearance
+Accessories
+Clothing
+Shoes
 View All
 View All
 Blazers & Waistcoats
@@ -219,6 +292,8 @@ Size 11
 Size 12+
 Boots
 Brogues
+Loafers
+Sliders
 Trainers
 View All
 Bags, Wallets & Belts
@@ -234,10 +309,6 @@ View All
 View All
 Athleisure
 Loungewear
-Accessories
-Clothing
-Shoes
-View All
 Active
 Women's Clothing
 Women's Trainers
@@ -294,6 +365,7 @@ JNR 6+
 View All
 Kids & Baby
 New In
+Clearance
 Gold Label
 Baby & Nursery
 Girls
@@ -302,7 +374,6 @@ Essentials & Accessories
 Shoes
 Toys, Books & Activities
 Kids' Room
-Clearance
 Baby & Nursery
 Boys' Clothing
 Boys' Shoes
@@ -310,6 +381,8 @@ Designer Brands
 Girls' Clothing
 Girls' Shoes
 Toys
+View All
+Final Clearance
 View All
 View All
 Baby Clothing
@@ -385,7 +458,9 @@ KIDS 12 - 13
 JNR 1 - 2
 JNR 3 - 4
 JNR 5 - 6
+Boots
 Sandals
+School Shoes
 Sliders
 Trainers
 View All Girls
@@ -398,9 +473,10 @@ Outdoor Activities
 Toy Boxes & Storage
 View All
 View All
-View All
 Home
 New In
+Halloween
+Clearance
 Garden & Outdoor
 Shop By Room
 Bedding
@@ -414,7 +490,9 @@ Paper Shop
 Pets
 Travel & Luggage
 Recycled, Reusables & Organic
-Clearance
+View All
+View All
+Final Clearance
 View All
 Garden
 Outdoor Entertaining
@@ -436,10 +514,9 @@ Double Size
 King Size
 Superking Size
 View All
-Bath Mats
 Bathroom Accessories
 Candles & Diffusers
-Towels
+Towels & Bathmats
 View All
 Baking & Ovenware
 Bar & Glassware
@@ -481,9 +558,9 @@ View All
 View All
 Shop Now
 Read More
-View All
 Beauty
 New In
+Clearance
 Skincare
 Bodycare
 Haircare
@@ -492,7 +569,7 @@ Fragrance
 Men's Grooming
 Wellness
 Gifts
-Clearance
+View All
 View All
 View All
 Skincare
@@ -507,13 +584,15 @@ View All
 View All
 View All
 View All
-View All
 Shoes
 New In
+Clearance
 Women
 Men
 Kids
-Clearance
+Women
+Men
+Kids
 Women
 Men
 Kids
@@ -543,6 +622,8 @@ Size 11
 Size 12+
 Boots
 Brogues
+Loafers
+Sliders
 Trainers
 View All
 INF 0 - 3
@@ -554,15 +635,14 @@ KIDS 12 - 13
 JNR 1 - 2
 JNR 3 - 4
 JNR 5 - 6
+Boots
 Sandals
+School Shoes
 Sliders
 Trainers
 View All Girls
 View All Boys
 View All
-Women
-Men
-Kids
 Gifts
 New In
 Gift Cards
@@ -587,6 +667,7 @@ Healthy Eating
 Sweet Treats
 View All
 Charity Gifts
+Uganda Sustainable Trade
 View All
 Gift Cards
 Designer Gifts
@@ -649,67 +730,6 @@ Housewarming Gifts
 Jewellery Gifts
 Gifts for All
 View All Gift Guides
-Clearance
-View All Clearance
-Women's Clothing
-Women's Shoes
-Women's Accessories
-Beauty & Grooming
-Men's Clothing
-Men's Shoes
-Men's Accessories
-Kids & Toys
-Home
-Women
-Men
-Kids & Toys
-Home
-View All Clearance
-Size 4
-Size 6
-Size 8
-Size 10
-Size 12
-Size 14
-Size 16
-Size 18
-Size 20+
-View All
-Size 1-2
-Size 3
-Size 4
-Size 5
-Size 6
-Size 7
-Size 8
-Size 9+
-View All
-View All
-Women's Beauty
-Men's Grooming
-Size XS
-Size S
-Size M
-Size L
-Size XL
-Size XXL+
-View All
-Size 6
-Size 7
-Size 8
-Size 9
-Size 10
-Size 11
-Size 12+
-View All
-View All
-Baby & Nursery
-Boys' Clothing
-Girls' Clothing
-Shoes
-Toys
-View All
-View All
 Please enable JavaScript to fully enjoy our lovely website.You need to have JavaScript enabled to make full use of this website.
 TK Maxx
 TJX Europe Privacy Statement and Cookies PolicyEffective Date: July 2021The TJX Companies, Inc. and its affiliates (collectively,
@@ -778,8 +798,82 @@ Beauty
 View All
 Gifts
 View All
+Clearance
+Final Clearance
+Women
+Men
+Kids' & Toys
+Home
+View All
+Women's Clothing
+Size 4
+Size 6
+Size 8
+Size 10
+Size 12
+Size 14
+Size 16
+Size 18
+Size 20+
+View All
+Women's Shoes
+Size 1-2
+Size 3
+Size 4
+Size 5
+Size 6
+Size 7
+Size 8
+Size 9+
+View All
+Women's Accessories
+View All
+Beauty & Grooming
+Women's Beauty
+Men's Grooming
+Men's Clothing
+Size XS
+Size S
+Size M
+Size L
+Size XL
+Size XXL+
+View All
+Men's Shoes
+Size 6
+Size 7
+Size 8
+Size 9
+Size 10
+Size 11
+Size 12+
+View All
+Men's Accessories
+View All
+Kids & Toys
+Baby & Nursery
+Boys' Clothing
+Girls' Clothing
+Shoes
+Toys
+View All
+Home
+View All
+View All Clearance
+Women
+Men
+Kids & Toys
+Home
+View All Clearance
 Women
 New In
+View All
+Clearance
+Final Clearance
+Accessories
+Beauty
+Clothing
+Shoes
 View All
 Gold Label
 View All
@@ -898,14 +992,14 @@ Style Edits
 Athleisure
 Loungewear
 All Dressed Up
-Clearance
-Accessories
-Beauty
-Clothing
-Shoes
-View All
 Men
 New In
+View All
+Clearance
+Final Clearance
+Accessories
+Clothing
+Shoes
 View All
 Gold Label
 View All
@@ -959,6 +1053,8 @@ Size 11
 Size 12+
 Boots
 Brogues
+Loafers
+Sliders
 Trainers
 View All
 Accessories
@@ -978,11 +1074,6 @@ View All
 Style Edits
 Athleisure
 Loungewear
-Clearance
-Accessories
-Clothing
-Shoes
-View All
 Active
 Women's Clothing
 Hoodies & Sweats
@@ -1046,6 +1137,9 @@ Designer Brands
 Girls' Clothing
 Girls' Shoes
 Toys
+View All
+Clearance
+Final Clearance
 View All
 Gold Label
 View All
@@ -1127,7 +1221,9 @@ KIDS 12 - 13
 JNR 1 - 2
 JNR 3 - 4
 JNR 5 - 6
+Boots
 Sandals
+School Shoes
 Sliders
 Trainers
 View All Girls
@@ -1142,10 +1238,13 @@ Toy Boxes & Storage
 View All
 Kids' Room
 View All
-Clearance
-View All
 Home
 New In
+View All
+Halloween
+View All
+Clearance
+Final Clearance
 View All
 Garden & Outdoor
 Garden
@@ -1171,10 +1270,9 @@ King Size
 Superking Size
 View All
 Bathroom
-Bath Mats
 Bathroom Accessories
 Candles & Diffusers
-Towels
+Towels & Bathmats
 View All
 Kitchen, Dining & Utility
 Baking & Ovenware
@@ -1225,10 +1323,10 @@ View All
 Recycled, Reusables & Organic
 Shop Now
 Read More
-Clearance
-View All
 Beauty
 New In
+View All
+Clearance
 View All
 Skincare
 Skincare
@@ -1249,12 +1347,14 @@ Wellness
 View All
 Gifts
 View All
-Clearance
-View All
 View All
 View All
 Shoes
 New In
+Women
+Men
+Kids
+Clearance
 Women
 Men
 Kids
@@ -1286,6 +1386,8 @@ Size 11
 Size 12+
 Boots
 Brogues
+Loafers
+Sliders
 Trainers
 View All
 Kids
@@ -1298,16 +1400,14 @@ KIDS 12 - 13
 JNR 1 - 2
 JNR 3 - 4
 JNR 5 - 6
+Boots
 Sandals
+School Shoes
 Sliders
 Trainers
 View All Girls
 View All Boys
 View All
-Clearance
-Women
-Men
-Kids
 Gifts
 New In
 View All
@@ -1324,6 +1424,7 @@ Sweet Treats
 View All
 Gifts That Do Good
 Charity Gifts
+Uganda Sustainable Trade
 View All
 Gifts for Her
 Gift Cards
@@ -1394,65 +1495,4 @@ Housewarming Gifts
 Jewellery Gifts
 Gifts for All
 View All Gift Guides
-Clearance
-View All Clearance
-Women
-Men
-Kids & Toys
-Home
-View All Clearance
-Women's Clothing
-Size 4
-Size 6
-Size 8
-Size 10
-Size 12
-Size 14
-Size 16
-Size 18
-Size 20+
-View All
-Women's Shoes
-Size 1-2
-Size 3
-Size 4
-Size 5
-Size 6
-Size 7
-Size 8
-Size 9+
-View All
-Women's Accessories
-View All
-Beauty & Grooming
-Women's Beauty
-Men's Grooming
-Men's Clothing
-Size XS
-Size S
-Size M
-Size L
-Size XL
-Size XXL+
-View All
-Men's Shoes
-Size 6
-Size 7
-Size 8
-Size 9
-Size 10
-Size 11
-Size 12+
-View All
-Men's Accessories
-View All
-Kids & Toys
-Baby & Nursery
-Boys' Clothing
-Girls' Clothing
-Shoes
-Toys
-View All
-Home
-View All
 Store LocatorHelpTreasureTrack my orderGift cards

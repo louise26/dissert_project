@@ -15,16 +15,16 @@ Help
 Comments & replies
 Sign out
 Search
+current edition:
+International edition
+switch to the
+International edition
 switch to the
 UK edition
 switch to the
 US edition
 switch to the
 Australia edition
-switch to the
-International edition
-current edition:
-UK edition
 News
 Opinion
 Sport
@@ -33,18 +33,15 @@ Lifestyle
 Show
 More
 News
-UK news
-World news
-Business
 Coronavirus
-Football
+World news
+UK news
 Environment
-UK politics
-Education
-Society
 Science
-Tech
 Global development
+Football
+Tech
+Business
 Obituaries
 Opinion
 The Guardian view
@@ -61,51 +58,42 @@ Tennis
 Cycling
 F1
 Golf
-Boxing
-Rugby league
-Racing
 US sports
 Culture
-Film
+Books
 Music
 TV & radio
-Books
 Art & design
-Stage
+Film
 Games
 Classical
+Stage
 Lifestyle
 Fashion
 Food
 Recipes
-Travel
+Love & sex
 Health & fitness
+Home & garden
 Women
 Men
-Love & sex
-Beauty
-Home & garden
+Family
+Travel
 Money
-Cars
 What term do you want to search?
 Search with google
 Make a contribution
 Subscribe
+International edition
+switch to the
 UK edition
 switch to the
 US edition
 switch to the
 Australia edition
-switch to the
-International edition
 Search jobs
-Hire with Guardian Jobs
 Holidays
-Live events
-Masterclasses
 Digital Archive
-Guardian Print Shop
-Patrons
 Guardian Puzzles app
 The Guardian app
 Video
@@ -120,13 +108,8 @@ Crosswords
 Facebook
 Twitter
 Search jobs
-Hire with Guardian Jobs
 Holidays
-Live events
-Masterclasses
 Digital Archive
-Guardian Print Shop
-Patrons
 Guardian Puzzles app
 Privacy
 Our privacy policy
@@ -164,7 +147,6 @@ Opinion
 Sport
 Culture
 Lifestyle
-About us
 Contact us
 Complaints & corrections
 SecureDrop
@@ -175,7 +157,6 @@ Terms & conditions
 Help
 All topics
 All writers
-Modern Slavery Act
 Digital newspaper archive
 Facebook
 YouTube
@@ -184,9 +165,7 @@ LinkedIn
 Twitter
 Newsletters
 Advertise with us
-Guardian Labs
-Search jobs
-Patrons
+Search UK jobs
 Support The Guardian
 Available for everyone, funded by readers
 Contribute

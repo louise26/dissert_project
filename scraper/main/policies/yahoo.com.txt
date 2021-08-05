@@ -1,282 +1,272 @@
-Cookie Policy | Verizon Media Policies
-Terms
-Privacy Centre
+Politique en matière de cookies | Verizon Media Policies
+CGU
+Vie privée
 Back
-Privacy Centre
-Privacy Policy
-Your Privacy Controls
-How Digital Advertising Works
-Topics
-Cookie Policy
-Copyright/IP
-Community Guidelines (New)
-Terms
-Privacy Centre
-Privacy Policy
-Your Privacy Controls
-How Digital Advertising Works
-Topics
-Cookie Policy
-Copyright/IP
-Community Guidelines (New)
-Cookie Policy
-Cookie Policy
+Vie privée
+Politique relative à la vie privée
+Commandes
+Publicités pertinentes
+Sujets
+Politique en matière de cookies
+Propriété Intellectuelle
+Règlement de la communauté (nouveau)
+CGU
+Vie privée
+Politique relative à la vie privée
+Commandes
+Publicités pertinentes
+Sujets
+Politique en matière de cookies
+Propriété Intellectuelle
+Règlement de la communauté (nouveau)
+Politique en matière de cookies
+Politique en matière de cookies
 Expand all
-Cookie Policy
-This Cookie Policy explains the different types of cookies and other technologies that we use in our
-Products and
-Services, why we use them, and your choices for managing data collected through our cookies.
-Visit our Privacy Policy to learn more about how we collect and use your data, how we share it, your choices about how your data is used and shared, and your rights under the privacy laws that apply to you.
-For the setting of cookies and associated purposes for which we use cookies, we will ask for your consent. Please note that some of the cookies we use are “multi-purpose cookies”, which are cookies that we use for multiple purposes. In those cases, while you can withhold consent or opt-out of some of the purposes for which we use multi-purpose cookies, others are strictly necessary to deliver our Products and Services (like security and anti-fraud). In these cases, we will not use those cookies for the purposes where you have withheld your consent or opted out. However, we will still set the multi-purpose cookies and will not offer you controls over the purposes that are strictly necessary.
-See “How can you control how we use your data?” below to learn more about how to manage your cookies and the purposes for which we use your data..
-What technologies do we use?
-We use cookies, Software Developments Kits (‘SDK’s), advertising identifiers, web storage, pixels and tags in our
-Products and
-Services, either through website or app formats. We collectively refer to these as ‘cookies and other technologies’. Check out this section to learn what cookies and other technologies Verizon Media uses, and how they work.
+Politique en matière de cookies
+La présente Politique en matière de cookies décrit les différents types de cookies ainsi que leset autres technologies que nous utilisons dans nos Produits et
+Services, et explique pourquoi nous nous servons de ces procédés ainsi que vos choix pour gérer les données collectées à partir de nos cookies.
+Consultez notre Politique relative à la vie privée pour savoir plus précisément comment nous collectons, utilisons et partageons vos données, et obtenir des informations supplémentaires sur les options dont vous disposez pour choisir comment vos données sont utilisées et partagées, ainsi que sur vos droits en vertu de la règlementation sur la protection de la vie privée s’appliquant à vous.
+Nous vous demanderons votre consentement pour l’installation des cookies et les finalités pour lesquelles nous les utilisons.Veuillez noter que certains des cookies que nous utilisons sont des « cookies multi-usage », à savoir des cookies que nous utilisons pour plusieurs finalités. Dans ces cas, vous avez la possibilité de retirer votre consentement ou de vous opposer à certaines des finalités pour lesquelles nous utilisons ce type de cookies. Néanmoins, gardez à l’esprit que certaines des finalités pour lesquelles ces cookies sont utilisés sont strictement nécessaires pour proposer nos Produits et Services (notamment en matière de sécurité et de lutte contre la fraude). Dans ces cas de figure, nous n’utiliserons pas ces cookies pour les finalités pour lesquelles vous avez retiré votre consentement ou auxquelles vous vous êtes opposé. Toutefois, nous continuerons d’installer ce type de cookies pour des finalités qui sont strictement nécessaires et nous ne mettrons pas à votre disposition des paramètres pour contrôler les finalités en question.
+Veuillez vous reporter à la section « Comment pouvez-vous contrôler la façon dont nous utilisons vos  données? » ci-dessous pour en apprendre davantage sur la façon dont vous pouvez gérer vos cookies et les finalités pour lesquelles nous utilisons vos données.
+Quelles technologies utilisons-nous ?
+Nous utilisons des cookies, des kits  de développement logiciel (ou « kits SDK » pour « Software Development Kits »), des identifiants publicitaires, le stockage  Web, des pixels et des tags dans nos Produits et
+Services au format adapté pour les sites Web ou les applications. Ces technologies sont désignées, ensemble, les « cookies et autres technologies ». Veuillez lire cette section pour découvrir les cookies et autres technologies utilisés par Verizon  Media et la façon dont ils fonctionnent.
 Cookies
-Cookies are small pieces of information stored on your browser when you visit a website or a mobile app. The website sets the name of the cookie, what information is stored in the cookie and how long the cookie is kept by your browser.
-How do cookies work?
-Typically, when you visit a website, the website creates a unique identifier and stores it in a cookie on your browser.
-Once a website sets a cookie on your browser, your browser will automatically transmit the information contained in the cookie to that website or domain, every time you visit it for as long as the cookie exists.
-There are two types of cookies that can be set in your browser:
-session cookies: these cookies are stored when you visit the website or app and will expire once you close the browser or app.
-persistent cookies: these cookies are stored when you visit the website or app but do not expire once you close the website or app.  Instead, these cookies expire after a period of time determined by the website or app. In this way, the website or app may recognise you when you visit the website again in the future.
-SDKs
-SDKs are software libraries that developers incorporate into their apps to provide app features for users and other services to the app developer. SDKs are typically used in mobile and connected TV devices.
-How do SDKs work?
-When you download an app onto your device, any SDK included in that app by the app developer will be installed onto your device as well.
-Once installed, the SDK provides app features such as advertising, and analytics services to app developers, like information about your app usage and device characteristics.
-Advertising identifiers
-Advertising identifiers are unique identifiers that companies use to identify your device. These are typically used within operating systems on mobile devices and connected TVs.
-How do advertising identifiers work?
-Operating systems create a unique advertising identifier on your mobile device, tablet, or your connected TV. When you use an app on your mobile device or your connected TV, the app will recognise your unique advertising identifier and use it for different purposes. These purposes include to provide you with personalised ads and to understand the performance of the ads that the app shows you.
-Web Storage
-Web storage is a technology that enables website and app developers to store information in your browser.  Web storage is used similarly to cookies.
-How does web storage work?
-There are two types of web storage:
-Session storage: the website will store the information while you are using the browser, and the information will expire once you close the browser.
-Local storage: the website will store the information and it will not be deleted once you close your browser. Instead, local storage expires as determined by the website. In this way, the website is able to recognise you when you reopen it during another browsing session.
-Though controls vary by browser type, web storage is generally subject to your browser privacy settings.
-Pixels and Tags
-Pixels and tags are invisible images or scripts that are included on the websites and apps that you use.
-How do pixels and tags work?
-When you interact with features on a website or app, pixels and tags make calls to web servers that transfer information about your browser, unique identifiers, and information regarding your interactions with the website or app.
-Pixels and tags are often used in combination with cookies and other technologies.
-Why does Verizon Media use cookies and other technologies?
-Verizon Media uses cookies and other technologies to uniquely identify the browsers and devices that interact with our
-Products and
-Services. Once we are able to uniquely identify the browsers or devices, we collect information from them and use that information for a range of purposes. Check out this section to learn more about these purposes.
-Authentication, security and fraud, and abuse prevention
-to authenticate our users
-to ensure the security of our users’ accounts
-to prevent malicious activity and protect our Products and Services from abuse
-For example, we set the OTH cookie to indicate the presence of a signed-in user to our systems.
-Legal compliance
-to identify appropriate legal jurisdiction
-to store data permissions and objections
-For example, the GUC and CFC cookies carry information about a user’s consent and privacy controls, like whether you’ve provided or withheld consent from Verizon Media for certain purposes. We can then recall your consent choices as you use our Products and Services.
-Providing product features and honoring user preferences
-to remember you when you log into our Products
-to honour your settings and preferences across visits
-For example, the lkl cookie assigns a user’s last known location based on a browser’s location detection. Our newsletter_toaster_ cookie is used to remember if a user closed out a newsletter sign-up prompt. Our PH cookie stores a user’s language preferences.
-Content and advertising personalisation
-to build an interest profile by linking information about your device and online activity with the unique identifier associated with your device
-to retrieve the information associated with your unique identifier
-to select personalised content and advertising that we think match your interests according to your interest profile
-to show you the relevant personalised content and advertising on our Products and Services
-to measure your engagement with the content and advertising that we show to you
-To learn more about how we use your data to provide digital ads, visit How advertising works.
-For example, our A1, B and APID cookies assign unique identifiers to individual browsers on devices that we use to personalise advertising. See <‘Step 1: Assigning a unique identifier to your device’ on our ‘How Digital Advertising Works’ page for more information.
-Analytics
-to perform analytics on our
-Products and
-Services to understand how our users interact with them
-to create aggregate reports and provide data analysis tools for external parties, including publishers, advertisers, and the public, about industry trends, audience insights, ad performance and effectiveness
-For example, we set A1 and B cookies to accurately count the number of unique browsers that access our Products, and understand how users interact with our Products.
-Advertising personalisation on third party websites and apps
-to provide personalised advertising
-to enhance personalised advertising profiles
-For example, our migrated2y cookie denotes a user’s migration to a yahoo.com website.  Our adaptv_unique_user_cookie  is used to report the number of unique visitors for an advertising campaign so that we can report to our advertising clients. Our adsrcvw1 limits the number of times that a given user will see an advertisement.
-The cookies and other technologies that we use and their names will change over time. You may also see cookie names below more than once because some of our cookies are “multi-purpose cookies”. A “multi-purpose cookie” is a cookie that is used for multiple purposes. While you can withhold consent or opt-out of some of the purposes for which we use multi-purpose cookies, others are strictly necessary to deliver our Products and Services (like security and anti-fraud). In these cases, we will not use those cookies for the purposes where you have withheld your consent or opted out. However, we will still set the multi-purpose cookies and will not offer you controls over the purposes that are strictly necessary.
-You can view and manage cookies in your browser (see here for more information). You can also view and manage the purposes for which we use the information that we collect from cookies in Your Privacy Controls.
-Below you can find more detail about the different cookies and other technologies that we use, including the expiration of each cookie from the last time we saw you.
-Do third parties use cookies and other technologies on our Products?
-Yes. Our partners, such as our
-technology advertising partners and content providers, use their own cookies and other technologies in connection with our
-Products. This means that when you use our Products, third parties will also collect information from your browser and your devices.
-How do third parties use cookies and other technologies in our Products?
-When you visit our Products, third parties use cookies and other technologies to collect associated information from your browser and/or devices  for different purposes, including:
-to show you personalised content and ads
-to understand how you interact with the content and ads that they show you
-To find out more about the third parties that we work with and how they process information from your browser and your devices, visit our Our Partners  page.
-How can you control how we use your data?
-We provide you with controls over how your data is used by us and our partners. Check out this section to learn how you can manage your data.
-In Your Privacy Controls
-Visit Your Privacy Controls and see the controls available to manage how we and our
-advertising technology partners use cookies for different purposes. For example, we provide these controls to you that govern how we and our partners use your data:
-Personalised advertising
-This control enables you to choose whether you want to  see personalised ads from us or not.  If you do not wish to see personalised ads from us, you will still see  generic ads that may not be relevant to you. To manage whether o ur partners  serve personalised ads to you on our
-Products visit the Partners control.
-Search history
-This control enables you to choose whether you want to see  personalised  ads based on your search history. If you do not wish to see personalised ads based on your search history, we will continue to retain your search history to provide necessary support for internal operations such as security.
-Precise location
-This control enables you to choose whether you want to see personalised ads based on your
-precise location data . When you disable this control, we  still use your precise location data when you are using app or website features where location is necessary to provide the service. This control will not impact previous precise location data that we have converted to general location information.
-Device linking
-This control enables us to use your activity and interest data collected on other devices that we associate with you or your household  to personalise ads on your current device. When you disable this control  the activity on your current device will not be linked to other devices that we associate with you or your household for personalised advertising.  Some linking between devices is necessary for critical functions such as security and fraud detection and prevention.
-Personalised advertising on Verizon Media Ad Network
-This control enables you to choose whether you wish to see personalised  ads  on partner sites and apps in the
-Verizon Media Ad Network. When you disable this control, we will continue to collect and use information from partner sites and apps for minimal operational needs such as billing, ad measurement and reporting.
-Audience matching
-When  this control is disabled, Verizon Media will not  use your personal data such as email or phone number for audience match purposes.  Audience matching is a process that identifies where we and our partners share the same users so we can provide more relevant ads to those users.
-Communications analysis
-This control will enable you to choose whether you wish to see personalised ads based on  the content and metadata of your communications (such as your emails) . When you disable this control, we will continue to analyse your communications to provide product features and other functions such as spam filtering and security.
-Partners
-You can manage which
-advertising technology partners have the right to collect and use your data, including their use of cookies and other technologies when you use our
-Products.
-Verizon Media and many of our advertising technology partners also participate in self-regulatory organisations that allow you to opt-out from receiving personalised advertising from us. Visit the NAI, DAA and EDAA for more information.
-On mobile devices and tablets
-If you are using a mobile device, you can manage your choices on your operating system to limit the use of advertising identifiers. To manage your choices, visit the settings and additional information provided by your mobile device’s operating system.
-On your web browser or desktop
-If you are using a web browser on a mobile or desktop device, you can configure your browser preferences and manage how the browser handles cookies and other technologies. Please note that some features on our
-Products, including being able to sign into your email, may not work if you disable cookies and other technologies in your browser.  Learn more below.
-Delete your cookies from a desktop web browser
-Delete your cookies from a mobile web browser
-Cookie Tables
-The following tables  list some of the cookies that we place on our Products and Services.  We have listed our persistent cookies and technologies that we set in connection with these purposes. We have not included session cookies.
-Authentication, security and fraud, and abuse prevention
-Cookie Name
-Maximum expiration from last time we saw you
+Les cookies sont de petites suites d’informations stockées dans votre navigateur lorsque vous consultez un site  Web ou une application mobile. Le site  Web définit le nom du cookie, les informations stockées dans le cookie en question et la durée de conservation du cookie par votre navigateur.
+Comment fonctionnent les cookies ?
+En général, lorsque vous consultez un site Web, le site concerné crée un identifiant unique et le stocke dans un cookie sur votre navigateur.
+Une fois que le site  Web a installé un cookie dans votre navigateur, les informations contenues dans le cookie seront transmises automatiquement par votre navigateur au site  Web ou domaine concerné, chaque fois que vous le consulterez et aussi longtemps que le cookie existera.
+Deux types de cookies peuvent être installés dans votre navigateur :
+Cookies de session : ils sont stockés lorsque vous consultez un site  Web ou une application et expirent une fois que vous avez fermé le navigateur ou l’application en question.
+Cookies persistants : ils sont stockés lorsque vous consultez un site  Web ou une application, mais n’expirent pas une fois que vous avez fermé le site  Web ou l’application en question. Au lieu de cela, ces cookies expirent après une durée fixée par le site  Web ou l’application. Ainsi, le site Web ou l’application sont en mesure de vous reconnaître lors d’une visite ultérieure de ce site Web ou de cette application.
+Kits SDK
+Les kits  SDK sont des bibliothèques de logiciels que les développeurs intègrent à leurs applications afin de fournir les fonctionnalités des applications aux utilisateurs et d’autres services au développeur de l’application. En général, les kits  SDK sont utilisés sur les appareils mobiles et les téléviseurs connectés.
+Comment fonctionnent les kits SDK ?
+Lorsque vous téléchargez une application sur votre appareil, tous les kits  SDK intégrés à l’application par le développeur seront également installés sur votre appareil.
+Une fois installé, le kit  SDK fournit des fonctionnalités de l’application, telles que les publicités, et des services d’analyse aux développeurs de l’application, tels que des informations concernant votre utilisation de l’application et les caractéristiques de votre appareil.
+Identifiants publicitaires
+Les identifiants publicitaires sont des identifiants uniques dont certaines sociétés utilisent pour identifier votre appareil. En général, ils sont utilisés au sein des systèmes d’exploitation sur les appareils mobiles et les téléviseurs connectés.
+Comment fonctionnent les identifiants publicitaires ?
+Les systèmes d’exploitation créent un identifiant publicitaire unique sur votre appareil mobile, votre tablette ou votre télévision connectée. Lorsque vous vous servez d’une application sur votre appareil mobile ou votre téléviseur connecté, elle reconnaît votre identifiant publicitaire unique et l’utilise pour différentes finalités. Elle s’en sert notamment pour vous fournir des publicités personnalisées et comprendre les performances des publicités que l’application vous propose.
+Stockage Web
+Le stockage  Web est une technologie qui permet aux développeurs de sites  Web et d’applications de stocker des informations dans votre navigateur. Le stockage Web est utilisé de façon similaire aux cookies.
+Comment fonctionne le stockage Web ?
+Il existe deux types de stockage Web :
+Stockage de session : le site Web stocke les informations lorsque vous utilisez le navigateur, et ces informations expirent une fois que vous avez fermé le navigateur.
+Stockage local : le site  Web stocke les informations et celles-ci ne sont pas supprimées une fois que vous avez fermé votre navigateur. Au lieu de cela, le stockage local expire à une date déterminée par le site  Web. Ainsi, le site Web est en mesure de vous reconnaître lorsque vous le consultez de nouveau pendant une autre session de navigation.
+Bien que les réglages varient en fonction du type de navigateur, le stockage  Web est généralement assujetti aux paramètres de confidentialité de votre navigateur.
+Pixels et tags
+Les pixels et les tags sont des images ou scripts invisibles qui sont intégrés aux sites  Web et aux applications que vous utilisez.
+Comment fonctionnent les pixels et tags ?
+Lorsque vous interagissez avec des fonctionnalités sur un site Web ou une application, des pixels et des tags passent des appels aux serveurs Web qui transfèrent les informations concernant votre navigateur, les identifiants uniques et les renseignements relatifs à vos interactions avec le site Web ou l’application en question.
+Les pixels et les tags sont souvent utilisés conjointement avec les cookies et autres technologies.
+Pourquoi Verizon Media utilise-t-elle des cookies et d’autres technologies ?
+Verizon  Media fait appel aux cookies et à d’autres technologies pour identifier de façon unique les navigateurs et appareils qui interagissent avec nos Produits et Services. Une fois que nous sommes en mesure d’identifier de manière unique les navigateurs ou les appareils, nous collectons des informations à leur sujet et utilisons ces renseignements pour diverses finalités. Veuillez lire cette section pour en apprendre davantage au sujet de ces finalités.
+Authentification, sécurité, et prévention des fraudes et des abus
+pour authentifier nos utilisateurs
+pour garantir la sécurité des comptes de nos utilisateurs
+pour empêcher toute activité malveillante et protéger nos Produits et Services des abus
+Par exemple, nous installons le cookie OTH pour indiquer la présence d’un utilisateur connecté à nos systèmes.
+Respect de la règlementation  en vigueur
+pour identifier la compétence juridictionnelle applicable
+pour stocker les autorisations et les oppositions  à la collecte des données
+Par exemple, les cookies GUC et CFC contiennent des informations relatives au consentement et aux contrôles en matière de confidentialité des utilisateurs, par exemple si vous avez donné ou refusé de donner votre consentement à Verizon Media pour certaines finalités. Nous pouvons ensuite nous souvenir de vos choix en matière de consentement lorsque vous utilisez nos Produits et Services.
+Fournir les fonctionnalités des produits et respecter les préférences des produits utilisateurs
+pour se souvenir de vous lorsque vous vous connectez à nos Produits
+pour respecter vos paramètres et préférences à chaque visite
+Par exemple, le cookie lkl détermine la dernière position connue d’un utilisateur sur la base d’une détection de la position du navigateur. Notre cookie newsletter_toaster_ est utilisé pour nous rappeler si un utilisateur a fermé la fenêtre d’invitation à s’inscrire à notre newsletter. Notre cookie PH stocke les préférences des utilisateurs en matière de langue.
+Personnalisation du contenu et des publicités
+pour élaborer un profil d’intérêts en associant les informations concernant votre appareil et votre activité en ligne à l’identifiant unique lié à votre appareil
+pour récupérer les informations associées à votre identifiant unique
+pour sélectionner du contenu et des publicités personnalisés qui, selon nous, correspondent à vos centres d’intérêt conformément à votre profil d’intérêts
+pour vous proposer le contenu et les publicités personnalisés pertinents dans nos Produits et Services
+pour évaluer votre interaction avec le contenu et les publicités que nous vous diffusons
+Pour en apprendre davantage quant à la façon dont nous utilisons vos données afin de vous proposer des publicités numériques, veuillez consulter notre page Fonctionnement des publicités numériques.
+Par exemple, nos cookies A1, B et APID attribuent des identifiants uniques aux navigateurs individuels sur les appareils, que nous utilisons pour personnaliser les publicités. Veuillez vous reporter à la section <« Étape 1 : attribuer un identifiant unique à votre appareil » sur notre page Fonctionnement des publicités numériques pour plus d’informations.
+Analyse
+pour réaliser des analyses sur nos Produits et Services afin de comprendre comment nos utilisateurs interagissent avec eux
+pour créer des rapports agrégés et fournir des outils d’analyse des données pour des acteurs extérieurs, y compris des éditeurs, des annonceurs et le public, concernant les tendances du secteur, les données relatives à l’audience, et les performances et l’efficacité des publicités
+Par exemple, nous installons les cookies A1 et B pour compter précisément le nombre de navigateurs uniques qui accèdent à nos Produits, et comprendre la façon dont les utilisateurs interagissent avec nos Produits.
+Personnalisation de la publicité sur les sites Internet et applications de tiers
+pour vous proposer des publicités personnalisées
+pour améliorer les profils publicitaires personnalisés
+Par exemple, notre cookie migrated2y indique la migration d’un utilisateur vers un site yahoo.com. Notre cookie adaptv_unique_user_cookie est utilisé pour comptabiliser le nombre de visiteurs uniques dans le cadre d’une campagne publicitaire afin de pouvoir en informer nos clients annonceurs. Notre cookie adsrcvw1 limite le nombre de fois où un utilisateur donné voit une publicité.
+Les cookies et autres technologies que nous utilisons ainsi que leurs noms changeront avec le temps. Il est possible que les noms de certains cookies apparaissent plusieurs fois ci-dessous car certains de nos cookies sont « multi-usage ». Un « cookie multi-usage » est un cookie que nous utilisons pour plusieurs finalités. Vous avez la possibilité de retirer votre consentement ou de vous opposer à certaines des finalités pour lesquelles nous utilisons ce type de cookies . Néanmoins, gardez à l’esprit que  certaines des finalités pour lesquelles ces cookies sont utilisés sont strictement nécessaires pour proposer nos Produits et Services (notamment pour la sécurité et la lutte contre la fraude). Dans ces cas de figure, nous n’utiliserons pas ces cookies pour les finalités pour lesquelles vous avez retiré votre consentement ou auxquelles vous vous êtes opposé. Toutefois, nous continuerons d’installer ce type de cookies pour des finalités qui sont strictement nécessaires et nous ne mettrons pas à votre disposition des paramètres pour contrôler les finalités en question.
+Vous pouvez afficher et gérer les cookies depuis votre navigateur (plus d’informations ici). Vous pouvez également consulter et gérer les finalités pour lesquelles nous utilisons les informations que nous collectons à partir des cookies depuis la page Vos paramètres de vie privée.
+Vous trouverez ci-dessous de plus amples informations concernant les différents cookies et autres technologies que nous utilisons, y compris le délai d’expiration de chaque cookie à compter de la dernière fois où vous avez utilisé un Produit ou Service.
+Est-ce que des tiers utilisent des cookies et d’autres technologies dans nos Produits ?
+Oui. Nos partenaires, tels que nos
+partenaires de technologies publicitaires et nos fournisseurs de contenu, utilisent leurs propres cookies et autres technologies dans le cadre de nos Produits. Autrement dit, lorsque vous utilisez nos Produits, des tiers collectent également des informations à partir de votre navigateur et de vos appareils.
+Comment les tiers utilisent-ils des cookies et d’autres technologies dans nos Produits ?
+Les tiers utilisent des cookies et d’autres technologies lorsque vous consultez nos Produits.
+Lorsque vous consultez nos Produits, les tiers se servent des cookies et d'autres technologies pour collecter des informations associées provenant de votre navigateur et/ou de vos appareils pour différentes finalités, notamment :
+pour vous afficher du contenu et des publicités personnalisés
+pour comprendre comment vous interagissez avec le contenu et les publicités qu’ils vous présentent
+Pour obtenir des informations supplémentaires sur les tiers avec lesquels nous collaborons et savoir plus précisément comment ils traitent les informations obtenues à partir de votre navigateur et vos appareils, veuillez consulter la page Nos partenaires.
+Comment pouvez-vous contrôler l’utilisation de vos données par nos soins ?
+Nous mettons à votre disposition des paramètres vous permettant de décider comment vos données sont utilisées par notre société et nos partenaires. Veuillez lire cette section pour en apprendre davantage quant à la façon dont vous pouvez gérer vos données.
+Sur la page Vos paramètres de vie privée
+Veuillez consulter la page Vos paramètres de vie privée pour découvrir les paramètres disponibles pour gérer la manière dont nous et nos partenaires de technologies publicitaires utilisons des cookies pour différentes finalités. Par exemple, nous mettons à votre disposition ces paramètres qui régissent l’utilisation de vos données par notre société et nos partenaires :
+Publicités personnalisées
+Ce paramètre vous permet de décider si vous voulez que nous vous présentions des publicités personnalisées ou non. Si vous ne souhaitez pas voir des publicités personnalisées de notre part, vous verrez toujours des publicités génériques qui ne seront peut-être pas pertinentes pour vous. Afin de décider si nos partenaires peuvent vous proposer des publicités personnalisées dans nos Produits, consultez le paramètre Partenaires.
+Historique de recherche
+Ce paramètre vous permet de décider si vous voulez que les publicités soient personnalisées en fonction de votre historique de recherche. Si vous ne souhaitez pas recevoir desde publicités personnalisées en fonction de votre historique de recherche, nous continuerons à conserver votre historique de recherche pour fournir le support nécessaire pour des finalités opérationnelles internes comme la sécurité.
+Localisation précise
+Ce paramètre vous permet de décider si vous voulez que les publicités soient personnalisées en fonction de vos données de localisation précises. Lorsque vous désactivez ce paramètre, nous continuerons de nous servir de vos données de localisation précises lorsque vous utiliserez les fonctionnalités d’une application ou d’un site  Web dans le cadre desquelles la localisation est requise pour fournir le service. La désactivation de ce paramètre n’aura aucune incidence sur les anciennes données de localisation précises que nous avons converties en informations de localisation générales.
+Association d’appareils
+Ce paramètre nous permet d'utiliser les données relatives à votre activité et à vos centres d’intérêt collectées sur d’autres appareils que nous associons à vous ou à votre foyer pour personnaliser des publicités sur votre appareil actuel. Lorsque vous désactivez ce paramètre, l’activité réalisée sur votre appareil actuel ne sera pas reliée à d’autres appareils que nous associons à vous ou à votre foyer pour des finalités de publicités personnalisées. Certaines associations d’appareils sont nécessaires pour assurer des fonctions essentielles, telles que la sécurité ainsi que la détection et la prévention des fraudes.
+Publicité personnalisée sur le réseau publicitaire Verizon Media
+Ce paramètre vous permet de décider si vous souhaitez voir  des publicités personnalisées sur des sites et applications partenaires du réseau publicitaire Verizon Media. Lorsque vous désactivez ce paramètre, nous continuerons de collecter et d'utiliser les informations provenant des sites et applications partenaires pour répondre à des besoins opérationnels élémentaires, tels que la facturation, l’évaluation des publicités et les rapports.
+Correspondance d’audience
+Lorsque ce paramètre est désactivé, Verizon  Media n'utilisera pas vos données à caractère personnel telles que votre adresse e-mail ou votre numéro de téléphone portable pour des finalités de correspondance d’audience. La correspondance d'audience est un processus qui permet de déterminer si nous et nos partenaires partageons les mêmes utilisateurs afin de pouvoir proposer à ces derniers des publicités plus pertinentes.
+Analyse des communications
+Ce paramètre vous permet de décider si vous souhaitez voir des publicités personnalisées en fonction du contenu et des métadonnées de vos communications (notamment de vos e-mails). Lorsque vous désactivez ce paramètre, nous continuerons d’analyser vos communications afin de fournir les fonctionnalités des produits et d’autres fonctions telles que le filtrage des spams et la sécurité.
+Partenaires
+Vous pouvez décider quels
+partenaires de technologies publicitaires ont le droit de collecter et d’utiliser vos données, et notamment gérer leur emploi des cookies et d’autres technologies lorsque vous vous servez de nos
+Produits.
+Verizon  Media et de nombreux de nos partenaires
+de technologies publicitaires prennent également part aux organisations d’auto-réglementation qui vous permettent de vous opposer à la réception de nos publicités personnalisées. Pour plus d’informations, veuillez consulter les sites Internet de la NAI, de la DAA et de l’EDAA.
+Sur des appareils mobiles et des tablettes
+Si vous vous servez d’un appareil mobile, vous pouvez gérer vos choix dans votre système d’exploitation afin de restreindre l’utilisation d’identifiants publicitaires. Pour gérer vos choix, consultez les paramètres et les informations supplémentaires fournis par le système d’exploitation de votre appareil mobile.
+Dans votre navigateur Web ou sur un ordinateur
+Si vous utilisez un navigateur  Web sur un appareil mobile ou un ordinateur, vous pouvez configurer vos préférences de navigateur et gérer le traitement des cookies et d’autres technologies par votre navigateur. Veuillez noter que certaines fonctionnalités de nos Produits, notamment votre capacité à vous connecter à votre messagerie électronique, peuvent ne pas fonctionner si vous désactivez les cookies et autres technologies dans votre navigateur. Vous trouverez de plus amples informations ci-dessous.
+Supprimer vos cookies depuis le navigateur Web d’un ordinateur
+Supprimer vos cookies depuis le navigateur Web d’un appareil mobile
+Tableaux concernant les cookies
+Les tableaux suivants indiquent certains des cookies que nous plaçons dans nos Produits et Services. Nous avons indiqué les cookies et technologies permanents que nous installons en lien avec les finalités indiquées. Nous n’avons pas inclus les cookies de session.
+Authentification, sécurité et, prévention des fraudes et des abus
+Nom du cookie
+Délai maximal avant l’expiration du cookie, à compter de la dernière fois où vous avez utilisé le Produit ou Service
 A1
-13 months
+13 mois
 A3
-13 months
+13 mois
 B
-13 months
+13 mois
 BX
-13 months
+13 mois
 cmp
-13 months
+13 mois
 GUC
-13 months
+13 mois
 GUCS
 30 minutes
 OTH
-13 months
+13 mois
 T
-1 year
+1 an
 Y
-1 year
-Legal compliance
-Cookie Name
-Maximum expiration from last time we saw you
+1 an
+Respect de la règlementation en vigueur
+Nom du cookie
+Délai maximal avant l’expiration du cookie, à compter de la dernière fois où vous avez utilisé le Produit ou Service
 A1
-13 months
+13 mois
 A3
-13 months
+13 mois
 APID
-13 months
+13 mois
 CFC
-13 months
+13 mois
 cmp
-13 months
+13 mois
 EuConsent
-24 hours
+24 heurs
 GUC
-13 months
+13 mois
 GUCS
 30 minutes
-Product features and user preferences
-Cookie Name
-Maximum expiration from last time we saw you
+Fonctionnalités des Produits et préférences des utilisateurs
+Nom du cookie
+Délai maximal avant l’expiration du cookie, à compter de la dernière fois où vous avez utilisé le Produit ou Service
 RRC
 1 minute
 dlExpire
-30 minutes
+moins de 30 minutes
 dlTimestamp
-30 minutes
+moins de 30 minutes
 dlIsOn
-30 minutes
+moins de 30 minutes
 firstview
-1 day
+1 jour
 lkl
-13 months
+13 mois
 newsletter_toaster_
-30 days
+30 jours
 PH
-1 year
+1 an
 thamba
-1 hour
-Content and advertising personalisation
-Cookie Name
-Maximum expiration from last time we saw you
+1 heur
+Personnalisation du contenu et des publicités
+Nom du cookie
+Délai maximal avant l’expiration du cookie, à compter de la dernière fois où vous avez utilisé le Produit ou Service
 A1
-13 months
+13 mois
 A3
-13 months
+13 mois
 adaptv_unique_user_cookie
-25 months
+25 mois
 apeaf
-1 year
+1 an
 APID
-13 months
+13 mois
 APIDTS
-24 hours
+24 heurs
 B
-13 months
+13 mois
 BX
-13 months
+13 mois
 IDSYNC
-13 months
+13 mois
 T
-1 year
+1 an
 ymuid
-13 months
+13 mois
 Y
-1 year
+1 an
 yvapF
-1 day
-Analytics
-Cookie Name
-Maximum expiration from last time we saw you
+1 jour
+Analyses
+Nom du cookie
+Délai maximal avant l’expiration du cookie, à compter de la dernière fois où vous avez utilisé le Produit ou Service
 A1
-13 months
+13 mois
 A3
-13 months
+13 mois
 B
-13 months
+13 mois
 OTH
-13 months
+13 mois
 rxx
-13 months
-Cookies that we set in third party websites and apps
-Cookie Name
-Maximum expiration from last time we saw you
+13 mois
+Cookies que nous installons sur les sites Internet et applications de tiers
+Nom du cookie
+Délai maximal avant l’expiration du cookie, à compter de la dernière fois où vous avez utilisé le Produit ou Service
 A3
-13 months
+13 mois
 adaptv_unique_user_cookie
-25 months
+25 mois
 adsrcvw1
-25 months
+25 mois
 B
-13 months
+13 mois
 migrated
-25 months
+25 mois
 migrated2y
-25 months
+25 mois
 OTH
-13 months
+13 mois
 optout
-25 months
+25 mois
 rtbData0
-25 months
+25 mois
 rxx
-13 months
+13 mois
 tearsheet
-25 months
+25 mois
 unique_ad_source_impression
-25 months
+25 mois
 userData
-25 months
+25 mois
 ©2021 Verizon Media. All Rights Reserved.

@@ -3,11 +3,15 @@ Travel safely - Get the latest travel advice and booking info hereTrainlineBusin
 Effective: April 29th 2021 / Version 1.10Read also
 Cookie Policy
 Terms and Conditions
-Security OverviewPrivacy PolicyWelcome to Trainline’s Privacy Policy. When you use our services, you're trusting us with your information. This Privacy Policy will inform you as to how we look after your personal data when you use our services. We understand this is a big responsibility and we work hard to protect your personal data.
-Effective: April 29th 2021 / Version 1.10Read also
-Cookie Policy
-Terms and Conditions
-Security OverviewPersonal data you give usYou may need to give us your personal data to use our services and book tickets – more on that below.
+Security OverviewWho are we and what do we do?We’re Trainline. We’re made up of a core group of companies working together to help you get where you need to be:
+Trainline.com Limited
+Trainline SAS
+Like you, your data goes on a journey. How we collect and use your data depends on where you travel and which train or coach company you travel with. Your personal data and our promises to youYour personal data is very important to us. Whenever you use our website or app, we’re committed to these four privacy promises:
+We’ll be crystal clear about the personal data we use, how we use it and – most importantly – why we need it.
+We’ll give you choices when it comes to your data.
+We’ll keep your personal data secure, using the best possible technology, people and processes.
+We’ve cut the jargon, to help you make informed choices about your personal data.
+Personal data you give usYou may need to give us your personal data to use our services and book tickets – more on that below.
 Personal data is anything that helps identify. It’s things like:
 name
 email or billing address
