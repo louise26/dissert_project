@@ -13,182 +13,181 @@ Videos
 Build of the Month
 Premium
 Recent Blue Posts
-40 mins ago
-Coming This Fall: World of Warcraft: Wrath of the Lich King–A Pandemic System Board Game
-15 hours ago
-WoW Hotfixes – Updated July 20
-15 hours ago
-Hotfixes: July 20, 2021
-15 hours ago
-Hotfixes: July 20, 2021
+16 hours ago
+Hotfixes: August 4, 2021
+19 hours ago
+Patch 2.5.2 Content in Testing
+19 hours ago
+Patch 2.5.2 Content in Testing
 Yesterday
-Burning Crusade Classic Summer Events
-Yesterday
-Burning Crusade Classic Summer Events
-Yesterday
-Feedback: July 20-27 Same-Faction Battleground Test
+Hotfixes: August 3, 2021
+2 days ago
+Jump Into This Week's PvP Brawl: Gravity Lapse
+2 days ago
+Jump Into This Week's PvP Brawl: Gravity Lapse
+6 days ago
+How to Get Into the PTR
 Go to Blue Tracker »
 Recent Forum Posts
-07:11 PM
-Cosmic Conflicts/Cooperations
-07:10 PM
-The Asmongold Effect
-07:09 PM
-2019-2020 NBA Thread
-07:09 PM
-Who's to blame here?
-07:09 PM
-There should be more Evil vs Evil scenarios and moments in Warcraft
-07:05 PM
-Do you feel like the Arcane mage spec flows nicely in end game?
-07:05 PM
-Who do you expect the 9.2 end boss to be?
+07:55 PM
+How to make Blizzard create more WotLK and Legion like experiences
+07:55 PM
+Races interactions that should be seen or developped
+07:49 PM
+a cartoon writer has been using a toddler's show to promote his far right agendas
+07:48 PM
+World of Warcraft Job Openings, Diablo Immortal Development Update
+07:48 PM
+Recent writing has been dubbed "the worst ever" by the community & mainstream media
+07:45 PM
+Blizzard hiring an Associate Game Director
+07:44 PM
+Do Healers have to DPS now during down time in between heals?
 Go to Forums »
 Forum Filters
 World of Warcraft News and Raiding Strategies
-Coming This Fall - World of Warcraft: Wrath of the Lich King–A Pandemic Board Game
-by
-chaud
-View Profile
-View Forum Posts
-Private Message
-View Started Threads
-Published on 2021-07-21 05:46 PM
-Coming This Fall: World of Warcraft: Wrath of the Lich King–A Pandemic System Board Game
-Originally Posted by Blizzard
-(Blue Tracker / Official Forums)
-Journey to the frozen continent of Azeroth to face the armies of the Lich King this fall when you pre-purchase the World of Warcraft: Wrath of the Lich King–A Pandemic System Board Game.
-In the Wrath of the Lich King board game, players control one of Azeroth’s heroes and fight their way through the Scourge to reach the throne of fallen Prince Arthas, now feared throughout Azeroth as the terrifying Lich King. Adventure across the frozen continent of Northrend, take on quests, battle monstrous entities, and more to retake Azeroth from the Lich King.
-World of Warcraft: Wrath of the Lich King - A Pandemic System Board Game includes:
-The Pandemic system with familiar mechanics and gameplay, now tweaked to embrace the World of Warcraft universe.An extra-large game board featuring forts, temples, battlegrounds and iconic locations native to Azeroth.Legendary World of Warcraft characters with detailed and sculpted plastic figures, including Thrall, the Warchief of the Horde; Varian Wrynn, King of Stormwind; and Sylvanas Windrunner, Banshee Queen of the Forsaken.Quests, a brand-new mechanic to Pandemic that sees players adventuring across Northrend to battle monstrous entities, destroy evil relics, and more.Hero Cards that give players an edge against their enemies in the form of equipment for more attack power during combat, special mounts that allow players to move more spaces on their turn, healing potions to restore hit points, and much more.
-To learn more about World of Warcraft: Wrath of the Lich King – A Pandemic System Board Game, Pandemic, and Z-man games, go to www.zmangames.com.
-Pre-purchase today on Z-man’s website and on the official Blizzard Gear Store.
-We are part of the Blizzard Gear affiliate program and any purchase made through these links gives a small portion to us to support the site.
-Tweet
-9
-Comments
-Patch 9.1 Hotfixes - July 20, 2021
-by
-Stoy
-View Profile
-View Forum Posts
-Private Message
-View Started Threads
-Published on 2021-07-21 02:45 AM
-Patch 9.1 Hotfixes - July 20, 2021
-Originally Posted by Blizzard
-(Blue Tracker / Official Forums)
-Classes
-Mage
-Arcane
-Fixed an issue with the Clearcasting effect gained from Mirrors of Torment (Venthyr Ability) not granting the effects of Amplification while Arcane Empowerment is talented in PvP.
-Priest
-When Mass Dispel dispels multiple targets, the order of dispels is now random.
-Dungeons and Raids
-Sanctum of Domination
-Defeating Sylvanas on any difficulty will now always drop a Shard of Domination for players who do not yet have all possible Shards.Remnant of Ner’zhul
-The pendulum around the Penance of the Fallen King swings once again.
-Mythic+
-Fixed an issue that could cause small discrepancies in how Mythic+ Rating is displayed in different User Interface elements.
-Items and Rewards
-Shards of Domination
-Scouring Touch no longer incorrectly removes stealth type effects from the caster when applied to targets.
-The amount of Anima dropped by bosses in the Sanctum of Domination is now affected by achievements earned by upgrading your Covenant Sanctum.The Treatise: The Study of Anima and Harnessing Every Drop should now work on Korthia dailies, rares, and treasures as well as the Covenant Maw Assault quests.
-Developers’ note: The original goal was for the Treatise items to give you bonuses when returning to the 4 non-Maw zones or to the Maw proper for the Stygia Treatise. Korthia was themed to be part of the Maw during development and so it was not included. However, since we didn't clarify that well and Korthia is abundant in Anima having not originated in the Maw, we are enabling this item's bonus there as well. Looking forward, the Treatise: Relics Abound in the Shadowlands awarded at Tier 6 with The Archivists' Codex only works on the four original zone factions as a bonus to players who want a way to speed up their reputation with these factions.
-The new socket adding item, Alloy-Warping Facetor and conduit upgrade item, Death-Bound Shard should now be purchasable by all characters on your account from Archivist Roh-Suir once one character has reached Tier 6 Research.Rae'shalare, Death's Whisper is now classified as a Unique item.Fixed an issue that was causing the Foresworn Aspirant's Robes to not show up in the Kyrian Soulbind dailies or in the Transmog appearances user interface.
-Quests
-Resolved a number of issues with the quest "The Nathrezim" in which Mal'Ganis was telling enemies in other player's experiences what to do. He has been notified to stay in his lane.Added a graveyard that is specific for the quest "The Nathrezim."
-Developers’ note: This should eliminate the long run back to the quest if it is in progress and reduce some of the timing bugs that were coming up with Mal'Ganis' gloating moments.
-The Maw
-Fixed an issue where players who accepted a queue in the middle of flying to the Beastwarrens would be pacified until relogging.
-Torghast
-Completing the Adamant Vaults will now always reward Anima and significantly more gold.Bosses in the Adamant Vaults no longer regenerate health after defeating players.
-Tweet
-3
-Comments
-World First Mythic Sylvanas Windrunner by Echo
+World of Warcraft Job Openings, Diablo Immortal Development Update
 by
 Lumy
 View Profile
 View Forum Posts
 Private Message
 View Started Threads
-Published on 2021-07-20 11:02 AM
-Race to World First: Sanctum of Domination
-Sanctum of Domination has been cleared on Mythic difficulty by Echo! Congratulations to them!
-World First Mythic Sylvanas Windrunner by Echo - Raid Composition
-Tweet
-129
-Comments
-Race to World First Update, Patch 9.1 Hotfixes - July 19, 2021
-by
-chaud
-View Profile
-View Forum Posts
-Private Message
-View Started Threads
-Published on 2021-07-20 02:53 AM
-Race to World First: Sanctum of Domination
-Guilds are getting even closer to a Sylvanas kill! Assuming the encounter ends at 45% health, Complexity Limit got less than 1% away from a kill earlier tonight.
-Patch 9.1 Hotfixes - July 19, 2021
+Published on 2021-08-05 02:09 PM
+World of Warcraft Job Openings
+Blizzard has posted over 20 new job openings for World of Warcraft. Highlights include a new post for an Associate Game Director and three new posts on the Combat Team.
+Originally Posted by Blizzard
+(Blue Tracker)
+World of Warcraft Job Openings
+Software Engineer, Engine ToolsClass/Combat DesignerGame Designer, PvP ContentClass/Combat Designer, TuningSenior Software Engineer, EngineMid/Senior Encounter DesignerSenior Technical ArtistKnowledge ManagerSoftware Engineer, EngineContent DesignerSound DesignerQuest DesignerPrincipal Game DesignerSenior Visual Development Artist, EnvironmentsSenior Software Engineer, Tools (Server)Senior Software Engineer, WoW ClassicTechnical DesignerAssociate Game Producer, EngineeringAssociate Production DirectorAssociate Game Director
+Brian Holinka, Lead Combat Designer on World of Warcraft, shared that these new positions will be used to grow the team.
+Patch 9.1 Hotfixes - August 4, 2021
 Originally Posted by Blizzard
 (Blue Tracker / Official Forums)
 Classes
 Death Knight
-Fixed an issue with Shackle the Unworthy (Kyrian Ability) not spreading to valid enemy targets.
-Covenants
-Soulbinds
-Venthyr
-Nimble Steps (Nadjia the Mistblade) will no longer cause excessive Immunity messages when the target is immune to its movement reduction effect.
+Fixed an issue with the healing from Death Coil not reducing the cooldown of Apocalypse and Army of the Dead when talented into Army of the Damned.
+Monk
+Mistweaver
+Fixed an issue that prevented Peaceweaver (PvP Talent) from applying to targets in Smoke Bomb.
 Dungeons and Raids
-Sanctum of Domination
-Remnant of Ner’zhul
-Orbs of Torment should no longer be able to sneak in a melee attack.
-Painsmith Raznal
-[With regional restarts] Floor spikes created by Instruments of Pain now inflict their damage more closely aligned with the visual effect of the spikes on all difficulties.
-Guardian of the First Ones
-[With regional restarts] The Physical damage portion of Obliterate is now correctly increased by Obliterate’s vulnerability effect, and Obliterate’s vulnerability effect has been increased to 5000% on Heroic and Mythic difficulties.
-Developers' note: On Heroic and Mythic difficulties, the Guardian's Sunder and Obliterate combo is meant to be shared between two tanks. Prior to this change, stringing together multiple immunity effects could allow a single tank to survive the entire encounter; this should no longer be possible. Our goal is to avoid a scenario where the optimal strategy for the encounter involves having only a single tank, unlike all other encounters in Sanctum of Domination.
-Kel'Thuzad
-[With regional restarts] Soul Shards will no longer despawn if the target of Soul Fracture is defeated prematurely.
-Sylvanas Windrunner
-Fixed an issue that could cause Sylvanas to cast a non-intermission Domination Chains prior to casting the intermission Domination Chains if pushed over the health threshold very close to the cooldown of Domination Chains.Fixed an issue that allowed Thrall to affect Dark Sentinels with a knockback.Bolvar should now more reliably cast Winds of Icecrown on Mythic difficulty.Fixed an issue that would prevent Mawforged and Mawsworn enemies from granting on-kill procs.Fixed an issue where Merciless could spawn an unreliable number of zones.Fixed an issue that could cause players to teleport to the wrong location at the start of Stage 3.Sylvanas should now move defeated players between platforms after casting Raze.Fixed an issue that could cause Veil of Darkness to be applied to targets but do no damage.
-Mythic+
-Tormented Affix
-Oros Coldheart's Frost Lance should no longer damage or knock back pets.
 Tazavesh, the Veiled Market
-Mailroom Mayhem
-Fixed an issue where entering The P.O.S.T. while mounted could prevent players from picking up Unstable Goods during the encounter.
-Torghast, Tower of the Damned
-Anima Powers
-Druid
-Fixed an issue where the Mote of Blood Thirst anima power was increasing the duration of Ravenous Frenzy (Venthyr Ability) with Sinful Hysteria (Runecarving Power) equipped.
-Tweet
-8
+Fixed an issue where players could get stuck under a shipwreck in the Stormheim section.
+Timewalking
+Fixed an issue where an incorrect amount of experience was being awarded when completing a Timewalking dungeon.
+Burning Crusade Classic
+Midsummer Fire Festival
+"A Thief's Reward" is now available after returning the flames of all major enemy city's bonfires.
+Diablo Immortal Development Update
+Blizzard has posted a development update for Diablo Immortal, sharing that several changes will be coming to the game based on feedback gathered from the community during the closed alpha.
+Blizzard has also announced that Diablo Immortal is now planned for release in the first half of 2022, which will allow the Diablo team to add substantial improvements to the whole game, provide controller support, as well as make content more accessible and engaging.
+41
 Comments
-Sylvanas Encounter Doesn't End at 50%, Echo's Platform Strategy Hotfixed
+Patch 9.1 Hotfixes - August 3, 2021
 by
 Lumy
 View Profile
 View Forum Posts
 Private Message
 View Started Threads
-Published on 2021-07-19 08:30 PM
-Sylvanas Encounter Doesn't End at 50%
-Echo have brought Sylvanas down to 49.57% health, confirming that the encounter does not end at 50% health.
-According to a hotfix implemented on July 6, it looks like the fight is supposed to end at 45% on Mythic difficulty: Sylvanas
-Originally Posted by MMO-Champion
-Sylvanas
-Effect #1 - TriggerSpellOnHealthBelowPct (1)
-Value: 50Value: 45 (Mythic Raid)
-Echo's Platform Strategy Hotfixed
-After coming up with a plan to push for more damage on Sylvanas, Echo's new platform strategy was quickly hotfixed.
-In their new strategy, Naowh would go alone on the left platform in the last bridge split and survive tanking the Mawforged Colossus until Jaina teleported everyone to Oribos. This would let the rest 19 players save all their cooldowns for Sylvanas, instead of wasting them on adds.
-After about an hour of using this strategy, Blizzard pushed a hotfix that makes the Mawforged Colossus get the Berserk buff after ~45 seconds. In the video below Naowh gets 1-shotted, and since there is no one else nearby, the Mawforged Colossus casts Hymn of the End and quickly wipes the raid.
-Tweet
-24
+Published on 2021-08-04 01:21 AM
+Patch 9.1 Hotfixes - August 3, 2021
+Originally Posted by Blizzard
+(Blue Tracker / Official Forums)
+Items and Rewards
+Shards of Domination
+Shards of Domination can no longer be inserted into an occupied socket.
+Developers’ notes: We’ve made this change to prevent accidentally losing a shard by inserting another shard in its place without extracting it first. You can purchase a Soulfire Chisel to extract embedded shards from Bonesmith Heirmir in Korthia for 2500 Stygia.
+Fixed a bug which counted critical overhealing towards Winds of Winter's accumulated value. Only effective healing and damage are intended to count towards the effect.
+Torghast, Tower of the Damned
+Torments
+Phantasmic Amalgamation’s spawned with Unstable Phantasma no longer spawn near the party members on a lower floor if there are party members on a higher floor.
+14
 Comments
-Page 1 of 1007
+Activision Blizzard Q2 2021 Investor Call, Blizzard Employee Letter to Leadership
+by
+chaud
+View Profile
+View Forum Posts
+Private Message
+View Started Threads
+Published on 2021-08-03 08:29 PM
+Activision Blizzard Q2 2021 Investor Call
+The Activision Blizzard earnings call was this afternoon. We've highlighted some of the written results below.
+Activision had 127 million MAUs in the second quarter, down from 150 million MAUs in the first quarter, down from 128 million MAUs in Q4 2020, up from 111M in Q3 and 125M in Q2.Blizzard had 26 million MAUs in the second quarter, down from 27 million MAUs in the first quarter, down from 29 million in Q4 2020, down from 30 million in Q3 2020, and down from 32 million in Q1/Q2 2020.World of Warcraft net bookings again grew a double-digit percentage year-over-year, driven by the launch of Burning Crusade Classic.Subscriber numbers and hours played were higher following the release, demonstrating the importance of Classic in enabling more ways for players to engage.World of Warcraft remains on track for much stronger engagement this year than is typical outside of a modern expansion year.The latest expansion of the Hearthstone franchise, Forged in the Barrens, delivered expansion-over-expansion net bookings growth for a second consecutive release following its March launchThe team is pursuing additional opportunities to make Diablo Immortal even more engaging for a wider audience, with the launch now slated for first half of 2022Blizzard continues to make strong progress on Diablo 4 and is allocating substantial resources to creating exciting in-game content to drive engagement over multiple yearsOverwatch 2 development passed an important internal milestone in recent weeks. After a great response to the recent community update, the team is looking forward to revealing more of the game in the coming months as they approach the laterstages of production.
+Blizzard Employee Letter to Leadership
+IGN shared Blizzard employee's letter to management.
+Originally Posted by MMO-Champion
+To CEO Bobby Kotick and the Activision Blizzard executive leadership team,
+We are The ABK Workers Alliance, an organized group of current Activision Blizzard, Inc. employees committed to defending our right to a safe and equitable workplace. That right remains endangered as the stories of abuse and mistreatment continue to grow in scope, and new accounts of harassment perpetrated by current Activision Blizzard employees have continued to emerge since the publication of the DFEH’s lawsuit.
+Last week, we took collective action to demand better working conditions for women and other marginalized groups at Activision Blizzard King (ABK) by writing an open letter signed by more than 3,000 current employees. We organized the #ActiBlizzWalkout at Blizzard Entertainment’s Irvine headquarters where more than 500 workers walked out and hundreds more participated virtually around the world.
+Our request for action crosses studio lines, including workers from Activision, Beenox, Blizzard Entertainment, High Moon Studios, Infinity Ward, King, Sledgehammer Games, Raven Software, and Vicarious Visions. Our goal is for the executive leadership team to address their response to the California DFEH lawsuit, acknowledge the reality of working conditions across our organization, and commit to meaningful change at Activision Blizzard.
+We communicated a list of four demands aimed at protecting our most vulnerable workers. These are: (1) an end to forced arbitration in employment agreements, (2) the adoption of inclusive recruitment and hiring practices, (3) increases in pay transparency through compensation metrics, and (4) an audit of ABK policies and practices to be performed by a neutral third-party. Importantly, we demanded that this third party be selected by an employee-led Diversity, Equity, and Inclusion task force.
+In response to our demands, you wrote a letter to employees expressing a commitment to doing a better job of listening. You said you would do everything possible to work with employees in improving our workplace. And yet, the solutions you proposed in that letter did not meaningfully address our requests. You ignored our call for an end to mandatory arbitration. You did not commit to adopting inclusive recruitment and hiring practices. You made no comment on pay transparency.
+One of our demands, a third-party audit of ABK practices and policies, was ostensibly addressed by your decision to hire WilmerHale to conduct an internal review. While we commend the idea of hiring a third-party firm to perform an internal review, The ABK Workers Alliance cannot support the choice of WilmerHale as an impartial reviewer.
+We reject the selection of WilmerHale for the following reasons:
+WilmerHale’s pre-existing relationships with Activision Blizzard and its executives create an unacceptable conflict of interest.
+Activision Blizzard has already been a client of WilmerHale, who you used to dispute the Diverse Candidate Search Policy proposed by the AFL-CIO Reserve Fund and UAW Retiree Medical Benefits Trust earlier in 2021.○ Frances Townsend is known to have relationships with multiple partners at WilmerHale, including former FBI Director Robert Mueller.WilmerHale has a history of discouraging workers’ rights and collective action.
+WilmerHale states on their public website that their services include “advising on union awareness and avoidance”.WilmerHale used anti-collective action tactics in their work with Amazon & Uber.In media portrayals, WilmerHale is regularly referred to as a “Union Busting Firm”. We are already seeing the effects of this ideology in actions that leadership has taken to restrict our freedom of association since last week, including reducing the size of listening sessions and limiting access to those sessions.The WilmerHale partner leading this investigation, Stephanie Avakian, specializes in protecting the wealthy and powerful.
+WilmerHale outlined Avakian’s work as: “...counseling and defending financial institutions, public and private companies, hedge funds, accounting firms, investment advisors, boards, corporate executives, and individuals facing regulatory and criminal investigations and litigation with the government.”In Stephanie’s speech highlighting her successes with the SEC, all of her significant examples included achievements in favor of investors, retail clients, and customers, but does not once mention employees or laborers. We need legal representation that centers on the concerns of our current employees, rather than investors.
+We call on you and your executive leadership team to do better, and to fully address our list of demands. We will not abandon our cause. Our ranks continue to grow across multiple Activision Blizzard studios. While there are structural problems that only you can address, we are already taking steps to improve our workplace through a number of employee-driven initiatives:
+Worker-to-Worker Mentorship: We are building a mentorship program where workers can seek career advice, support, and sponsorship from a network of colleagues in a safe external channel outside company communication networks.Open Listening Sessions: We will host listening sessions that will be recorded and disseminated across the organization to facilitate ongoing conversation, education, and emotional support for employees.Community Meetings: We will facilitate monthly employee meetings, in a secure external channel, to discuss our concerns, desires, and progress toward achieving our goals. All current ABK employees are welcome to participate in these conversations.
+As these actions show, we love our studios and care deeply for our colleagues. We share your expressed unwavering commitment to improving our company together.
+We are doing what we can, and we call on you to do what we cannot.
+Sincerely,
+The ABK Workers Alliance
+Twitter: @ABetterABK
+221
+Comments
+New Leadership at Blizzard
+by
+Lumy
+View Profile
+View Forum Posts
+Private Message
+View Started Threads
+Published on 2021-08-03 12:28 PM
+New Leadership at Blizzard
+Originally Posted by Blizzard
+(Blue Tracker)
+To all members of the Blizzard Community,
+We want to let you know about an important leadership change at Blizzard Entertainment.
+Starting today, J. Allen Brack will be stepping down as the leader of the studio, and Jen Oneal and Mike Ybarra will co-lead Blizzard moving forward.
+Jen joined Blizzard in January as executive vice president of development, where she’s been providing senior development leadership and support to the Diablo and Overwatch franchises. Jen is the former head of Vicarious Visions (which is now part of Blizzard Entertainment).
+After many years at XBOX, Mike joined the company in 2019 as the executive vice president and general manager of platform and technology, where he’s been overseeing the evolution of Battle.net and our development services organization.
+Jen and Mike have more than three decades of gaming industry experience between them. Moving forward, they will share responsibilities over game development and company operations.
+Both leaders are deeply committed to all of our employees; to the work ahead to ensure Blizzard is the safest, most welcoming workplace possible for women, and people of any gender, ethnicity, sexual orientation, or background; to upholding and reinforcing our values; and to rebuilding your trust. With their many years of industry experience and deep commitment to integrity and inclusivity, Jen and Mike will lead Blizzard with care, compassion, and a dedication to excellence. You’ll hear more from Jen and Mike soon.
+The following is a message from J. Allen Brack:
+“I am confident that Jen Oneal and Mike Ybarra will provide the leadership Blizzard needs to realize its full potential and will accelerate the pace of change. I anticipate they will do so with passion and enthusiasm and that they can be trusted to lead with the highest levels of integrity and commitment to the components of our culture that make Blizzard so special.”
+Finally, thank you all for being a part of the Blizzard community, and for your passion and determination for safety and equality for all.
+568
+Comments
+Patch 9.1 Hotfixes - August 2, 2021
+by
+Lumy
+View Profile
+View Forum Posts
+Private Message
+View Started Threads
+Published on 2021-08-03 01:27 AM
+Patch 9.1 Hotfixes - August 2, 2021
+Originally Posted by Blizzard
+(Blue Tracker / Official Forums)
+Classes
+Priest
+Fixed an issue that caused the Courageous Ascension conduit to grant a low amount of damage while it was at 252 item level.
+Dungeons and Raids
+Sanctum of Domination
+Fixed an issue that caused Hollowsoul's Gaoler's Chains to hit targets not inside the area-of-effect.
+Items and Rewards
+Shards of Domination
+[With weekly maintenance in each region] Shard of Rev now also has a chance to drop from Sylvanas Windrunner.
+Torghast, Tower of the Damned
+Anima Powers
+Sweet Dreams should no longer teleport players to unintended locations.
+2
+Comments
+Page 1 of 1011
 12311511015011001
 ...
 Last
@@ -197,8 +196,35 @@ Site Navigation
 Contact Us
 MMO Champion
 Top
-Video Player is loading.Play VideoUnmuteDuration 0:00/Current Time 0:00Loaded: 0%Remaining Time -0:00 FullscreenPlayThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.
-All times are GMT. The time now is 06:12 PM.
+Recommended videosPowered by AnyClip1/7Patch 8.2.5 - War Campaign FinaleRead More
+4.7M
+224
+Video Player is loading.Play VideoUnmuteDuration 3:18/Toggle Close CaptionsCurrent Time 0:00Loaded: 0.99%0:00
+Remaining Time -3:18 FullscreenPauseUp NextThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.Replay the listPowered by AnyClip Privacy Policy
+TOP ARTICLES
+Patch 8.2.5 - War Campaign Finale
+NOW PLAYING
+UP NEXT
+Carrier Command 2 - Official VR Trailer
+NOW PLAYING
+UP NEXT
+Shadowlands - New Character Creation Screen
+NOW PLAYING
+UP NEXT
+Patch 8.2.5 - War Campaign Finale 2
+NOW PLAYING
+UP NEXT
+Shadowlands - Character Creation Class Poses
+NOW PLAYING
+UP NEXT
+Shadowlands - Nathanos and Tyrande Confrontation Cinematic
+NOW PLAYING
+UP NEXT
+Shadowlands - Pre-Expansion Patch Cinematic
+NOW PLAYING
+UP NEXT
+Patch 8.2.5 - War Campaign Finale
+All times are GMT. The time now is 05:56 PM.
 Social Media
 Services
 My Account

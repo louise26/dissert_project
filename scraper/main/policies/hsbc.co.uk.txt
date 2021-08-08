@@ -417,12 +417,9 @@ So whilst the laws might have changed, our commitment to looking after your data
 Our new Privacy Notice
 In February 2019 we updated our Privacy Notice to add clarity to how your data is shared with social media platforms for marketing purposes, and how you opt out.
 We want to make it easier for you to find out how we collect, use and protect your information, so we regularly update our Privacy Notices.
-If you have, or are applying for a product you can view the Privacy Notice OverviewPrivacy Notice Overview
-This link will open in a new window, or you can view the full version if you would like more details.
-If you are browsing our website, you can view the Website Privacy NoticeWebsite Privacy Notice
-This link will open in a new window here.
-You can also view our Mobile Banking Privacy NoticeMobile Banking Privacy Notice
-This link will open in a new window here.
+If you have, or are applying for a product you can view the Privacy Notice Overview, or you can view the full version if you would like more details.
+If you are browsing our website, you can view the Website Privacy Notice here.
+You can also view our Mobile Banking Privacy Notice here.
 More information on GDPR
 To find out more about GDPR, follow the links below to read the guidelines and information published by the Information Commissioner’s Office:
 GDPR guide to individual rights
@@ -445,9 +442,7 @@ HSBC Group has provided updated Privacy Notices to provide more specific informa
 How will the new Privacy Notice affect customers?
 Both summarised and full versions of our new Privacy Notice are available to view now. No action is required from customers.  The Privacy Notice provides customers with more information about the use of their information and their rights.
 Where can I view the summarised and full Privacy Notices?
-To read a summary, you can view the short version of the Privacy Notice herePrivacy Notice here
-This link will open in a new window. Or you can view the full versionfull version
-This link will open in a new window.
+To read a summary, you can view the short version of the Privacy Notice here. Or you can view the full version.
 What is personal data?
 Personal data is any information related to a living person (known as a data subject) that can be used directly or indirectly (when combined with other information), to identify the person.  It doesn’t apply to non-living persons, for example most corporate entities, but may apply to data we process about individuals connected with that corporate.
 How will BREXIT affect GDPR?
@@ -470,6 +465,5 @@ Legal
 Privacy notice
 Cookie notice
 Accessibility
-HSBC GroupHSBC Group
-This link will open in a new window  |  © Copyright HSBC Group 2002-2021. All rights reserved
+HSBC Group  |  © Copyright HSBC Group 2002-2021. All rights reserved
 This website is designed for use in the United Kingdom.

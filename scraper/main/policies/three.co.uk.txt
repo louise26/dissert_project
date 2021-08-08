@@ -9,7 +9,6 @@ Store locator
 Close Open navigation.
 Log inMy3
 Register
-View basket
 Home
 Shop
 Back to main menu
@@ -17,6 +16,7 @@ Shop
 Mobile phones
 Back to shop
 Mobile phones
+5G Ready phones
 Pay Monthly phones
 Pay As You Go Phones
 Sell your phone
@@ -103,7 +103,7 @@ Buy from us
 Clear
 Submit
 Mobile phones
-Pay Monthly phones
+5G Ready phonesPay Monthly phones
 Pay As You Go phones
 Sell your phone
 Accessories

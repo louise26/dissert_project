@@ -400,26 +400,54 @@ WC2A 1DT
 Company Number 6317279. Registered in the UK.
 Mobile App Privacy policy
 The following privacy policy applies if you access our services via the Reed.co.uk Mobile App.
-This App is operated by Reed Online Limited. We are part of the REED family of companies.
+The App is operated by Reed Online Limited. We are part of the Reed Corporate Family.
 This privacy policy explains how we use the personal information we collect about you when you use the App.
-Registration with and use of the App is free. We will process your personal data on the basis set out below as it is in our legitimate interests to do so following your registration.
+What we do
+Registration with and use of the App for job seekers is free. When you register as a job seeker, you engage with us to provide you with online recruitment services. The service includes providing you with regular bespoke updates of relevant vacancies which may be of interest to you. These updates will be provided as job alerts which we will email to you (or send by SMS messaging where relevant). Job alerts may provide details of vacancies of third-parties and when you express an interest in any of these third-party job alerts by clicking on the relevant link in the emails, you may be taken directly to the website of the third-party provider without the need to log into your Reed account first.
+If you do not want to receive that information from us, we give you the opportunity to opt out both as part of the registration process and at any time by updating your contact preferences in your account or by clicking on the "unsubscribe" link within those emails.
+Lawful basis for processing of your personal data
+Legitimate Interest:
+We process your personal data when it is in our legitimate interests to do this in order to provide our services. Our legitimate interests include (but are not limited to) the following: introducing of job seekers and those interested in courses to recruiters and course providers; transmission of job alerts and course alerts; the measures we take in order to ensure the security and integrity of the services we provide; promoting, marketing and advertising of our products and services; analysis of our users' behaviour, activities, preferences and requirements; understanding of existing products and services and the development of new products and services; the handling of customer contacts, queries and complaints; making available the services through the App to our users; the sharing of personal data with our third party suppliers (e.g. communication providers) who act as our data processors to enable us to provide our services; the provision of your contact details, name, IP Address, country of residence and payment confirmation (if relevant) to any course providers where you purchase a course through the Website. Where you only make an inquiry into a course available through the Website, we will only process your personal data as required on the inquiry form.
+Consent:
+On some occasions, we may process your personal data with your consent. When your consent is required, we will clearly indicate this (e.g. when we share your CV with external CV review partners). You have the right to withdraw your consent at any time. When you do so, we will cease to process such data.
+The processing is required under legal obligation:
+We may process your personal data to comply with a legal or regulatory obligation e.g. detecting, preventing or investigating crime or fraud including working with law enforcement agencies.
 What Information do we collect about you?
-We collect personal data about you when you register on the App. We do so in order to provide you with the recruitment services that are available through the App. We also collect your personal data on behalf of our sister company, Reed Specialist Recruitment Limited who provides services similar to ours. Reed Specialist Recruitment Limited will process your personal data in accordance with their own Privacy Notice which can be found here. The personal data that we collect includes your name, email address and telephone number. If you are a work seeker we will also ask for details of the kind of work you are looking for and your preferred work location. If you decide to upload a CV, cover letter, personal statement or other similar document or information we will keep that information for as long you want to keep your account.
+The personal information we collect about you may include the following:
+The information set out in your CV,
+Information to enable us to provide our services e.g. your date of birth and location, your preferred job location and the kind of work you are interested in,
+General identification and contact information e.g. your name, IP address, residential address, email and telephone details,
+Marketing preferences,
+Statistical information e.g. aggregate statistical information about site visits,
+We collect the personal data about you when you register with us. We do so in order to provide you with the recruitment services as well as for administrative purposes when you purchase or enquire about courses available through the Website. We also collect your personal data on behalf of our sister company, Reed Specialist Recruitment Limited who provides services similar to ours. Reed Specialist Recruitment Limited will process your personal data in accordance with their own Privacy Notice which can be found here.
+If you decide to upload a CV, cover letter, personal statement or other similar document or information we will keep that information for as long as you want to keep your account with us.
+If you decide to purchase any courses through the Website you will be directed to either the Course Provider directly, or to a third-party payment provider (e.g Sagepay, Paypal, Dividebuy) to complete payment.
+If you choose to take any assessments available through the Website, we will also maintain a record of your responses to and results of those assessments.
+If you register for career advice, we only require your name and email address.
 What do we do with your personal data?
-By registering on the App it is understood that work seekers are actively soliciting contact from prospective employers and recruiters about opportunities that match the work seekers' fields of interest. If you are a work seeker we will therefore make your personal data available to recruiters and employers who use our services to find suitable employees for specific roles that they are seeking to fill.
-Although the primary purpose of the App is to allow work seekers, prospective employers and recruiters to find each other, work seekers have the ability to control the extent to which your personal data is shared with other recruiters and prospective employers through the dashboard section on the App.
-For work seekers, we will use your personal data to provide you with the recruitment services that we provide, to manage your account and to email you about recruitment services which, for work seekers, includes job alerts and emails about courses that are relevant to your fields of interest.
-If you register for career advice we will only communicate with you to provide career advice, access to career advice and in connection with related services.
+Job Seekers:
+By registering with the Website, it is understood that job seekers are actively soliciting contact from prospective employers and recruiters about opportunities which match the job seekers' fields of interest as well as relevant courses which may improve a job seeker's career prospects. If you are a job seeker, we will therefore make your personal data available to recruiters and employers who use our services to find suitable employees for specific roles that they are seeking to fill.
+Although the primary purpose of the Website is to allow job seekers, prospective employers and recruiters to find each other, job seekers have the ability to control the extent to which your personal data is shared with other recruiters and prospective employers through the contact preferences section of the "your account" section on the App.
+For job seekers, we will use your personal data to supply you with the recruitment services that we provide including job alerts, to manage your account and to provide you with information about our recruitment services
+Course Seekers:
+If you register with the Website because you have an interest in the courses advertised through it, your details will be used to provide you with course alerts, to manage your account, to put you in touch with the relevant third party course providers and facilitate payment for the course (where relevant), to provide the course to you if the course is provided by us, to provide you with courses information that is relevant to your field of interest and to contact you to provide feedback on our services.
+If you do want to receive that information from us, we give you the opportunity to opt out both as part of the registration process and at any time by updating your contact preferences in your account or by clicking on the "unsubscribe" link within those emails.
 Marketing
-In the event that you register on the App as a work seeker, we will only send you information that relates to our recruitment services unless you specifically opt into receiving marketing material about other products and services through the notification section of the App. Reed Specialist Recruitment Limited may also send you marketing information relating to the services it provides and which may be of interest to you. You have the right to opt-out of receiving such marketing information at any time.
-In the event that you register on the App solely for career advice, we will only send you information related to career advice and on how to access our other services if you want to make use of that advice.
-If you consent to receive marketing material using your contact preferences you may change your mind at any time.
-You can also amend the contact preferences in your account to stop us from contacting you in connection with the recruitment services available through the App for which you register when you set up your account.
+From time to time, we would like to tell you more about our other goods and services. We will do this by sending you marketing emails if you subscribe to them when you sign up to use our services (by ticking the relevant box where indicated). You can subsequently unsubscribe by clicking the unsubscribe link in every subsequent marketing email.
+You can also amend the contact preferences in your account at any time to stop us from contacting you in connection with the recruitment services or courses available through the App and our Website, including job alerts for which you register when you set up your account as well as course alerts you may elect to receive upon registration.
+Reed Specialist Recruitment Limited may also send you marketing information relating to the services it provides and which may be of interest to you. You have the right to opt out of receiving such marketing information at any time.
+We use tracking pixels in our marketing emails. These pixels provide us with information in relation to your interaction with the emails (e.g. if you opened the email). This information helps us to better understand how customers engage with our content and to analyse the effectiveness of our marketing campaigns. You can disable tracking pixels by changing your email settings to block the loading or display of external images.
 Data Sharing and Transfers
-Save where it is necessary to do so in order to provide you with our recruitment services we do not share your personal data with third parties.
-Your personal data is stored on our servers which are in the European Economic Area. If we share your personal data with any third party service provider in the course of providing you with our services, those third parties are required to process your data in accordance with contracts that comply with data protection legislation.
+Job seekers:
+As part of the recruitment services we provide to help you find a suitable job, we may make your personal data available to third parties such as recruiters, direct employers and their agents or other business partners. We attempt to verify the identity of these third parties when they sign up with us, however we do not make any warranties as to their authenticity. This would normally happen when you apply for a job through the Website or when a recruiter downloads your CV as part of the services they purchase from us. These parties will also be data controllers of your personal data. The amount of personal data we share with these parties depends on the options you select when you create or update your account. We will also share your personal data with our sister company, Reed Specialist Recruitment Limited, for the reasons set out in this privacy notice.
+Courses:
+When you purchase or enquire about a course available through the Website, we will make your personal data available to the course provider to enable it to provide the course to you. The course provider will be a data controller in relation to your personal data.
+All users:
+We may share your personal data with third party service providers who assist us in carrying out our business activities. These third parties act as our data processors and are bound by strict contractual provisions to only process your personal data under our instructions and for the limited purposes we permit them. These third parties include (but are not limited to) our accountants; auditors; external legal advisors; external IT providers; support and hosting service providers; printing, advertising, marketing and market research and analysis service providers, technical engineers, data storage and cloud providers and all other outsourced service providers (such as communication providers) that assist us in the provision of our services.
+We may also share your personal data with courts, tribunals, regulators and other governmental and public authorities (such as the police or tax authorities) to: (i) allow us to pursue legal remedies, (ii) to enforce our terms and conditions and protect our operations, (iii) to comply with legal process, (iv) to comply with applicable law, and (v) to respond to requests from public and governmental bodies.
+Your personal data is stored on our servers which are in the European Economic Area. Your personal data may be processed outside the EEA where you apply for a job advertised by a recruiter outside the EEA, where such a recruiter downloads your CV, or where you purchase a course from a course provider outside the EEA. In such situations, we enter into legally binding contracts with such recruiters and course providers to aim to ensure that your personal data is protected.
 Access to your information and correction
-We want to make sure that your information is accurate and up-to-date and will delete or amend any information that you think is inaccurate. Should you wish to delete your account please contact us via the online form. Amendments to your account can be made online by signing in to your account or by contacting us or on the App.
+We want to make sure that your information is accurate and up-to-date and will delete or amend any information that you think is inaccurate. Should you wish to delete your account please contact us via the online form. Amendments to your account can be made online by signing in to your account or by contacting us.
 We aim to provide you with useful work-related services for the whole of your career. However, you have the right to close your account at any time and have us delete all of your personal information unless we are in the process of responding to any complaint that you make.
 Strictly necessary technology
 These technologies help our website and App run smoothly and are strictly necessary to provide certain essential features, such as being able to submit forms. You can set your device to block or alert you about these technologies, but some parts of the app will not then work. They aren't used to store any personal information.
@@ -447,7 +475,7 @@ We use Braze to send communications to you and measure their effectiveness. http
 Other websites
 This App contains links to other websites and apps. This privacy policy only applies to this App, so when you link to other websites you should review their own privacy policies.
 Changes to our Privacy Policy
-We keep our privacy policy under regular review and we place any updates on this page. This policy was last updated on 26th April 2021.
+We keep our privacy policy under regular review and we place any updates on this web page. This policy was last updated on 16 June 2021.
 How to contact us
 Please contact us if you have any questions about our privacy policy or information we hold about you:
 by email dpo@reedonline.co.uk
@@ -455,9 +483,11 @@ or write to us at Data Protection Officer, Reed Online Limited, Academy Court, 9
 How do you remove your name from the database?
 You can contact us to request for your account to be closed at any time, which will be confirmed by Reed.
 How do you unsubscribe from future mailings?
-If you have a reed.co.uk jobseeker account, you can stop receiving emails by updating your contact preferences.
+If you have a Reed.co.uk jobseeker account, you can stop receiving marketing emails by updating your contact preferences.
 How can you obtain information held about you?
 You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information please email us at dpo@reedonline.co.uk.
+Complaints
+If you would like to make a complaint about how your information is being used by us, or how your complaint has been handled, you have the right to lodge a complaint directly with the Information Commissioner's Office or our Data Protection Officer. You can write to us at dpo@reedonline.co.uk, or to the Information Commissioner's Office at: Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF (or by email to casework@ico.org.uk).
 Registered Office
 Reed Online Ltd
 Academy Court
@@ -466,8 +496,8 @@ London
 WC2A 1DT
 Company Number 6317279. Registered in the UK.
 Your security on reed.co.uk
-At reed.co.uk, we're committed to helping you find the right job in a safe and secure environment.
-On our website, www.reed.co.uk, you can learn more about some of the most common internet security threats, what you can do to protect yourself, and what we do to ensure your details remain secure.
+At Reed.co.uk, we're committed to helping you find the right job in a safe and secure environment.
+On our website, www.Reed.co.uk, you can learn more about some of the most common internet security threats, what you can do to protect yourself, and what we do to ensure your details remain secure.
 Footer
 Jobs
 Contact us

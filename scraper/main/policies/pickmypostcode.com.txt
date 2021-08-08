@@ -5,21 +5,22 @@ Please try clearing your internet cache and/or logging out of your account and b
 If you're still having issues connecting, please email admin@pickmypostcode.com or follow this link
 Sign up
 Today’s total prize pot
-£665
-Main Draw £200
-Video Draw £150
-Survey Draw £50
-Stackpot £80
-Bonus Draw £85
-Sign up Sign in
-Sign up Already a member? Sign
+£{{ store.draws.total.prize }}
+My Bonus
+£{{ store.person.user.data.totalBonus | p2pounds }}
+My Account
+Settings
+Logout
+Sign up
+Sign in
+My Account
+£{{ store.person.user.data.totalBonus | p2pounds }}
+Help
+Logout
+Sign up
+Already a member? Sign
 in
 All Draws
-Main Draw £200
-Video Draw £150
-Survey Draw £50
-Stackpot £80
-Bonus Draw £85
 Useful links
 Rules
 Winners Results
@@ -28,7 +29,8 @@ Bonus leaderboard
 Blog
 FAQ
 My Account
-Help Logout
+Help
+Logout
 About us
 Discover the UK’s Biggest Free Online Competition!
 How We Can Be a Free Lottery
@@ -41,23 +43,9 @@ Calling all compers! Enter every day for your chance to win 30+ prizes.
 pmpcomps
 We <3 emojis! Winking, lolling or blowing a raspberry? Win money with your fave emojis! freemojilottery.com
 Free food, tasty offers and delicious discounts – everyone’s a winner!
-winadinner.com Be our friend
-£200 Main Draw
-£150 Video Draw
-£50 Survey Draw
-£80 Stackpot
-£85 Bonus Draw
+winadinner.com
+Be our friend
 Formerly Free Postcode Lottery
-At least 17 winning postcodes every day. There's so many ways to win. All you have to do is show up! Main draw Stackpot draw Video draw Bonus draw Survey draw Mini draw
-+20p
-We ❤️ emojis! Pick your favourites to play and win for FREE!
-freemojilottery.com Sign up now +20p
-Free food, tasty offers and delicious discounts – everyone’s a winner!
-winadinner.com Sign up now
-Calling all compers! Enter every day for your chance to win 30+ prizes.
-pmpcomps Sign up now
-Calling all compers! Enter every day for your chance to win 30+ prizes.
-pmpcomps Sign up now
 Winners' comments
 Privacy policy
 Pick Media Ltd (‘Pick’ / ‘we’) collects and processes information from our members and potential members at several different points on pickmypostcode.com (the ‘Website’) as well as through other methods of contact, including email.
@@ -311,19 +299,7 @@ N4 3JG
 The admin team are happy to help, so if you have questions about this Policy please read through the Frequently Asked Questions or email admin@pickmypostcode.com before contacting the Data Protection Officer.
 Pick Media Ltd trading as Pick My Postcode and PickMyPostcode.com, registered in England, company number 06377138.
 Registered with the Information Commissioner’s Office as a Data Controller, registration number Z2763081.
-28,325 free prizes won across the UK so far Find winners near you
-Yayyyy I won 🎉🎈 Omg!!! I won £1,250, never won anything before so this is fantastic, I can't believe it.. so happy thank you so much 😃😘. Xx
-Kimberley Mcadam
-Read more reviews on TrustPilot
 Join the UK's biggest FREE daily lottery
-Your postcode
-Your email address Don’t worry, we’ll never pass this on.
-I agree to the
-Terms & Conditions, Privacy Policy and use of Cookies.
-Join us today for free
-Sign in
-Your postcode
-Your email address
 Sign in
 Not a member? Sign up
 Sign me up
@@ -434,11 +410,6 @@ A summary of how we use cookies
 Cookies are small ‘packets’ of data downloaded to your computer help us operate the Website. We use them to improve or change your experience on the Website, distinguish you from other users and help set your preferences. We set the cookies that do this and .
 The website also uses cookies set by third parties to help monitor traffic to the website and understand where our visitors are coming from. This includes cookies set by Google (including Google Analytics), Bing, Facebook, Twitter and Tradedoubler.
 To learn more or set your cookies preferences, please read our full cookies information, or close this.
-£NaN has been shared in the null Add
-to the hat?
-Don’t worry, we’ll never pass this on.
-I agree to the Terms & Conditions.
-Join us today for free
 Main Draw
 Video Draw
 Survey Draw

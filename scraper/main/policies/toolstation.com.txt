@@ -43,6 +43,7 @@ Caulks
 Sealant & Foam Tools
 Automotive
 Automotive
+Car Care & Cleaning
 Automotive Tools
 Mechanics Tools
 Spanners, Ratchets & Wrenches
@@ -51,15 +52,6 @@ Hex Keys
 Bodywork Tools
 Tyre Inflators
 Electrical Testers
-Garage Equipment
-Compressors
-Jacks, Stands & Winches
-Lubricants & Sprays
-Car Care & Cleaning
-Vehicle Breakdown
-Battery Starting & Chargers
-Towing
-Fuel Cans & Funnels
 Vehicle Accessories
 Roof Racks
 Straps & Ropes
@@ -68,6 +60,14 @@ Safety & Security
 USB & Electrical Accessories
 Power Inverters
 Interior Accessories
+Vehicle Breakdown
+Battery Starting & Chargers
+Towing
+Fuel Cans & Funnels
+Garage Equipment
+Compressors
+Jacks, Stands & Winches
+Lubricants & Sprays
 Motor Additives
 Car Bulbs
 Bathrooms
@@ -306,10 +306,6 @@ Detection Equipment
 Files & Rasps
 Ironmongery
 Ironmongery
-Brackets
-TV Brackets
-Shelf Brackets
-Handrail Kits & Brackets
 Door Handles & Knobs
 Lever on Backplate Handles
 Lever on Rose Handles
@@ -317,6 +313,10 @@ Mortice Knob Sets
 uPVC Door Handles
 Pull Handles, Plates & Signs
 Smart Door Controls
+Brackets
+TV Brackets
+Shelf Brackets
+Handrail Kits & Brackets
 Door Locks & Security
 Cylinders
 Locks
@@ -331,6 +331,21 @@ Outdoor Hinges
 Outdoor Bolts
 Outdoor Latches & Handles
 Gate Hardware
+Door Furniture
+Knobs & Studs
+Door Signs
+Panic Hardware
+Door Numerals
+Post boxes
+Letter Plates
+Hinges
+Door & Furniture Hinges
+Fire Door Hinges
+Door Control
+Door Closers
+Door Access Control
+Door Stops
+Fire Door Holders
 Hooks & Picture Hanging
 Door Seals & Draught Excluders
 Draught Excluders
@@ -342,22 +357,7 @@ Catches
 Sliding Door Gear
 Cabinet Hardware
 Window Hardware
-Door Furniture
-Knobs & Studs
-Door Signs
-Panic Hardware
-Door Numerals
-Post boxes
-Letter Plates
-Hinges
-Door & Furniture Hinges
-Fire Door Hinges
 Wheels & Castors
-Door Control
-Door Closers
-Door Access Control
-Door Stops
-Fire Door Holders
 Kitchens
 Kitchens
 Kitchen Taps
@@ -1046,7 +1046,7 @@ Customer Card
 Service Promise
 Company Information
 News
-Covid-19 update
+Covid-19 Update
 Covid 19 Risk Assessment
 Modern Slavery Statement
 Product Recall Notice

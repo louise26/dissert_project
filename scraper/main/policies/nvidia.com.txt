@@ -33,322 +33,321 @@ Shopping Cart
 Click to see cart items
 Search icon
 Click to search
-Main Menu
-Products
-Hardware
-Software
-Gaming and Entertainment
-GeForce Graphics Cards
-Gaming Laptops
-G-SYNC Monitors
+Menu
+Produits
+Matériel
+Logiciels
+Jeux et divertissement
+Cartes graphiques GeForce
+PC portables gaming
+Moniteurs G-SYNC
 SHIELD
-Laptops and Workstations
-Gaming Laptops
-NVIDIA RTX Desktop Workstations
-NVIDIA RTX in Professional Laptops
+PC portables et stations de travail
+PC portables gaming
+Stations de travail fixes NVIDIA RTX
+NVIDIA RTX pour PC portables professionnels
 DGX Station
-NVIDIA RTX Data Science Workstation
-Studio Laptops
-Cloud and Data Center
-Grace CPU
-DGX Systems
-EGX Platform
-HGX Platform
+Station NVIDIA RTX pour la science des données
+PC portables Studio
+Cloud et Data Center
+CPU NVIDIA Grace
+Systèmes DGX
+Plateforme EGX
+Plateforme HGX
 DRIVE Constellation
-See All Servers >
-Networking
+Voir tous les serveurs >
+Mise en réseau
 DPU
 Ethernet
 InfiniBand
-GPUs
+GPU
 GeForce
 NVIDIA RTX / Quadro
 Data Center
 Titan RTX
-Embedded Systems
+Systèmes Embedded
 Jetson
 DRIVE AGX
 Clara AGX
-Application Frameworks
-3D Collaboration - Omniverse
-Automotive - DRIVE
-Cloud-AI Video Streaming - Maxine
-Conversational AI - Jarvis
-Data Analytics - RAPIDS
-Healthcare - Clara
-High-Performance Computing
-Intelligent Video Analytics - Metropolis
-Recommender Systems - Merlin
-Robotics - Isaac
-Telecommunications - Aerial
-Apps and Tools
-NGC Software Catalog
+Frameworks d’applications
+Collaboration 3D - Omniverse
+Automobile - DRIVE
+Streaming vidéo Cloud IA - Maxine
+IA conversationnelle - Riva
+Analyse de données - RAPIDS
+Médecine et Santé - Clara
+Calcul haute performance
+Analyse vidéo intelligente - Metropolis
+Systèmes de recommandation - Merlin
+Robotique - Isaac
+Télécommunications - Aerial
+Applications et outils
+Catalogue des logiciels NGC
 Collaboration - Omniverse
 Data Center
-GPU Monitoring
+Supervision GPU
 NVIDIA RTX Experience
 NVIDIA RTX Desktop Manager
-RTX Accelerated Creative Apps
-Gaming and Entertainment
+Applications créatives RTX accélérées
+Jeux et divertissement
 GeForce NOW
 GeForce Experience
 NVIDIA Broadcast
 (Omniverse) Machinima
-Infrastructure
-AI Enterprise Suite
-Cloud Native Support
-Cluster Management
-Edge Deployment Management
-Inference Serving
-IO Acceleration
-Networking
-Virtual GPU
+Infrastructures
+Suite d'IA pour l'entreprise
+Assistance natif du Cloud
+Gestion des clusters
+Gestion des déploiements sur l’Edge
+Service d’inférence
+Accélération E/S
+Mise en réseau
+GPU virtuel
 Solutions
-AI and Data Science
-Overview
-Data Analytics
-Machine Learning
-Deep Learning Training
-Deep Learning Inference
-Conversational AI
-Data Center and Cloud Computing
-Overview
-Data Center (On-Premises)
+IA et science des données
+Aperçu
+Analyse de données
+Apprentissage automatique
+Entraînement Deep Learning
+Inférence Deep Learning
+IA conversationnelle
+Data Center et Cloud Computing
+Aperçu
+Data Center (sur site)
 Edge Computing
 Cloud Computing
-Networking
-Virtualization
-Design and Visualization
-Overview
-Augmented and Virtual Reality
-Multi-Display
-Rendering
+Mise en réseau
+Virtualisation
+Conception et Visualisation
+Aperçu
+Réalité virtuelle et augmentée
+Multi-écrans
+Rendu graphique
 Collaboration
-Graphics Virtualization
-Engineering Simulation
-Broadcast
+Virtualisation graphique
+Simulations d’ingénierie
+Diffusion
 Edge Computing
-Overview
-AI-on-5G
-Intelligent Video Analytics
-Self-Driving Cars
-Industrial
+Aperçu
+IA sur 5G
+Analyse vidéo intelligente
+Véhicules autonomes
+Industrie
 Robotics
-Edge Deployment Management
-Edge Solutions
-High-Performance Computing
-Overview
+Gestion des déploiements sur l’Edge
+Solutions Edge
+Calcul haute performance
+Aperçu
 Industries
-Overview
-Architecture, Engineering, Construction
-Consumer Internet
-Energy
-Financial Services
-Healthcare and Life Sciences
-Higher Education
-Game Development
-Manufacturing
-Media and Entertainment
-Global Public Sector
-Retail
+Aperçu
+Architecture, ingénierie et construction
+Internet grand public
+Recherche énergétique
+Services financiers
+Santé et sciences de la vie
+Enseignement supérieur
+Développement de jeux
+Production industrielle
+Médias et divertissement
+Services publics mondiaux
+Commerce
 Robotics
-Smart Cities
+Villes intelligentes
 Supercomputing
-Telecommunications
-Transportation
-For You
-Creatives/Designers
+Télécommunications
+Transport
+Pour vous
+Créateurs/Concepteurs
 Data Scientists
-Developers
-Gamers
-IT Professionals
-Researchers
-Roboticists
+Développeurs
+Joueurs
+Professionnels IT
+Chercheurs
+Roboticiens
 Startups
 NVIDIA Studio
-Overview
-Accelerated Apps
-Products
-Compare
-Shop
+Aperçu
+Applications accélérées Produits
+Produits
+Comparerr
 Industries
-Media and Entertainment
-Manufacturing
-Architecture, Engineering, and Construction
-All Industries >
+Médias et divertissement
+Production industrielle
+Architecture, Ingénierie et Construction
+Toutes les industries >
 Solutions
 Data Center/Cloud
-Laptops/Desktops
-Augmented and Virtual Reality
-Multi-Display
-Rendering
+PC portables/PC de bureau
+Réalité virtuelle et augmentée
+Multi-écrans
+Rendu graphique
 Collaboration
-Graphics Virtualization
-Engineering Simulation
+Virtualisation graphique
+Simulations d’ingénierie
 Industries
-Financial Services
-Consumer Internet
-Healthcare
-Higher Education
-Retail
-Public Sector
-All Industries >
+Services financiers
+Internet grand public
+Médecine et Santé
+Enseignement supérieur
+Commerce
+Secteur public
+Toutes les industries >
 Solutions
-Data Analytics
-Machine Learning
-Deep Learning Training
-Deep Learning Inference
-Conversational AI
-Prediction and Forecasting
-Software
-NGC Software Catalog
+Analyse de données
+Apprentissage automatique
+Entraînement Deep Learning
+Inférence Deep Learning
+IA conversationnelle
+prédiction et prévision
+Logiciels
+Catalogue de logiciels NGC
 RAPIDS
 Apache Spark
-Inference Serving
-Recommender Systems - Merlin
-Open Source Portal
-AI Enterprise Suite
-Products
+Serveurs d’inférence
+Systèmes de recommandation - Merlin
+Portail open-source
+Suite d'IA pour l'entreprise
+Produits
 PC
-Laptops & Workstations
+PC portables et stations de travail
 Data Center
 Cloud
-Resources
-Professional Services
-Technical Training
+Ressources
+Services professionnels
+Formation technique
 Startups
-Content Library
+Bibliothèque de contenu
 NVIDIA Research
-Developer Blog
-Developer Resources
-Join the Developer Program
-NGC Software Catalog
-Technical Training
-News
+Blog Développeurs
+Ressources de développement
+Rejoindre le programme Développeurs
+Catalogue des logiciels NGC
+Formation technique
+Actualités
 Blog
 Forums
-Open Source Portal
+Portail open-source
 NVIDIA GTC
 Startups
-Developer Home >
-Application Frameworks
-3D Collaboration - Omniverse
-Automotive - DRIVE
-Cloud-AI Video Streaming - Maxine
-Conversational AI - Jarvis
-Data Analytics - RAPIDS
-Healthcare - Clara
-High-Performance Computing
-Intelligent Video Analytics - Metropolis
-Recommender Systems - Merlin
-Robotics - Isaac
-Telecommunications - Aerial
-Top SDKs and Libraries
-Parallel Programming - CUDA Toolkit
-Edge AI applications - Jetpack
-BlueField data processing - DOCA
-Accelerated Libraries - CUDA-X Libraries
-Deep Learning Inference - TensorRT
-Deep Learning Training - cuDNN
-Deep Learning Frameworks
-Conversational AI - NeMo
-Intelligent Video Analytics - DeepStream
+Accueil Développeurs >
+Frameworks d’applications
+Collaboration 3D - Omniverse
+Automobile - DRIVE
+Streaming vidéo Cloud IA - Maxine
+IA conversationnelle - Riva
+Analyse de données - RAPIDS
+Médecine et Santé - Clara
+Calcul haute performance
+Analyse vidéo intelligente - Metropolis
+Systèmes de recommandation - Merlin
+Robotique - Isaac
+Télécommunications - Aerial
+Principaux SDK et bibliothèques
+Programmation parallèle - Kit d’outils CUDA
+Applications d’IA sur l’Edge - Jetpack
+Traitement des données BlueField - DOCA
+Bibliothèques accélérées - Bibliothèques CUDA-X
+Inférence Deep Learning - TensorRT
+Entraînement Deep Learning - cuDNN
+Frameworks Deep Learning
+IA conversationnelle - NeMo
+Analyse vidéo intelligente - DeepStream
 NVIDIA Unreal Engine 4
 Ray Tracing - RTX
-Video Decode/Encode
+Encodage/décodage vidéo
 GeForce
-Overview
-GeForce Graphics Cards
-Gaming Laptops
-G-SYNC Monitors
-RTX Games
+Aperçu
+Cartes graphiques GeForce
+PC portables gaming
+Moniteurs G-SYNC
+Gaming RTXs
 GeForce Experience
-GeForce Drivers
+Pilotes GeForce
 Forums
-Support
-Shop
+Assistance
+Acheter
 GeForce NOW
-Overview
-Download
-Games
-Pricing
-FAQs
+Aperçu
+Télécharger
+Jeux
+Prix
+FAQ
 Forums
-Support
+Assistance
 SHIELD
-Overview
-Compare
-Shop
-FAQs
-Knowledge Base
+Aperçu
+Comparer
+Acheter
+FAQ
+Base de connaissances
 Solutions
-Data Center (On-Premises)
+Data Center (sur site)
 Edge Computing
 Cloud Computing
-Networking
+Mise en réseau
 Virtualization
-Enterprise IT Solutions
-Software
-AI Enterprise Suite
-Cloud Native Support
-Cluster Management
-Edge Deployment Management
-Inference Serving
-IO Acceleration
-Networking
-Virtual GPU
-Apps and Tools
+Solutions IT d'entreprise
+Logiciels
+Suite d'IA pour l'entreprise
+Assistance natif du Cloud
+Gestion des clusters
+Gestion des déploiements sur l’Edge
+Service d’inférence
+Accélération E/S
+Mise en réseau
+GPU virtuel
+Applications et outils
 Data Center
-GPU Monitoring
+Supervision GPU
 NVIDIA RTX Experience
 NVIDIA RTX Desktop Manager
-Resources
-Data Center & IT Resources
-Technical Training
-Enterprise Support
-Drivers
-Security
-Product Documentation
+Ressources
+Ressources IT & Data Center
+Formation technique
+Assistance d’entreprise
+Pilotes
+Sécurité
+Documentation produit
 Forums
-NVIDIA Research Home
-Research Areas
+Accueil NVIDIA Research
+Domaines de recherche
 AI Playground
-Video Highlights
+Séquences vidéo
 COVID-19
-NGC Software Catalog
-Technical Training
+Catalogue des logiciels NGC
+Formation technique
 Startups
-News
-Developer Blog
-Open Source Portal
-Cambridge-1 Supercomputer
-Products
-AI Training - DGX
+Actualités
+Blog Développeurs
+Portail open-source
+Supercalculateur Cambridge-1
+Produits
+Entraînement IA - DGX
 Edge Computing - EGX
-Embedded Computing - Jetson
-Software
-Robotics - Isaac SDK
+Systèmes Embedded - Jetson
+Logiciels
+Robotique – SDK Isaac
 Simulation - Isaac Sim
-Transfer Learning Toolkit
-Vision AI - Deepstream SDK
-Edge Deployment Management
-Use Cases
-Healthcare and Life Sciences
-Manufacturing
-Public Sector
-Retail
+Kit d’outils pour l’apprentissage par transfert
+Vision avec l’IA - SDK Deepstream
+Gestion des déploiements sur l’Edge
+Cas d'utilisation
+Santé et sciences de la vie
+Production industrielle
+Secteur public
+Commerce
 Robotics
-More >
+En savoir plus >
 Resources
-NVIDIA Blog
-Robotics Research
-Developer News
-Developer Blog
-Technical Training
+Blog NVIDIA
+Recherche robotique
+Actualités Développeurs
+Blog Développeurs
+Formation technique
 Startups
-Shop
-Drivers
-Support
+Acheter
+Pilotes
+Assistance
 0
 Cart
 Login
@@ -360,524 +359,521 @@ LogOut
 NVIDIA
 NVIDIA logo
 Main Menu
-Products
-Hardware
-Gaming and Entertainment
-GeForce Graphics Cards
-Gaming Laptops
-G-SYNC Monitors
+Produits
+Matériel
+Jeux et divertissement
+Cartes graphiques GeForce
+PC portables gaming
+Moniteurs G-SYNC
 SHIELD
-Laptops and Workstations
-Gaming Laptops
-NVIDIA RTX Desktop Workstations
-NVIDIA RTX in Professional Laptops
+PC portables et stations de travail
+PC portables gaming
+Stations de travail fixes NVIDIA RTX
+NVIDIA RTX pour PC portables professionnels
 DGX Station
-NVIDIA RTX Data Science Workstation
-Studio Laptops
-Cloud and Data Center
-Grace CPU
-DGX Systems
-EGX Platform
-HGX Platform
+Station NVIDIA RTX pour la science des données
+PC portables Studio
+Cloud et Data Center
+CPU NVIDIA Grace
+Systèmes DGX
+Plateforme EGX
+Plateforme HGX
 DRIVE Constellation
-See All Servers >
-Networking
+Voir tous les serveurs >
+Mise en réseau
 DPU
 Ethernet
 InfiniBand
-GPUs
+GPU
 GeForce
 NVIDIA RTX / Quadro
 Data Center
 Titan RTX
-Embedded Systems
+Systèmes Embedded
 Jetson
 DRIVE AGX
 Clara AGX
-Software
-Application Frameworks
-3D Collaboration - Omniverse
-Automotive - DRIVE
-Cloud-AI Video Streaming - Maxine
-Conversational AI - Jarvis
-Data Analytics - RAPIDS
-Healthcare - Clara
-High-Performance Computing
-Intelligent Video Analytics - Metropolis
-Recommender Systems - Merlin
-Robotics - Isaac
-Telecommunications - Aerial
-Apps and Tools
-NGC Software Catalog
+Logiciels
+Frameworks d’applications
+Collaboration 3D - Omniverse
+Automobile - DRIVE
+Streaming vidéo Cloud IA - Maxine
+IA conversationnelle - Riva
+Analyse de données - RAPIDS
+Médecine et Santé - Clara
+Calcul haute performance
+Analyse vidéo intelligente - Metropolis
+Systèmes de recommandation - Merlin
+Robotique - Isaac
+Télécommunications - Aerial
+Applications et outils
+Catalogue des logiciels NGC
 Collaboration - Omniverse
 Data Center
-GPU Monitoring
+Supervision GPU
 NVIDIA RTX Experience
 NVIDIA RTX Desktop Manager
-RTX Accelerated Creative Apps
-Gaming and Entertainment
+Applications créatives RTX accélérées
+Jeux et divertissement
 GeForce NOW
 GeForce Experience
 NVIDIA Broadcast
 (Omniverse) Machinima
-Infrastructure
-AI Enterprise Suite
-Cloud Native Support
-Cluster Management
-Edge Deployment Management
-Inference Serving
-IO Acceleration
-Networking
-Virtual GPU
+Infrastructures
+Suite d'IA pour l'entreprise
+Assistance natif du Cloud
+Gestion des clusters
+Gestion des déploiements sur l’Edge
+Service d’inférence
+Accélération E/S
+Mise en réseau
+GPU virtuel
 Solutions
-AI and Data Science
-Overview
-Data Analytics
-Machine Learning
-Deep Learning Training
-Deep Learning Inference
-Conversational AI
-Data Center and Cloud Computing
-Overview
-Data Center (On-Premises)
+IA et science des données
+Aperçu
+Analyse de données
+Apprentissage automatique
+Entraînement Deep Learning
+Inférence Deep Learning
+IA conversationnelle
+Data Center et Cloud Computing
+Aperçu
+Data Center (sur site)
 Edge Computing
 Cloud Computing
-Networking
-Virtualization
-Design and Visualization
-Overview
-Augmented and Virtual Reality
-Multi-Display
-Rendering
+Mise en réseau
+Virtualisation
+Conception et Visualisation
+Aperçu
+Réalité virtuelle et augmentée
+Multi-écrans
+Rendu graphique
 Collaboration
-Graphics Virtualization
-Engineering Simulation
-Broadcast
+Virtualisation graphique
+Simulations d’ingénierie
+Diffusion
 Edge Computing
-Overview
-AI-on-5G
-Intelligent Video Analytics
-Self-Driving Cars
-Industrial
+Aperçu
+IA sur 5G
+Analyse vidéo intelligente
+Véhicules autonomes
+Industrie
 Robotics
-Edge Deployment Management
-Edge Solutions
-High-Performance Computing
-Overview
+Gestion des déploiements sur l’Edge
+Solutions Edge
+Calcul haute performance
+Aperçu
 Industries
-Overview
-Architecture, Engineering, Construction
-Consumer Internet
-Energy
-Financial Services
-Healthcare and Life Sciences
-Higher Education
-Game Development
-Manufacturing
-Media and Entertainment
-Global Public Sector
-Retail
+Aperçu
+Architecture, ingénierie et construction
+Internet grand public
+Recherche énergétique
+Services financiers
+Santé et sciences de la vie
+Enseignement supérieur
+Développement de jeux
+Production industrielle
+Médias et divertissement
+Services publics mondiaux
+Commerce
 Robotics
-Smart Cities
+Villes intelligentes
 Supercomputing
-Telecommunications
-Transportation
-For You
-Creatives/Designers
+Télécommunications
+Transport
+Pour vous
+Créateurs/Concepteurs
 NVIDIA Studio
-Overview
-Accelerated Apps
-Products
-Compare
-Shop
+Aperçu
+Applications accélérées Produits
+Produits
+Comparerr
 Industries
-Media and Entertainment
-Manufacturing
-Architecture, Engineering, and Construction
-All Industries >
+Médias et divertissement
+Production industrielle
+Architecture, Ingénierie et Construction
+Toutes les industries >
 Solutions
 Data Center/Cloud
-Laptops/Desktops
-Augmented and Virtual Reality
-Multi-Display
-Rendering
+PC portables/PC de bureau
+Réalité virtuelle et augmentée
+Multi-écrans
+Rendu graphique
 Collaboration
-Graphics Virtualization
-Engineering Simulation
+Virtualisation graphique
+Simulations d’ingénierie
 Data Scientists
 Industries
-Financial Services
-Consumer Internet
-Healthcare
-Higher Education
-Retail
-Public Sector
-All Industries >
+Services financiers
+Internet grand public
+Médecine et Santé
+Enseignement supérieur
+Commerce
+Secteur public
+Toutes les industries >
 Solutions
-Data Analytics
-Machine Learning
-Deep Learning Training
-Deep Learning Inference
-Conversational AI
-Prediction and Forecasting
-Software
-NGC Software Catalog
+Analyse de données
+Apprentissage automatique
+Entraînement Deep Learning
+Inférence Deep Learning
+IA conversationnelle
+prédiction et prévision
+Logiciels
+Catalogue de logiciels NGC
 RAPIDS
 Apache Spark
-Inference Serving
-Recommender Systems - Merlin
-Open Source Portal
-AI Enterprise Suite
-Products
+Serveurs d’inférence
+Systèmes de recommandation - Merlin
+Portail open-source
+Suite d'IA pour l'entreprise
+Produits
 PC
-Laptops & Workstations
+PC portables et stations de travail
 Data Center
 Cloud
-Resources
-Professional Services
-Technical Training
+Ressources
+Services professionnels
+Formation technique
 Startups
-Content Library
+Bibliothèque de contenu
 NVIDIA Research
-Developer Blog
-Developers
-Developer Resources
-Join the Developer Program
-NGC Software Catalog
-Technical Training
-News
+Blog Développeurs
+Développeurs
+Ressources de développement
+Rejoindre le programme Développeurs
+Catalogue des logiciels NGC
+Formation technique
+Actualités
 Blog
 Forums
-Open Source Portal
+Portail open-source
 NVIDIA GTC
 Startups
-Developer Home >
-Application Frameworks
-3D Collaboration - Omniverse
-Automotive - DRIVE
-Cloud-AI Video Streaming - Maxine
-Conversational AI - Jarvis
-Data Analytics - RAPIDS
-Healthcare - Clara
-High-Performance Computing
-Intelligent Video Analytics - Metropolis
-Recommender Systems - Merlin
-Robotics - Isaac
-Telecommunications - Aerial
-Top SDKs and Libraries
-Parallel Programming - CUDA Toolkit
-Edge AI applications - Jetpack
-BlueField data processing - DOCA
-Accelerated Libraries - CUDA-X Libraries
-Deep Learning Inference - TensorRT
-Deep Learning Training - cuDNN
-Deep Learning Frameworks
-Conversational AI - NeMo
-Intelligent Video Analytics - DeepStream
+Accueil Développeurs >
+Frameworks d’applications
+Collaboration 3D - Omniverse
+Automobile - DRIVE
+Streaming vidéo Cloud IA - Maxine
+IA conversationnelle - Riva
+Analyse de données - RAPIDS
+Médecine et Santé - Clara
+Calcul haute performance
+Analyse vidéo intelligente - Metropolis
+Systèmes de recommandation - Merlin
+Robotique - Isaac
+Télécommunications - Aerial
+Principaux SDK et bibliothèques
+Programmation parallèle - Kit d’outils CUDA
+Applications d’IA sur l’Edge - Jetpack
+Traitement des données BlueField - DOCA
+Bibliothèques accélérées - Bibliothèques CUDA-X
+Inférence Deep Learning - TensorRT
+Entraînement Deep Learning - cuDNN
+Frameworks Deep Learning
+IA conversationnelle - NeMo
+Analyse vidéo intelligente - DeepStream
 NVIDIA Unreal Engine 4
 Ray Tracing - RTX
-Video Decode/Encode
-Gamers
+Encodage/décodage vidéo
+Joueurs
 GeForce
-Overview
-GeForce Graphics Cards
-Gaming Laptops
-G-SYNC Monitors
-RTX Games
+Aperçu
+Cartes graphiques GeForce
+PC portables gaming
+Moniteurs G-SYNC
+Gaming RTXs
 GeForce Experience
-GeForce Drivers
+Pilotes GeForce
 Forums
-Support
-Shop
+Assistance
+Acheter
 GeForce NOW
-Overview
-Download
-Games
-Pricing
-FAQs
+Aperçu
+Télécharger
+Jeux
+Prix
+FAQ
 Forums
-Support
+Assistance
 SHIELD
-Overview
-Compare
-Shop
-FAQs
-Knowledge Base
-IT Professionals
+Aperçu
+Comparer
+Acheter
+FAQ
+Base de connaissances
+Professionnels IT
 Solutions
-Data Center (On-Premises)
+Data Center (sur site)
 Edge Computing
 Cloud Computing
-Networking
+Mise en réseau
 Virtualization
-Enterprise IT Solutions
-Software
-AI Enterprise Suite
-Cloud Native Support
-Cluster Management
-Edge Deployment Management
-Inference Serving
-IO Acceleration
-Networking
-Virtual GPU
-Apps and Tools
+Solutions IT d'entreprise
+Logiciels
+Suite d'IA pour l'entreprise
+Assistance natif du Cloud
+Gestion des clusters
+Gestion des déploiements sur l’Edge
+Service d’inférence
+Accélération E/S
+Mise en réseau
+GPU virtuel
+Applications et outils
 Data Center
-GPU Monitoring
+Supervision GPU
 NVIDIA RTX Experience
 NVIDIA RTX Desktop Manager
-Resources
-Data Center & IT Resources
-Technical Training
-Enterprise Support
-Drivers
-Security
-Product Documentation
+Ressources
+Ressources IT & Data Center
+Formation technique
+Assistance d’entreprise
+Pilotes
+Sécurité
+Documentation produit
 Forums
-Researchers
-NVIDIA Research Home
-Research Areas
+Chercheurs
+Accueil NVIDIA Research
+Domaines de recherche
 AI Playground
-Video Highlights
+Séquences vidéo
 COVID-19
-NGC Software Catalog
-Technical Training
+Catalogue des logiciels NGC
+Formation technique
 Startups
-News
-Developer Blog
-Open Source Portal
-Cambridge-1 Supercomputer
-Roboticists
-Products
-AI Training - DGX
+Actualités
+Blog Développeurs
+Portail open-source
+Supercalculateur Cambridge-1
+Roboticiens
+Produits
+Entraînement IA - DGX
 Edge Computing - EGX
-Embedded Computing - Jetson
-Software
-Robotics - Isaac SDK
+Systèmes Embedded - Jetson
+Logiciels
+Robotique – SDK Isaac
 Simulation - Isaac Sim
-Transfer Learning Toolkit
-Vision AI - Deepstream SDK
-Edge Deployment Management
-Use Cases
-Healthcare and Life Sciences
-Manufacturing
-Public Sector
-Retail
+Kit d’outils pour l’apprentissage par transfert
+Vision avec l’IA - SDK Deepstream
+Gestion des déploiements sur l’Edge
+Cas d'utilisation
+Santé et sciences de la vie
+Production industrielle
+Secteur public
+Commerce
 Robotics
-More >
+En savoir plus >
 Resources
-NVIDIA Blog
-Robotics Research
-Developer News
-Developer Blog
-Technical Training
+Blog NVIDIA
+Recherche robotique
+Actualités Développeurs
+Blog Développeurs
+Formation technique
 Startups
 Startups
-Shop
-Drivers
-Support
-PLATFORMS
-Autonomous Machines
+Acheter
+Pilotes
+Assistance
+PLATEFORMES
+MACHINES AUTONOMES
 Cloud & Data Center
-AI & Data Science
-Design & Pro Visualization
-HEALTHCARE & LIFE SCIENCES
-High Performance Computing
-Networking (Mellanox)
-Self-Driving Cars
-Gaming & Entertainment
-other links
-Developers
+IA ET DATA SCIENCE
+CONCEPTION & VISUALISATION
+Santé et sciences de la vie
+Calcul Haute Performance
+Mise en réseau (Mellanox)
+VÉHICULES AUTONOMES
+JEUX ET DIVERTISSEMENT
+AUTRES LIENS
+DÉVELOPPEURS
 INDUSTRIES
-Shop
-Drivers
-Support
-About NVIDIA
-View All Products
-GPU TECHNOLOGY CONFERENCE
-NVIDIA Blog
-Community
-Careers
+BOUTIQUE
+PILOTES
+ASSISTANCE
+NVIDIA
+VOIR TOUS LES PRODUITS
+Conférence technologie GPU
+BLOG NVIDIA
+COMMUNAUTÉ
+Carrières
 TECHNOLOGIES
-Technologies
-Platforms
-Overview
-AI and Deep Learning
+Plateformes
+Présentation
+IA et Deep Learning
 Data Center
 NVIDIA GPU Cloud
-Design and Pro Visualization
-Intelligent Machines
-Self-Driving Cars
-GeForce Gaming
+Conception & Visualisation pro
+Machines intelligentes
+Véhicules autonomes
+Gaming GeForce
 SHIELD
 Technologies
-Developers
-Overview
+Développeurs
+Présentation
 Developer Program
 CUDA
 Training
 GPU Tech Conference
-Community
-Overview
-NVIDIA Blog
-GeForce Forums
-GRID Forums
+Communauté
+Présentation
+Blog NVIDIA
+Forums GeForce
+Forums GRID
 GPU Ventures
-Inception Program
-Shop
-Drivers
-Overview
-GeForce Drivers
-All NVIDIA Drivers
-Support
-About NVIDIA
-Overview
-AI Computing Model
-Newsroom
-NVIDIA Blog
-Research
-Webinars
-Events
-Company Information
-Careers
-Investors
-Sustainability
-Platforms
-AI and Deep Learning
+Programme Inception
+Acheter
+Pilotes
+Présentation
+Pilotes GeForce
+Tous les pilotes NVIDIA
+Assistance
+À propos de NVIDIA
+Présentation
+Modèle calcul IA
+Actualités NVIDIA
+Blog NVIDIA
+Recherche
+Webinaires
+Événements
+Informations NVIDIA
+Emploi
+Investisseurs
+Développement durable
+Plateformes
+IA et Deep Learning
 Data Center
 NVIDIA GPU Cloud
-Design and Pro Visualization
-Intelligent Machines
-Self-Driving Cars
-GeForce Gaming
+Conception & Visualisation pro
+Machines intelligentes
+Véhicules autonomes
+Gaming GeForce
 SHIELD
 Technologies
-Developers
+Développeurs
 Developer Program
 CUDA
 Training
 GPU Tech Conference
-Community
-NVIDIA Blog
-GeForce Forums
-GRID Forums
+Communauté
+Blog NVIDIA
+Forums GeForce
+Forums GRID
 GPU Ventures
-Inception Program
-Shop
-Drivers
-GeForce Drivers
-All NVIDIA Drivers
-Support
-About NVIDIA
-AI Computing Model
-Newsroom
-NVIDIA Blog
-Research
-Webinars
-Events
-Company Information
-Careers
-Investors
-Sustainability
-Platforms
-Platforms
-Overview
-AI and Deep Learning
+Programme Inception
+Acheter
+Pilotes
+Pilotes GeForce
+Tous les pilotes NVIDIA
+Assistance
+À propos de NVIDIA
+Modèle calcul IA
+Actualités NVIDIA
+Blog NVIDIA
+Recherche
+Webinaires
+Événements
+Informations NVIDIA
+Emploi
+Investisseurs
+Développement durable
+Plateformes
+Plateformes
+Présentation
+IA et Deep Learning
 Data Center
 NVIDIA GPU Cloud
-Design and Pro Visualization
-Intelligent Machines
-Self-Driving Cars
-GeForce Gaming
+Conception & Visualisation pro
+Machines intelligentes
+Véhicules autonomes
+Gaming GeForce
 SHIELD
 Technologies
-Developers
-Developers
-Overview
+Développeurs
+Développeurs
+Présentation
 Developer Program
 CUDA
 Training
 GPU Tech Conference
-Community
-Community
-Overview
-NVIDIA Blog
-GeForce Forums
-GRID Forums
+Communauté
+Communauté
+Présentation
+Blog NVIDIA
+Forums GeForce
+Forums GRID
 GPU Ventures
-Inception Program
-Shop
-Drivers
-Drivers
-Overview
-GeForce Drivers
-All NVIDIA Drivers
-Support
-About NVIDIA
-About NVIDIA
-Overview
-AI Computing Model
-Newsroom
-NVIDIA Blog
-Research
-Webinars
-Events
-Company Information
-Careers
-Investors
-Sustainability
+Programme Inception
+Acheter
+Pilotes
+Pilotes
+Présentation
+Pilotes GeForce
+Tous les pilotes NVIDIA
+Assistance
+À propos de NVIDIA
+À propos de NVIDIA
+Présentation
+Modèle calcul IA
+Actualités NVIDIA
+Blog NVIDIA
+Recherche
+Webinaires
+Événements
+Informations NVIDIA
+Emploi
+Investisseurs
+Développement durable
 GeForce
 SHIELD
-Developer
-Privacy Choices
-NVIDIA Privacy Center
+Développeurs
+Choix de confidentialité
+Centre de confidentialité NVIDIA
 GeForce
 SHIELD
-Developer
-Privacy Choices
+Développeurs
+Choix de confidentialité
 Back to top
 This site requires Javascript in order to view all its content. Please enable Javascript in order to access all the functionality of this web site. Here are the instructions how to enable JavaScript in your web browser.
-HOW WE PROTECT YOUR PRIVACY
-We promise to protect your privacy and your data.
-Our NVIDIA Privacy Policy explains what data we collect and what we do with it. We never sell your data.
-If you have a registered NVIDIA account, you can change your privacy settings at any time.
-Manage Privacy Settings
-Manage Email Preferences
+Comment protégeons-nous votre vie privée?
+Nous nous engageons à protéger votre vie privée et vos données personnelles. La Déclaration de confidentialité de NVIDIA décrit les données que nous collectons et ce que nous en faisons. Nous ne vendons jamais vos données.
+Si vous avez créé et enregistré un compte NVIDIA, vous pouvez changer vos paramètres de confidentialité à tout moment.
+Gérer mes Paramètres de confidentialité
+Gérer mes Préférences e-mail
 GEFORCE
 GeForce Experience
-GeForce Experience helps you configure your graphics card for the best gaming and content creation performance, get software updates and new features, such as tools for you to record and broadcast your gameplay, and redeem codes for free games.
-To make this happen, we need to know your PC’s hardware, software for gaming and content creation (including settings, usage, and how well they run), GeForce Experience feature usage, and geographical region.
-If you opt-in to recommendations, we will show you games, apps, and rewards that you might enjoy. If you opt-in to sharing technical data, you’ll send us error logs to help us find and fix bugs. You can configure collection and usage of your data by visiting Privacy Settings.
+GeForce Experience vous aide à configurer votre carte graphique pour profiter de performances optimales dans vos jeux et vos applications de création de contenu, mais aussi à utiliser des codes pour activer des jeux gratuits et à bénéficier de mises à jour logicielles ou de nouvelles fonctionnalités comme des outils pour enregistrer et partager votre gameplay.
+Pour ce faire, nous avons besoin de connaître votre matériel PC et vos logiciels de jeu ou de création de contenu (y compris leurs paramètres, leur utilisation et leurs performances), votre utilisation des fonctionnalités de GeForce Experience et votre région géographique.
+Si vous acceptez de recevoir des recommandations, nous vous proposerons des jeux, des applications et des récompenses qui pourraient vous plaire. Si vous acceptez de partager des données techniques, vous nous enverrez des journaux d’erreur qui nous aideront à repérer et à corriger des bugs ou des problèmes techniques. Vous pouvez configurer la collecte et l’utilisation de vos données depuis la rubrique Paramètres de confidentialité.
 View more details on GeForce Experience data
 GeForce Graphics Drivers
 GeForce Graphics Drivers is an essential software that controls the graphics card – it is the operating system of your GeForce graphics card.
 If you opt-in to send us technical and error data from your driver, you help us find and fix bugs. This data includes your hardware, software for gaming (including their settings, usage, and how well they run), driver feature usage, error logs, and geographical region.
 You can choose to send us this data when you install the drivers, or through the NVIDIA Control Panel by selecting Help from the menu bar, then clicking on ‘Send technical and error data to NVIDIA’ so that the check mark is showing. You can opt-out anytime by clicking again to clear the check mark.
 GeForce NOW
-GeForce NOW (GFN) is a service that allows you to play your PC games from the cloud to your Mac, PC, SHIELD, and mobile devices.
-To allow the service to stream games to your machine at the best performance and highest quality, we need to know your geographical region, internet speed, games played, session data and system information such as CPU, GPU, and system memory. If GeForce NOW is provided by a GeForce NOW Alliance Partner, we will share with them certain information such as your feedback and data relating to quality and usage so they can better service you.
-If you opt-in to recommendations, we will show you games that you might enjoy. If you opt-in to sharing technical data, NVIDIA will collect additional feature usage (like your common search terms to find the game you want faster) and error logs to help us improve our quality of service.
-You can set your privacy preferences by  visiting Privacy Settings.
+GeForce NOW (GFN) est un service de Cloud Gaming qui vous permet de jouer à vos jeux PC sur vos appareils Mac, PC, SHIELD et mobiles.
+Pour permettre à notre service de streamer vos jeux sur votre machine avec les meilleures performances et une qualité optimale, nous avons besoin de connaître votre région géographique, la vitesse de votre connexion Internet, les jeux auxquels vous jouez, les données de session ainsi que les informations du système comme votre CPU, votre GPU et la mémoire de votre système. Si GeForce NOW est mis en œuvre par un partenaire GeForce NOW Alliance, nous partagerons avec lui avec certaines informations, telles que vos commentaires et des informations relatives à la qualité et à l’utilisation que vous faites du service, afin qu’il puisse optimiser le service auprès de vous.
+Si vous acceptez de recevoir des recommandations, nous vous proposerons des jeux qui pourraient vous plaire. Si vous acceptez de partager des données techniques, NVIDIA collectera des informations supplémentaires sur l’utilisation des fonctionnalités (comme vos termes de recherche courants pour trouver plus rapidement le jeu que vous cherchez) et des journaux d’erreur afin de nous aider à améliorer la qualité de notre service.
+Vous pouvez définir vos préférences de confidentialité en vous rendant dans le menu Paramètres de confidentialité.
 SHIELD TV
-SHIELD TV connects to your TV to stream your favorite TV shows, movies, and games.
-To run and update SHIELD, we need to know your software version numbers, geographical region, and serial number. We do not store this data after use.
-If you use the NVIDIA Games app, we need to know data such as geographical region, internet speed, and device model to operate the app. To stream games to SHIELD at the best performance and highest quality using GeForce NOW or GameStream services, we also need to know your games played, session data, and system information.
-If you opt-in to recommendations, we will show you games, apps, and rewards that you might enjoy. If you opt-in to sharing technical data from your SHIELD TV or the NVIDIA Games app, you help us find and fix bugs and improve the quality of service. This data includes your hardware, software (including settings, usage, and how well they run), feature usage, error logs, and geographical region. You can configure collection and usage of your data by visiting Privacy Settings.
-NVIDIA DEVELOPER PROGRAM
-The NVIDIA Developer Program connects developers with tools to build GPU-accelerated applications. When you participate in Developer Program activities, NVIDIA collects information about your forums contributions, bugs filed, files downloaded, training completion/certification, and event registration. We do this to get your feedback and improve our services.
-We request your email address to communicate product updates and bug fixes. And, with your permission, NVIDIA will share news and information about upcoming developer webinars and events that may be of interest to you. You can change your Developer Program email preferences here.
-We collect NVIDIA Developer Forums usage information, such as IP address, login history and interactions with other users, in order to moderate spam and offensive content. NVIDIA will also send you email notifications when, for example, another user sends you a private direct message.
-MANAGE MY PRIVACY
-Manage Your Email Preferences
-Manage Your Privacy Settings*
-Delete My Data
-Request My Data
-* If you have a registered NVIDIA account, you can change your privacy settings at any time.
+SHIELD TV se connecte à votre téléviseur afin de diffuser en streaming vos séries, vos films et vos jeux préférés.
+Pour exécuter et mettre à jour votre SHIELD, nous avons besoin de connaître les numéros de version de votre logiciel, votre région géographique et le numéro de série de votre appareil. Nous ne conservons pas ces données après utilisation.
+Si vous utilisez l’application NVIDIA Jeux, nous avons besoin de connaître votre région géographique, la vitesse de votre connexion Internet, et le modèle de votre appareil. Pour permettre aux services GeForce NOW ou GameStream de streamer vos jeux sur votre machine avec les meilleures performances et une qualité optimale, nous avons par ailleurs besoin de connaître les jeux auxquels vous jouez, les données de session ainsi que les informations relatives à votre système.
+Si vous acceptez de recevoir des recommandations, nous vous proposerons des jeux, des applications et des récompenses qui pourraient vous plaire. Si vous acceptez de partager des données techniques via votre SHIELD TV ou l’application NVIDIA Jeux, vous nous aiderez à repérer ou à corriger les bugs et à améliorer la qualité du service. Ces données comprennent votre matériel, vos logiciels (y compris leurs paramètres, leur utilisation et leurs performances) ainsi que vos journaux d’erreur. Vous pouvez configurer la collecte et l’utilisation de vos données depuis la rubrique Paramètres de confidentialité.
+Programme NVIDIA Développeurs
+Le programme NVIDIA Développeurs met à la disposition des développeurs des outils qui leur permettent de concevoir des applications accélérées par GPU. Lorsque vous participez aux activités du programme Développeurs, NVIDIA collecte des informations sur vos contributions sur les forums, les bugs signalés, les fichiers téléchargés, le suivi/les certificats de formation et l’inscription aux événements. Nous le faisons pour recueillir votre avis et améliorer nos services.
+Nous demandons votre adresse e-mail pour communiquer sur les mises à jour de produits et les corrections de bugs. Enfin, avec votre permission, NVIDIA transmettra des actualités et des informations sur les prochains événements et webinaires pour développeurs qui pourraient vous intéresser. Vous pouvez changer ici vos préférences de notification par e-mail relatives au programme Développeurs.
+Nous collectons des informations sur l’utilisation des forums NVIDIA Développeurs, notamment l’adresse IP, l’historique des connexions et les interactions avec les autres utilisateurs, afin de modérer les publications indésirables et les contenus offensants. NVIDIA vous enverra aussi des notifications par e-mail, par exemple lorsqu'un autre utilisateur vous adresse un message privé.
+GÉRER MA CONFIDENTIALITÉ
+Gérer mes Préférences e-mail
+Gérer mes Paramètres de confidentialité*
+Supprimer mes données
+Consulter mes données
+* Si vous avez créé et enregistré un compte NVIDIA, vous pouvez changer vos paramètres de confidentialité à tout moment.
 NVIDIA
-UK - UNITED KINGDOM
-Privacy Policy
-Manage My Privacy
-Legal
-Accessibility
-Product Security
-Contact
+FRA - FRANCE
+Déclaration de confidentialité
+Gérer ma confidentialité
+Juridiques
+Accessibilité
+Sécurité des produits
+Nous contacter
 Copyright © 2021 NVIDIA Corporation

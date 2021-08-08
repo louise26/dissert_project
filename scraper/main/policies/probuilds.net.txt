@@ -10,7 +10,7 @@ cookie by visiting the Google ad and content network privacy policy.What do we u
 the following ways:To personalize your experience (your information helps us to better respond to your individual needs).To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you).To administer a contest, promotion, survey or other site feature.How do we protect your information?expand-moreWe implement a variety of security measures to maintain the safety
 of your personal information when you enter, submit, or access your
 personal information. We offer the use of a secure server. All
-supplied snsitive/credit information is transmitted via Secure
+supplied sensitive/credit information is transmitted via Secure
 Socket Layer (SSL) technology and then encrypted into our Payment
 gateway providers database only to be accessible by those authorized
 with special access rights to such systems, and are required to keep

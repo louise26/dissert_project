@@ -125,10 +125,12 @@ What cookies are, the kinds we use and how to manage them
 This policy describes what cookies are, the kinds of cookies we use and how to switch off cookies in your browser, and provides some useful links for further reading.
 What cookies are, the kinds we use and how to manage them
 Why your data and privacy matter
+Hide
 Why your data and privacy matters to the Guardian
 How your data helps to safeguard our journalism for the future
 Why your data and privacy matters to the Guardian
 Next steps
+Hide
 How to stay safe on the web
 A downloadable poster with tips from the Guardian’s information security team on simple things you can do to help keep yourself safe online
 How to stay safe on the web
@@ -138,6 +140,7 @@ Why sign in to The Guardian?
 Sign in to The Guardian now
 Sign in to The Guardian now
 Contact the Guardian
+Hide
 Tip us off
 Share stories with the Guardian securely and confidentially
 Topics
@@ -151,6 +154,7 @@ Contact us
 Complaints & corrections
 SecureDrop
 Work for us
+Privacy settings
 Privacy policy
 Cookie policy
 Terms & conditions

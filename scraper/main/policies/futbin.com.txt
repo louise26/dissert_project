@@ -57,7 +57,6 @@ Challenges List Filter
 Community SBC Solutions
 Cheapest Players By Rating
 SBC Rating Combinations
-Zones
 Squad Battles
 FUT Champions
 Perfect Chemistry
@@ -264,7 +263,6 @@ RTTF
 Headliners Tracker
 OTW
 AorB
-Zones
 RTTF
 FUT 21 Community Squads
 FUT 21 Community Drafts

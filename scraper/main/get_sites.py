@@ -9,7 +9,7 @@ def get_api_data(country_list):
     '''
 
     start_point = 0
-    range_ = range(1,501,100)
+    range_ = range(1,1001,100)
     for s in range_:
         options = f"\"&Count=100&Output=json&Start={start_point}&ResponseGroup=Country\""
         with open(f"websites_data/site_data_{s}.json", 'w') as f:
@@ -22,7 +22,7 @@ def get_api_data(country_list):
 ###
 def get_url_list():
 
-    files = [pd.read_json(f'websites_data/site_data_{r}.json') for r in range(1,501,100)]
+    files = [pd.read_json(f'websites_data/site_data_{r}.json') for r in range(1,1001,100)]
 
     site_urls = []
 
@@ -38,8 +38,8 @@ def get_url_list():
 
 country_list = 'GB'
 
-get_api_data(country_list)
+#get_api_data(country_list)
 
-time.sleep(5)
+#time.sleep(5)
 
 get_url_list()

@@ -1,215 +1,900 @@
-Informativa sulla Privacy & Cookie Policy
-GEDI Gruppo Editoriale S.p.A.
-Informativa sulla Privacy & Cookie Policy
-Introduzione
-GEDI Digital S.r.l. ("il Titolare") è una società controllata da GEDI Gruppo Editoriale S.p.A., capogruppo del Gruppo GEDI, gruppo societario italiano operante nel settore dei media con attività nelle aree della stampa quotidiana e periodica, della radiofonia, della raccolta pubblicitaria e di Internet (per brevità "il Gruppo GEDI").
-La presente Informativa ha lo scopo di informare l'utente circa le modalità di trattamento dei dati personali che lo riguardano.
-GEDI Digital S.r.l., in linea con il D.lgs. 196/2003 come novellato dal D.lgs. 101/2018 (di seguito "Codice Privacy") e il Regolamento (UE) 2016/679 (di seguito "GDPR"), intende garantire la privacy e la sicurezza dei dati personali di ciascun visitatore coerentemente con quanto prescritto nella presente Informativa.
-La presente Informativa è da intendersi quale informativa ai sensi degli artt. 13 e 14 del GDPR
-Tipologia di dati trattati
-Il sito web offre contenuti di tipo informativo e, talvolta, interattivo. Durante la navigazione del sito GEDI Digital S.r.l. potrà, quindi, acquisire informazioni sul visitatore, nei seguenti modi:
-Dati di navigazione I sistemi informatici e le procedure software preposte al funzionamento di questo sito web acquisiscono, nel corso del loro normale esercizio, alcuni dati personali la cui trasmissione è implicita nell'uso dei protocolli di comunicazione di Internet.
-In questa categoria di dati rientrano: gli indirizzi IP, il tipo di browser utilizzato, il sistema operativo, il nome di dominio e gli indirizzi di siti web dai quali è stato effettuato l'accesso, le informazioni sulle pagine visitate dagli utenti all'interno del sito, l'orario d'accesso, la permanenza sulla singola pagina, l'analisi di percorso interno ed altri parametri relativi al sistema operativo e all'ambiente informatico dell'utente.
-Ulteriori categorie di dati Si tratta di tutti quei dati personali forniti dal visitatore attraverso il sito, ad esempio, registrandosi e/o accedendo ad una area riservata e/o ad un servizio e/o partecipando a una delle iniziative lanciate da GEDI Digital S.r.l. da sola o in partnership con soggetti terzi, scrivendo ad un indirizzo di posta elettronica di GEDI Digital S.r.l. per richiedere informazioni oppure telefonando ad un nostro numero verde per avere un contatto diretto con il servizio clienti.
-Finalità del trattamento
-FINALITÀ
-BASE GIURIDICA
-Fornire il bene e/o il servizio richiesto dall'utente, gestire i contratti perfezionati dall'utente, espletare i relativi adempimenti amministrativi, contabili, fiscali e legali, nonché evadere le richieste inoltrate dall'utente.
-I trattamenti posti in essere per queste finalità sono necessari per l'adempimento di obblighi contrattuali e non necessitano di uno specifico consenso da parte dell'interessato.
-Rilevare la sua esperienza d'uso delle nostre piattaforme, dei prodotti e servizi che offriamo e assicurare il corretto funzionamento delle pagine web e dei loro contenuti.
-I trattamenti posti in essere per queste finalità si basano su un legittimo interesse del Titolare.
-Associare i dati personali che lei fornirà a GEDI Digital S.r.l. o a soggetti terzi nell’ambito di altre iniziative con quelli che GEDI Digital S.r.l. acquisisce per effetto della sua iscrizione a questo sito o del suo utilizzo.
-Il trattamento posto in essere per questa finalità si basa su un legittimo interesse del Titolare.
-InformarLa su iniziative commerciali, con strumenti anche automatizzati, relative a promozioni e/o offerte per le quali potrebbe aver diritto a beneficiare, nell'interesse del Titolare o delle altre società del Gruppo GEDI.
-I trattamenti posti in essere per queste finalità vengono effettuati con lo specifico consenso fornito dall'utente, fatta eccezione per le comunicazioni commerciali relative a prodotti e/o servizi analoghi a quelli già acquistati e/o sottoscritti dall'utente per le quali il trattamento si basa su un legittimo interesse del Titolare rispetto al quale l’utente potrà, comunque, sempre esercitare il suo diritto di opposizione.
-Comunicare i suoi dati per finalità commerciali e/o promozionali a società terze operanti nel settore editoriale e/o a società operanti nei seguenti settori con le quali GEDI Digital S.r.l. potrebbe concludere accordi di partnership: piattaforme di social networking e piattaforme interattive, largo consumo, distribuzione, finanziario, assicurativo, automobilistico, dei servizi e ad organizzazioni umanitarie e benefiche, nonché di telecomunicazioni.
-I trattamenti posti in essere per queste finalità vengono effettuati con lo specifico consenso fornito dall'utente.
-Svolgere attività di profilazione ossia di analisi ed elaborazione di informazioni relative all'utente, alle sue preferenze, abitudini, scelte di consumo e/o esperienze di navigazione. Tale attività viene effettuata anche mediante l'utilizzo di tecnologie quali i cookie (per maggiori informazioni si rimanda al paragrafo "Cookie Policy" della presente Informativa).
-I trattamenti posti in essere per queste finalità vengono effettuati con lo specifico consenso fornito dall'utente, fatta eccezione per un'attività di analisi di informazioni elementari relative alle sue preferenze di consumo.
-Ambito di circolazione dei dati
-Nell’ambito delle finalità sopra indicate, i suoi dati potranno essere comunicati a:
-GEDI Gruppo Editoriale S.p.A. e/o altre società del Gruppo GEDI che svolgono parte delle attività di trattamento e/o attività connesse e strumentali alle stesse per conto del Titolare, e che saranno all’uopo nominate responsabili del trattamento ex art. 28 del GDPR;
-altri soggetti terzi che svolgono parte delle attività di trattamento e/o attività connesse e strumentali alle stesse per conto del Titolare. Tali soggetti saranno altresì nominati responsabili del trattamento ex art. 28 del GDPR;
-singoli individui, dipendenti e/o collaboratori del Titolare, a cui sono state affidate specifiche e/o più attività di trattamento sui suoi dati personali. A tali individui sono state impartite specifiche istruzioni in tema di sicurezza e corretto utilizzo dei dati personali e vengono definiti come le persone autorizzate al trattamento dei dati personali sotto l’autorità diretta del Titolare o del Responsabile del trattamento.
-Trasferimento dati extra UE
-GEDI Digital S.r.l. potrebbe trasferire i suoi dati personali a terze parti ubicate in Stati non appartenenti all'Unione Europea ovvero allo Spazio Economico Europeo. In tale circostanza, tali terze parti saranno nominate Responsabili del trattamento ai sensi e per gli effetti di cui all’articolo 28 del GDPR e il trasferimento dei suoi dati personali a tali soggetti, limitatamente allo svolgimento di specifiche attività di trattamento, sarà regolato in conformità a quanto previsto dal capo V del GDPR. Saranno quindi adottate tutte le cautele necessarie al fine di garantire adeguata protezione dei suoi dati personali basando tale trasferimento: (a) su decisioni di adeguatezza dei paesi terzi destinatari espresse dalla Commissione Europea; (b) su garanzie adeguate espresse dal soggetto terzo destinatario ai sensi dell’articolo 46 del GDPR; (c) sull’adozione di norme vincolanti d’impresa, c.d. corporate binding rules.
-Gli utenti possono richiedere informazioni in merito a tali garanzie inoltrando richiesta a privacy@gedidigital.it. A seguito della pronuncia della Corte di Giustizia dell’Unione Europea del 16 luglio 2020 nella causa C311/18, con riferimento ai paesi terzi che non sono destinatari di una delle decisioni di adeguatezza da parte della Commissione Europea, GEDI Digital S.r.l. effettua valutazioni specifiche in merito alle garanzie supplementari da adottare, al fine di prevenire interferenze da parte di autorità pubbliche locali che possano pregiudicare il livello di essenziale equivalenza di protezione dei dati ivi trasferiti, rispetto al livello goduto in base al diritto europeo.
-I ruoli e le responsabilità in ambito privacy
-I suoi dati personali sono trattati da GEDI Digital S.r.l., con sede legale in Via Ernesto Lugaro n. 15, 10126 – Torino,
-in qualità di Titolare del trattamento.
-Informazioni più dettagliate sui nominativi dei Responsabili del trattamento potranno essere richieste inviando una mail al seguente indirizzo: privacy@gedidigital.it. Le comunichiamo, inoltre, che all'interno del Gruppo GEDI è stato identificato un Data Protection Officer, contattabile al seguente indirizzo mail: DPO@gedi.it.
-Modalità del trattamento di dati
-Il trattamento dei dati personali viene effettuato prevalentemente utilizzando procedure e supporti elettronici (DB, piattaforme di CRM, ecc.) per il tempo strettamente necessario a conseguire gli scopi per i quali i dati sono stati raccolti e, comunque, in conformità ai principi di liceità, correttezza, non eccedenza e pertinenza previsti dalla vigente normativa privacy.
-Redirect verso siti esterni
-Il sito web può utilizzare i c.d. social plug-in. I social plug-in sono speciali strumenti che permettono di incorporare le funzionalità del social network direttamente all'interno del sito web (ad es. la funzione "mi piace" di Facebook). Tutti i social plug-in presenti nel sito sono contrassegnati dal rispettivo logo di proprietà della piattaforma di social network (ad es. Facebook, Google, Twitter, Linkedin).
-Quando si visita una pagina del nostro sito e si interagisce con il plug-in (ad es. cliccando il pulsante "Mi piace") o si decide di lasciare un commento, le corrispondenti informazioni vengono trasmesse dal browser direttamente alla piattaforma di social network e da questo memorizzate.
-Per informazioni sulle finalità, il tipo e le modalità di raccolta, elaborazione, utilizzo e conservazione dei dati personali da parte della piattaforma di social network, nonché per le modalità attraverso cui esercitare i propri diritti, si prega di consultare la politica privacy adottata dal singolo social network.
-Collegamento verso/da siti terzi
-Da questo sito web è possibile collegarsi, mediante appositi link, verso altri siti web di società del Gruppo GEDI ovvero è possibile da siti web di terzi connettersi al nostro sito web.
-Il Titolare declina qualsiasi responsabilità in merito all'eventuale richiesta e/o rilascio di dati personali a siti terzi e in ordine alla gestione delle credenziali di autenticazione fornite da soggetti terzi.
-Conservazione dei dati
-La informiamo che i dati relativi ai log di navigazione, qualora registrati, saranno conservati dal Titolare per un periodo pari a 3 mesi. La informiamo, inoltre, che i dati da lei forniti saranno trattati per tutta la durata del rapporto contrattuale tra di noi in essere e ulteriormente conservati esclusivamente per il periodo previsto per l'adempimento di obblighi di legge, sempre che non risulti necessario conservarli ulteriormente per difendere o far valere un diritto o per adempiere a eventuali ulteriori obblighi di legge o ordini delle Autorità.
-Diritti degli interessati
-I soggetti cui si riferiscono i sopra citati dati personali (c.d. "interessati"), hanno la facoltà di esercitare i propri diritti secondo le modalità e nei limiti previsti dalla vigente normativa privacy.
-In relazione al trattamento dei suoi dati personali, ha diritto di chiedere a GEDI Digital S.r.l.:
-l'accesso: può chiedere conferma che sia o meno in essere un trattamento di dati che la riguardano, oltre a maggiori chiarimenti circa le informazioni di cui alla presente Informativa, nonché di ricevere i dati stessi, nei limiti della ragionevolezza;
-la rettifica: può chiedere di rettificare o integrare i dati che ci ha fornito o comunque in nostro possesso, qualora inesatti;
-la cancellazione/oblio: può chiedere che i suoi dati acquisiti o trattati da GEDI Digital S.r.l. vengano cancellati, qualora non siano più necessari alle nostre finalità o laddove non vi siano contestazioni o controversie in essere, in caso di revoca del consenso o sua opposizione al trattamento, in caso di trattamento illecito, ovvero qualora sussista un obbligo legale di cancellazione;
-la limitazione: può chiedere la limitazione del trattamento dei suoi dati personali, quando ricorre una delle condizioni di cui all'art. 18 del GDPR; in tal caso, i suoi dati non saranno trattati, salvo che per la conservazione, senza il suo consenso fatta eccezione per quanto esplicitato nel medesimo articolo al comma 2.
-l'opposizione: può opporsi in qualunque momento al trattamento dei suoi dati sulla base di un nostro legittimo interesse, salvo che vi siano nostri motivi legittimi per procedere al trattamento che prevalgano sui suoi, per esempio per l'esercizio o la nostra difesa in sede giudiziaria; la sua opposizione prevarrà sempre e comunque sul nostro interesse legittimo a trattare i suoi dati per finalità di marketing;
-la portabilità: può chiedere di ricevere i suoi dati, o di farli trasmettere ad altro titolare da lei indicato, in un formato strutturato, di uso comune e leggibile da dispositivo automatico.
-Inoltre, ai sensi dell'art. 7, par. 3, GDPR, la informiamo che può esercitare in qualsiasi momento il suo diritto di revoca del consenso, senza che venga pregiudicata la liceità del trattamento basata sul consenso prestato antecedentemente.
-Infine, la informiamo che ha diritto di proporre reclamo dinanzi all'Autorità di Controllo, che in Italia è il Garante per la Protezione dei Dati Personali.
-Per esercitare tali diritti, effettuare segnalazioni o chiedere chiarimenti sul trattamento dei propri dati personali può inviare una mail a privacy@gedidigital.it.
-Le comunichiamo, inoltre, che è possibile inoltrare le sue richieste anche via posta, scrivendo al Titolare del Trattamento, GEDI Digital S.r.l., Via Cristoforo Colombo n. 90, 00147 - Roma, specificando l'oggetto della richiesta.
-Dati personali trattati dall'Editore nell'esercizio dell'attività giornalistica – Diritto all'oblio
-Se vuole far valere il diritto all'oblio con riferimento ai suoi dati personali eventualmente contenuti negli articoli della testata e trattati dall'Editore GEDI Digital S.r.l. nell'esercizio dell'attività giornalistica, le ricordiamo che il Titolare del trattamento è l'Editore medesimo, al quale può rivolgersi, ai fini dell'esercizio di tale diritto di cui all'art. 17 del GDPR, scrivendo a GEDI Digital S.r.l., Via Cristoforo Colombo n. 90, 00147 - Roma, oppure inviando una mail all'indirizzo di posta elettronica legale@gedi.it
-La informiamo che la presente Informativa riguarda esclusivamente il trattamento dei dati personali che lei ha fornito o fornirà a GEDI Digital S.r.l. – eventualmente anche acquistando nostri prodotti e/o servizi forniti dietro pagamento o partecipando a nostre promozioni e/o offerte – e quelli che, eventualmente, GEDI Digital S.r.l. acquisirà nel corso del presente rapporto e/o di ulteriori rapporti tra lei e noi. Se volesse, invece, far valere il diritto all'oblio con riferimento ai suoi dati personali eventualmente contenuti negli articoli della testata e trattati dall'Editore nell'esercizio dell'attività giornalistica, le ricordiamo che il Titolare del trattamento è l'Editore medesimo, GEDI News Network S.p.A., al quale può rivolgersi, ai fini dell'esercizio di tale diritto di cui all'art. 17 del GDPR, scrivendo al Titolare con sede legale in Via Ernesto Lugaro n. 15 - 00126 Torino, oppure inviando una mail all'indirizzo di posta elettronica privacy@gedinewsnetwork.it.
-La informiamo che la presente Informativa riguarda esclusivamente il trattamento dei dati personali che lei ha fornito o fornirà a GEDI Digital S.r.l. – eventualmente anche acquistando nostri prodotti e/o servizi forniti dietro pagamento o partecipando a nostre promozioni e/o offerte – e quelli che, eventualmente, GEDI Digital S.r.l. acquisirà nel corso del presente rapporto e/o di ulteriori rapporti tra lei e noi. Se volesse, invece, far valere il diritto all'oblio con riferimento ai suoi dati personali eventualmente contenuti negli articoli della testata e trattati dall'Editore nell'esercizio dell'attività giornalistica, le ricordiamo che il Titolare del trattamento è l'Editore medesimo, GEDI Gruppo Editoriale S.p.A., al quale può rivolgersi, ai fini dell'esercizio di tale diritto di cui all'art. 17 del GDPR, scrivendo al Titolare con sede in Via Ernesto Lugaro n. 15, 10126 - Torino, oppure inviando una mail all'indirizzo di posta elettronica legale@gedi.it
-La informiamo che la presente Informativa riguarda esclusivamente il trattamento dei dati personali che lei ha fornito o fornirà a GEDI Digital S.r.l. – eventualmente anche acquistando nostri prodotti e/o servizi forniti dietro pagamento o partecipando a nostre promozioni e/o offerte – e quelli che, eventualmente, GEDI Digital S.r.l. acquisirà nel corso del presente rapporto e/o di ulteriori rapporti tra lei e noi. Se volesse, invece, far valere il diritto all'oblio con riferimento ai suoi dati personali eventualmente contenuti negli articoli della testata e trattati dall'Editore nell'esercizio dell'attività giornalistica, le ricordiamo che il Titolare del trattamento è l'Editore medesimo, Le Scienze S.p.A., al quale può rivolgersi, ai fini dell'esercizio di tale diritto di cui all'art. 17 del GDPR, scrivendo al Titolare con sede in Via Cristoforo Colombo n. 90, 00147 - Roma, oppure inviando una mail all'indirizzo di posta elettronica legale@gedi.it
-Dati personali raccolti attraverso il sito ILMIOLIBRO
-Con riferimento al sito ILMIOLIBRO (https://ilmiolibro.kataweb.it/), in conformità a quanto indicato nelle condizioni particolari di servizio disponibili al seguente link https://login.kataweb.it/registrazione/ilmiolibro2/html/condizioni_contrattuali.html, La informiamo che i servizi del succitato sito sono erogati da GEDI Digital S.r.l. e da GEDI Gruppo Editoriale S.p.A. (di seguito anche "GEDI"), salvo quanto diversamente previsto nelle medesime condizioni di servizio per taluni servizi erogati, in via esclusiva, da GEDI.
-Pertanto, i dati da lei forniti per il tramite del sito ILMIOLIBRO sono altresì trattati da GEDI Gruppo Editoriale S.p.A., in qualità di autonomo Titolare, con modalità anche automatizzate, al solo fine dell’erogazione dei succitati servizi. Per finalità amministrative, i suoi dati potranno essere comunicati da GEDI anche ad altre società del Gruppo GEDI.
-Il conferimento dei dati personali per le finalità suindicate è indispensabile per l’erogazione dei servizi offerti dal sito ILMIOLIBRO. I succitati dati saranno trattati da GEDI, limitatamente alle finalità strettamente connesse e strumentali all’erogazione dei servizi, per tutta la durata del rapporto contrattuale e ulteriormente conservati esclusivamente per il periodo previsto per l’adempimento di obblighi di legge, sempre che non risulti necessario conservarli ulteriormente per difendere o far valere un diritto o per adempiere a eventuali ulteriori obblighi di legge o ordini delle Autorità.
-Potrà esercitare i diritti di cui agli artt. 15 e ss. del Regolamento (UE) 2016/679 – GDPR (accesso, portabilità, opposizione, rettifica, limitazione e cancellazione), rivolgendosi via posta ordinaria o via mail a: GEDI Gruppo Editoriale S.p.A., Via Ernesto Lugaro n. 15, 10126 - Torino, privacy@gedi.it.
-Trattamento dei dati personali degli utenti in caso di registrazione delle telefonate con il Servizio Clienti
-La informiamo altresì che, nel caso in cui lei dovesse contattare telefonicamente (o essere contattato da) il Servizio Clienti delle nostre testate, GEDI Digital S.r.l. potrà procedere alla registrazione campionaria delle telefonate.
-I dati personali raccolti per il tramite della registrazione delle telefonate saranno trattati dal Titolare esclusivamente al fine di migliorare la qualità dei processi di Customer Care e orientare più efficacemente la formazione del personale addetto a tali servizi. Le telefonate saranno conservate per un periodo di 14 (quattordici) giorni dalla loro registrazione, salvo che non risulti necessario conservarli ulteriormente per difendere o far valere un diritto o per adempiere a eventuali ulteriori obblighi di legge o ordini delle Autorità.
-I dati sono raccolti in conformità con la normativa privacy vigente, con particolare riguardo alle misure minime di sicurezza previste per quanto riguarda il loro trattamento mediante strumenti informatici, manuali e automatizzati con logiche strettamente correlate alle finalità sopra indicate e, comunque, in modo da garantire la sicurezza e la riservatezza dei dati stessi.
-I dati personali raccolti per il tramite della registrazione delle telefonate saranno trattati esclusivamente dalle società che gestiscono il Servizio Clienti per conto del Titolare, nonché dalle strutture aziendali deputate al miglioramento della qualità dei processi di Customer Care, nominati quali responsabili e persone autorizzate del trattamento.
-Le ricordiamo infine che, anche con riferimento al succitato trattamento, potrà sempre esercitare i diritti di cui agli artt. 15 e ss. del GDPR, nel rispetto delle modalità precisante nel precedente paragrafo della presente informativa denominato “Diritti degli interessati”.
-Logica della profilazione
-GEDI Digital S.r.l. tratta, previo suo consenso, i suoi dati personali – che ci ha fornito aderendo a iniziative del Titolare e/o di terzi e/o navigando sui siti del Gruppo GEDI e/o di terzi – per analizzare le sue abitudini di consumo, preferenze e stili di vita al fine di utilizzarli per la creazione di profili di gruppo e individuali ("profilazione") che sono utilizzati per l'invio di comunicazioni personalizzate o per offrirle prodotti o servizi rispondenti alle sue abitudini di consumo.
+la Repubblica - News in tempo reale - Le notizie e i video di politica, cronaca, economia, sport
+Abbonati
+Menu
+Cerca
+Abbonati
+Abbonati
+Quotidiano
+Menu di navigazione
+Contenuti per gli abbonati
+Gedi Smile
+Sezioni
+Commenti
+Cronaca
+Cultura
+Design
+Economia
+Esteri
+Giochi
+Green&Blue
+Il Gusto
+Londra
+Moda e Beauty
+Mondo Solidale
+Motori
+Podcast
+Politica
+RepTv
+Rubriche
+Salute
+Scienze
+Scuola
+Repubblica@Scuola
+Robinson
+Serie Tv
+Spettacoli
+Sport
+Tecnologia
+Vaticano
+Viaggi
+Edizioni Locali
+Roma
+Milano
+Bari
+Bologna
+Firenze
+Genova
+Napoli
+Palermo
+Parma
+Torino
+Speciali
+Oncologia
+Salute Seno
+Giochi senza barriere
+Europa, Italia
+Inserti
+Affari&Finanza
+D
+Il Venerdi
+L'Espresso
+Robinson
+Servizi
+Annunci
+Aste
+Giochi e Scommesse
+Guida Tv
+Ilmiolibro
+Lavoro
+Meteo
+Necrologie
+Oroscopo
+Repubblica +
+Repubblica +
+Shop
+Trovacinema
+Consigli.it
+Dizionari
+Ricette
+Newsletter
+Redazione
+Scriveteci
+05 Agosto 2021 - Aggiornato alle 22.36
+La Repubblica
+05 Agosto 2021 - Aggiornato alle 22.36
+Politica
+Economia
+Mondo
+Italia
+Edizioni Locali
+Bari
+Bologna
+Firenze
+Genova
+Milano
+Napoli
+Palermo
+Parma
+Roma
+Torino
+Sport
+Spettacoli
+Cultura
+Il Venerdì
+D
+RepTv
+Green Pass
+Vaccinazioni
+Olimpiadi
+Longform
+Podcast
+Salute
+Green&Blue
+Moda e Beauty
+Il Gusto
+Italian Tech
+Speciale
+COVID
+Sì al nuovo decreto sul Green pass: obbligo per i docenti, niente stipendio dopo 5 giorni di assenza. Non servirà su bus e metro
+video
+di Elena Dusi
+Video
+Speranza: "Numeri incoraggianti sui vaccini. Pronti per la terza dose, aspettiamo gli esperti"
+Tutte le contraddizioni del green pass
+di Alessandra Ziniti
+Federterme: "Da noi ingresso libero"
+Condividi
+video
+Tutti i modi per scaricare il green pass (con o senza identità digitale)
+di Sofia Gadici
+Condividi
+Il nodo
+Green pass per lavorare, il governo cerca ancora una soluzione
+di Valentina Conte, Roberto Mania
+Condividi
+Consiglio dei ministri
+Davanti a Draghi la Lega abbassa i toni
+Condividi
+Primo piano
+MotoGp
+Valentino Rossi dice basta: "A fine stagione mi ritiro. Avrei meritato il decimo titolo" |
+25 anni in sella
+|
+Video
+Fan e colleghi sui social: "Niente sarà più come prima"
+di Massimo Calandri, video a cura di Martina Coscetta
+Le reazioni
+Malagò: "Tra i più grandi di sempre". Marquez: "Risultati da leggenda"
+Il commento
+Valentino, il vampiro felice
+di Gabriele Romagnoli
+Condividi
+Calcio
+Messi non rinnova con il Barcellona. Il Psg alla finestra
+di Giulio Cardone e Matteo Pinci
+Condividi
+Criminalità
+Foggia, il Comune sciolto per mafia su proposta della ministra Lamorgese
+di Tatiana Bellizzi
+Condividi
+Coronavirus
+Il bollettino: 7.230 nuovi casi e 27 decessi.
+Tasso di positività sale al 3,4% |
+Mappe e grafici
+Condividi
+Bolzano
+Minaccia di chiusura, il titolare dell'hotel No mask fa dietro-front: "Rispetteremo le norme anti-Covid"
+di Gianfranco Piccoli
+Condividi
+Il caso
+Attacco hacker alla Regione Lazio, Zingaretti: "Ripartito il sistema di prenotazione vaccinale, ritrovati tutti i dati"
+Condividi
+Calcio
+La Serie A sorride: via libera del governo alla riapertura degli stadi al 50%
+di Matteo Pinci
+Condividi
+RAI
+Amadeus condurrà il terzo Festival di Sanremo: "Incredibile, non vedo l'ora"
+video
+di Silvia Fumarola
+Condividi
+covid
+Green Pass, la provocazione di Forza Nuova: "Ti vaccini? Ti buttiamo fuori"
+di Paolo Berizzi
+Condividi
+Varese
+Un'avvocata denuncia il parroco al Papa: "Convive more uxorio con una vedova". Ma il sacerdote la querela: "Solo conforto spirituale"
+di Lucia Landoni
+Condividi
+spagna
+Il ventriloquo José Luis Moreno genio della truffa: il "papà" di Rockfeller nasconderebbe un tesoro tra i 400 e i 900 milioni di euro
+Condividi
+Speciale Olimpiadi
+Massimo Stano, vincitore dell'oro nella marcia 20 km
+Tokyo 2020
+Marcia trionfale, Massimo Stano conquista l'oro nella 20 km |
+Il vincitore
+: "Il più forte sono davvero io, grazie a mia figlia"
+|
+Gioia per Viviana Bottaro, bronzo nel karate
+|
+Programma e risultati
+|
+Medagliere
+|
+Italiani sul podio
+|
+Lo speciale
+dai nostri inviati Mattia Chiusano, Ettore Livini, Cosimo Cito e Alessandra Retico
+Condividi
+Atletica
+Rizza d'argento allo sprint nel kayak |
+Impresa Paltrinieri: bronzo nella 10 chilometri, bis storico
+|
+Staffetta 4x100 in finale con il record italiano
+|
+Podcast
+Buongiorno Tokyo
+di Maurizio Crosetti
+dai nostri inviati Mattia Chiusano, Ettore Livini e Fabio Tonacci
+Condividi
+Atletica
+Jacobs sarà il portabandiera azzurro nella cerimonia di chiusura. "Sospetti? La mia vittoria frutto del lavoro"
+|
+Nel 2021, 18 controlli all'antidoping: "Sempre negativo"
+dal nostro inviato Fabio Tonacci
+Condividi
+pista
+Ciclismo, Elia Viviani si prende il bronzo nell'Omnium
+dal nostro inviato Maurizio Crosetti
+Condividi
+in riproduzione....
+Video
+Stano dopo l'oro nella marcia telefona al primo allenatore: "È anche merito tuo"
+|
+Il profilo
+Convertito all'Islam per amore
+Condividi
+Pallavolo
+Italia spalle al muro, Egonu senza medaglie |
+Il commento
+Impreparati alla sofferenza, per le Olimpiadi serve di più
+di Valentina Desalvo
+dal nostro inviato Cosimo Cito
+Condividi
+Lotta greco-romana
+Chamizo ko in semifinale: "In fumo il lavoro di una vita". Resta l'obiettivo del bronzo
+dal nostro inviato Cosimo Cito
+Condividi
+La sfida
+Karate, Viviana Bottaro: "Ho iniziato per difendermi"
+dall'inviato Mattia Chiusano
+Condividi
+L'analisi
+Giappone, boom di baby medaglie nel paese più vecchio del mondo
+dal nostro inviato Giampaolo Visetti
+Condividi
+Video
+Tokyo 2020
+Sara Simeoni, trucco e parrucco: la star dei social è lei
+Condividi
+Tokyo 2020
+L'atletica trascina l'Italia ai Giochi: mai così bene da 37 anni
+Condividi
+Tokyo 2020
+Karate, Viviana Bottaro: "Io nella storia, ma siamo tutti da podio"
+Condividi
+Tokyo 2020
+Festa per i 33 anni di Federica Pellegrini a Casa Italia. Malagò: "Finalmente colleghi"
+Condividi
+Tokyo 2020
+Dopo l'argento negli 800, Paltrinieri bronzo nella 10 km: ecco perché il suo bis lo fa entrare nella storia
+Condividi
+Tutte le promozioni di Repubblica per l'estate
+Condividi
+Speciali
+Longform
+Genova dopo il Morandi. Il quartiere del Ponte prova a ripartire
+di Erica Manna
+Condividi
+Grande Salento
+Taranto, il futuro delle cozze è green: la città dell'Ilva punta sul sapore di mare |
+Gedi Watch
+l'oasi dei mitili
+di Gino Martina
+Una finestra su Lecce, Brindisi, Taranto
+di Domenico Castellaneta
+Condividi
+LONGFORM
+Seconde case in Toscana, in campagna o al mare: dove conviene comprare. I prezzi
+di Maurizio Bologni e Azzurra Giorgi
+Condividi
+Podcast
+Porno: una storia italiana. Personaggi, scandali, politica e costume dei nostri ultimi 50 anni - 2. L'esordio di Cicciolina
+di Antonio Cristiano e Yuri Rosati
+Condividi
+Podcast / UN'ESTATE ITALIANA
+La musica della strada
+di Gioacchino Criaco
+Nove scrittrici e scrittori per nove racconti inediti con l’estate sullo sfondo
+Condividi
+RepTv
+Ostuni
+Musica a tutto volume di notte: ex assessore distrugge lo stereo con una mazza
+Condividi
+Usa
+La pianista prodigio: a quattro anni suona Beethoven e si esibirà alla Carnegie Hall
+Condividi
+l'appellO
+"Ho sbagliato, vaccinatevi tutti": la no-vax pentita dal letto di ospedale
+Condividi
+Italian Tech
+Lo scheletro di orso preistorico nella sede Amazon: la lezione più importante di Bezos sul fallimento
+a cura di Eleonora Giovinazzo
+Condividi
+Incendi
+Sicilia ancora in fiamme: il viaggio in auto tra le campagne bruciate di Gangi
+Condividi
+Politica
+M5s
+Iscritti al voto per eleggere Conte presidente.  Attivisti in rivolta: "Lasciamo il Movimento"
+Condividi
+Giustizia
+La protesta del giudice onorario: 250 km a piedi per parlare con Marta Cartabia dei diritti negati
+di Liana Milella
+Condividi
+Puglia
+Dario Stefàno: "Mi sospendo dal Pd per difenderlo: se Emiliano si schiera con l'uomo dell'estrema destra dobbiamo salvare la nostra identità"
+di Chiara Spagnolo
+Condividi
+Esecutivo
+Il metodo Draghi e il traguardo dei suoi primi 6 mesi di governo: il segreto del successo del signor "Aggiusta-tutto"
+di Sebastiano Messina
+Condividi
+Intervista
+La sindaca indagata a Crema per il bimbo che si schiacciò le dita all'asilo: "Non possiamo rispondere di tutto"
+di Alessia Gallione
+Condividi
+Giustizia
+Comunicazione stampa, stretta sulle procure: parla solo il capo "se strettamente necessario” e se c'è “un interesse pubblico"
+di Liana Milella
+Condividi
+M5S
+Lombardi: "Mai imboscate a Draghi ma il governo rispetti le nostre idee"
+di Annalisa Cuzzocrea
+Condividi
+Forza Italia
+La seconda vita di Elio Vito, da ultrà di Berlusconi ai diritti gay
+di Filippo Ceccarelli
+Condividi
+Amministrative
+La sfida elettorale nei cinque Comuni principali. Da Torino a Napoli, la situazione in vista del voto del 3 e 4 ottobre
+di Gabriele Bartoloni e Alessia Candito
+Calabria, l'ex pd Oliverio tentato dalla candidatura autonoma
+Condividi
+Magazine
+GREEN&BLUE
+Acqua potabile dall'aria: ci provano anche gli spagnoli. E un ingegnere di 82 anni ci riesce
+di Claudio Gerino
+Condividi
+IL GUSTO
+La migliore cuoca del mondo del 2021? È la peruviana Pía León
+di Elisabetta Pagani
+Condividi
+MODA E BEAUTY
+Come dividersi gli amici dopo il divorzio: le vostre storie e i consigli dell'esperto
+di Stefania Medetti
+Condividi
+SALUTE
+Sesso e tradimento, Livia: "Perché sono infedele? Il mio amante mi fa sentire bella"
+di Francesco Cro
+Condividi
+Italian Tech
+Da "internet delle cose" a "internet del tutto": il segreto sono i processori flessibili
+di Andrea Daniele Signorelli
+Condividi
+ALFEMMINILE
+Piante velenose per gatti: quali sono?
+di Martina Delosi
+Condividi
+Podcast
+LA GIORNATA
+Green Pass, la guerriglia di Salvini
+di GIULIA SANTERINI
+Condividi
+LA RASSEGNA
+Ascolta tutti
+gli audioarticoli
+LE FIRME
+Condividi
+indizi neurovisivi
+Il Green Pass dei buffoni
+di filippo ceccarelli
+Condividi
+questioni di gusto
+W il kiwi frutto simbolo dell'integrazione
+di eleonora cozzella
+Condividi
+Editoriali & Commenti
+Il punto
+di Stefano Folli
+Conte e Di Maio lo stabilizzatore
+L'analisi
+di Domenico Siniscalco
+Covid, il capitale della salute
+Il commento
+di Carlo Bastasin
+Se le riforme non bastano
+Le idee
+di Armando Spataro
+Giustizia, bisogna crederci
+RepTv
+Tokyo 2020
+Sky Brown e le altre ai Giochi di Tokyo: le campionesse sugli skate della generazione Z
+Condividi
+Trentino
+Il cucciolo di orso è incastrato sugli alberi: così lo salvano i forestali
+Condividi
+GRECIA
+Monastero circondato dalle fiamme e 150 case distrutte sull'isola di Evia
+Condividi
+PAROLE IN CORSO
+Stefano Massini: da dove nasce il nome "Francesco"
+Condividi
+INGHILTERRA
+La demolizione della centrale elettrica: le torri crollano in pochi secondi
+Condividi
+Lo speciale
+Università, le sfide della ripartenza: i fondi del Pnrr, il ritorno in aula e una nuova offerta formativa
+Il dossier
+di Ilaria Venturi
+Almalaurea, il lavoro dopo l'università
+di Chiara Nardinocchi
+Condividi
+Università di Padova, offerta formativa d’eccellenza al passo con il futuro
+di Silvia Pigozzi
+Condividi
+Padova
+La prima rettrice dopo 799 anni. Mapelli: “Porterò inclusione e sostenibilità sociale"
+di Corrado Zunino
+Condividi
+Camerino
+Il Censis incorona l'Università di Camerino. Che rilancia con corsi per professionisti del digital
+di Claudio Cucciatti
+Condividi
+Milano
+Alla Sigmund Freud University si formano gli psicologi 4.0
+di  Silvia Pigozzi
+Condividi
+Calabria
+Il campus universitario parla al mondo: nuovi corsi in inglese e la sfida dei medici ingegneri
+Condividi
+Economia
+Recovery fund
+Bonifico da 25 miliardi. La Ue invia al Tesoro la prima rata del Pnrr
+di Valentina Conte
+Condividi
+Apparato statale
+Pa, il decreto reclutamento è legge: portale unico per i bandi e mille nuovi esperti per il Pnrr
+Condividi
+Banche
+Mps accelera verso Unicredit, il bilancio torna in utile
+di Vittoria Puledda
+Condividi
+il contenzioso
+Eredità Agnelli, la figlia Margherita vuole riaprire la successione. I legali della famiglia: pretese temerarie a cui si resisterà con fermezza
+Condividi
+Trieste
+G20, al via il vertice sul digitale: le sfide dell'innovazione alla prova della pandemia
+dal nostro inviato Beniamino Pagliaro
+Condividi
+Calcio
+"Serie A, a rischio lo streaming delle gare nelle località turistiche". Alta tensione tra Dazn e le società del mobile
+di Aldo Fontanarosa
+Condividi
+Azioni
+Robinhood sulle montagne russe in Borsa: dopo aver toccato le stelle arrivano le vendite
+di Sara Bennewitz
+Condividi
+edilizia
+Superbonus, meno burocrazia e avvio lavori più facile: arrivano le procedure semplificate con la nuova Cila
+di Antonella Donati
+Condividi
+Tlc
+Open Fiber, Enel cede il 50% per 2,65 miliardi. Cdp diventa socio di maggioranza
+Condividi
+Focus
+longform
+Perché da 160 anni le Ferrovie restano la grande incompiuta italiana
+di Carlo Bonini (coordinamento editoriale), Isaia Sales (testo). Coordinamento multimediale Laura Pertici, produzione Gedi Visual
+Condividi
+Trieste
+G20, ecco perché la comunicazione quantistica può difendere i dati dagli hacker
+dal nostro inviato Beniamino Pagliaro
+Condividi
+Puglia
+I consiglieri regionali si fanno il regalo d'agosto: torna per tutti una liquidazione da decine di migliaia di euro a testa
+di Isabella Maselli
+Condividi
+Salute
+Lotta al Covid, la strana (fragile) alleanza di Big Pharma
+di Daniela Minerva
+Condividi
+web
+Facebook, Twitter e YouTube cancellano un esercito di falsi account di propaganda "made in China"
+dal nostro corrispondente Gianluca Modolo
+Condividi
+longform
+Caccia all'oro: la rincorsa del mercato immobiliare di Milano. Prezzi, zone migliori ed errori da evitare
+di Alessia Gallione
+Condividi
+bari
+"Avevo 16 anni e scattai quella foto storica". Fotoreporter ricorda lo sbarco degli albanesi dalla "Vlora" 30 anni dopo
+di Gianfranco Moscatelli
+Condividi
+La rivelazione
+Ritrovate migliaia di pagine inedite di Céline, scoppia il caso in Francia
+di Lara Crinò
+Condividi
+Aeronautica
+Tempest, l'Italia stanzia due miliardi per il nuovo supercaccia
+di Gianluca Di Feo
+Condividi
+Storie italiane
+Gigi Buffon: “Resto tra i pali per l’arte e il narcisismo"
+di Dario Cresto-Dina
+Condividi
+Il longform
+Così muoiono gli schiavi della nostra agricoltura
+di Carlo Bonini (coordinamento editoriale), Giuliano Foschini, Clemente Pistilli. Coordinamento multimediale di Laura Pertici. Produzione Gedi Visual
+Condividi
+Rubriche
+La prima cosa bella
+di Gabriele Romagnoli
+I portici, e via
+Podcast
+L'amaca
+di Michele Serra
+La perdita della solitudine
+Podcast
+Invece Concita
+di Concita De Gregorio
+Bere meno lavorare tutti
+La lettera: Genova e Firenze
+Stazione Futuro
+di Riccardo Luna
+Gli esclusi dalla Rete che non vediamo
+Posta e risposta
+di Francesco Merlo
+Se è normale non è destra. C'è anche la "razza di str..."
+RepTv
+Tokyo 2020
+Il fallimento dell'Italia negli sport di squadra: quattro ko nei quarti di finale
+a cura di Francesco Cofano
+Condividi
+Eutanasia
+Vasco Rossi firma per il referendum sul fine vita: "Liberi liberi... fino alla fine"
+Condividi
+MALTEMPO
+L'acqua invade le strade a Laglio, i vigili del fuoco costruiscono paratie lungo il lago di Como
+Condividi
+Tokyo 2020
+Jacobs jr in pista: il figlio del campione si allena col primo coach del papà
+di Daniele Alberti
+Condividi
+Italian Tech
+L'indovinello con cui Elon Musk sceglie i suoi dipendenti
+a cura di Eleonora Giovinazzo
+Condividi
+Mondo
+Il caso
+Polemiche in Germania: "No al passaggio del Tour di ciclismo per il campo di Buchenwald"
+dal nostro inviato Giampaolo Cadalanu
+Condividi
+Diplomazia
+Un nuovo ambasciatore italiano al Cairo. È Michele Quaroni
+Condividi
+Coronavirus nel mondo
+Superati 200 milioni di contagi. Macron: "Probabile terza dose per anzieni e vulnerabili"
+I contagi nel mondo
+Timeline
+Le vaccinazioni
+Condividi
+Iran
+Raisi, il presidente anti-corruzione su cui pesa l'ombra della "commissione di morte" del 1988
+di Gabriella Colarusso
+Condividi
+Covid
+Stati Uniti, svolta verso il pass: si pensa all'obbligo di vaccino per riaprire a chi arriva dall'estero
+Condividi
+Cina
+Ritorna la "ciotola di ferro": rischi addio, è corsa a conquistare il posto di lavoro sicuro nel settore pubblico
+dal nostro corrispondente Gianluca Modolo
+Condividi
+Tanzania
+Tre ragazzini uccisi dai leoni. Si erano addentrati nella riserva naturale di Ngorongoro per cercare bestiame smarrito
+Condividi
+Eserciti
+Ungheria, nasce un nuovo gigante dei "soldati di ventura"
+di Andrea Tarquini
+Condividi
+Medio Oriente
+Attacco aereo di Israele nel sud del Libano per rispondere ai razzi. Gantz: "Un avvertimento a Teheran"
+di Sharon Nizza
+Condividi
+Italia
+Maltempo
+Il lago di Como allaga le strade, esondano Seveso e Lura |
+Battelli, chiatte e gru: la corsa per rimuovere i detriti
+dal nostro inviato Paolo Berizzi e di Lucia Landoni
+Condividi
+Parma
+Operaio muore schiacciato da ruspa in un cantiere dell'A15 |
+Morti sul lavoro, colloquio Mattarella-Orlando dopo caso Laila
+di Giuseppe Baldessarro
+Condividi
+Covid
+Ciclo vaccinale completato dal 62% degli italiani over 12. E oltre 70 milioni le somministrazioni |
+L'andamento delle vaccinazioni
+Condividi
+Scuola
+Sindacati al governo: "Per ripartire sdoppiate le classi"
+di Corrado Zunino
+Battaglia sui vaccini a prof e personale scolastico. Sicilia e Liguria contestano i dati
+di Giusy Spica
+Condividi
+napoli
+Musei, contro il Covid la Reggia di Caserta "arruola" Francesco primo di Borbone |
+Pompei, tampone rapido gratuito per i visitatori degli scavi
+di Paolo De Luca
+Condividi
+Bologna
+Vasco Rossi cade dalla bicicletta: spalla lussata
+"Niente di grave, ma un male boia"
+Condividi
+Modena
+Muore in un incidente stradale il
+'maitre'
+della guest house di Massimo Bottura
+Condividi
+Salento
+Ostuni, musica a tutto volume di notte: ex assessore distrugge lo stereo con una mazza
+Condividi
+bari
+Esplode autocisterna sulla Statale Foggia-Candela. Vigili del fuoco evitano la strage: un ferito
+video
+di Tatiana Bellizzi
+Condividi
+Palermo
+Bruciano le Madonie: mucche carbonizzate, boschi distrutti e cittadini in fuga
+di Ivan Mocciaro
+Condividi
+La polemica
+Le comunità ebraiche si schierano contro via Almirante ad Alessandria
+di Federica Cravero
+Condividi
+Firenze
+Davide Astori, il giudice: "L'errore nella diagnosi impedì di salvare la vita al calciatore"
+Condividi
+'Ndrangheta
+Arrestato a Madrid il boss dei boss Paviglianiti: pluriomicida, era libero per sbaglio
+Condividi
+Roma
+Porto turistico Ostia, scatta la confisca definitiva dei beni di Mauro Balini: valore 460 milioni di euro
+di Romina Marceca
+Condividi
+Newsletter
+Scopri tutte le newsletter per gli abbonati
+I contenuti originali sono inclusi nell'abbonamento
+Scusi, Lei
+di Oriana Liso
+Pane, rose e gender gap: un appuntamento per costruire assieme una nuova
+consapevolezza, dall'economia alla società, ridurre le distanze fa bene
+a tutti
+Leggi L'anteprima
+Genitori equilibristi
+di Rita Balestriero
+Storie di madri e padri autentici, sempre in bilico tra figli, lavoro e
+il resto del mondo. Quelli che non avrebbero mai neppure immaginato di
+ritrovarsi a fare i funamboli, ma che ora le provano tutte per non
+cadere da quella corda instabile
+Leggi l'anteprima
+Cambio campo
+di Gianni Clerici e Dario Cresto-Dina
+Brevi dialoghi su tennis e varia umanità, viaggiando tra storie, numeri e rumori
+Leggi l'anteprima
+Edizioni locali
+ROMA
+Cisterna di Latina, ciclista travolto e ucciso da un camion
+Condividi
+Milano
+Comunali, Meloni incontra il candidato del centrodestra Bernardo: "Sostegno convinto e incondizionato"
+di Alberto Custodero
+Condividi
+BARI
+Medico no vax sospeso a Brindisi, il Tar respinge il ricorso: "Viene prima l'interessa pubblico"
+Condividi
+BOLOGNA
+Caccia alla zebra Achille nei boschi del Reggiano: scappata da un allevamento
+Condividi
+Firenze
+A1, scontro tra Scandicci e Impruneta: 5 feriti nell'incidente stradale
+Condividi
+Genova
+Genova, stop ai mezzi pesanti sino a novembre sul ponte di Traso nella statale della Val Trebbia: "Lavori di messa in sicurezza"
+Condividi
+NAPOLI
+Quasi pronta la lista "social" dei ristoranti No Green Pass. I ribelli: "Non ci piegheremo"
+di Tiziana Cozzi
+Condividi
+Palermo
+Acqua inquinata nella pre-riserva di Vendicari: scatta il divieto di Balneazione
+di 				 				 					Sebastiano Diamante
+Condividi
+PARMA
+Più spazio per i ciclisti ai semafori grazie alla segnaletica orizzontale delle case avanzate
+Condividi
+TORINO
+Il sacerdote del santuario della Consolata di Torino travolto in bicicletta e ucciso mentre era in vacanza
+Condividi
+Iniziative
+Italian tech
+Mi faccio un caffè smart. Dalla moka, alle capsule, alla tecnologia il consumo della bevanda più amata dagli italiani è cambiato
+di Vito De Ceglia
+Condividi
+L'intervista
+Proli (Amundi): "Con il Next generation Ue ci vuole un Next generation cash"
+di Paola Jadeluca
+Lo speciale InnovaItalia
+Condividi
+Smart factory
+Toigo (Intel): “Edge computing e 5G alleati nella smart factory”
+Lo speciale
+di Marco Frojo
+Condividi
+Innovazione trasparente
+I robot entrano nell'era della maturità: automazione industriale e la mobilità elettrica spingono la domanda
+Lo speciale
+di Luigi dell'Olio
+Condividi
+Transizione sostenibile
+A2A, nel primo trimestre crescono Mol, utile netto e investimenti
+Lo speciale
+Condividi
+Innovazione sostenibile
+Cagliani (Eni Gas e Luce): “Grazie a big data e Ai capiamo il cliente”
+Lo speciale
+di Marco Frojo
+Condividi
+OSSERVA ITALIA
+Se il commesso diventa un consulente digitale
+di Cristina Lazzati
+Condividi
+Mercato dell'auto
+Luglio difficile: tengono i veicoli ibridi, in crisi le vendite delle vetture diesel e benzina
+di Claudio Cucciatti
+Condividi
+energitalia
+A Carpi la prima scuola d'Italia riscaldata a idrogeno
+Condividi
+Firmato Repubblica
+Il racconto
+Ezio Mauro: "Così nacquero le 10 domande di D'Avanzo a Berlusconi"
+di Pasquale Quaranta
+Giornalismo, ripartiamo da D'Avanzo
+di 				 				 					Francesco Merlo
+Condividi
+Videomagazine
+Gedi Watch
+La seconda vita
+del carcere sull'isola
+Santo Stefano è il penitenziario dove furono rinchiusi l’anarchico Bresci e poi Sandro Pertini. Ora diventa laboratorio culturale. E le celle ospiteranno case per artisti
+diCamilla Romana Bruno
+Condividi
+Il campo di girasoli
+dove si coltivano sorrisi
+di Gianvito Rutigliano
+Condividi
+L'immortale Pulcinella
+del burattinaio giramondo
+di Davide Cavalleri e Andrea Joly
+Condividi
+BookZ
+Premio Strega, i finalisti consigliano un libro alla Generazione Zeta
+di Sabina Minardi
+Condividi
+video / il libro ritrovato
+"Dodici piccoli coinquilini": il mondo visto dalla parte di mosche e formiche, blatte e pulci
+di Marco Belpoliti
+La "Zattera sui monti" del maestro santone Deligny: come ascoltare i bambini che non parlano
+Condividi
+Video / Altri orizzonti
+Elisa Di Francisca: "La scelta più difficile: un figlio o le Olimpiadi"
+di Caterina Soffici
+Perché le donne lottano il doppio? Otto risposte
+Condividi
+L'INIZIATIVA
+Il mare dell'Abruzzo e Pescara: la guida di Repubblica presentata in streaming
+Condividi
+IL FESTIVAL
+Al via Cortona on the Move: fotografia e arti visive per dire ''Siamo umani''
+Msf celebra i suoi 50 anni con una mostra
+Condividi
+Il Network
+Edizioni locali
+Bari
+Bologna
+Firenze
+Genova
+Milano
+Napoli
+Palermo
+Parma
+Roma
+Torino
+Supplementi Repubblica
+Archivio Diario
+Archivio La Domenica
+Affari & Finanza
+D - la Repubblica
+Il Venerdì
+Gedi News Network
+La Stampa
+Il Secolo XIX
+Gazzetta di Mantova
+Corriere delle Alpi
+Il mattino di Padova
+Il Piccolo
+La Nuova Venezia
+La Provincia Pavese
+La Sentinella del Canavese
+La Tribuna di Treviso
+Messaggero Veneto
+Periodici
+L'Espresso
+Le Scienze
+Limes
+Micromega
+National Geographic
+RClub
+Radio
+DeeJay
+Capital
+m2o
+Iniziative Editoriali
+Tutte le iniziative
+Servizio Clienti
+Servizio Arretrati
+Guide di Repubblica
+Servizi, tv e consumi
+Annunci
+Mymovies
+Ilmiolibro
+Necrologie
+GuidaTV
+Miojob
+Enti e Tribunali
+Meteo
+Shop
+Traffico in diretta
+tvzap
+Dizionario italiano
+Dizionario inglese/italiano
+Consigli.it
+Ricette
+Partnership
+Huffington Post
+National Geographic
+Le Scienze
+Business Insider
+Mashable Italia
+RSS
+Homepage
+Cronaca
+Politica
+Tecnologia
+Ambiente
+Esteri
+Calcio
+Sport
+Motori
+Scienze
+Gallerie
+Spettacoli
+Scuola e Giovani
+Mondo Solidale
+Economia&Finanza
+Fai di Repubblica la tua homepage
+Mappa del sito
+Redazione
+Scriveteci
+Per inviare foto e video
+Servizio Clienti
+Pubblicità
 Cookie Policy
-Cosa sono i Cookie?
-I Cookie sono pacchetti di informazioni inviate da un web server (es. il sito) al browser Internet dell'utente, da quest'ultimo memorizzati automaticamente sul computer e rinviati automaticamente al server ad ogni successivo accesso al sito. Per default quasi tutti i browser web sono impostati per accettare automaticamente i cookie. Tipicamente i cookie possono essere installati:
-direttamente dal proprietario e/o responsabile del sito web (c.d. cookie di prima parte);
-da responsabili estranei al sito web visitato dall'utente (c.d. cookie di terza parte). Ove non diversamente specificato, si rammenta che questi cookie ricadono sotto la diretta ed esclusiva responsabilità dello stesso gestore. Ulteriori informazioni sulla privacy e sul loro uso sono reperibili direttamente sui siti dei rispettivi gestori.
-Questo sito web può utilizzare, anche in combinazione tra di loro i seguenti tipi di cookie classificati in base alle indicazioni del Garante Privacy e dei Pareri emessi in ambito Europeo dal Gruppo di Lavoro ex art. 29 del GDPR:
-Sessione, sono i cookie che non vengono memorizzati in modo persistente sul computer dell'utente e si cancellano con la chiusura del browser, sono strettamente limitati alla trasmissione di identificativi di sessione necessari per consentire l'esplorazione sicura ed efficiente del sito evitando il ricorso ad altre tecniche informatiche potenzialmente pregiudizievoli per la riservatezza della navigazione degli utenti.
-Persistenti, sono i cookie che rimangono memorizzati sul disco rigido del computer fino alla loro scadenza o cancellazione da parte degli utenti/visitatori. Tramite i cookie persistenti i visitatori che accedono al sito (o eventuali altri utenti che impiegano il medesimo computer) vengono automaticamente riconosciuti ad ogni visita. I visitatori possono impostare il browser del computer in modo tale che accetti/rifiuti tutti i cookie o visualizzi un avviso ogni qual volta viene proposto un cookie, per poter valutare se accettarlo o meno. L'utente può, comunque, modificare la configurazione predefinita e disabilitare i cookie (cioè bloccarli in via definitiva), impostando il livello di protezione più elevato.
-Tecnici, sono i cookie utilizzati per autenticarsi, per usufruire di contenuti multimediali tipo flash player o per consentire la scelta della lingua di navigazione. In generale non è quindi necessario acquisire il consenso preventivo e informato dell'utente. Rientrano in questa fattispecie anche i cookie utilizzati per analizzare statisticamente gli accessi/le visite al sito solo se utilizzati esclusivamente per scopi statistici e tramite la raccolta di informazioni in forma aggregata.
-Non tecnici, sono tutti i cookie usati per finalità di profilazione e marketing. Il loro utilizzo sui terminali degli utenti è vietato se questi non siano stati prima adeguatamente informati e non abbiano prestato al riguardo un valido consenso secondo la tecnica dell'opt-in. Questi tipi di cookie sono, a loro volta, raggruppabili in base alle funzioni che assolvono in:
-Analitycs. sono i cookie utilizzati per raccogliere ed analizzare informazioni statistiche sugli accessi/le visite al sito web. In alcuni casi, associati ad altre informazioni quali le credenziali inserite per l'accesso ad aree riservate (il proprio indirizzo di posta elettronica e la password), possono essere utilizzate per profilare l'utente (abitudini personali, siti visitati, contenuti scaricati, tipi di interazioni effettuate, ecc.).
-Widgets, rientrano in questa categoria tutti quei componenti grafici di una interfaccia utente di un programma, che ha lo scopo di facilitare l'utente nell'interazione con il programma stesso. A titolo esemplificativo sono widget i cookie di facebook, twitter.
-Advertsing, rientrano in questa categoria i cookie utilizzati per fare pubblicità all'interno di un sito. Google, Tradedoubler rientrano in questa categoria.
-Web beacons, rientrano in questa categoria i frammenti di codice che consentono a un sito web di trasferire o raccogliere informazioni attraverso la richiesta di un'immagine grafica. I siti web possono utilizzarli per diversi fini, quali l'analisi dell'uso dei siti web, attività di controllo e reportistica sulle pubblicità e la personalizzazione di pubblicità e contenuti.
-I cookie presenti sui siti del Gruppo GEDI
-Cookie tecnici che non richiedono consenso
-GEDI Digital S.r.l. installerà sul suo dispositivo e, in particolare, nel suo browser o lascerà installare a terzi alcuni cookie che ci sono necessari per acquisire o far acquisire a nostri partner informazioni statistiche in forma anonima e aggregata relative alla sua navigazione sulle pagine dei siti del Gruppo GEDI.
-Si tratta, in particolare, dei cookie relativi ai seguenti servizi di analisi statistica:
-Google Analytics
-https://support.google.com/analytics/answer/2763052?hl=it
-WebTrekk
-https://www.webtrekk.com/en/index/opt-out-webtrekk/
-Nielsen NetRatings
-https://priv-policy.imrworldwide.com/priv/browser/it/it/optout.html
-Chartbeat
-https://chartbeat.com/privacy/
-Cookie per i quali è richiesto il consenso
-Qualora lei presti il relativo consenso attraverso una delle modalità semplificate descritte nell'informativa presentata al momento del suo primo accesso su un sito del Gruppo GEDI, GEDI Digital S.r.l. potrà installare e/o lasciar installare alle società terze qui di seguito indicate, ulteriori cookie, c.d. di profilazione, per i quali può scegliere di modificare o revocare in tutto o in parte il consenso prestato mediante la piattaforma di consent management (CMP) o mediante i link che seguono:
-Cookie di prima parte
-Salesforce DMP
-Attraverso i siti del Gruppo GEDI, GEDI Digital S.r.l., qualora presti il relativo consenso, potrà trattare i suoi dati personali per erogarle o farle erogare contenuti e pubblicità anche basati sugli interessi nel rispetto di quanto indicato nella presente informativa.
-Mapp Intelligence - Webtrekk
-Attraverso i siti del Gruppo GEDI, GEDI Digital S.r.l., qualora presti il relativo consenso, potrà trattare i suoi dati personali per erogarle o farle erogare contenuti e pubblicità anche basati sugli interessi nel rispetto di quanto indicato nella presente informativa.
-Cookie di terza parte
-Gigya
-Attraverso i siti del Gruppo GEDI, Gigya, qualora presti il relativo consenso, potrà trattare i suoi dati personali per consentirle un'esperienza di navigazione arricchita da funzionalità e servizi di social network https://www.gigya.com/privacy-policy/
-Facebook
-Attraverso i siti del Gruppo GEDI, Facebook, qualora presti il relativo consenso, potrà trattare i suoi dati personali per consentirle un'esperienza di navigazione arricchita da funzionalità e servizi di social network
-https://www.facebook.com/policies/cookies/
-Twitter
-Attraverso i siti del Gruppo GEDI, Twitter, qualora presti il relativo consenso, potrà trattare i suoi dati personali per consentirle un'esperienza di navigazione arricchita da funzionalità e servizi di social network
-https://support.twitter.com/articles/20170519-uso-dei-cookie-e-di-altre-tecnologie-simili-da-parte-di-twitter
-Linkedin
-Attraverso i siti del Gruppo GEDI, Linkedin, qualora presti il relativo consenso, potrà trattare i suoi dati personali per consentirle un'esperienza di navigazione arricchita da funzionalità e servizi di social network
-http://it.linkedin.com/legal/cookie-policy
-Pinterest
-Attraverso i siti del Gruppo GEDI, Pinterest, qualora presti il relativo consenso, potrà trattare i suoi dati personali per consentirle un'esperienza di navigazione arricchita da funzionalità e servizi di social network
-https://help.pinterest.com/en/articles/personalization-and-data-other-websites
-Cookie di terza parte per ottimizzazione della pubblicità
-Google Analytics
-I siti del Gruppo GEDI hanno attivato le funzioni pubblicitarie di Google Analytics, tra cui, nello specifico, i rapporti sui dati demografici e sugli interessi di Google Analytics.
-L'attivazione di queste funzioni pubblicitarie consente a Google Analytics di raccogliere i dati sul traffico tramite i cookie per la pubblicità di Google e gli identificatori anonimi,
-oltre ai dati raccolti tramite un'implementazione standard di Google Analytics. I siti del Gruppo GEDI raccolgono e utilizzano i dati provenienti dalla pubblicità basata sugli interessi di Google o i
-dati sul pubblico di terze parti (ad es. età, sesso e interessi) di Google Analytics e le funzioni di Google Analytics implementate in base alla pubblicità display (ad es. remarketing,
-rapporti sui dati demografici e sugli interessi di Google Analytics) solo a fini statistici e di analisi del pubblico. I dati sono raccolti ed aggregati in forma anonima mediante software proprietari di Google.
-Quali sono le funzionalità del pixel?
-I siti del Gruppo GEDI utilizzano cookie e pixel di Google per informare, ottimizzare e pubblicare annunci sulla base delle precedenti visite degli utenti ai siti del Gruppo GEDI.
-È possibile disattivare Google Analytics per la pubblicità display e personalizzare gli annunci della Rete Display di Google nei seguenti modi:
-Utilizzando le Impostazioni annunci: https://www.google.it/settings/ads/
-Attraverso le componenti attualmente disponibili per la disattivazione di Google Analytics per il Web: https://tools.google.com/dlpage/gaoptout/
-Google potrebbe trasferire i dati raccolti fuori dalla UE.
-Per maggiori informazioni può consultare: https://policies.google.com/?hl=it-IT
-Facebook
-Attraverso i pixel implementati sulle pagine del Gruppo GEDI, Facebook fornisce report sui tipi di persone che visualizzano gli annunci di Gedi e sulle prestazioni degli annunci. Facebook non condivide informazioni che consentono di identificarla (informazioni quali nome o indirizzo e-mail utilizzabili per contattarla o identificarla), salvo sua autorizzazione. Ad esempio, Facebook fornisce dati demografici generali e informazioni sugli interessi agli annunci per aiutarci a capire meglio il nostro pubblico. Inoltre, Facebook conferma quali annunci hanno portato a un acquisto o all'esecuzione di un'azione.
-Quali sono le funzionalità del pixel?
-Facebook utilizza le informazioni in suo possesso, tra cui quelle relative a interessi, azioni e connessioni, per selezionare e personalizzare inserzioni del Gruppo GEDI, offerte e altri contenuti sponsorizzati da mostrarle. Scopra di più su come Facebook seleziona e personalizza le inserzioni e sulle scelte che può effettuare in merito ai dati che Facebook utilizza per selezionare inserzioni e altri contenuti sponsorizzati per lei nelle impostazioni di Facebook e nelle impostazioni di Instagram.
-Facebook potrebbe trasferire i dati raccolti fuori dalla UE
-Per maggiori informazioni può consultare: https://it-it.facebook.com/policy.php
-Taboola
-Taboola, attraverso i suoi cookie e pixel, raccoglie dati pseudo-anonimizzati, che non rivelano l’identità dell’utente in quanto non processano nome, indirizzo mail o altri identificativi. Le informazioni degli utenti che vengono raccolte da Taboola possono includere informazioni sul dispositivo e il sistema operativo, l’indirizzo IP, le pagine web visitate dagli utenti sui siti del Grupp GEDI, il link che ha determinato il percorso di navigazione dell’utente, le date e gli orari di accesso al sito, informazioni relative agli eventi (es. un malfunzionamento di sistema), informazioni generiche sulla localizzazione (es. città, stato), indirizzi email crittografati (quando resi disponibili dall’utente) e genere (quando reso disponibile dall’utente). Nella suite Taboola News vengono raccolti anche comportamenti osservati all’interno delle app (status, attività di navigazione, click) e informazioni approssimative sulla posizione del dispositivo inferite da attività di ricerca (quando abilitato dall’utente)
-Quali sono le funzionalità del pixel?
-Taboola potrà utilizzare le informazioni raccolte sull’utente per personalizzare i contenuti e le informazioni mostrate o inviate agli utenti; per proporre all’utente contenuti sulla base delle precedenti navigazioni e personalizzare l’esperienza durante l’interazione con i suoi servizi.
-Attraverso i suoi servizi, inclusi quelli erogati sulle pagine dei siti del Gruppo GEDI, Taboola potrà fornire pubblicità profilata sulla base dei comportamenti di navigazione su diversi siti, browser e dispositivi.
-Taboola conserva le informazioni dell’utente raccolte a scopo pubblicitario per un massimo di tredici mesi dall’ultima interazione dell’utente con i suoi servizi.
-Taboola potrebbe trasferire i dati raccolti fuori dalla UE
-Per maggiori informazioni puoi consultare: https://www.taboola.com/privacy-policy
-AWIN
-La maggior parte dei dati utilizzati da Awin viene generata automaticamente da una macchina che permette di individuare un utente specifico, senza rivelare la sua identità. Per ogni transazione, Awin memorizza una singola sequenza di cifre che non rivela il nome di un particolare utente finale e contiene informazioni sulla campagna dell'Advertiser, il Publisher, l'azione dell'utente finale (ovvero, clic o visualizzazione, oltre al paese in cui si è verificata) e il dispositivo utilizzato.
-Inoltre, Awin riceve informazioni limitate sulle transazioni per confermare che una determinata transazione è avvenuta e ha determinato la corretta assegnazione delle commissioni, dei dati di fatturazione e delle informazioni per la generazione dei report.
-Come regola generale, Awin conserva i dati di monitoraggio per 36 mesi dopo la raccolta.
-Quali sono le funzionalità del pixel?
-Awin utilizza i dati degli utenti finali per monitorare il percorso di un utente da un Publisher a un Advertiser. Tale monitoraggio consente ad Awin di stabilire che un utente ha visitato un servizio di un Publisher, ha trovato un prodotto e ha fatto clic sul collegamento per accedere al servizio dell'Advertiser al fine di esaminare o acquistare il prodotto.
-Awin potrebbe trasferire i dati raccolti fuori dalla UE
-Per maggiori informazioni puoi consultare: https://www.awin.com/it/informazioni-legali/privacy-policy
-Linkedin
-Il LinkedIn Insight Tag permette la raccolta dei dati relativi alle visite, tra cui l’URL, il riferimento, l’indirizzo IP, le caratteristiche del dispositivo e del browser (Agente utente), la data e l’ora. Gli indirizzi IP sono troncati o (se utilizzati per raggiungere i membri sui dispositivi) crittografati e gli identificatori diretti dei membri sono rimossi nell’arco di sette giorni in modo da rendere anonimi i dati. I dati rimanenti, pseudonimizzati, vengono eliminati entro 90 giorni.
-Quali sono le funzionalità del pixel?
-Le pagine dei siti del Gruppo GEDI integrano il LinkedIn Insight Tag utilizzato per monitorare l'efficacia delle campagne di marketing condotte su LinkedIn.
-LinkedIn non condivide i dati personali con noi; fornisce solo report e avvisi sull’audience del sito e sulle prestazioni dell’annuncio. LinkedIn permette inoltre di reindirizzare i visitatori del sito, dando la possibilità di mostrare annunci personalizzati attraverso tali dati, ma senza ottenere informazioni personali sui membri.
-Linkedin utilizza i dati che non identificano i membri anche per migliorare la pertinenza degli annunci e raggiungerli sui dispositivi. I membri di LinkedIn possono controllare l’uso dei propri dati personali per scopi pubblicitari tramite le impostazioni dell’account.
-Linkedin trasferisce i dati raccolti nei propri data center negli Stati Uniti come dettagliato qui https://www.linkedin.com/help/linkedin/answer/62533/eu-eea-and-swiss-data-transfers?lang=it
-Per maggiori informazioni può consultare anche: https://it.linkedin.com/legal/privacy-policy e https://www.linkedin.com/legal/cookie-policy
-AdKaora/Adform
-Adform può raccogliere informazioni tecniche come il tipo di browser utilizzato dall'utente, il sistema operativo, l’indirizzo IP, l’indirizzo geografico approssimativo (fino al CAP).
-Tutto ciò attraverso la raccolta di cookies o ID dispositivo, che verranno conservati per 60 giorni dopo l'ultima interazione.
-Qui l'elenco dei cookies che possono essere tracciati da Adform: https://site.adform.com/privacy-center/adform-cookies/
-Quali sono le funzionalità del pixel?
-Il pixel di Adform traccia il traffico in entrata sul sito, gli atterraggi sulle pagine di acquisto e il numero di utenti che completano un funnel di conversione. Permette di analizzare e fare report sulle prestazioni della pubblicità per migliorare l’esperienza pubblicitaria online e l’efficienza degli annunci.
-Adform potrebbe trasferire i dati raccolti fuori dalla UE
-Per maggiori informazioni può consultare: https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy/
-Criteo
-Il pixel Criteo raccoglie identificatori, informazioni tecniche relative al dispositivo che utilizzi, dati non precisi riguardo alla tua connessione Internet (indirizzo IP troncato), dati riguardo la tua connessione internet (eventi di navigazione, informazioni sulle tue interazioni con gli annunci. I dati sono conservati per un massimo di 13 mesi dalla data della raccolta. Per maggiori dettagli puoi consultare https://www.criteo.com/it/privacy/how-we-use-your-data/
-Quali sono le funzionalità del pixel?
-La tecnologia di Criteo consente di raccogliere una limitata quantità di dati relativi alla sua navigazione, come, ad esempio, i prodotti che ha visualizzato, messo nel carrello e acquistato. Questi dati di navigazione sono collegati a un identificatore unico, cioè un cookie di identificazione o un’altra tecnologia simile (quali identificatori di pubblicità mobile e tecnologia non cookie), a seconda del suo ambiente di navigazione e vengono utilizzati per fornirle annunci più adatti ai suoi interessi e per monitorare le prestazioni delle campagne pubblicitarie.
-I servizi di Criteo possono comprendere scambi transfrontalieri di dati con società controllate o partner residenti in Paesi al di fuori dell’Unione Europea. In tal caso, se questi Paesi non dispongono di una decisione di adeguatezza prevista dall’articolo 45 del GDPR, Criteo adotta una serie di misure per garantire che i suoi dati personali trasferiti in questi Paesi ricevano un’adeguata tutela, conformemente al GDPR.
-Per maggiori informazioni può consultare https://www.criteo.com/it/privacy/
-Amazon
-Le reti pubblicitarie tradizionali, raccolgono e utilizzano le informazioni quando l'utente visita uno o più siti che fanno parte di quella particolare rete. Si tratta di informazioni come il contenuto del sito che l'utente visita, le ricerche di parole chiave che effettua e gli annunci con cui potrebbe interagire.
-Quali sono le funzionalità del pixel?
-I pixel di remarketing, conversione, attribuzione e altri pixel di Amazon aiutano gli inserzionisti a raggiungere con maggiore precisione il pubblico desiderato e a misurare il successo delle campagne pubblicitarie. I pixel sono utilizzati per identificare l’utente al fine di mostrare annunci basati sugli interessi sui siti internet visitati, attribuire azioni e conversioni alle campagne e creare segmenti di remarketing e lookalike.
-Amazon potrebbe trasferire i dati raccolti fuori dalla UE
-Per maggiori informazioni può consultare: https://advertising.amazon.com/it-it/resources/ad-policy/eu-data-protection-and-privacy?ref_=a20m_us_spcs_gdpr
-Ulteriori partner del Titolare indicati all’interno della piattaforma di consent management (CMP)
-Attraverso i siti del Gruppo GEDI, qualora presti il relativo consenso, ulteriori nostri partner potranno trattare i suoi dati personali per erogarle pubblicità anche basate sugli interessi. Per le relative informative si rimanda ai link presenti accanto a ciascun vendor all'interno della piattaforma di consent management (CMP).
-Per i trattamenti di dati personali che, previo suo consenso, società terze non note a GEDI Digital S.r.l. potrebbero porre in essere attraverso i cookie, collegandosi a questo link ed avvalendosi del relativo servizio potrà personalizzare le sue scelte: http://www.youronlinechoices.com/it/le-tue-scelte
-Come disabilitare i cookie mediante configurazione del browser
-Se lo desidera può gestire direttamente i cookie anche attraverso le impostazioni del suo browser. Tuttavia, cancellando i cookies dal browser potrebbe rimuovere le preferenze che ha impostato per i siti del Gruppo GEDI, per questo sarebbe opportuno che visitasse periodicamente questa pagina per ricontrollare le sue preferenze.
-Per ulteriori informazioni e supporto è possibile anche visitare la pagina di aiuto specifica del web browser che si sta utilizzando:
-Internet Explorer
-Firefox
-Safari
-Chrome
-Opera
-Modifiche all'Informativa
-L'eventuale entrata in vigore di nuove normative di settore, come anche il costante esame ed aggiornamento dei servizi all'utente, potrebbe comportare la necessità di modificare le modalità e i termini descritti nella presente Informativa. È pertanto possibile che tale documento subisca modifiche nel tempo. La invitiamo, pertanto, a consultare periodicamente questa pagina.
-Pubblicheremo eventuali modifiche alla presente Informativa in questa pagina e, qualora le modifiche fossero rilevanti, provvederemo a segnalargliele con una notifica più visibile. Le versioni precedenti della presente Informativa saranno, in ogni caso, archiviate e disponibili per consentirne la consultazione attraverso i link che seguono.
-Informativa precedente al 02/08/2021
-Informativa precedente al 02/08/2021
-Informativa precedente al 02/08/2021
-Informativa precedente al 02/08/2021
-Copyright © 1999-2021 GEDI Digital S.r.l. Tutti i diritti riservati - P.I. 06979891006 - GEDI Gruppo Editoriale S.p.A.
-InformativaNoi e alcuni partner selezionati utilizziamo cookie o tecnologie simili come specificato nella cookie policy.Per quanto riguarda la pubblicità, noi e alcuni partner selezionati, potremmo
-utilizzare dati di geolocalizzazione precisi e fare una scansione attiva delle caratteristiche del dispositivo ai fini dell’identificazione, al fine di archiviare e/o accedere a informazioni su un dispositivo e trattare dati personali (es. dati di navigazione, indirizzi IP, dati di utilizzo o identificativi univoci) per le seguenti finalità: annunci e contenuti personalizzati, valutazione dell’annuncio e del contenuto, osservazioni del pubblico; sviluppare e perfezionare i prodotti.Puoi liberamente prestare, rifiutare o revocare il tuo consenso, in qualsiasi momento, accedendo al pannello delle preferenze pubblicitarie.Puoi acconsentire all’utilizzo di tali tecnologie chiudendo questa informativa.Scegli e personalizzaAccetta
+Privacy
+Codice Etico e Best Practices
+Divisione Stampa Nazionale -
+GEDI Gruppo Editoriale S.p.A. -
+P.Iva 00906801006 -
+ISSN 2499-0817

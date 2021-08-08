@@ -344,7 +344,7 @@ withdraw your consent; or
 we are not using your information in a lawful manner.
 As a result of deleting your personal information, you will lose access to most of our
 services.
-Grace period: There is a 45 day grace period
+Grace period: There is a 14-day grace period
 before we proceed with erasure. During this Grace Period you will be allowed to restore your
 account. The grace period functionality allows you not to lose any important information and
 options by mistake. After the expiration of the grace period however, your account will be

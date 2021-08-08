@@ -11,18 +11,18 @@ Orders & Payments
 Completed Orders
 Placing Orders
 Product info
+SD - Returns & Refunds
+Returns
+Refunds
 My Account
 Getting Started
 Technical Issues
 Personalisation
 Personalisation
-Site Policies
-Terms & Conditions
 Stores & Services
 Stores Information
-Returns & Refunds
-Returns
-Refunds
+Site Policies
+Terms & Conditions
 Contact Us
 Delivery & Collection
 Delivery Info
@@ -36,6 +36,11 @@ Placing Orders
 Placing Orders
 Product info
 Product info
+SD - Returns & Refunds
+Returns
+Returns
+Refunds
+Refunds
 My Account
 Getting Started
 Getting Started
@@ -44,6 +49,9 @@ Technical Issues
 Personalisation
 Personalisation
 Personalisation
+Stores & Services
+Stores Information
+Stores Information
 Site Policies
 Terms & Conditions
 Terms & Conditions
@@ -54,14 +62,6 @@ Yes
 No
 Send feedback
 Thanks for the feedback. We will improve this article.
-Stores & Services
-Stores Information
-Stores Information
-Returns & Refunds
-Returns
-Returns
-Refunds
-Refunds
 Contact Us
 Can't find what you're looking for?
 Enter your search term here...

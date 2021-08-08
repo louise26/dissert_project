@@ -309,10 +309,10 @@ This statement will change from time to time, for example because our website or
 We may change the content of this statement at any time without prior notice.
 This statement was last modified on 25-05-2018.
 Buy & Sell
-(33,923)
-(26,031)
-(24,134)
-(1,538)
+(33,495)
+(23,128)
+(24,251)
+(1,415)
 About Us
 Advertising Feedback
 Sitemap

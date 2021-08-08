@@ -9,7 +9,6 @@ Vehicle
 Car insurance
 Fully comprehensive
 Young driver insurance
-Student car insurance
 Over 50s car insurance
 Learner drivers
 Telematics insurance
@@ -25,9 +24,8 @@ Caravan insurance
 Motorhome insurance
 Family car insurance
 Temporary van insurance
+New driver insurance
 Motorbike insurance
-125cc bikes
-50cc bikes
 Classic bike insurance
 Moped & scooter insurance
 Breakdown cover
@@ -39,6 +37,9 @@ Need help?
 Motor help hub
 No claims discount explained
 Is my car insured?
+What insurance group is my car
+Car insurance excess
+Cheapest cars to insure
 Looking for something else?
 Compare travel insurance
 Compare taxi insurance
@@ -49,14 +50,16 @@ Home & pet
 Home insurance
 Buildings insurance
 Contents insurance
-Accidental damage
-New build insurance
+Gadget insurance
+Bicycle insurance
 Mortgages
 Boiler cover
 Buy to let mortgages
 Landlord insurance
-Unoccupied property insurance for landlords
+Holiday home insurance
 Appliance insurance
+Engagement ring insurance
+Home emergency cover
 Rental contents insurance
 Landlord rent protection
 Student home insurance
@@ -65,6 +68,7 @@ Pet insurance
 Dog insurance
 Cat insurance
 Lifetime pet insurance
+Pet insurance for pre existing conditions
 Need help?
 Bills Calculator
 Home help hub
@@ -82,20 +86,26 @@ Critical illness insurance
 Joint life insurance
 Over 50s life insurance
 Business life insurance
+Decreasing term life insurance
+Level term life insurance
 Health insurance
 Accident cover
 Whole of life insurance
+Funeral insurance
+Funeral costs
 Accident, sickness & unemployment insurance
 Income protection
 Mortgage protection
 Redundancy insurance
 Unemployment insurance
+Life insurance for mortgage
 Need help?
 Life help hub
 Life insurance calculator
 A guide to critical illness cover
-An introduction to term life insurance
+How much is inheritance tax
 Difference between life insurance & assurance
+Death in service
 Looking for something else?
 Home insurance
 Car insurance
@@ -107,7 +117,8 @@ Public liability insurance
 Professional indemnity insurance
 Employers’ liability insurance
 Business travel insurance
-Business life insurance
+Commercial insurance
+Self employed public liability insurance
 Van insurance
 Taxi insurance
 Shop Insurance
@@ -133,10 +144,12 @@ Travel insurance
 Single trip travel insurance
 Annual travel insurance
 Backpacker travel insurance
+UK holiday insurance
 Coronavirus and travel insurance
 Family travel insurance
 Pre-existing medical conditions travel insurance
 Over 65s travel insurance
+Over 80s travel insurance
 Cruise travel insurance
 Business travel insurance
 Winter sports
@@ -165,9 +178,12 @@ Broadband & home phone
 Broadband, TV & home phone
 Broadband & TV
 Broadband only
+Compare broadband providers
+Broadband area checker
 Mobile phones
 Phone contracts
 SIM only
+iPhone deals
 Need help?
 Bills Calculator
 A guide to fibre optic broadband
@@ -197,6 +213,8 @@ Bills Calculator
 Energy tariffs explained
 A guide to switching energy
 Smart ways to save energy
+Who is my electricity supplier
+Setting up gas and electricity for the first time
 Looking for something else?
 Compare Home insurance
 Compare Broadband deals
@@ -209,14 +227,13 @@ Remortgages
 First time buyer
 Mortgage calculator
 Remortgage calculator
-Buy to let
-Homeowner loans
+Buy to let mortgages
+95% mortgages
 Equity release
 Equity release calculator
-Mortgages hub
 Credit cards
 0% Balance transfer cards
-0% New purchase & balance transfers
+Credit builder cards
 0% New purchase
 Credit cards for bad credit
 Cashback cards
@@ -229,14 +246,23 @@ Loan calculator
 Debt consolidation loans
 Bad credit loans
 Car finance
+Homeowner loans
+Secured loans
+Home improvement loans
+Wedding loans
 Savings accounts
 Current accounts
 Cash ISAs
 Fixed rate ISAs
+Lifetime ISAs
+Stocks & shares ISAs
+ISAs
+Fixed rate bonds
 Need help?
 Your bills
-What are secured loans?
+Open banking
 Current account with bad credit
+Help to buy
 Looking for something else?
 Compare Life insurance
 Business insurance quotes
@@ -339,7 +365,6 @@ The cookie preferences you select will apply to your use of the comparethemarket
 Assured Futures - Over 50's life, health and income protection insurance
 Comparison Creator – Breakdown insurance
 Bionic – Business energy, Business Broadband and Landline
-Decision Technologies – Broadband, phone, TV and mobile
 Stickee – Broadband, phone, TV & mobile​
 Simply Business – Business insurance
 iWonder - Caravan, Motorhome and Taxi Insurance
@@ -355,7 +380,7 @@ Our websites use Adobe Analytics, which is a web analytics service provided by A
 For more information please see: https://www.adobe.com/uk/privacy/cookies.html
 SessionCam
 This website also uses SessionCam to help us to carry out research into the usage of our website.   SessionCam may record your interaction on this website, including recording mouse clicks, mouse movements, page scrolling and text entered into web forms. This data is used by us in order for us to constantly improve this website.
-Last updated: 15th July 2021
+Last updated: 22nd July 2021
 Legal
 Our terms & conditions
 Our privacy policy
