@@ -1,0 +1,104 @@
+How Does the DuckDuckGo App/Extension Protect My Privacy?
+Skip to main content
+close
+Privacy Essentials
+Private Search
+App and Extension
+Why Privacy
+Privacy Blog
+Privacy Crash Course
+Help Spread Privacy
+Who We Are
+About Us
+Privacy Policy
+Careers
+Press Kit
+Keep In Touch
+Twitter
+Reddit
+Help
+Home
+Device Privacy Tips
+Privacy Crash Course
+Privacy Research
+DuckDuckGo News
+Opinion
+About
+Home
+Tips
+Newsletter
+Research
+News
+How Does the DuckDuckGo App/Extension Protect My Privacy?
+Filed under DuckDuckGo Q&A
+For over a decade, at DuckDuckGo we’ve offered millions of people a private alternative to Google search, serving over 20 billion anonymous searches. In January of 2018, we took a major step to simplify online privacy further with the launch of fully revamped versions of our browser extension and mobile app, with built-in tracker blocking, smarter encryption, Privacy Grade website ratings, and, of course, private search – all in one.
+We call it Privacy Essentials because it includes, in one package, all the key components to curb the constant monitoring of your Internet activity by companies like Google and Facebook as you search and browse the web. It’s designed to work seamlessly, without compromising your web experience; in fact, by blocking all these trackers, it actually speeds it up!
+From major data breaches, echo chambers, and manipulation via targeted ads, there are unfortunately daily reminders that our information is not safe online. These reminders have rightfully made Internet privacy a mainstream concern. Privacy Essentials is a simple solution for you to take back your privacy online.
+On desktop, it is available as a browser extension for Firefox and Chrome. On mobile, it’s an app on iOS and Android. The browser extension is for desktop/laptop use and is an add-on to the major browsers. The mobile app is itself a browser with the privacy features built in along with the regular browser functionality you need (bookmarks, tabs, etc.), as well as a fire button that allows you to erase (burn) everything in one tap!
+Below, I’ll briefly walk through how each essential privacy component works.
+Expose and Block Tracker Networks Watching You
+The vast majority of websites across the Internet contain hidden tracker networks. Google trackers are lurking behind about 75% of pages, Facebook trackers on about 25%, and countless others are scattered throughout. These trackers soak up your personal information to follow you with ads around the web, study your browsing behavior, or worse. This means that for any site you visit, it is likely Google or Facebook is tracking you there. It’s downright creepy.
+But it gets worse. Companies like Google and Facebook collect all this information – all these personal data points – to build intimate profiles of you online. The information they collect can include where you live, who you live with, how old you are, your eating and shopping preferences, favorite travel spots, reading habits, music preferences, etc. Then, they use these profiles to sell hyper-targeted ads to the highest bidder, effectively auctioning off your personal information over and over again.
+We believe your data shouldn’t be for sale, in fact, DuckDuckGo has been profitable without storing or sharing any personal information since 2014.
+Privacy Essentials blocks the hidden third-party trackers we can find on websites you visit, including those from Google and Facebook. It also exposes the major tracking networks tracking you over time, so that you can track who's trying to track you.
+Increase Encryption Protection
+While historically not all sites offer an encrypted (HTTPS) version of their site, thankfully this has been rapidly changing. Encryption protects you from eavesdroppers, like ISPs or people lurking on public Wi-Fi, grabbing up your personal information as it travels across the Internet between you and the websites you visit.
+At DuckDuckGo, we’ve been evaluating each individual website starting with the most popular (there are millions of them!), to verify the sites that offer a solid encrypted version of their sites. If a site has an encrypted version, we will send it to you automatically. Sometimes sites will auto-upgrade you; in these cases, we usually save you from one trip in the clear (unencrypted). However, many sites will not auto-upgrade you; in these cases, we do it for you, making sure you are similarly always using the encrypted version.
+Privacy Grades
+For each site you visit, we calculate a Privacy Grade. This grade takes into account how many tracker networks were found on the site, the severity of these tracker networks, whether the site is a tracker network itself, and the presence of encryption on the requests that are being sent.
+We also calculate the grade after our Privacy Protection has been applied, and show you that grade in the toolbar so you know how protected you are at a glance. You can tap or click the icon to see the underlying site’s grade and all the tracker and encryption details.
+This feature also serves a second purpose. It’s a reminder that when it comes to online privacy, we need to hold websites to a higher standard. Hardly any website is taking the steps needed to truly safeguard privacy. As a result, hardly any website currently gets an "A" on privacy.
+Search Privately
+Of course, our app and extension also include DuckDuckGo private search! You share your most personal information with your search engine, like your financial, medical, and political questions. What you search for is your own business, which is why DuckDuckGo search doesn’t track you. Ever.
+As mentioned, we’ve been providing private search for over a decade, and it has everything you have grown to expect in a search engine (instant answers, maps, etc.) – just all done privately.
+Privacy, simplified.
+There are many privacy tools out there. We’ve recommended quite a few ourselves over the years. But every tool we’ve seen has had significant drawbacks, such as:
+Just a one-part or two-part solution, and not containing all necessary components.
+Not available across all major browsers and devices.
+Not really seamless, i.e. consistently breaks websites.
+Not comprehensive enough (i.e. not blocking enough trackers or upgrading enough encryption.)
+There have also been widespread misconceptions about privacy features, such as the belief that a browser’s private (“incognito”) mode or “Do Not Track” browser settings provide protection from online tracking. Sadly, that’s not the case, which leads to a false sense of anonymity online. Users need to take further measures to protect themselves.
+Privacy Essentials offers tracker blocking, smarter encryption, and private search in one seamless solution across all major platforms. And it keeps you informed throughout, communicating to you what’s being blocked through simple features like the Privacy Grade.
+We believe getting the privacy you deserve should be as simple as closing the blinds, which is why we built Privacy Essentials to be as easy and simple as possible. You can get it across all major platforms with just one download:
+Firefox
+Chrome
+iOS
+Android
+For more privacy advice,
+follow us on Twitter & get our privacy crash course.
+Gabriel Weinberg
+Read more posts by this author.
+Read More
+DuckDuckGo
+Privacy Newsletters
+Stay protected and informed with our privacy newsletters.
+Privacy Crash Course — Practical tips for keeping your personal info private. See example.
+Privacy Weekly — Latest news for all things related to privacy. See example.
+Your email address will not be shared or associated with anonymous searches.
+— Spread Privacy —
+DuckDuckGo Q&A
+Protect your privacy in 2020 in 5 simple steps
+Is there a simple privacy law that actually makes sense?
+What are the biggest tracker networks and what can I do about them?
+See all 11 posts →
+DuckDuckGo Q&A
+What are the biggest tracker networks and what can I do about them?
+When you visit a website, you are of course observable by the site itself, but you are also observable by third-party trackers that the site embeds in its code. You might be surprised
+Gabriel Weinberg
+4 min read
+DuckDuckGo Q&A
+Why Should I Use DuckDuckGo Instead of Google?
+If you ever get asked why you should use DuckDuckGo instead of Google, here's a definitive answer by our Founder & CEO, Gabriel Weinberg.
+Gabriel Weinberg
+9 min read
+Spread Privacy
+—
+How Does the DuckDuckGo App/Extension Protect My Privacy?
+Add DuckDuckGo
+Share this
+Spread Privacy © 2021
+Latest Posts
+Twitter
+Reddit
+Privacy Crash Course
+About DuckDuckGo

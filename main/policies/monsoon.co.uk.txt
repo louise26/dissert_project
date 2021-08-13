@@ -1,0 +1,347 @@
+Security & privacy | Monsoon UK.
+{
+"action": "Globale-ScriptLoaderData",
+"queryString": "",
+"locale": "en_GB",
+"clientJsUrl": "https://web.global-e.com/merchant/clientsdk/659",
+"apiVersion": "",
+"clientJsMerchantId": 659,
+"geCookieName": "GlobalE_Data",
+"clientSettings": {},
+"clientJsDomain": "https://web.global-e.com",
+"cookieDomain": "www.monsoon.co.uk",
+"globaleOperatedCountry": false,
+"performFrontendSiteUrlRedirect": true,
+"getSiteRedirectUrl": "https://www.monsoon.co.uk/on/demandware.store/Sites-monsoon-uk-Site/en_GB/Globale-GetSiteRedirectUrl",
+"geEnabled": false,
+"country": "GB",
+"countryName": "United Kingdom",
+"currency": "GBP",
+"culture": "en-GB",
+"loadedProviders": {
+"EmailValidation": {
+"id": "EmailValidationData8",
+"isAbstract": false,
+"settings": {
+"level": "Address",
+"relyOnIt": true,
+"communicationApproach": "JS",
+"messageForUnavailable": "Service is Unavailale",
+"messageForInvalid": "Oops, that doesn’t seem to be a valid email, please try again",
+"messageForInconclusive": "Result could not be determined",
+"messageForCatchAll": "The address being checked will be accepted, but may be returned later.",
+"messageForGreyListed": "Mail server declined to indicate whether the address was valid or not due to a greylisting rule"
+},
+"renderTemplate": null,
+"componentName": "provider/EmailValidationData8Component",
+"registryScope": null,
+"communicationApproach": "JS"
+}
+}
+}
+Please enable cookies in your web browser to improve your shopping experience
+Your browser’s Javascript functionality is turned off. Please turn it on so that you experience this sites full capabilities
+Final clearance - up to 70% off -
+while stocks last
+Shop women
+Shop children
+Shipping country
+United Kingdom
+£
+Change
+Skip to main content
+Womens
+Womens Clothing
+New In Womens Clothing
+Dresses
+Tops & T-shirts
+Trousers & Jeans
+Linen
+Jumpsuits & Playsuits
+Skirts
+Casual Wear
+Jackets & Coats
+Swimwear & Beachwear
+Jumpers & Cardigans
+S.E.W Sustainable Collection
+Denim
+Loungewear & Nightwear
+Shop All
+Dresses
+Casual & Day Dresses
+Midi & Maxi Dresses
+Occasion Dresses
+Boho Dresses
+Summer Party Dresses
+Shop All
+Shoes & Accessories
+New In Womens Accessories & Shoes
+Shoes & Sandals
+Accessories
+Handbags & Purses
+Face Coverings
+Shop All
+Summer styles made for always
+SHOP WOMEN
+Children
+Girls Clothing 3-12yrs
+New in Childrens Clothing
+Girls Dresses
+Girls Coats & Jackets
+Girls Party
+Girls Tops & T-shirts
+Girls Sets & Outfits
+Girls Skirts & Shorts
+Girls Trousers & Leggings
+Girls Jumpsuits & Playsuits
+Girls Knitwear
+Girls Beach & Swimwear
+Unicorn Clothing & Accessories
+Shop All
+Baby Girl 0-3yrs
+Baby Girl Dresses
+Baby Girl Coats & Jackets
+Baby Girl Sets & Outfits
+Baby Girl Rompers & Jumpsuits
+Baby Girl Beach & Swimwear
+Baby Girl Knitwear
+Shop All
+Newborn 0-18mths
+Newborn Clothing 0-18mths
+Back to School Clothing & Accessories
+Back to School Clothing
+Back to School Shoes & Accessories
+Boys Clothing 0-12yrs
+Boys Coats & Jackets
+Boys Tops & T-shirts
+Boys Trousers, Jeans & Shorts
+Boys Suits & Sets
+Boys Knitwear, Sweatshirts & Hoodies
+Boys Accessories
+Shop All
+Teen Girls
+Teen Girls Clothing & Shoes
+Childrens Accessories
+Childrens Hats
+Girls Hair Accessories
+Girls Tights & Socks
+Girls Bags & Purses
+Girls Jewellery
+Baby Accessories
+Shop All
+Childrens Shoes
+Girls Shoes
+Baby Shoes
+Boys Shoes
+Shop All
+Sparkles & smiles
+SHOP CHILDREN
+Wedding
+The Bride
+Wedding Dresses
+Wedding Accessories
+Wedding Shoes
+Shop All
+Wedding Party
+Bridesmaid Dresses & Accessories
+Flower Girl Dresses & Accessories
+Wedding Guest Dresses & Outfits
+Mother of the Bride
+Page Boy Suits & Outfits
+Shop All
+The wedding boutique
+SHOP BRIDE
+SHOP BRIDESMAIDS
+Holiday Shop
+Women's Holiday Collection
+Summer Dresses
+Summer Jumpsuits & Playsuits
+Summer Tops & T-Shirts
+Summer Vest Tops & Camis
+Summer Skirts
+Summer Shorts
+Summer Beach & Swimwear
+Summer Sandals
+Summer Accessories
+Shop All
+Children's Holiday Collection
+Girls Summer Beach & Swimwear
+Girls Summer Dresses
+Girls Summer Playsuits and Jumpsuits
+Girls Summer Tops & T-shirts
+Girls Summer Skirts & Shorts
+Baby Summer Beach & Swimwear
+Baby Summer Clothing
+Children's Summer Sandals & Flip Flops
+Children's Summer Accessories
+Shop All
+Holiday shop
+Shop women
+Shop children
+Home & Gifting
+Magazine
+Sale
+Womens Sale
+Casualwear Sale
+Dresses & Jumpsuits Sale
+Knitwear Sale
+Jackets & Coats Sale
+Tops Sale
+Skirts Sale
+Trousers, Jeans & Leggings Sale
+Occasionwear Sale
+Swimwear & Beach Sale
+Shoes & Accessories Sale
+Home Sale
+Last Chance to Buy Women's Sale
+Shop All
+Childrens Sale
+Childrens Casualwear 0-15 Years Sale
+Childrens Jackets & Coats Sale
+Childrens Partywear 0-15 Years Sale
+Childrens Dresses Sale
+Childrens Beach & Swimwear Sale
+Girls 3-15 Years Sale
+Baby Girl 0-3 Years Sale
+Boys 0-12 Years Sale
+Childrens Shoes & Accessories Sale
+Last Chance to Buy Children's Sale
+Shop All
+up to 70% off allsale styles
+Shop women
+Shop children
+Sign In / Register
+Rewards
+Wishlist
+0
+Items
+Help
+Delivery
+Returns & Refunds
+Contact Us
+FAQ
+Shipping country
+United Kingdom
+£
+Change
+Search
+Search...
+Clear
+Sign In
+My Account
+Sign In
+Don't you have an account?
+Register
+Rewards
+Wishlist
+0
+Items
+My bag
+0
+Shopping Bag
+Your shopping bag is empty
+It's in the bag
+Continue Shopping
+Checkout
+Show all categories
+Policies
+Terms & conditions
+Cookie policy
+Security & privacy
+Corporate responsibility
+Accessibility
+Security & privacy
+Data Controller
+Monsoon Brands Limited is the owner of this Website and responsible for any personal data (as that term is defined in the Data Protection Act 1998) you submit via the Website. We are notified with the UK Information Commissioner’s Office under registration number Z8135089, and are regulated by the ICO. If you have any complaints about our security or handling of your personal which we haven’t been able to resolve with you, you can contact the ICO at www.ico.org.uk.
+Keeping you secure
+When you shop with us we’ll ask you for certain information (such as your email address, name, address, and where you purchase a product, your payment details) to make sure that your order and delivery go smoothly. Any information you hand over reaches us fully encrypted through an SSL – a special security layer added to your account and checkout pages. You can see when you’re on a secure page, because the address in your browser will begin with https instead of http. And you can sleep easy, because your credit card details are processed in the UK.
+Secure Payments
+Verified by Visa & Mastercard securecode
+You can register with Visa and Mastercard Securecode through your card issuing bank. It will bring up an extra security window after you check out that requires you to input digits from a pass code that you’ll have set with your bank.
+Paypal
+When you choose to pay with Paypal, your financial information isn’t even shared with us.
+Keeping your password safe
+Remember to keep your account password safe! We can help you to reset it now and then, but you’ll need to make sure that it stays with you and only you. Giving it out can represent a security risk and Monsoon Accessorize will not be liable for any loss or damage that might arise from this.
+How we use your information
+When you input your information into the website, we store it securely and might use it for:
+Helping to process your orders
+Providing admin support for your account
+Helping with your enquiries
+Crime and fraud prevention (when we might also share it with the police or other authorities if required by law)
+Marketing (subject to your account preferences, which you can change in My Account)
+Administering promotions or competitions (when we might also need to share the information with third parties in order to deliver you your prize!)
+Analysis of our customer base and profiling in order to decide which products or services you might prefer and so these are tailored to you
+Except as listed above, or to our other group companies who are involved in processing orders/administrative support, we don’t share your information with any third parties except our suppliers or processors who we’ve checked out first and who we appoint to work with us to provide services to you. These suppliers include the teams delivering products to you and our marketing agencies.
+We only keep your information as long as we need to, for the purposes listed above. When we don’t need it any more we delete it securely. Please note if you ask us to stop processing your information for marketing purposes, we may need to actually retain some of it to ensure your details are kept on our marketing suppression lists.
+If you’d like to know what information we hold about you or have any queries about the security or our processing of your information, please contact Customer Services
+Cookies & how to manage your preferences
+Most websites use cookies, and we do too, to keep offering you the best service. A cookie is way of transferring little bits of information from our website back to us, which means, for example, that we can see which pages or products are our most popular and then create a better experience for you in future.
+There are a few different kinds of cookies and they each do slightly different things.
+Website functionality cookies
+These simply enable you to browse our website and use all our functions, like your Shopping Bag or Account pages.
+Website analysis cookies
+These help us to understand how our customers are using our website, and we use this information to constantly improve the way we do things.
+Customer preference cookies
+These help us to make sure your online experience is simple, easy and relevant to you.
+Targeting cookies
+We sometimes run online advertising campaigns, and, if we think you’ll be interested in what we have to say, targeting cookies will help us to deliver that message to you. More importantly, they limit the amount of times you see any of our ads.
+To find out more about cookies and how you can manage your cookie preferences please visit DAA
+Having Issues?
+Accessing secure pages
+It may be that there’s a firewall blocking your access to secure pages. Some businesses or networks use firewalls to moderate the content employees or users can see. Try contacting your IT team to request access.
+Finding your card's security code
+On most credit and debit cards, this code is found on the reverse of your card. Take the last three digits of the number on your signature strip – that should be it. On American Express cards, look for a four-digit number on the front.
+Verified by Visa & Mastercard securecode
+If you’re having issues with your password for this, you’ll need to contact your card-issuing bank. We don’t have access to any of your account information for Visa and Mastercard Securecode.
+Cookies
+To find out more about cookies and how you can manage your cookie preferences please visit DAA
+Download Full Copy
+Stay in touch with us
+Get new arrivals, styling inspiration and exclusive offers straight to your inbox
+We are sorry we were not able to subscribe you at this moment, please try again later.
+Sign me up for the Monsoon emails, featuring exclusive offers, latest product info, news about upcoming events and more.
+Please see our Privacy Policy for more details
+Sign up
+Thank you for your subscription!
+Please check your email for confirmation.
+Delivery & returns
+Check Order
+Delivery & collection
+International delivery
+Returns & refunds
+Need help?
+Help & FAQs
+Contact us
+Stores & opening hours
+Size guide
+Denim fit guide
+Services
+Reward members club
+Clothes for life
+Monsoon flowers
+Site map
+Gift Cards
+About us
+Our brand
+Charity
+Sustainability
+Artisan
+Careers
+Policies
+Terms & conditions
+Cookie policy
+Security & privacy
+Corporate responsibility
+Accessibility
+Store Locator
+Shipping country
+United Kingdom
+£
+Change
+© 2020 MONSOON BRANDS LTD All rights reserved
+Facebook
+Twitter
+Instagram
+Pinterest
+Youtube
+Back to top

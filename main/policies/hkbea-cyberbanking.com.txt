@@ -1,0 +1,92 @@
+Cyberbanking - Internet
+Skip to Content
+繁
+简
+Log in
+Log in using QR Code
+Next
+Please scan the QR Code below using the BEA App on your i-Token-activated device.
+Please ensure your device's network connection is maintained. If your device cannot access a network, please click here to obtain a Security Code.
+Refresh(100s)
+Account No.
+Change
+Select a login method
+Dual authentication
+Cyberbanking PIN login
+Account No.
+Login details incorrect. Please try again. (MA100051)
+Login
+Change:
+Account No./Username
+|
+Login method
+Account No.
+Login
+Change:
+Account No./Username
+|
+Login method
+This website uses cookies to improve your browsing experience. You give consent for cookies to be used if you continue to browse this website. To learn more about how our website uses cookies, please read our
+Privacy Policy Statement
+.
+Accept
+More Info
+Important information
+|
+Terms and Conditions
+|
+Disclaimer
+|
+Privacy Statement
+|
+Security Tips
+|
+FAQ
+Copyright © 2021 The Bank of East Asia, Limited. All rights reserved.
+You can log in to Cyberbanking using your account number or a preset username.
+Account Number
+Single Current / Statement Savings Account
+Second set of numbers on your Cyberbanking card
+All-in-one Account
+Second set of numbers on your ATM card
+Credit Card / Revolving Loan (only)
+All 16 digits on your credit card
+MPF / ORSO (only)
+The Cyberbanking (MPF / ORSO) account number in the welcome letter (e.g. 015XXXXXXXXXXX)
+Username
+Your username created after login in “Settings > Username”. If you have no username, please use your account number.
+Customers logging in for the first time:
+- Credit Card/revolving loan account users
+- Please enter your 6-digit phone PIN (set by yourself when you activated the Credit Card)
+- Other customers
+- Please enter your 6-digit initial PIN
+Existing Cyberbanking customers:
+- Please enter your 8-12 alphanumeric character PIN
+Important information
+For the latest system maintenance schedule, please click here.
+Customer Alert - Beware of Bogus SMS Messages and Voice Message Calls. For more information, please Click here or call (852) 2211 1333.
+Security Tips - Be a smart Internet user and prevent your online banking account being hacked! Click here for more information.
+To further strengthen security, please upgrade to TLS 1.2 protocol.
+Important Notice:
+Please take precautions against threats from hackers, viruses, spyware, and any other malicious software particularly keystroke logging programmes.
+Do not click on any URLs or hyperlinks embedded in email to access the Bank’s website or to log in to Cyberbanking.
+The Bank of East Asia will never ask you for your PIN by email or phone.
+Please click here to view more security tips.
+Bank account users:
+- Please reset your PIN through the BEA App, click this demo guide to learn more. For enquiry, please call our Customer Service Hotline on (852) 2211 1321 during service hours.
+Credit Card account users:
+- Please call our Credit Card Customer Services Hotline on (852) 3608 6628 for an instant reset.
+Revolving loan account users:
+- Please call our Customer Services Hotline on (852) 2211 1211 for an instant reset.
+Cyberbanking (MPF/ORSO) account users:
+- Please call BEA (MPF) Hotline on (852) 2211 1777 (Operated by Bank of East Asia (Trustees) Limited) for reset during service hours.
+Sorry, the function of the right mouse button is disabled.(IB200000)
+ok
+Login authentication failed. Please try again.
+close(100s)
+Welcome back,
+1
+A push notification has been sent to your mobile phone.
+2
+Press 'Allow' to log in
+Please make sure you have enabled the notification function for the BEA App. If you have not already enabled this function, please do so now and log in again.

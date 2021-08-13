@@ -1,0 +1,217 @@
+Privacy policy - Adyen
+If we place cookies, we are able to offer you an optimally functioning website, more personalized content and advertisements and social media functionalities, as you can read on our Cookie Policy.
+I agreeRejectChange settings
+Our solution
+Our solution
+A single payments platform to accept payments anywhere, on any device.
+Products
+Online payments
+Everything you need to receive payments online
+Point of sale
+In-store payments and terminals
+Platforms
+Flexible payment solution for platforms
+Unified Commerce
+Create the best customer experiences on any channel
+Issuing
+Create physical and virtual cards
+Features
+Global acquiring
+Local payment connections around the world
+Payment methods
+Offer key payment methods anywhere in the world
+Risk management
+Protect your business using data
+Revenue optimization
+Optimize payments for more revenue
+Customer insights
+Data-rich insights from all channels and locations
+Authentication
+Making authentication easy for everyone
+How we work
+Getting started
+Steps to get started with the Adyen payments platform
+Customer success
+What it's like to work with our team and technology
+Become a partner
+Grow your client's business with Adyen
+Plugins with Adyen
+Accept payments through your ecommerce platform
+Pricing
+Transparent pricing for all businesses
+Customers
+About us
+About us
+We built a payments platform from the ground up to help fast-growing businesses.
+Explore
+Our story
+Discover who we are
+Press and media
+News, company info and resources
+Investor Relations
+News and resources
+Careers
+Join our team
+Contact us
+We're here to help
+Social responsibility
+Our approach to social responsibility
+Resources
+Knowledge Hub
+Free resources and training
+Blog
+Payments blog for news and insights
+Newsletter
+Get payments news delivered to your inbox
+Documentation
+Documentation
+Discover our API and support documentation.
+Get started
+Documentation
+Start building an integration into Adyen
+Online payments
+Accept payments on the web, ios, or android
+Point of sale
+Accept in-store payments for cards, wechat and more
+Platforms
+Handle onboarding, payments, and payouts for your customers
+Developer tools
+API Explorer
+Use the explorer to send test requests and learn about the API
+Server-side libraries
+Use our libraries for all the major languages
+Support
+Get support
+Search our knowledge base, or open a ticket
+Education
+Get the most out of the Adyen platform
+Log in
+Contact us
+PRIVACY STATEMENT
+Please read this privacy statement if you would like to know more about the way Adyen and its group companies around the world (hereinafter referred to as “Adyen” or “we”) collect and further process your personal data.
+It is important to us that your personal data is treated with care and that you are well informed about the way we process your personal data. We have written this privacy statement to tell you which data we process, how, why and how long we do this for and to inform you about your rights.
+When you visit the Adyen website hosted by Adyen, correspond with us, are (or are in the process of becoming) one of our merchants or partners and where we process your transaction as an acquirer, we process personal data about you as a data controller.
+Version as of January 2021.
+Who is Adyen?
+Adyen is a payment service provider operating under a banking license. Which means that Adyen handles payments for merchants and platforms via credit card, bank transfer, and other payment methods. Please note that Adyen N.V. is supervised by the Dutch Central Bank as a regulated bank under Dutch law.
+When, why and how do we process your data?
+When you visit and use our website
+When you browse our website, we process your IP address, Google Analytics ID, internet browser and device type, location data and your use of our website and the app, including which pages you visited, how you got to our website, the time and length of your visit and your language preferences.  We use this data for our legitimate interests of making sure our website works properly, including debugging, to be able to deliver you content and for DDOS mitigation on our website, and improving our website and to perform statistical analyses for optimizing our website. We also use this information to provide you with personal offers tailored to your needs and tailoring what we show you to your preferences, with your prior consent. We collect this data using cookies and similar techniques, including tags/beacons and javascripts. More information about these techniques can be found in our Cookies Policy. When we collect information about how you use our website, such as which landing pages you visit and which items you look at, we do so in order to make a determination about how we could best provide our services to you. For example, if you read about our products and services on our website, we might classify you as a user or a website visitor who is interested in our products and services and therefore as a potential merchant. Based on the audience we expect you belong to, we may act, for example by contacting you with offers about our products and services, if we have your consent for this. In order to make the most accurate assessment about which audience you likely belong to, and as you can also read in our Cookies Policy, we also use tracking cookies. These cookies track information about how you use our website and which other websites you visit, for example to show you advertisements if we suspect that you might be interested in our products and services. We only place these tracking/targeting cookies with your prior consent. For more information about these tracking cookies, please view our Cookies Policy. How long do we keep this data? We will always only keep your data for as long as we reasonably need it for the purposes listed above. For example, data about your visits to our website will be retained until your use or browsing session ends, except where it concerns data collected for the analytical and marketing purposes specified above. In those cases, we will keep your information for 1 year after collection.
+When you are an Adyen customer (merchants or sub-merchant (seller account) through the use of a platform)
+If you sign up to become one of our customers by entering into an agreement with Adyen, we collect information we need to establish and perform a contract with you, including your contact information, address, ID documentation, tax information and payment details. We use this information to set up our products and services for you, including to provide you with support, onboarding, integration to our platform, helping you with settings in the Adyen Customer Area, POS terminal field services, installation of POS terminals in stores and to pick up old/damaged POS terminals, and other actions which need to be taken to establish or perform our contract with you. In addition, we use your information for our legitimate interest of managing our internal administration and for complying with our legal obligations, such as KYC and taxation obligations. We also collect data about your use of our products and services and your customer area account, including your login details, and the questions, queries, comments and complaints you send us in relation to our business relationship. We process this data to be able to perform our contract with you by following up with you and providing you with support and for our legitimate interest of being able to optimize and improve our products and services. We can also use your (company) e-mail address for: keeping you up-to-date with our products and services; making you offers tailored to your needs (meaning similar products and services you have already purchased from us); or inviting you to events. We have an obligation to act in compliance with national and international laws, regulations and sanctions and to prevent fraud, money laundering and financing terrorism. As we are active in the financial sector, we are not allowed to accept just any customer without checking them and we have to determine and report when suspicious transactions take place. Therefore, if you are applying to become one of our customers and during the performance of our agreement, we will need to collect up to date information and documents to:
+Verify your identity; Identify the ultimate beneficial owners of your business; Identify the purpose and intended nature of your future business relationship with us; Monitor your behavior and transactions using automated systems which detect risks and verify the origins of your capital/assets;  Check whether a natural person representing you is competent to do so (and verify the identity of this person); and Check whether you act on behalf of yourself or on behalf of a third party.
+To carry out the above checks, we process the information (including personal data) that you have provided to us and other information created by your use of the Adyen services. Which may include your name, your contact information, a copy of your identification document, the address of your legal representative and shareholders, your bank account number, information contained in correspondence between us, bank statements, your signature and an extract of your company registration document. We may use third party identification and verification services in order to assist us to verify your identity and the documents provided to Adyen. We use this data to ensure the safety and integrity of the financial sector by aiming to identify, prevent and counter illegal conduct and to comply with our legal know-your-customer and anti-money laundering obligations, for example under the Dutch Financial Supervision Act (Wft) and the Dutch Money Laundering and Terrorist Financing Prevention Act (Wwft).  Adyen may use automated decision-making, including profiling, when we enter into, or for the performance of, a contract with you, where allowed by applicable laws or if based on your consent. If this decision would produce legal effects or otherwise similarly significantly affect you, you have the right to obtain human intervention, express your point of view or to contest the decision based solely on automated processing, including profiling. Adyen processes your personal information for the following purposes:
+To provide you with the services pursuant to any agreement between Adyen and yourself; To improve our products and services;  To comply with applicable laws and regulations; To conduct analysis for statistical, strategic and scientific purposes; To protect our platform, systems and services from misuse, fraud, financial crimes or other unauthorised or illegal activity including the prevention, investigation and detection of (payment) fraud on the basis of legitimate interest; and For reporting and training purposes.
+How long do we keep this data? If you are or becoming one of our customers, we will keep information relating to our business relationship until 7 years after the end of your contract with us or until our rejection of your application. Data we have collected in relation to our legal obligation to verify our customers will be kept by us for as long as we are legally obligated to, which is generally 5 years after end of relationship. We may also share some of your information with competent authorities and/or regulators in case this is required to comply with our obligations as a financial institution, for example for the purpose of preventing money laundering and terrorist financing.
+When you have an Adyen issued card
+If you sign up for our Issuing services, we may provide you with a debit card and an associated e-money account (“Card Services”) in connection with a Card Services agreement (EU only). Currently Adyen offers Card Services to its customers, please have a look at “When you are one of our customers (merchants or sub-merchant (seller account) through the use of a Platform)”.  We might process your personal data such as name and address to provide you with the Card. We may use card printing providers to assist us with providing you these services.
+When Adyen has processed your transaction
+Adyen is a payment service provider and as such Adyen provides acquiring services to its customers. Being an acquirer means that Adyen accepts payment on behalf of the relevant merchant and then transfers the funds paid by the shopper (“you”) to the merchant. Adyen’s role is to request the relevant payment scheme, such as Mastercard, Visa or iDeal, to authorize the transaction and send this to the shopper’s bank for approval. If this bank gives approval, Adyen is notified of this by the relevant payment scheme and makes the payment to the merchant’s bank.  When we provide such acquiring service to our customer, we process your personal data as a data controller. It is important to us that your personal data is treated with care and that you are well informed about the way we process your personal data.  We process the data we need for our legitimate interest of providing so-called acquiring services to our merchants which are typically web shops and brick-and-mortar stores selling you goods and services. This means that we receive your payment on behalf of the merchant and handle related matters around these financial transactions. In addition, we process your data to comply with our legal obligations as a financial institution, such as to monitor financial transactions for the purpose of preventing money laundering and terrorist financing. For these purposes we may collect your card number (which we encrypt in accordance with PCI DSS standards), the expiry date (month and year) of your credit card, your bank account details (typically excluding your name), including IBAN and SWIFT/BIC, the amount of the transaction and the currency in which the transaction is done, the date, time and location of the transaction and the category and ID of the merchant with whom you are shopping.  If necessary, we can also process any of your information above for our legitimate interest of protecting our legal rights, for example in connection with legal claims, and when we have a legal obligation to process your information.  In addition, Adyen processes your personal information for the following purposes:
+To provide the service pursuant to the agreements with our customers and the specific payment schemes; To comply with applicable laws and regulations; To conduct analysis for statistical, strategic and scientific purposes; and To protect our platform, systems and services from misuse, fraud, financial crimes or other unauthorised or illegal activity.
+How long do we keep this data? We only keep your data for as long as we reasonably need it for the purposes listed above. We keep the data we collect in order to perform the transaction in accordance with applicable laws, for most jurisdictions this is a period of 7 years after conclusion of the relevant transaction, to meet our fiscal, corporate and other statutory obligations. The retention terms above can be longer if we are required to keep data longer because of applicable law or to administer our business. If we need to keep any information longer for our legitimate interest of protecting our legal rights, we will keep the necessary information for this purpose until the relevant claim(s) has/have been settled. With whom do we share this information? We need the help of third parties to be able to offer you our acquiring services, for example payment schemes such as Mastercard, iDeal and VISA. It will depend on your location, payment method and issuing bank which of these payment schemes is used. Additionally, we share your information with the merchant with whom you are shopping. We may also share some of your information with competent authorities and/or regulators in case this is required to comply with our obligations as a financial institution, for example for the purpose of preventing money laundering and terrorist financing. Otherwise we will not share your information with any third party, unless we have your permission, where this is necessary in connection with the purposes above or with legal claims or when we have a legal obligation to do so.
+How we process data for our newsletter and marketing purposes
+You can sign up for our newsletter or receive invitations to events using your name and e-mail address via the sign-up form on our website. When you fill out this form, you indicate your consent to receive our newsletter and invitations. You can at any time unsubscribe from receiving these e-mails by following the instructions provided in the newsletters. If you are one of our merchants, we may contact you in relation to relevant products or services, for our legitimate interest of developing our business. We can do this via e-mail or, we connect to you on LinkedIn and/or to send you messages on LinkedIn. If you are not yet one of our merchants, we will only contact you, for example via e-mail or LinkedIn, with offers or about our products or services. When we contact you in this context via e-mail, you always have an opportunity to opt out at any moment by following the instructions in the e-mail or by contacting us using the contact details below under ("Contacting us"). You can also download content, for example white papers and research reports, from our website using the forms designed for this purpose. We collect the data you fill out on the form, including your name, company, country and e-mail address. We process the data you fill out on this form for our legitimate interest of keeping track of who downloads our content. How long do we keep this data? We store the information that we process as a result of you describing to our newsletters or because you have consented to receive information about our products and services or about offers until you decide you would no longer like to receive these mailings.
+When you contact us or request us to contact you
+Via our website, you can contact us or ask us to contact you regarding questions, queries, (support) requests, comments or complaints, fill out an application to become a merchant or a partner or sign up for a test account. When you do this, we collect the information that you fill out, including your name, company, contact details, the reason you are contacting us, verification that you are not a robot and other information you decide to provide us. You can also contact us by calling us or e-mailing us using for example the contact details listed on our website. If you do so, we will collect your name, company and any other information we need to be of further assistance to you and/or communicate with you. We use this data above to answer your question, comment or complaint and respond to your queries and (support) requests and to assess your application to become a merchant or partner. As such, this data is used by us to establish or perform our (future) contract with you and for our legitimate interests in following up with you. We also use the data above for our legitimate interest of conducting business with you and managing our internal administration, for training purposes, for establishing and performing our contract with you, for our legitimate interest of conducting marketing research so we can improve our products and services and to be able to offer our (future) merchants tailored products and services. How long do we keep this data? Data about any questions, comments or (supports) requests you have made to us, we will only keep your data for as long as we reasonably need it for the purposes listed above which will be at least two years.
+Other purposes
+If necessary, we can also process any of your information above for our legitimate interest of protecting our legal rights, for example in connection with legal claims, and when we have a legal obligation to process your information. We may also transfer your data in the event of a company reorganization, merger, or sale.
+How long do we keep your information?
+We will always only keep your data for as long as we reasonably need it for the purposes listed above.
+The retention terms above can be longer if we are required to keep data longer on the basis of applicable law or to administer our business. If we need to keep any information longer for our legitimate interest of protecting our legal rights, we will keep the necessary information for this purpose until the relevant claim(s) has/have been settled.
+Social media buttons
+We use plugins on our website from social media networks such as Facebook, LinkedIn and Twitter. You can recognize these plugins by their logos. We also use plugins for the embedded video players which can be found on our website. Our plugins will not collect personal data about you, unless you click on these logos or videos. If you click on them, these plugins are activated and automatically transmit data to the plugin provider.
+We do not have any influence over which data these providers collect from you and we are also not aware of the extent of their data processing. If you would like more information about their data processing, this can be found in the respective privacy policies on the websites of these providers.
+Cookies
+We use cookies and similar techniques, such as tags/beacons and javascripts, which are small text files stored on your device. Using cookies is a way for us to make sure that our website is continuously improved, meets your needs and can be used as a tool to optimize our marketing strategy. In order for us to do this, we place functional cookies to make the website function as well as marketing cookies which help us target the right people and show them advertisements. Some of these cookies track your use of our website and visits to other websites and allow us to show you advertisements when you browse other websites.
+Please view our Cookies Policy for more information on our use of cookies.
+With whom do we share this information?
+We need the help of third parties to be able to offer you our website and our products and services. Where necessary we will share your information with our service providers and professional advisers (e.g. IT providers, KYC partners, CRM providers, marketing support providers (such as agencies which manage our social media accounts), social media providers such as LinkedIn, analysts, customer service providers, business development providers and legal service providers). We have concluded agreements with our service providers to protect your personal data.
+If our business is sold or integrated with another business, your details will be disclosed to our advisers and any prospective purchaser’s adviser and will be passed to the new owners of the business.
+Otherwise we will not share your information with any third party, unless we have your permission (for example if we wish to share your details with another group company for their recruitment purposes), where this is necessary in connection with the purposes above or with legal claims or when we have a legal obligation to do so.
+How do we protect your data?
+We are committed securing your personal data and have taken steps in this regard. In order to prevent unauthorized people or parties from being able to access your data, we have put in place a range of technical and organizational measures to safeguard and secure the information we process from you.
+Where do we transfer this information?
+Some of the information you send us may be shared with other Adyen group companies outside of the European Economic Area ("EEA"), when this is necessary for the purposes mentioned above. These countries include the countries in which we have operations (you can find a list here). It also includes the countries in which some of our service providers are located, such as the United States.
+To protect your data when these are transferred to countries outside of the EEA, we have implemented appropriate safeguards. When we transfer data to our Adyen group companies, these transfers are protected by an intragroup agreement containing Standard Contractual Clauses (read more here). For United States services providers and other service providers located outside of the EEA, we rely on Standard Contractual Clauses. If you want to receive more information about these safeguards, you can contact us using the details below under (“Contacting us”).
+Your Rights
+You are entitled to object to us processing your personal data, including profiling. You may also ask us for an overview of your information or ask for a copy. You may also request us to correct or delete certain data, restrict processing of your data, or ask us to transfer some of this information to other organisations. In some cases you may object to the processing of your data and, where we have asked for your consent to process personal data, you can withdraw this consent at any time. Where we process your data for our legitimate interests, you can contact us if you want more information about these.
+There are some exceptions to these rights, however. For example, it will not be possible for us to delete your data if we are required by law to keep it or if we hold it in connection with a contract with you. Similarly, access to your data may be refused if making the information available would reveal personal information about another person or if we are legally prevented from disclosing such information.
+If you wish to exercise any of these rights, please contact us using the details below.
+Contacting us, questions and complaints
+Questions, comments, requests or complaints concerning this privacy notice and the way we process your personal data are welcomed and can be addressed to our DPO at dpo@adyen.com or Simon Carmiggeltstraat 5-60, 1011 DJ Amsterdam, the Netherlands.
+If you have a complaint about the way we handle your personal data, you also have the right to address this with the data protection authority of the country in which you live or work or the country in which we are located.
+California residents
+If you live in California, please note that Adyen does not disclose your personal information for others’ direct marketing purposes and we do not sell your personal information. If we did, Adyen would provide you with the right to opt out of such sales. Above (and in our Cookie policy) we have disclosed the categories and specific pieces of personal information collected about you, we have also detailed the categories of sources from which that information is collected, the business purposes for collecting or selling the information, and the categories of third parties with which the information is shared.  Please contact dpo@adyen.com in order to request the information set out above or to request that we delete the personal information we have collected from you; these actions will be subject to limitations under the Californian Consumer Privacy Act.
+Brazil residents
+The Lei Geral de Proteção de Dados  Pessoais (“LGPD”) applies to the processing of personal data of users located in Brazil, Adyen will process personal data of Brazilian users in accordance with the GDPR and the LGPD. Above (and in our Cookie policy) we have disclosed the categories and specific pieces of personal data collected about you, we have also detailed the categories of sources from which that data is collected, the business purposes for collecting the information, and the categories of third parties with which the information is shared.  Please contact lgpd@adyen.com in order to request the information set out above or to request that we delete the personal information we have collected from you; these actions will be subject to limitations under the LGPD.
+Version as of January 2021.
+For the version before January 2021, see the archived page here.
+Adyen
+About
+Careers
+Blog
+Press & Media
+Contact
+Investor Relations
+Our solution
+Partners
+Pricing
+Reporting
+Knowledge Hub
+Support
+Documentation
+Info for shoppers
+Tech blog
+Platform
+Infrastructure
+Certifications
+Licenses
+Terms & Conditions
+Legal
+Subscribe to our newsletter
+I confirm that I have read Adyen’s Privacy Policy and I agree to the use of my data in line therewith.
+Language:
+English
+Český
+Dansk
+Deutsch
+Español (ES)
+Español (MX)
+Français
+Italiano
+Nederlands
+日本語
+Norsk
+Polski
+Português (BR)
+Svenska
+Privacy -
+Cookies -
+Disclaimer -
+©2021 Adyen
+Privacy -
+Cookies -
+Disclaimer -
+©2021 Adyen
+Language:
+English
+Český
+Dansk
+Deutsch
+Español (ES)
+Español (MX)
+Français
+Italiano
+Nederlands
+日本語
+Norsk
+Polski
+Português (BR)
+Svenska
+Are you looking for test card numbers?
+Would you like to contact support?
+Website
+Blog
+Documentation
+Support
+API Explorer

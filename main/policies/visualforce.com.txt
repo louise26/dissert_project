@@ -1,0 +1,335 @@
+Privacy - Salesforce UK
+Skip to content
+Contact Us
+Toggle navigation
+Home
+Products
+By Need
+Customer 360
+Sales
+Service
+Marketing
+Commerce
+Analytics
+Integration
+Slack
+Platform
+Work.com
+Learning
+Employees
+Partner Ecosystem
+See all products >
+By Industry
+Financial Services
+Healthcare & Life Sciences
+Public Sector
+Communications
+Manufacturing
+Consumer Goods
+See all industries >
+Small Business
+Small Business
+Support & Services
+Customer Success
+Pricing
+See product pricing >
+Resources
+Resource Centre
+Blog
+Guides
+Research & Reports
+Videos
+Go to Resource Centre >
+Learning
+Trailhead and Learning
+Expert-led Learning
+Salesforce Certification
+Career Paths
+Go to Free Online Learning
+Events
+Dreamforce
+Salesforce Live
+Webinars
+Customer Success events
+See all events >
+Hubs by Role
+for Developers
+for Admins
+Support
+Support
+Help
+Questions & Answers
+Technical Documentation
+Success Plans
+Communities
+Trailblazer Community
+Partner Community
+IdeaExchange
+Services
+Professional Services
+Adoption Services
+See all services >
+Company
+About Salesforce
+Our Story
+What is Salesforce?
+Leadership
+Global Offices
+Salesforce Ventures
+Our Values
+Trust
+Customer Success
+Innovation
+Equality
+Our Impact
+Stakeholder Capitalism
+Environmental Sustainability
+Ethical and Humane Use
+Racial Equality and Justice
+Philanthropy
+Public Policy
+Workforce Development
+Careers & Culture
+Careers
+University Recruiting
+News
+Newsroom
+Analyst Reports
+Year in Review
+Investor Relations
+Investor Relations
+More Salesforce Brands
+Tableau
+MuleSoft
+Heroku
+Salesforce.org
+COVID-19
+Products
+Vaccine Cloud
+Work.com
+Salesforce Anywhere
+Workplace Command Center
+Emergency Response Management
+Contact Tracing
+External Data Integration
+Data Hubs and Trackers
+Leading Through Change with Data
+COVID-19 Data Hub
+COVID-19 Global Daily Tracker
+Global Economy Data Track
+Government Data Track
+Healthcare Data Track
+Resources
+Reopen Your Business Safely
+B-Well Together
+Leading Through Change
+Leading Through Change Blog
+Trailhead Resources
+AppExchange Resources
+MuleSoft Resources
+Contact Us
+Contact Us
+Login
+Salesforce CRM
+Marketing Cloud
+Social Studio
+Trailhead
+CALL US
+0800 0921223 (Freephone)
+Contact Us
+Europe, Middle East, and Africa
+España (Español)
+Deutschland (Deutsch)
+France (Français)
+Italia (Italiano)
+Nederland (Nederlands)
+Sverige (Svenska)
+United Kingdom (English)
+All other countries (English)
+Americas
+United States (English)
+América Latina (Español)
+Brasil (Português)
+Canada (English)
+Canada (Français)
+Asia Pacific
+Australia (English)
+India (English)
+日本 (日本語)
+한국 (한국어)
+中国 (简体中文)
+台灣 (繁體中文)
+All other countries (English)
+Login
+Login
+Other Logins
+Marketing Cloud, Trailhead...
+Marketing Cloud
+Social Studio
+Trailhead
+Try For Free
+About Us
+Our Story
+What is Salesforce?
+Salesforce Blog
+Careers
+Recognition
+Leadership
+Press
+Global Offices
+Privacy
+Salesforce Privacy Statement
+Vulnerability Reporting Policy
+UK Tax Strategy
+Brexit
+QUESTIONS?
+CALL US
+0800 0921223
+CONTACT US
+DISCOVER TRAILHEAD.
+THE FUN WAY TO LEARN SALESFORCE.
+Start Learning
+About Us
+Our Story
+What is Salesforce?
+Salesforce Blog
+Careers
+Recognition
+Leadership
+Press
+Global Offices
+Privacy
+- Salesforce Privacy Statement
+Vulnerability Reporting Policy
+UK Tax Strategy
+Brexit
+Privacy
+Learn how Salesforce is responding to the new SCCs in Salesforce's FAQ about transfers of personal data.
+Learn more
+Learn about our commitment to privacy
+RESOURCES IN RESPECT OF HOW WE PROTECT OUR CUSTOMER'S DATA AS A PROCESSOR
+Global Privacy Resources for Salesforce Products
+Data Processing Addendum
+Data Processing Addendum FAQ (which includes details of EU data transfer mechanisms)
+International Transfers of EU Personal Data to Salesforce's Services
+Salesforce's EU Processor Binding Corporate Rules
+Salesforce's Draft UK Processor Binding Corporate Rules (Pending Approval from the UK ICO)
+Salesforce Group Affiliates for Draft UK Binding Corporate Rules for Processors
+Salesforce's Notice of Privacy Shield Certification
+Trust and Compliance Documentation
+Salesforce Audience Studio Privacy Policy
+Salesforce's Notice of APEC PRP Certification
+RESOURCES IN RESPECT OF HOW WE PROTECT DATA AS A CONTROLLER
+Privacy Statement
+Salesforce Candidate Privacy Statement
+Salesforce Apps and Extensions Privacy Statement
+Privacy Statement Highlights
+When you use and interact with our websites or services, communicate with or otherwise contact us or visit our offices or attend our events, we may collect, use, share and process information relating to you ("Personal Data"). These Privacy Statement Highlights summarize our Personal Data processing practices and your related rights.
+Important information
+Salesforce’s full Privacy Statement contains more information about Salesforce’s privacy practices.
+Responsible Salesforce entity
+Salesforce is the controller of your Personal Data and is responsible for its processing, unless expressly specified otherwise in our full Privacy Statement. For the avoidance of doubt, our Privacy Statement does not apply to the extent we process Personal Data in the role of a processor on behalf of our customers. A reference to “Salesforce,” “we,” “us” or the “Company” is a reference to salesforce.com, inc and the relevant affiliate involved in the processing activity. The office locations of where salesforce.com, inc. and its affiliates are located can be found here. Please see the "Contacting us" section, below, for our contact information and the contact information of our data protection officer.
+Purposes for which we process Personal Data
+We collect and process Personal Data for a variety of purposes, including:
+The processing of your name and contact information to provide you with information about our products, manage your registration for and attendance at our events and webinars or for office visits, manage your registration for contests or promotions, provide you with customer support or otherwise communicate with you;
+The processing of device and usage data to develop, improve, manage and customize our websites and services, to assess and improve the related user experience, to identify customer opportunities and to guarantee our websites’ and services' security and continued proper functioning;
+The processing of your billing information to complete transactions with you when you purchase our products or services;
+To provide you with the necessary functionalities required during your use of our websites and services, and to review capacity requirements and compliance with the applicable usage terms;
+To display personalized advertisements to you and to send to you marketing communications about us, our products and our services; and
+To comply with our legal obligations under applicable laws and cooperate with public and government authorities.
+For the full list of purposes for which we Process your Personal Data, please see the full Privacy Statement
+We only collect and process your Personal Data to the extent it is necessary for fulfilling these purposes and where we can rely on a legal basis for such processing as set out in our full Privacy Statement. Where required, we will ask you for your prior consent to processing.
+Please review the "What Personal Data do we collect?" and "Purposes for which we process Personal Data and the legal bases on which we rely" sections in our full Privacy Statement for further details. Also, please review the "How long do we keep your Personal Data?" section to learn how long we store your Personal Data.
+Who do we share Personal Data with?
+We may share Personal Data with various parties, including:
+Our contracted service providers that process Personal Data on our behalf for IT and system administration and hosting, credit card processing, research and analytics, marketing, customer support and data enrichment;
+Affiliates within our current or future corporate group that process Personal Data for customer support, marketing, event management, technical operations and account management;
+If you are using our services as an authorized user, with the Salesforce customer responsible for your access to the services for verifying your account, investigating suspicious activity and reviewing compliance our usage terms and policies;
+Sponsors of events, webinar or contests for which you register;
+Third-party social media and advertising networks, which usually act as separate controllers, so that we can advertise on their platforms;
+Specifically in relation to our AppExchange website, with our third-party partners who may contact you regarding their products or services;
+In individual instances, professional advisers who provide consultancy, banking, legal, insurance and accounting services, or if we are involved in a merger, reorganization, asset sale or business combination; and
+Public and government authorities, to the extent we are compelled to disclose Personal Data to comply with our legal obligations.
+Please review the "Who do we share Personal Data with" section in our full Privacy Statement for more detailed information.
+International transfer of Personal Data
+To facilitate our business practices, your Personal Data may be collected, transferred to and stored by us in the United States and by our affiliates in other countries where we operate, including countries outside the European Economic Area (EEA). As described in the "International transfer of Personal Data" section of our full Privacy Statement, we have implemented safeguards to ensure an adequate level of data protection where your Personal Data is transferred to countries outside the EEA, such as standard contractual clauses for the transfer of Personal Data as approved by the European Commission (Art. 46 GDPR).
+Your rights relating to your Personal Data
+You have certain rights relating to your Personal Data, subject to local data protection laws. These rights may include:
+To access your Personal Data held by us (right to access);
+To rectify inaccurate Personal Data and, taking into account the purpose of processing the Personal Data, ensure it is complete (right to rectification);
+To erase/delete your Personal Data, to the extent permitted by applicable data protection laws (right to erasure; right to be forgotten);
+To restrict our processing of your Personal Data to the extent permitted by law (right to restriction of processing);
+To transfer your Personal Data to another controller, to the extent possible (right to data portability);
+To object to any processing of your Personal Data carried out on the basis of our legitimate interests (right to object). Where we process your Personal Data for direct marketing purposes or share it with third parties for their own direct marketing purposes, you can exercise your right to object at any time to such processing without having to provide any specific reason for such objection;
+To not be subject to a decision based solely on automated processing, including profiling, which produces legal effects ("Automated Decision-Making"); Automated Decision-Making currently does not take place on our websites or in our services; and
+To the extent we base the collection, processing and sharing of your Personal Data on your consent, to withdraw your consent at any time, without affecting the lawfulness of the processing based on such consent before its withdrawal.
+For more details on your rights and choices and how to exercise them, please review the "Your rights relating to your Personal Data" section in our full Privacy Statement.
+Contacting us
+To exercise your rights relating to your Personal Data, or if you have questions regarding our privacy practices, please fill out this form or mail us at:
+Salesforce Data Protection Officer (Salesforce Privacy Team)
+415 Mission St., 3rd Floor
+San Francisco, CA 94105, USA
+If you believe that we have not been able to assist with your complaint or concern, and you are located in the EEA, you have the right to lodge a complaint with the competent supervisory authority.
+CALL US AT
+CALL US
+0800 0921223 (Freephone)
+New to Salesforce?
+What is Salesforce?
+What is CRM?
+What is Cloud Computing?
+CRM Solutions
+Customer Success Stories
+Product pricing
+Contact Us
+Popular Links
+Small Business CRM
+Sales Force Automation
+Customer Service Solutions
+Digital Marketing Solutions
+Industry Solutions
+Salesforce Events
+New Release Features
+Manage Subscription
+About Salesforce
+Our Story
+Careers
+Press
+Security & Performance
+Legal
+Privacy for Salesforce Products
+Salesforce UK Blog
+WORLDWIDE
+Europe, Middle East, and Africa
+España (Español)
+Deutschland (Deutsch)
+France (Français)
+Italia (Italiano)
+Nederland (Nederlands)
+Sverige (Svenska)
+United Kingdom (English)
+All other countries (English)
+Americas
+United States (English)
+América Latina (Español)
+Brasil (Português)
+Canada (English)
+Canada (Français)
+Asia Pacific
+Australia (English)
+India (English)
+日本 (日本語)
+한국 (한국어)
+中国 (简体中文)
+台灣 (繁體中文)
+All other countries (English)
+© Copyright 2000-2021 salesforce.com, inc. All rights reserved. Various trademarks held by their respective owners.
+salesforce UK Limited, village 9, floor 26 Salesforce Tower, 110 Bishopsgate, London, UK, EC2N 4AY. General Enquiries: 0800 0921223 | Fax: +44 870 351 5473 | Sales: 00800 7253 3333
+Legal
+Terms of Service
+Privacy
+Responsible Disclosure
+Contact Us
+Trust
+Cookie Preferences
+Modern Slavery Act Transparency Statement
+CONTACT US

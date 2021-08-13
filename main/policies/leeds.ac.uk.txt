@@ -1,0 +1,282 @@
+Privacy and cookies | University of Leeds
+University of Leeds homepage
+Students
+Minerva
+Mobile app
+For Students
+Staff
+For Staff
+Services A-Z
+Student Education Service
+Faculties
+Faculty of Arts, Humanities and Cultures
+Faculty of Biological Sciences
+Faculty of Business
+Faculty of Engineering and Physical Sciences
+Faculty of Environment
+Faculty of Medicine and Health
+Faculty of Social Sciences
+Lifelong Learning Centre
+Language Centre
+Search leeds.ac.uk
+Search all leeds.ac.uk
+Home
+Study
+Undergraduate
+Masters
+Research degrees
+International students
+Online courses
+Lifelong learning
+Search courses
+Coronavirus FAQs
+Virtual open days
+Research and innovation
+Working with business
+Global
+Around campus
+About
+Study
+About
+In this section
+About
+About
+Overview
+Term dates
+Overview
+Faculties
+Faculty contacts
+Honorary graduates
+Overview
+Jane Elizabeth Featherstone
+Norman Stanley Williams
+Lubaina Himid
+Peter Dhillon
+Sir Michael Pepper
+Richard Henderson
+Senior lay officers and the executive
+Overview
+Members of the University Council
+Governance
+Values and responsibility
+Heritage
+Facts and figures
+Graduation ceremonies
+Information for suppliers
+Find us
+Related links
+Campus map
+Term dates
+Annual report and accounts
+Related content
+Jobs
+Explore our latest career opportunities and discover the benefits of working with us.
+Alumni
+Find out about our global community of graduates and how they're changing the world.
+Sustainability
+From campus developments to international partnerships, find out how we're finding sustainable solutions to global challenges.
+Privacy and cookies
+Privacy notice for www.leeds.ac.uk.
+This privacy notice has been updated in line with the General Data Protection Regulation.
+Review cookie settings
+1. Purpose of this Notice
+This Notice tells you how the University of Leeds (University) will collect and use your personal data when you access this website. The University is a 'controller' of this personal data for the purposes of the data protection legislation.
+Note that additional information will be provided where you are requested to enter personal information and this will vary between our various websites. (Information will be provided through the relevant privacy notice for that website).
+It is important that you read this Notice together with any other privacy notice we provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data.  This Notice supplements the other notices and is not intended to override them.
+2. Changes to this Notice
+We keep the information provided in this Notice under review. This Notice may be updated from time to time. If we make any substantial updates, we will draw these to your attention.
+We will not use your personal data in any manner that is incompatible with the purpose for which the data were collected originally, unless we have obtained your consent to that additional use.
+3. Anything you are not clear about
+If there is anything you are unclear about, please contact our Data Protection Officer, who will be happy to answer any queries you may have concerning this Notice or the way in which we process your personal data.
+The Data Protection Officer's contact details are provided at the end of this Notice in section 11.
+4. Purpose of processing your data
+Where we request personal data from you on our website you will be informed at that time of the purpose for which the data will be processed and how it will be processed, its legal basis for processing as well as any transfers to third parties.
+5. Purpose of processing - automated collection of personal information
+When you access our web pages certain information your browser provides, including your IP address at the time, browser type, and potentially the address of the page you last visited, will be automatically recorded by the University. This data may be used to aid detection in the event of a security breach. The legal basis for this processing is a necessity to pursue our legitimate interests to keep our website secure. The University retains this data in a form from which you may be identifiable for a period of up to one month.
+6. Third-party access
+The personal data that you have provided will not routinely be sent to third parties (unless notified - see section 4).
+Exception: 100% online distance learning postgraduate courses
+The University works with third party partners (Pearson PLC, Natives Group) who handle admissions enquiries and recruitment for some of our 100% online distance learning postgraduate courses. If you submit an enquiry through the online form published on the associated course pages, our partner organisation will use your personal data to respond to your enquiry. If you choose to apply for the course, your data will be entered into the University’s application system so we can consider your application. These partners are only allowed to use your data in accordance with the strict instructions of the University. Neither partner will use your data in any other way nor will they share it with any other organisation.
+7. Data retention
+The University’s policies on retaining data for prospective and current students, staff and job applicants are detailed in our data retention policy (PDF).
+In other cases, for example, if you subscribe to news or events, any retention of data will be made clear at the point of collection.
+8. Cookies
+You can use the cookie settings pop-up to manage your cookies.
+Cookies are small text files that are placed on your device by websites that you visit.
+We use cookies for the following purposes:
+Essential: To help our website function
+Performance tracking: Track how our website is used and help us make improvements
+Marketing: To inform targeted advertising.
+See a full list of the cookies and help on managing cookies
+Essential cookies
+These cookies help our website function:
+NetScaler Appliance session cookie
+Cookie
+Purpose
+Information
+Cookie
+NSC*
+Purpose
+These cookies are set by our Citrix NetScaler appliance and are used to ensure your browsing session remains on the same web server. It is deleted when you close your browser.
+Information
+Citrix
+Cookie
+PHPSESSID
+Purpose
+This cookie stores a unique ID assigned by the web server. It is used to enable some site functionality to work properly. It is deleted when you close your browser.
+Information
+PHP sessions
+Cookie consent
+Cookie
+Purpose
+Information
+Cookie
+CC_analytics and disallow_google
+Purpose
+Cookie assigned to remember your cookie preferences for performance and analytics components. Contains a simple yes or no.
+Information
+Persistent cookie. Expires after 12 months.
+Cookie
+cc_necessary
+Purpose
+Cookie assigned to remember your cookie preferences for necessary site functionality. Contains a simple yes or no.
+Information
+Persistent cookie. Expires after 12 months.
+Cookie
+cc_social and disallow_facebook
+Purpose
+Cookie assigned to remember your cookie preferences for third-party social media components. Contains a simple yes or no.
+Information
+Persistent cookie. Expires after 12 months.
+Performance and advertising cookies
+Google Analytics, Google Tag Manager, AdWords, Facebook and LinkedIn re-marketing
+Cookie
+Purpose
+Information
+Cookie
+__utma
+__utmb
+__utmc
+__utmv
+__utmz
+__ga
+__gat
+__nid
+Purpose
+These cookies are used to collect information about how visitors use our website. We use the information to compile reports and to help us improve the site. These cookies are also used to track users’ interests and then provide targeted advertising on other websites. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+Information
+Google privacy policy
+Google analytics
+Google analytics terms of service
+Google tag manager terms of service
+Universal Analytics opt-out browser add-on
+YouTube
+Cookie
+Purpose
+Information
+Cookie
+PREF*
+VSC*
+VISITOR_INFO1_LIVE*
+remote_sid*
+Purpose
+We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode.
+Information
+Read more about YouTube’s embedding videos.
+Hotjar
+Cookie
+Purpose
+Information
+Cookie
+_hjIncludedInSample
+Purpose
+This service helps us track use of the website and make improvements.
+Information
+Find out more on Hotjar's website.
+Third party cookies and tracking
+If you share content from our website through other websites, for example Facebook or Twitter, cookies or a form of tracking may be used by these services and you need to manage your privacy via your account (and not through our site).
+Manage your cookies and privacy
+You can opt out of non-essential cookies: use the cookie settings pop-up to manage your choices.
+You can also manage your privacy settings, including cookies, through your browser settings.
+Further information about cookies can be found on the Information Commissioner's Office website.
+9. Your duty to inform us of changes
+It is important that the personal data the University holds about you is accurate and current. Please keep us informed if the personal data you have provided to us needs to be updated.
+Contact details for the University.
+10. Your rights as a data subject
+Under the GDPR, in certain circumstances, you have the right to:
+withdraw your consent to our processing of your personal data where that is the legal basis for such processing
+access any of your personal data which we hold
+have your personal data which we hold corrected if it is inaccurate
+have any of your personal data which we hold erased
+restrict the ways in which we process your personal data
+object to our processing of your personal data
+receive a copy of any of your personal data which we hold in a structured and commonly used machine-readable format
+in certain cases not be subject to a decision based solely on automated decision making
+lodge a complaint with a supervisory authority.
+11. Queries and complaints
+If you have any queries or concerns relating to this privacy notice or the way your data is being processed through this website then please contact the University’s Data Protection Officer, Alice Temple.
+Phone: +44 (0) 113 2431751
+Email: dpo@leeds.ac.uk
+Address: University of Leeds, 11.72 EC Stoner Building, Leeds LS2 9JT, UK.
+The UK’s regulator for the Data Protection Act (DPA) and GDPR is the Information Commissioner’s Office (ICO). The University is registered as a Data Controller with the ICO.
+Should you be dissatisfied with our handling of your concerns you have the right to complain to a supervisory authority. In the case of the UK this is the Information Commissioner’s Office.
+Footer navigation
+Study and courses
+Undergraduate
+Masters courses
+Research degrees
+International
+Course search
+About Us
+Campus map
+Our heritage
+Faculties
+Governance
+Values and responsibility
+Equality
+Executive team
+News
+Events
+Quicklinks and contacts
+Jobs
+Term dates
+Services A-Z
+Library
+Alumni
+Press
+VideoLeeds
+Staff A-Z
+Contacts
+Coronavirus
+Contact information
+University of Leeds
+Woodhouse Lane
+Leeds West Yorkshire LS2 9JT United Kingdom
+Site information
+© 2021 University of Leeds
+Privacy
+Accessibility
+Terms & conditions
+Freedom of information
+Your privacy options
+Our use of cookies
+Cookies are files saved on your phone, tablet or computer when you visit a website. We use cookies to improve your website experience, gather information about how you use the website and to help us with marketing.You can find out more on the privacy page
+Strictly necessary cookies
+These essential cookies do things like remember your progress through a form (for example an online application form). They always need to be on.
+Cookies that measure website use
+We use analytics tools to measure how you use the website so we can improve it based on user needs. We do not allow other organisations to use or share the data about how you use this site.Analytic tools sets cookies that store anonymised information about:how you got to the sitethe pages you visit within the University of Leeds, and how long you spend on each pagewhat you click on while you're visiting the site
+Accept Cookies that measure website use
+Cookies that help with our communications and marketing
+These cookies are set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant ads on other sites. They work by uniquely identifying your browser and device. If you don't allow these cookies, you will not experience our targeted advertising across different websites as a result of these cookies.
+Accept Cookies that help with our communications and marketing
+You can change the above cookie settings for this browser at any time by clicking the privacy settings link in the footer of the page.
+Save and close
+Tell us whether you accept cookies
+We use cookies to collect information about how you use our University of Leeds sites. We use this information to make our sites work well and to improve the service we provide to you.
+I'm ok with that
+Options
+Changes to our privacy policy
+We’ve updated our privacy policy. You might like to review the changes we’ve made and update your settings or keep your
+original options.
+I'm ok with that
+Options

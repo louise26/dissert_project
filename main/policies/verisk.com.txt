@@ -1,0 +1,346 @@
+Cookie Policy | Verisk Analytics
+Insurance
+Verisk Velocity
+Registration is now open for our virtual conference
+Register now
+Underwriting and Rating
+Claims
+Climate and Weather
+Flood
+Workers' Compensation
+Agency Markets
+Excess and Surplus
+Cyber
+Enterprise Exposure Manager
+Catastrophe and Extreme Event Risk
+Life Insurance
+Global Risk Indices
+Conferences
+Strategic Alliances
+Leadership
+Thought Leadership
+Web Seminars
+Contact
+Energy
+Financial
+By Market
+Insurance
+Energy
+Financial
+Supply Chain
+Community Hazard Mitigation
+Environmental Health and Safety
+Government and Industry
+Real Estate
+Transportation Employment Screening
+Company
+About Verisk
+Corporate Social Responsibility
+Leadership
+Inclusion, Diversity & Belonging
+Investors
+Newsroom
+Join Us
+Contact Us
+Toggle navigation
+Home
+Insurance
+Insurance Home
+Underwriting and Rating
+Claims
+Climate and Weather
+Flood
+Workers' Compensation
+Agency Markets
+Excess and Surplus
+Cyber
+Enterprise Exposure Manager
+Catastrophe and Extreme Event Risk
+Life Insurance
+Global Risk Indices
+Conferences
+Strategic Alliances
+Leadership
+Thought Leadership
+Web Seminars
+Contact
+Energy
+Financial
+By Market
+Insurance
+Energy
+Financial
+Supply Chain
+Community Hazard Mitigation
+Environmental Health and Safety
+Government and Industry
+Real Estate
+Transportation Employment Screening
+Company
+About Verisk
+Corporate Social Responsibility
+Leadership
+Inclusion, Diversity & Belonging
+Investors
+Newsroom
+Join Us
+Contact Us
+Cookie Policy
+Home
+Privacy notices, tax information, and website policies
+Cookie Policy
+What are Cookies?
+Cookies are text files containing small amounts of information which are sent to your browser and stored on your computer, mobile phone or other device when you visit a website.
+Cookies can be permanent (“persistent”) which remain on your computer until you delete them. Cookies can also be temporary (“session cookies”) which remain on your computer until you close your browser. Cookies can also be first-party cookies which are those set by Verisk on this Site, or third-party cookies which are set by third parties authorized by Verisk to do so.
+Strictly Necessary Cookies
+These cookies are essential in order to operate our site. This includes technologies that allow you access to our Site, identify irregular site behavior, prevent fraudulent activity and improve security or allow you to make use of the Site’s functions. In short, without these cookies our website won't work properly or won't be able to provide certain features and functionalities.
+Source
+Cookies
+Cookies used
+alumni.verisk.com
+JSESSIONID
+1st Party
+verisk.com
+incap_ses_374_814355, incap_ses_1185_1917275, incap_ses_1185_1377730, visid_incap_, visid_incap_814355, nlbi_814355, incap_ses_198_814355, incap_ses_1183_1357427, nlbi_#######, _dc_gtm_UA-xxxxxxxx, __cfduid
+1st Party
+.verisk.com
+OptanonAlertBoxClosed, OptanonConsent
+1st Party
+m.stripe.com
+m
+3rd Party
+dl.episerver.net
+__cfduid
+3rd Party
+buzzsprout.com
+__cfduid
+3rd Party
+az416426.vo.msecnd.net
+ai_session, ai_user
+3rd Party
+uri.sh
+__cfduid
+3rd Party
+www.verisk.com
+ai_user, ai_session, ASP.NET_SessionId, .ASPXANONYMOUS, __stripe_sid, __RequestVerificationToken, ARRAffinity, EPi_NumberOfVisits, __stripe_mid
+3rd Party
+globenewswire.com
+incap_ses_, visid_incap_
+3rd Party
+Performance Cookies
+These cookies collect information about your visits to the Site. They help us understand the manner in which you browse the Site, if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our website content, applications, services, or tools.
+Source
+Cookies
+Cookies used
+events.verisk.com
+eventguestside-service-session
+1st Party
+alumni.verisk.com
+__utmz, __utmb, __utmc, __utmt, __utma
+1st Party
+www.verisk.com
+_hjIncludedInPageviewSample, _hjIncludedInSample, NumPagesViewed
+1st Party
+nr-data.net
+JSESSIONID
+3rd Party
+verisk.com
+_hjTLDTest, at_check, _hjAbsoluteSessionInProgress, _gclxxxx, _gat_UA-36672943-7, _gat, test, _ga, _gid, _hjid, mbox, _gat_UA-, s_cc, TEST_AMCV_COOKIE
+3rd Party
+iso.com
+_ga, _gid, _gat
+3rd Party
+tableau.com
+_gid, _gat_UA-625217-47, _gat_UA-625217-22
+3rd Party
+custom.cvent.com
+TS014a60e5
+3rd Party
+ml.globenewswire.com
+GNWTracker
+3rd Party
+assets.adobedtm.com
+at_check
+3rd Party
+2o7.net
+s_vi_x7Bx7Dlhlcfjax7Bx7Dx7Cx3Cx3Bx3F
+3rd Party
+script.hotjar.com
+_hjIncludedInSample, _hjIncludedInPageviewSample
+3rd Party
+globenewswire.com
+nlbi_#######
+3rd Party
+Functional Cookies
+We may use cookies, web beacons, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our sites, services, applications, or tools. This may include identifying you when you sign into our sites or keeping track of your specified preferences, interests, or past items viewed so that we may enhance the presentation of content on our sites.
+Source
+Cookies
+Cookies used
+alumni.verisk.com
+_utmv#########
+1st Party
+verisk.com
+ELOQUA
+1st Party
+cpsignup.verisk.com
+liveagent_vc, ___utmvxxxxxxxxxxxxxx, liveagent_sid
+1st Party
+www.insurancejournal.tv
+__utmb, __utmt, __utmv, __utmz, __utmc, __utma
+3rd Party
+d.la1-c2-phx.salesforceliveagent.com
+liveagent_sid, liveagent_ptid, liveagent_vc, X-Salesforce-CHAT
+3rd Party
+app.continual.ly
+continually_session
+3rd Party
+tableau.com
+_ga
+3rd Party
+vimeo.com
+vuid
+3rd Party
+d.la4-c1-ia2.salesforceliveagent.com
+X-Salesforce-CHAT, liveagent_vc, liveagent_sid
+3rd Party
+highcharts.com
+__cfduid
+3rd Party
+c.la1cs.salesforceliveagent.com
+liveagent_vc, liveagent_oref, X-Salesforce-CHAT
+3rd Party
+d.la1s1.salesforceliveagent.com
+X-Salesforce-CHAT, liveagent_sid, liveagent_ptid, liveagent_vc
+3rd Party
+cdn-app.continual.ly
+continually_user_id
+3rd Party
+www.verisk.com
+___utmvaVOuiYkz, continually_user_id, ___utmvmVOuiYkz, .EPiForm_BID, ___utmvbVOuiYkz, .EPiForm_VisitorIdentifier, liveagent_oref, ___utmvc, liveagent_ptid, nQ_cookieId
+3rd Party
+c.la1-c2-phx.salesforceliveagent.com
+liveagent_vc, X-Salesforce-CHAT, liveagent_oref
+3rd Party
+public.tableau.com
+tableau_public_negotiated_locale, tableau_locale
+3rd Party
+d.la4-c1-ph2.salesforceliveagent.com
+liveagent_vc, X-Salesforce-CHAT, liveagent_sid
+3rd Party
+Targeting Cookies
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+At this time, Verisk does not utilize or participate in online advertising networks, targeted or otherwise.
+It’s possible that by engaging with 3rd party functionalities that may exist on portions of this website, (for example, social network and video platforms) targeting cookies from such functionality providers may be used by them to present you targeted advertising elsewhere on the internet.
+Source
+Cookies
+Cookies used
+investor.verisk.com
+awxxxx
+1st Party
+www.verisk.com
+nQ_userVisitId
+1st Party
+verisk.com
+_gat_xxxxxxxxxxxxxxxxxxxxxxxxxx, ELQCOUNTRY, ELQSTATUS, AMCVS_BBA7678254F6242F0A4C98A5%40AdobeOrg, AMCV_BBA7678254F6242F0A4C98A5%40AdobeOrg
+1st Party
+eloqua.com
+ELQSTATUS, ELOQUA
+3rd Party
+youtube.com
+VISITOR_INFO1_LIVE, GPS, YSC
+3rd Party
+everesttech.net
+everest_session_v2, everest_g_v2
+3rd Party
+players.brightcove.net
+GED_PLAYLIST_ACTIVITY
+3rd Party
+demdex.net
+demdex
+3rd Party
+ads.linkedin.com
+lang
+3rd Party
+twitter.com
+personalization_id
+3rd Party
+serve.albacross.com
+nQ_cookieId, nQ_userVisitId
+3rd Party
+www.linkedin.com
+bscookie
+3rd Party
+doubleclick.net
+test_cookie, IDE
+3rd Party
+dpm.demdex.net
+dpm
+3rd Party
+linkedin.com
+li_gc, lang, lidc, bcookie, UserMatchHistory, lissc
+3rd Party
+How does Verisk use cookies?We use cookies to customize and enhance our visitors’ visits to the Site, facilitate use of the Site, collect statistics about your visits to the Site, and understand the manner in which our visitors browse the Site. We also use the information to help diagnose technical and service problems, administer the Sites, enhance Site security and identify visitors to the Sites. We use clickstream data to determine how much time visitors spend on web pages of the Sites, how visitors navigate through the Sites, and how we may tailor the Sites to meet the needs of our visitors.
+How to manage and remove cookiesHow do I change my cookie settings?
+Most web browsers allow some control of most cookies through the browser settings – we have provided information below, published by Chrome Help, on how to delete, clear, enable and disable cookies on a Chrome browser.
+If you don’t use Chrome or if you want to find out more about cookies, including how to see what cookies have been placed on your device and how to manage and/or delete them, please visit: www.aboutcookies.org or www.allaboutcookies.org.
+Delete specific cookies or clear all cookies on Chrome:
+You can remove first-party and third-party cookie information and data from your devices. If you remove cookies, things like saved preferences on websites might get deleted.
+On your computer, open Google Chrome
+In the top right, click the Menu
+Click Settings Show advanced settings at the bottom of the page
+In the "Privacy" section, click Content settings
+Under "Cookies," click All cookies and site data
+To delete all cookies, click Remove all
+To delete a specific cookie, hover over a site, then click the that appears to the right
+You can also choose to remove all cookies created during a specific time period
+Allow or don't allow cookies:
+You can enable or disable cookies saved by websites
+On your computer, open Google Chrome
+In the top right, click the Menu
+Click Settings Show advanced settings
+In the "Privacy" section, click Content settings
+Use the "Cookies" section to change your settings:
+To block all cookies, click Block sites from setting any data. When you use this setting, most sites that require you to sign in won't work
+To allow only first-party cookies and block all third-party cookies, check Block third-party cookies and site data. This setting means that site data cannot be written and read, even if you've added a site to the exceptions list and have chosen to allow its cookies
+To allow both first-party and third-party cookies, click Allow local data to be set
+Markets
+P/C Insurance
+Life Insurance
+Energy
+Financial
+Supply Chain
+Community Hazard Mitigation
+Real Estate
+Company
+About
+Corporate Social Responsibility
+Investors
+Newsroom
+Join Us
+Strategic Alliances
+Speakers Bureau
+Statement on Modern Slavery
+Customer login - ISO online products
+Contact Us
+Engage
+Thought Leadership
+Web Seminar Series
+Verisk Review
+Alumni
+Stay Connected
+Facebook
+Twitter
+LinkedIn
+YouTube
+United States (English)
+United Kingdom (English)
+Canada (English)
+Privacy Notices | Conditions of Use | More Information © 2008, 2021 Verisk Analytics, Inc. All rights reserved.USA: 1-800-888-4476   Global: + 800 48977489VERISK ANALYTICS®
+Privacy Preference CenterWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+More informationAllow All Manage Consent PreferencesStrictly Necessary CookiesAlways ActiveThese cookies are essential in order to operate our site. This includes technologies that allow you access to our Site, identify irregular site behavior, prevent fraudulent activity and improve security or allow you to make use of the Site’s functions. In short, without these cookies our website won't work properly or won't be able to provide certain features and functionalities.Performance Cookies
+Performance Cookies These cookies collect information about your visits to the Site. They help us understand the manner in which you browse the Site, if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our website content, applications, services, or tools.Functional Cookies
+Functional Cookies We may use cookies, web beacons, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our sites, services, applications, or tools. This may include identifying you when you sign into our sites or keeping track of your specified preferences, interests, or past items viewed so that we may enhance the presentation of content on our sites.Targeting Cookies
+Targeting Cookies These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+At this time, Verisk does not utilize or participate in online advertising networks, targeted or otherwise.
+It’s possible that by engaging with 3rd party functionalities that may exist on portions of this website, (for example, social network and video platforms) targeting cookies from such functionality providers may be used by them to present you targeted advertising elsewhere on the internet.Back Button BackVendor Search
+Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label labelReject All Confirm My ChoicesBy clicking “Accept All”, you agree to the storing of cookies on your device to enhance site navigation, analyse site usage, and assist in our marketing efforts. Cookie PolicyAccept AllMore Information

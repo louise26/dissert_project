@@ -1,0 +1,311 @@
+Website Privacy Policy | Legal information | Nintendo
+Overview
+Orders
+Address book
+Nintendo Account details
+{{ gameData.title }}
+{{ gameSystem }}
+Starting from:
+{{ regularPrice }}{{ lowestPrice }}
+gameData.excerpt
+{{pageTitle}}
+, {{gameSystem}}
+Starting from:
+{{regularPrice}}{{lowestPrice}}
+Search
+Wish List
+Sign In
+×Close
+How about...
+All Nintendo Switch games
+All Nintendo Switch games on sale
+All Nintendo 3DS games
+All Super Mario games
+All The Legend of Zelda games
+All Pokémon games
+×
+Visit us on
+Facebook
+Nintendo
+Nintendo Switch
+Nintendo 3DS
+My Nintendo Store
+Super Mario
+The Legend of Zelda
+Super Smash Bros.
+Animal Crossing
+Mario Kart
+Splatoon
+Fire Emblem
+ARMS
+New Style Boutique
+amiibo
+Twitter
+@NintendoUK
+@NintendoUKVS
+@SuperMario_UK
+@AC_Isabelle from Animal Crossing: New Horizons
+YouTube
+NintendoUK
+NintendoLaboUK
+Instagram
+NintendoUK
+NintendoSwitchEurope
+RingFitAdventureUK
+NintendoLaboUK
+NewStyleBoutique
+Twitch
+NintendoUK
+LinkedIn
+Visit us on LinkedIn
+Nintendo Switch Family
+Previous
+Nintendo Switch Family
+Overview
+Nintendo Switch (OLED model)
+Nintendo Switch
+Nintendo Switch Lite
+Which Nintendo Switch is right for you?
+Games
+Nintendo Switch Online
+Accessories
+Nintendo Switch Parental Controls
+See purchase options
+Nintendo Labo
+Games
+Previous
+Games
+Overview
+All Games
+Nintendo Switch
+Nintendo 3DS
+Smart device
+Upcoming Games
+Recent Releases
+On sale
+Nintendo Characters Hub
+Nintendo eShop
+Support
+My Nintendo Store
+News
+Previous
+Nintendo 3DS Family
+Previous
+Stay in touch
+...
+Misc.
+Previous
+News
+Overview
+Nintendo Direct
+Indie World
+Super Smash Bros. Ultimate Tournament Portal
+Events
+Nintendo 3DS Family
+Overview
+Download Content
+Games
+Misc.
+amiibo
+My Nintendo
+Nintendo Kids Club
+Parents
+Career
+Nintendo History
+Corporate Social Responsibility (CSR)
+Legal information
+Sitemap
+Nintendo of Europe GmbH Website Privacy Policy
+Last updated: 06.2021This Privacy Policy covers the use of this website, operated by Nintendo of Europe GmbH ("Nintendo"), Goldsteinstrasse 235, D-60528 Frankfurt am Main, Germany.Nintendo is the controller within the meaning of the General Data Protection Regulation (Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 – “GDPR”). 1. Data Processing Nintendo respects the privacy rights of its online visitors and recognises the importance of protecting their personal data.Certain information is transmitted to Nintendo’s servers by the Internet browser of each online visitor when they access the website, including the date and time of access, the name of the requested file, the referral webpage, the status (e.g. transaction completed), the Web browser and operating system used, the IP address of the device and the size of transmitted data.1.1 Nintendo uses this information in order to set up the connection of your device with Nintendo servers and to enable you to use the website. The legal basis for this processing is the provision of the service you have requested (Art. 6 para. 1 (b) GDPR).1.2 The information is further stored in connection logs for a limited period of time for the purpose of ensuring the security and proper functioning of the website, including the prevention of hacking attacks to our systems. The legal basis for this processing is Art. 6 para.1 (f) GDPR. The legitimate interest Nintendo pursues is the protection of Nintendo’s systems. You have the right to object, on grounds relating to your particular situation, at any time to such processing. To exercise this right you may at any time contact Nintendo as provided in Section 7 of this Privacy Policy.1.3 Nintendo may also use the information for statistical purposes in an anonymized form. 2. Cookies and Similar Technologies Nintendo may place cookies on its website. Cookies are small files downloaded to your device. Cookies help us to ensure the safety and smooth functionality of our website (security cookies and session cookies; see below) and to collect information about the products our online visitors are interested in, as well as the navigation they choose through our website, in order to make our online offers more attractive for our users (tracking cookies; see below).You can choose which types of cookies shall be allowed on your device. With the exception of security and session cookies that are required for the operation of the website (more information below), cookies will only be activated if you explicitly allow it. See below for more information. Strictly Necessary Cookies Nintendo uses security and session cookies that are strictly necessary to provide you with the services you have requested. For example, Nintendo uses session cookies to store your selections whilst you navigate through to different pages. The legal basis for using such strictly necessary cookies is the provision of the service you have requested (Art. 6 para. 1 (b) GDPR). Non-Essential Cookies Nintendo's tracking cookies With your consent, we use our own tracking cookies on our website to help us learn how we can serve our customers as best we can. These tracking cookies enable us to monitor how long you stay on a page, for example, or which pages you visit exactly. The legal basis for using our own tracking cookies and for collecting personal data through the tracking cookies is your consent (Art 6 para. 1 (a) GDPR). We will only activate these non-essential cookies after you explicitly allowed their use. If you permitted the use of non-essential cookies, you can deactivate these cookies at any time by updating your cookie settings below.The legal basis for the subsequent processing of the data collected with the tracking cookies such as usage, analysis and storage is Art. 6 para. 1 (f) GDPR. The legitimate interest Nintendo pursues is the improvement and optimization of the website for the benefit of the website visitors.You have the right to object, on grounds relating to your particular situation, at any time to such processing. To exercise this right you may at any time deactivate the use of non-essential cookies in the cookie settings below. Google Analytics With your consent, this website uses Google Analytics, a web analytics service provided by Google Ireland Limited, Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland (“Google Ireland"). Google Analytics uses cookies, which are text files placed on visitors' computers, to help Nintendo analyse how visitors use the website. The information generated by the cookie about the visitors' use of the website will generally be transmitted to and stored by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google") on servers in the United States.On this website, IP anonymisation has been activated. The IP addresses of users from European Union member states, or from other states contracting to the Agreement on the European Economic Area, will be shortened. Only in exceptional cases will a complete IP address be transferred to a Google server in the United States and shortened there. On behalf of Nintendo, Google Ireland will use this information for the purpose of evaluating the website for Nintendo, in order to compile reports on website activity, and to provide other services relating to website activity and internet usage for Nintendo.Google Ireland will not associate the IP address transferred in the context of Google Analytics with any other data held by Google Ireland. For further information please visit https://support.google.com/analytics/answer/6004245?hl=en.The legal basis for enabling Google Analytics is your consent (Art. 6 para. 1 (a) GDPR). Google Analytics will only be activated if you explicitly allow it. If you permitted the use of Google Analytics, you can disable Google Analytics at any time by updating your cookie settings below. Alternatively, Google Analytics can be deactivated by downloading and installing a browser plug-in through the following link: http://tools.google.com/dlpage/gaoptout?hl=en.The legal basis for the subsequent processing of the data collected via Google Analytics such as usage, analysis and storage is Art. 6 para. 1 (f) GDPR. The legitimate interest Nintendo pursues is the improvement and optimization of the website and the advertisement strategy for the benefit of the website visitors.You have the right to object at any time to such processing. To exercise this right you may at any time download and install the aforementioned browser plug-in or you may at any time deactivate the use of non-essential cookies in the cookie settings below.This website uses „Google Signals“. Google Signals is an update provided by Google Ireland as part of Google Analytics and enables a cross device tracking only of those users who are logged into their Google account and who have activated “Ads Personalization” in their Google account settings. When using Google Signals aggregated data from website users who are logged into their Google account and who have activated “Ads Personalization” in their Google account is included in Google Analytics reports. The aggregated data Google Signals generates for Nintendo allows for Nintendo no conclusion as to the identity of any such user. On an aggregate basis, Google Signals provides Nintendo with information about how a visitor interacts with this website from multiple browsers and multiple devices.Google account users can control their advertisement experience and can deactivate “Ads Personalization” at any time in their Google account settings. Google Ads Remarketing With your consent, this website uses the Google Ads Remarketing technology which is a service from Google Ireland. Advertisements can be presented within the advertising network of Google / Google Ireland based on content which has previously been accessed on websites within the Google / Google Ireland advertising network by visitors that are also using the Google Ads Remarketing feature. In particular, based on your prior use of this website we use Google Ads Remarketing to target our ads to you when you visit other websites, e.g. sites in Google’s / Google Ireland’s content network.The legal basis for enabling Google Ads Remarketing is your consent (Art. 6 para. 1 (a) GDPR). We will only use Google Ads Remarketing if you explicitly allow it. If you permitted the use of Google Ads Remarketing, you can disable Google Ads Remarketing at any time by updating your cookie settings below. Alternatively, Google Ads Remarketing can be deactivated by updating the settings under http://www.google.com/settings/ads.You have the right to object, on grounds relating to your particular situation, at any time to such processing. To exercise this right you may at any time deactivate the use of non-essential cookies in the cookie settings below.When you access this website while logged into your Google account and when you have chosen to enable Google / Google Ireland to associate your browsing history with your Google account and to use such information to personalize advertisements, Google / Google Ireland associates information collected through Google Analytics to your Google account data. Google / Google Ireland will use the collected information for cross-device marketing issues. In particular, based on your use of this website on one device our advertisements can be targeted to you when you browse on another device. The data collected by Google / Google Ireland on this website about Google account users allow for Nintendo no conclusion as to the identity of any Google account user. You can find additional information about the collection and use of data by Google / Google Ireland under http://www.google.com/policies/privacy/.Google account users can control their advertisement experience and modify their settings with respect to personalized advertisements at any time in their Google account settings. Google Marketing Platform/DoubleClick With your consent, this website also uses DoubleClick by Google Ireland. DoubleClick by Google Ireland uses cookies to provide website visitors with relevant advertisements. A cookie ID is assigned to your browser to keep a log of which advertisements have already been delivered to that particular browser. The DoubleClick cookie enables Google Ireland and its partner websites to show advertisements based on former visits on this or other websites. In the same way, the cookie ID allows the DoubleClick cookie to log conversions related to advertisement requests- such as when a user views a DoubleClick advertisement and later uses the same browser to visit the advertiser’s website.The legal basis for enabling the DoubleClick cookie is your consent (Art. 6 para. 1 (a) GDPR). We will only use DoubleClick if you explicitly allow it. If you permitted the use of DoubleClick, you can disable DoubleClick at any time by updating your cookie settings below. Alternatively, the DoubleClick cookie can be deactivated by installing the DoubleClick browser plug-in through the following link: https://www.google.com/settings/ads/plugin or by updating the settings on the following website: https://www.google.com/settings/ads.The legal basis for the subsequent processing of the data collected via the DoubleClick cookie is Art. 6 para. 1 (f) GDPR. Nintendo has a legitimate interest in marketing purposes as it helps placing advertisements that have an increased relevance.You have the right to object, on grounds relating to your particular situation, at any time to such processing. To exercise this right you may at any time deactivate the use of non-essential cookies in the cookie settings below. Facebook tracking pixel With your consent, the Facebook pixel with the remarketing function “Custom Audience” is used on this website. The Facebook pixel is operated by Facebook Inc., 1601 S. California Ave., Palo Alto, CA 94304, USA.The Facebook pixel with the remarketing function is used by Nintendo to target, based on visitors’ prior use of this website, advertisements to visitors of this website once they visit the social network Facebook ("Facebook Ads"). Through the Facebook pixel a direct connection to the Facebook servers is made when visitors visit this website. This will send the information to the Facebook server that a visitor visited this website, and Facebook will process this information and can assign this information to a visitor’s personal Facebook user account. For more information on how Facebook collects, processes, and protects the privacy, please see the Facebook privacy policy at https://www.facebook.com/about/privacy.The legal basis for using the Facebook pixel is your consent (Art. 6 para. 1 (a) GDPR). We will only use the Facebook pixel if you explicitly allow it. If you permitted the use of the Facebook pixel, you can disable the Facebook pixel at any time by updating your cookie settings below or by updating your Facebook account settings.The legal basis for the subsequent processing of the data collected in connection with the Facebook pixel is Art 6 para. 1 (f) GDPR. Nintendo has a legitimate interest in marketing purposes as it helps placing advertisements that have an increased relevance.You have the right to object, on grounds relating to your particular situation, at any time to such processing. To exercise this right you may at any time deactivate the use of non-essential cookies in the cookie settings below. Hotjar With your consent, this website uses web analysis services by Hotjar Ltd., Level 2, St. Julians Business Centre, 3 Elia Zammit Street, St. Julians STJ 1000, Malta (“Hotjar”).Hotjar allows the tracking of activities on this website in the form of so-called Heatmaps. By using the Heatmaps service by Hotjar, Nintendo can see, for example, how far users scroll, how users move through this website, which links users click and how often users click the links.This website also uses the Recordings function offered by Hotjar. This service records certain data about how users navigate through this website during a session, for example HTML changes that happen while using this website, mouse movements, mouse clicks, scroll movements or how a user’s browser viewport size changes. As regards certain, selected input fields, keystrokes might also be recorded.In addition, this website uses the service Forms by Hotjar. This service records how users interact with input fields on this website, for example whether users fill in a field and submit it, the average interaction time with a field, whether users leave a field blank or whether users drop off from filling in a field.By using the aforementioned Hotjar services, Nintendo acquires valuable information about how users interact with and navigate through this website to make it faster and more user-friendly. Besides the information about a user’s interaction and navigation (such as which links users choose to click, mouse movements, etc. as explained above) the device screen size, device type, operating system and browser information, geographic location (country only), the preferred language used to display this website and the device’s IP address (which is captured and stored only in anonymized form) are collected.Hotjar does not record content and information users fill in a field or submit via this website.Hotjar creates a Hotjar Tracking Code for tracking the user’s use of this website via a Hotjar cookie.For further information about Hotjar and its service, please see https://www.hotjar.com. Users can find Hotjar‘s privacy policy under https://www.hotjar.com/privacy.The legal basis for enabling the Hotjar cookies is your consent (Art. 6 para. 1 lit. (a) GDPR). We will only use Hotjar cookies if you explicitly allow it. If you permitted the use of Hotjar cookies, you can disable the Hotjar cookies at any time by updating your cookie settings below. Alternatively, the Hotjar cookies can be disabled by following the instructions under: https://www.hotjar.com/legal/compliance/opt-out.The legal basis for the subsequent processing of the data collected via Hotjar such as usage, analysis and storage is Art. 6 para. 1 (f) GDPR. The legitimate interest Nintendo pursues is the improvement and optimization of the website for the benefit of the website visitors.You have the right to object, on grounds relating to your particular situation, at any time to such processing. To exercise this right you may at any time deactivate the use of non-essential cookies in the cookie settings below. Twitter Website Tag
+With your consent, this website also uses the Twitter Website Tag with a remarketing function. The Twitter Website Tag is operated by Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland (“Twitter”).The Twitter Website Tag with the remarketing function is used by Nintendo to target, based on visitors’ prior use of this website, advertisements to visitors of this website once they visit the social network Twitter.Through the Twitter Website Tag a direct connection to the Twitter servers is made when visitors visit this website. This will send the information to the Twitter server that a visitor visited this website, and Twitter will process this information and can assign this information to a visitor’s personal Twitter user account. For more information on how Twitter collects, processes, and protects the privacy, please see the Twitter privacy policy at https://twitter.com/privacy.The legal basis for using the Twitter Website Tag is your consent (Art. 6 para. 1 (a) GDPR). We will only use the Twitter Website Tag if you explicitly allow it. If you permitted the use of the Twitter Website Tag, you can disable the Twitter Website Tag at any time by updating your cookie settings below or in your Twitter account settings.The legal basis for the subsequent processing of the data collected via the Twitter Website Tag such as usage, analysis and storage is Art. 6 para. 1 (f) GDPR. Nintendo has a legitimate interest in marketing purposes as it helps placing advertisements that have an increased relevance.You have the right to object, on grounds relating to your particular situation, at any time to such processing. To exercise this right you may at any time deactivate the use of non-essential cookies in the cookie settings below. Third-party tracking cookies Additionally, with your consent, we use tracking cookies from other companies. Nintendo uses these tracking cookies to target, based on visitor’s prior use of this website, advertisements to visitors of this website once they visit a third-party website. We use tracking cookies from the following companies:
+Company name
+Using company's cookies since
+More information
+Adform
+October, 2015
+Official website
+Amazon.com, Inc.
+October, 2015
+Official website
+AppNexus Inc.
+October, 2015
+Official website
+Captify
+February, 2016
+Official website
+Criteo SA
+October, 2015
+Official website
+Flashtalking, Inc.
+October, 2015
+Official website
+MediaMath, Inc.
+October, 2015
+Official website
+Microsoft Corporation
+October, 2015
+Official website
+Ogury Ltd.
+June, 2021
+Official website
+Optimizely
+June, 2016
+Official website
+Quantcast Corporation
+October, 2015
+Official website
+Sizmek
+October, 2015
+Official website
+The Trade Desk
+January, 2017
+Official website
+Tradelab
+April, 2018
+Official website
+Turn Inc.
+November, 2015
+Official website
+Xaxis, Inc.
+October, 2015
+Official website
+Yieldr
+October, 2016
+Official website
+YuMe, Inc.
+October, 2015
+Official website
+The legal basis for using such third-party tracking cookies is your consent (Art. 6 para. 1 (a) GDPR). The third-party tracking cookies will only be activated if you explicitly allow it. If you permitted the use of third-party tracking cookies, you can deactivate these cookies at any time by deactivating the use of non-essential cookies in the cookies settings below.
+Please select one of the two options below and press the "Save" button to confirm your settings.
+Non-essential cookies not activated
+Non-essential cookies activated
+Save
+The legal basis for the subsequent processing of the data collected via third-party tracking cookies such as usage, analysis and storage is Art. 6 para. 1 (f) GDPR. The legitimate interest Nintendo pursues is the improvement and optimization of the website and the advertisement strategy for the benefit of the website visitors.You have the right to object, on grounds relating to your particular situation, at any time to such processing. To exercise this right you may at any time deactivate the use of non-essential cookies in the cookie settings above.If we change our use of non-essential cookies, you will be notified via a message at the top of the website. You can access the cookie settings from that notification, or by following the relevant link at the bottom of the website.Additionally, the European Interactive Digital Advertising Alliance (EDAA) has developed the website Your Online Choices (www.youronlinechoices.eu). On this website you can find more information about your cookies, and manage them. Similar Technologies Google reCAPTCHA Nintendo also uses the service Google reCAPTCHA on its website. This service is provided by Google Ireland. reCAPTCHA is used to check whether the data entered on the website, in particular in any forms provided on the website, has been entered by a human or by an automated program. reCAPTCHA analyzes the user’s behavior based on various characteristics, e.g. IP address, duration of the visit of the website or the user’s mouse movements. The analysis starts automatically as soon as the user enters the respective subpage of the website where reCAPTCHA is used.Google Ireland may transfer the data collected via reCAPTCHA to Google in the United States.The legal basis for using reCAPTCHA and for analyzing user behavior on the website is Art. 6 para. 1 (f) GDPR. The legitimate interest Nintendo pursues is to prevent the abuse of its website by automated programs. You have the right to object, on grounds relating to your particular situation, at any time to such processing. To exercise this right with regard to the use of reCAPTCHA you may at any time contact Nintendo as provided in Section 7 of this Privacy Policy.For further information about reCAPTCHA please visit https://www.google.com/recaptcha/about/. 3. User Communications When you send an email or other communication to Nintendo, Nintendo uses those communications in order to process your inquiries and respond to your requests.The legal basis for this processing is the provision of the service you have requested (Art. 6 para. 1 (b) GDPR). Communication via chat function If you use our digital assistant (“chat bot”), provided by flow.ai, on our website as self-service to receive general information on our products and services, the following data of yours will be processed during the automated chat: IP address and further personal data which you have entered in the chat bot´s chat function. The legal basis for this processing is Art. 6 para. 1 lit. (f) GDPR. We have a legitimate interest in providing users with a user-friendly prompt response to standard inquiries and in optimising our customer service for the benefit of website visitors. You can technically prevent the processing by disabling JavaScript in your web browser, or by not using the chat bot. For details on how to disable JavaScript in your web browser settings, please check the respective help section of your web browser. Communication via contact form You also have the option to contact Nintendo using the contact form provided on the website. To offer this service, we need to collect further personal data from you. The type of information required depends on the subject of your question or request. In any case, we need your full name and email address to be able to answer your question or request. In addition, we need to collect further information such as your date of birth, your country of residence, your Nintendo Account Sign-In ID, the type and serial number of the console your inquiry refers to, your Nintendo Network ID, or any other information requested in the specific contact form you use or that you decide to share to explain your question or request. We need this information to confirm your identity, if required, and deal with your question or request.The legal basis for this processing is the provision of the service you have requested (Art. 6 para. 1 (b) GDPR).If you use the contact form to exercise your data protection rights under GDPR (please find further information in Section 6. below), the legal basis for our processing is our fulfilment of a legal obligation (Art. 6 para. 1 (c) GDPR).Depending on the subject of your inquiry and your country of residence, we might share the information you provided in connection with your request with our parent company Nintendo Co., Ltd., our European affiliates such as Nintendo France SARL, Nintendo Ibérica, S.A.U. and Nintendo Benelux B.V., or our branches in Italy, Germany, Austria, Switzerland and the United Kingdom, or with our local third party distributors that provide customer support services in connection with your inquiry or your Nintendo Account for your country (including hardware and repair services for user devices manufactured by Nintendo), if we consider they can better serve your request or if your request directly addresses one of the Nintendo group companies. Sharing your request with our local specialists enables us to deal with your inquiry in the most efficient and precise manner. Your information will be used in accordance with this Privacy Policy and only as far as this is necessary for responding to your inquiry. A list of the third party distributors is available at support.nintendo.com.The legal basis for sharing your information with our European affiliates or branches, our parent company Nintendo Co., Ltd. or our third party distributors is the provision of the service you have requested (Art. 6 para. 1 (b) GDPR). If you use the contact form to exercise your data protection rights under GDPR, the legal basis for such sharing is our fulfilment of a legal obligation (Art. 6 para. 1 (c) GDPR).Where the other entities of the Nintendo group of companies are located outside the European Economic Area, we have implemented appropriate safeguards for an adequate level of data protection as further explained in Section 4. 4. Who Has Access to Your Information In addition to the cases referred to in Section 3, Nintendo may share your information with other entities of the Nintendo group to be used in accordance with this Privacy Policy; in particular, with:Its parent company Nintendo Co., Ltd.,its European affiliates such as Nintendo France SARL, Nintendo Ibérica, S.A.U. and Nintendo Benelux B.V. and its branches in Italy, Germany, Austria, Switzerland and the United Kingdom.The legal basis for Nintendo sharing your information with other entities of the Nintendo group is Art. 6 para. 1 (f) GDPR. Nintendo has a legitimate interest in sharing your information for internal administrative purposes, in particular to offer the website services and to deal with any inquiries in an efficient and high-quality manner.You have the right to object, on grounds relating to your particular situation, at any time to such sharing. To exercise this right you may at any time contact Nintendo as provided in Section 7 of this Privacy Policy.In compliance with applicable data protection requirements, Nintendo may also use third-party data processors and may share your information with such third party data processors acting on Nintendo’s behalf to provide services in connection with the website. Where such third party processors or other entities of the Nintendo group of companies are located outside the European Union respectively the European Economic Area, such third party processors and other entities of the Nintendo group of companies are either located in a third country where the European Commission has decided that this country ensures an adequate level or appropriate safeguards for an adequate level of data protection are provided for by standard data protection clauses that have been adopted by the European Commission and that have been entered into between Nintendo and the third party data processor respectively between Nintendo and the other Nintendo group entity. 5. Storage Time Nintendo will only store your information as long as necessary to fulfil the purposes for which the information is collected and processed or – where the applicable law provides for longer storage and retention periods – for the storage and retention period required by law. After that your personal data will be deleted.In particular:If you withdraw your consent on which a processing of your personal data is based, Nintendo will delete your personal data without undue delay to the extent that the collection and processing of the personal data was based on the withdrawn consent.If you exercise a right to object to the processing of your personal data, Nintendo will delete your personal data that Nintendo processed for the purpose to which you objected without undue delay, unless another legal basis for processing and retaining this data exists or unless applicable law requires us to retain the data.
+6. Your rights under GDPR In particular, without limitation, you may have the following rights under applicable European data protection law:Right of access: You have the right to obtain confirmation from Nintendo as to whether or not Nintendo processes personal data from you and you also have the right to at any time obtain access to our personal data stored by Nintendo. To exercise this right you may at any time contact Nintendo as provided in Section 7 of this Privacy Policy..Right to rectification of your personal data: If Nintendo processes your personal data, Nintendo shall endeavour to ensure by implementing suitable measures that your personal data is accurate and up-to-date for the purposes for which Nintendo collected your personal data. If your personal data is inaccurate or incomplete, you have the right to obtain the rectification of such data. To exercise this right you may at any time contact Nintendo as provided in Section 7 of this Privacy Policy.Right to erasure of your personal data or right to restriction of processing: You may have the right to obtain the erasure of your personal data or the restriction of processing of your personal data. To exercise this right you may at any time contact Nintendo as provided in Section 7 of this Privacy Policy.Right to withdraw your consent: If you have given your consent to the processing of your personal data, you have the right to withdraw your consent at any time, without affecting the lawfulness of processing based on the consent before the withdrawal. To exercise this right you may at any time contact us as provided in Section 7 of this Privacy Policy or proceed as further described in this Privacy Policy (e.g. update your cookie settings with respect to tracking cookies).Right to data portability: You may have the right to receive the personal data concerning you and which you have provided to Nintendo, in a structured, commonly used and machine-readable format or to transmit those data to another controller. To exercise this right you may at any time contact us as provided in Section 7 of this Privacy Policy.Right to object: You have the right to object to the processing of your personal data as further specified in this Privacy Policy.Right to lodge a complaint with supervisory authority: You have the right to lodge a complaint with a data protection supervisory authority located in the European Union. You may contact the Hesse Data Protection Supervisor. 7. Contact and Data Protection Officer If you have any questions about this Website Privacy Policy and Nintendo’s data processing activities or if you want to exercise any of your rights under GDPR, please contact:Nintendo of Europe GmbH ("Nintendo"), Attn.: Legal Department, Goldsteinstrasse 235, 60528 Frankfurt am Main, Germany, or via via the contact form available under nintendo-europe.com/contact.You can also contact Nintendo’s data protection officer:Nintendo of Europe GmbH, Attn.: Legal Department, Goldsteinstrasse 235, 60528 Frankfurt am Main, Germany or via email: dataprotectionofficer@nintendo.de.
+Share on:
+Facebook
+Twitter
+WhatsApp
+Country: UK & Ireland
+Change country
+België
+Belgique
+Deutschland
+España
+France
+Italia
+Nederland
+Österreich
+Portugal
+Россия
+Schweiz
+Suisse
+Svizzera
+South Africa
+UK & Ireland
+België
+Belgique
+Deutschland
+España
+France
+Italia
+Nederland
+Österreich
+Portugal
+Россия
+Schweiz
+Suisse
+Svizzera
+South Africa
+UK & Ireland
+Nintendo eShop
+Nintendo Kids Club
+Parents
+Support
+Events
+Company Information
+Career
+Website Privacy Policy
+Cookie settings
+CSR
+Modern Slavery Transparency Statement
+Contact
+© 2021 Nintendo.
+×
+Change country
+België
+Belgique
+Deutschland
+España
+France
+Italia
+Nederland
+Österreich
+Portugal
+Россия
+Schweiz
+Suisse
+Svizzera
+South Africa
+UK & Ireland
+×
+Attention!
+You are about to leave the Nintendo of Europe site. Nintendo of Europe is not responsible for the content or security of the site you are about to visit.
+Cancel
+Continue
+×
+Survey
+Dear visitor,Thank you for visiting the Nintendo website! You have been randomly chosen to take part in a brief survey. By taking a few minutes to share your thoughts and opinions, you will be helping us to improve our website.Naturally, any information provided by you in this survey will be treated in confidence.Your Nintendo of Europe Team
+Decline invitation
+Take the survey
+×
+Facebook
+Visit us on Facebook:
+Nintendo
+Nintendo Switch
+Nintendo 3DS
+My Nintendo Store
+Super Mario
+The Legend of Zelda
+Super Smash Bros.
+Animal Crossing
+Mario Kart
+Splatoon
+Fire Emblem
+ARMS
+New Style Boutique
+amiibo
+×
+Twitter
+@NintendoUK
+@NintendoUKVS
+@SuperMario_UK
+@AC_Isabelle from Animal Crossing: New Horizons
+×
+YouTube
+NintendoUK
+NintendoLaboUK
+×
+Instagram
+Join us on Instagram:
+NintendoUK
+NintendoSwitchEurope
+RingFitAdventureUK
+NintendoLaboUK
+NewStyleBoutique
+×
+Twitch
+Visit us on Twitch:
+NintendoUK
+×
+LinkedIn
+Visit us on LinkedIn
+×
+COOKIE POLICY
+What are cookies for?
+We use cookies to allow you to visit our website and use its functions. Some cookies are strictly necessary for the operation of our website and cannot be deactivated. Other cookies (including third-party cookies) help us to improve our website by providing us with statistics or enabling us to place advertisements of increased relevance based on your interests. Such cookies will only be activated if you click on "Accept All Cookies"
+or if you allow their usage in the Cookies Settings.You can change your preferences at any time in the Cookie Settings. You can find further information about our use of cookies and our partners using third-party cookies, by clicking here:
+Privacy Policy
+Accept All Cookies
+Reject All Non-Essential Cookies
+Cookie settings

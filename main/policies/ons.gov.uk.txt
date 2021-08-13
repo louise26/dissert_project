@@ -1,0 +1,121 @@
+Privacy notice - Office for National Statistics
+Tell us whether you accept cookies
+We would like to use cookies to collect information about how you use ons.gov.uk.
+We use this information to make the website work as well as possible and improve our services.
+Accept all cookies
+Set cookie preferences
+You’ve accepted all cookies. You can change your cookie settings at any time.
+Hide
+Skip to main content
+/help/privacynotice
+English (EN) |
+Cymraeg (CY)
+Release calendar
+Methodology
+Media
+About
+Blog
+Menu
+Search
+Home
+Business, industry and trade
+Business
+Changes to business
+Construction industry
+IT and internet industry
+International trade
+Manufacturing and production industry
+Retail industry
+Tourism industry
+Economy
+Economic output and productivity
+Environmental accounts
+Government, public sector and taxes
+Gross Domestic Product (GDP)
+Gross Value Added (GVA)
+Inflation and price indices
+Investments, pensions and trusts
+National accounts
+Regional accounts
+Employment and labour market
+People in work
+People not in work
+People, population and community
+Births, deaths and marriages
+Crime and justice
+Cultural identity
+Education and childcare
+Elections
+Health and social care
+Household characteristics
+Housing
+Leisure and tourism
+Personal and household finances
+Population and migration
+Well-being
+Taking part in a survey?
+English (EN) |
+Cymraeg (CY)
+Search for a keyword(s) or time series ID
+Search
+Home
+Help
+Privacy notice
+Privacy notice
+Our latest privacy notice for the ons.gov.uk website.
+Last updated:
+11 December 2020
+This privacy notice is for visitors to the ONS website. If you are a survey respondent and would like to find out how we collect and use your personal data, please visit our data protection pages. What data we collectWe collect information about how you use the ONS website (ons.gov.uk) to help us improve the site and make sure it is meeting the needs of its users.We collect information on:
+the pages you visit
+how long you spend on each page
+how you got to the site
+what you click on while you are visiting the site
+whether you have participated in a poll
+questions, queries or feedback you leave (including your name and email address if you choose to provide it)
+how you interact with a page
+your Internet Protocol (IP) address
+Google Analytics and HotjarWe use cookies and page tagging techniques through software such as Google Analytics and Hotjar to collect this information. We do not store your personal information through Google Analytics or Hotjar (for example, your name or address). We do not allow Google Analytics or Hotjar to use or share data about how you use the site. We will not identify you through analytics information, and we will not combine analytics information with other datasets in a way that would identify who you are. More details about the information we collect is available in our Cookies policy. You can also change which cookies you are happy for us to use. Why we need your dataWe collect anonymised information through Google Analytics and Hotjar to help:
+make sure the site is meeting the needs of its users
+make improvements to the website
+We also collect data to:
+gather feedback to improve our services
+respond to any feedback you send us, if you have asked us to
+monitor use of the site to identify security threats
+Our legal basis for processing your dataThe legal basis for processing anonymised data for Google Analytics and Hotjar is your consent.The legal basis for processing all other personal data is that it is necessary:
+to perform a task in the public interest
+in the exercise of our functions as a government department
+What we do with your dataThe data we collect may be shared with our technology suppliers, for example, our hosting provider.We will not:
+sell or rent your data to third parties
+share data with third parties for marketing purposes
+How long we keep your dataWe will only retain your access log data for 12 months, after which it will be deleted.Where your data are processed and storedWe design, build and run our systems to make sure that your data are as safe as possible at all stages, both while they are processed and when they are stored.All personal data are stored in the European Economic Area (EEA). Data collected by Google Analytics and Hotjar may be transferred outside the EEA for processing.How we protect your data and keep it secureWe are committed to doing all that we can to keep your data secure. We have set up systems and processes to prevent unauthorised access or disclosure of your data – for example, we protect your data using varying levels of encryption.We also make sure that any third parties that we deal with keep all personal data they process on our behalf secure.Your rightsYou have the right to request:
+information about how your personal data are processed
+a copy of that personal data
+that anything inaccurate in your personal data is corrected
+You can also:
+raise an objection about how your personal data are processed
+request that your personal data are erased if there is no longer a justification for it
+ask that the processing of your personal data is restricted in certain circumstances
+If you have any of these requests, contact our Data Protection Officer.People who contact us through social mediaWe use a third-party provider, Hootsuite, to manage our social media interactions.If you send us a private or direct message through social media, the message will be stored by Hootsuite for three months. It will not be shared with any other organisations.Links to other websitesThis site contains links to other sites. The ONS is not responsible for the privacy practices or the content of such websites. Following a link to another websiteIf you go to another website from this one, read the privacy policy on that website to find out what it does with your information.Following a link to ons.gov.uk from another websiteIf you come to ons.gov.uk from another website, we may receive personal information from the other website. You should read the privacy policy of the website you came from to find out more about this.Contact usContact the Data Protection Officer (DPO) if you:
+have a question about anything in this privacy notice
+think that your personal data have been misused or mishandled
+DPO@statistics.gov.uk Telephone: 0845 601 3034Data Protection Officer Office for National Statistics Segensworth Road Titchfield Fareham Hampshire PO15 5RRChanges to this policyWe may change this privacy policy. In that case, the “Last updated” date at the top of this page will also change. Any changes to this privacy policy will apply to you and your data immediately.If these changes affect how your personal data are processed, we will take reasonable steps to let you know.Report a security vulnerabilityPlease see our vulnerability disclosure policy for information on how to report a vulnerability at HackerOne.
+You might also be interested in:
+Cookies
+General and statistical enquiries
+Footer links
+Help
+Accessibility
+Cookies
+Privacy
+Terms and conditions
+About ONS
+What we do
+Careers
+Contact us
+Freedom of Information
+Connect with us
+Twitter
+Facebook
+LinkedIn
+Email alerts
+All content is available under the Open Government Licence v3.0, except where otherwise stated

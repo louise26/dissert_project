@@ -1,0 +1,425 @@
+Privacy Policy | Recruitee
+Solutions
+Customers
+Pricing
+Blog
+Get demo
+Log in
+Try for free
+Go to app
+Privacy Policy
+Personal data of Recruitee.com visitors
+Recruitee processes the personal data of visitors of Recruitee.com as described in this paragraph, including the users of the SaaS, excluding the visitors of careers websites of customers (Visitors).
+Recruitee collects and uses the personal data of Visitors for the purpose of:
+The functioning of the website;
+Monitoring the performance of the website;
+Supporting the business operations of Recruitee, including sales and marketing;
+Improving and optimizing the website and services of Recruitee.
+The categories of personal data used for the purposes listed under this paragraph are:
+Device, browser and referrer;
+Unique identifiers;
+Timezone and approximate location;
+Usage of the website;
+Requests and responses sent to and from your device.
+Recruitee and it’s partners place cookies for all the purposes listed under this paragraph.
+Recruitee uses its legitimate interests for processing personal data for purposes listed under this paragraph, such legitimate interests are the same as the purposes that Recruitee processes personal data for. The personal data listed under this paragraph will be deleted when it is no longer necessary for the purposes it was collected for.
+Responsibility for personal data of Customer’s applicants, potential candidates and Users of the SaaS
+In some cases Recruitee processes personal data as a service for SaaS Customers. The SaaS is the software-as-a-service for recruitment that Recruitee offers to customers (Customers). In those cases the Customer carries the responsibility for the personal data that is being processed, in other words the Customer is the controller and Recruitee is the processor. Job applicants, potential job candidates and end-users of the SaaS (Users) should always contact the Customer for more information about how their personal data is being processed with our SaaS and the responsibilities of the Customer as opposed to those of Recruitee.
+This document describes the processing activities regarding Users of the SaaS, despite the fact that Recruitee is not always the Controller for personal data of Users. Please be aware that the processing activities that the Customer performs may not align with this document.
+Personal Data of Users of the SaaS
+Recruitee processes personal data of Users for the following purposes:
+Recruitee’s customer support and success;
+Recruitee’s billing and administration;
+Providing the Recruitee SaaS and accompanying services;
+Sales and marketing of Recruitee’s product and services.
+The following categories of personal data of Users are processed:
+Contact details such address, e-mail and phone number;
+Support communications;
+Billing details;
+Username and password;
+Activities in the SaaS;
+Other personal data entered into the SaaS.
+The Customer and/or User primarily decides the retention period for all personal data that he can control the retention of through the SaaS or that he can provide instructions for under the agreements between Customer and Recruitee. Recruitee will delete personal data relating to Users after the services associated with the personal data are cancelled and the personal data is no longer necessary for any of the purposes listed in this paragraph.
+Recruitee's use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements. Information from Google APIs includes information from any Gmail account or Google Calendar account that a User connects to the SaaS. Recruitee will not use information from a User's Gmail account or Google Calendar account for any other purpose than providing the Recruitee SaaS.
+Social media and distributed content
+Recruitee may use the services of our partners to stay in touch with you or to provide you with content. For example we may provide you with articles through our Facebook page. Services of Recruitee’s partners may also be used for Recruitee and its partners to process personal data or place cookies on your device for the following purposes:
+Sales and marketing of Recruitee’s product and services;
+Improving our product and user experience;
+Thought leadership and branding;
+Communicating with customers and potential customers;
+Recruitee may process the following personal data for the purposes listed above in this paragraph:
+Social media profile;
+Unique identifiers;
+Contact information.
+Recruitee may also process public social media posts to stay up-to-date on and respond to social media activity in relation to its business.
+Advertising
+The following companies process your personal data that was collected for the purposes of marketing and sales to help Recruitee serve you Recruitee’s advertisements on third party websites and applications: Facebook, Google, LinkedIn, Microsoft (Bing), Twitter, Quora, Oath (Yahoo), Reddit and Outbrain. Unique identifiers (with the help of cookies), contact information and browsing history are processed for those purposes. Opt-outs for processing of your personal data for this purpose are available on the following pages:
+http://optout.aboutads.info/
+(Facebook, Google, LinkedIn, Microsoft, Twitter, Oath and Outbrain)
+https://www.quora.com/optout
+(Quora)
+https://www.reddit.com/personalization/
+(Reddit)
+E-mails & other communications
+Recruitee may send you e-mails with information about Recruitee’s products and services, or other information that may interest you. E-mails will only be sent based on opt-in, unless you register for Recruitee’s services. If you are registered for a Recruitee service you may receive e-mails about similar services or to help you become a successful user of our services. You can contact us by e-mail to opt-out of our e-mails or use the unsubscribe links provided in the e-mail communications that we send you.
+Communications between you and Recruitee such as chats, e-mails, phone conversations and private messages may be stored to improve our communications and for future reference.
+Applicants to Recruitee jobs (jobs.recruitee.com)
+This section applies to applicants of jobs at Recruitee as shown on our Careers Site (jobs.recruitee.com) and any other candidates or potential candidates for any jobs with Recruitee. Our customers have separate privacy policies for their recruitment activities and such recruitment activities are not covered by this privacy policy.
+Recruitee may collect your personal data for recruitment purposes in one of the following three ways:
+You apply for a job at Recruitee: If you apply for a job at Recruitee then we process your personal data to facilitate the entire job application procedure on the grounds of our legitimate interests for recruitment. Your data will be kept by Recruitee for up to 97 days. That period may be extended by 37 days after we have last corresponded with you over email to make sure that your personal data is not deleted while you are in an application procedure. The retention period may also be extended if you provide your consent for Recruitee to keep your profile in its talent pool for Recruitee to reach out to you about future job opportunities and to otherwise process your personal data in relation to recruitment for job openings at Recruitee.
+We source you through publicly available resources: Recruitee may, based on its legitimate interests for recruitment, search through publicly available resources such as LinkedIn to find candidates that have skills, experience and interests that match with Recruitee’s staffing needs. If Recruitee believes that you may be a match with Recruitee’s staffing needs, then Recruitee will, based on its legitimate interests for recruitment, process your personal data for the purpose of reaching out to you and asking for your consent to match you with job opportunities at Recruitee and to otherwise process your personal data in relation to recruitment for job openings at Recruitee. If the consent is not provided then your personal data will be automatically deleted within 37 days after it has first been collected. If consent is required under applicable law to contact you, we will only contact you if you have consented.
+You are referred by someone: Someone who knows you might refer you to us because that person believes you have skills, experience and interests that match with Recruitee’s staffing needs. Upon receiving your contact details and determining that you are a good match we will, based on our legitimate interests for recruitment, reach out to you to ask for your consent to match you with job opportunities at Recruitee and to otherwise process your personal data in relation to recruitment for job openings at Recruitee. If the consent is not provided then your personal data will be automatically deleted within 37 days after it has first been collected. If consent is required under applicable law to contact you, we will only contact you if you have consented.
+The following personal data can be processed for a job application procedure or other recruitment activities:
+Any personal data that you provide through our job application form or that we collect during the recruitment process including, but not limited to:
+Contact details such as full name, email address, phone number
+Picture, cover letter, résumé and LinkedIn profile
+Which job you have applied for
+Statuses, notes, evaluations and planning related to your job application
+Email communications
+Under European data protection law we are required to inform you that withholding personal data in your job application can give you a disadvantage in comparison to other candidates who are applying for the same role.
+Cookie permissions
+Upon visiting our website for the first time you are presented with our cookie consent tool. The cookie consent tool offers Visitors a choice to either accept or reject cookies that require your consent under data protection law. Recruitee will always respect your choices. It’s also possible to either disable or delete our cookies in your internet browser.
+Requests or questions
+Feel free to contact us if you have any questions regarding your personal data. You can also contact us with requests to exercise your rights under European data protection law. Such rights include the rights to access, rectification, erasure, restriction of processing, data portability and object.
+If you have any requests or questions with regard to your personal data you can contact us at:
+hello@recruitee.com
+Updates to this policy
+From time to time, Recruitee will revise this policy, without further notice. Recruitee recommends that you regularly check whether this policy has been revised. However, Recruitee will notify Users via notifications in the in-app live chat or by e-mail about any major changes that would negatively impact Users' interests. This policy does not apply to third-party services that may be accessed through links on the Services.
+Recruitee’s identity and address
+The details of Recruitee are as follows:
+Recruitee B.V., Keizersgracht 313, 1016 EE Amsterdam, The Netherlands.
+Supervisory authority
+The “Autoriteit Persoonsgegevens” is the supervisory authority for the processing of personal data by Recruitee.
+https://autoriteitpersoonsgegevens.nl/
+Datenschutzrichtlinie
+Personenbezogene Daten von Besuchern von Recruitee.com
+Recruitee verarbeitet personenbezogene Daten von Besuchern von Recruitee.com wie in diesem Absatz beschrieben, darin eingeschlossen Daten der Nutzer der SaaS, jedoch ausgenommen die Besucher von Karrierewebsites von Kunden („Besucher“).
+Recruitee erhebt und nutzt die personenbezogenen Daten von Besuchern zu folgenden Zwecken:
+Funktionsfähigkeit der Website;
+Überwachung der Leistung der Website;
+Unterstützung der Geschäftstätigkeiten von Recruitee, einschließlich Vertrieb und Marketing;
+Verbesserung und Optimierung der Website und der Dienstleistungen von Recruitee.
+Zu den oben genannten Zwecken werden personenbezogene Daten der folgenden Kategorien genutzt:
+Gerät, Browser und Website, von der die Besucher auf die besuchte Webseite gelangt sind;
+eindeutige Identifikationsmerkmale;
+Zeitzone und ungefährer Standort;
+Nutzung der Website;
+an Ihr und von Ihrem Gerät gesendete Anfragen und Antworten.
+Recruitee und seine Partner platzieren Cookies für alle unter diesem Absatz aufgeführten Zwecke.
+Recruitee verarbeitet im Rahmen ihrer berechtigten Interessen personenbezogene Daten zu den in diesem Abschnitt genannten Zwecken. Diese berechtigten Interessen entsprechen den Zwecken, zu denen Recruitee personenbezogene Daten verarbeitet. Die in diesem Abschnitt aufgeführten personenbezogenen Daten werden gelöscht, sobald sie zu den Zwecken, zu denen sie erhoben wurden, nicht länger benötigt werden.
+Verantwortlichkeit für personenbezogene Daten von Bewerber/innen und potenziellen Kandidat/innen von Kunden sowie SaaS-Nutzer/innen
+In manchen Fällen verarbeitet Recruitee personenbezogene Daten als Dienstleistung für SaaS-Kunden. SaaS ist die „Software-as-a-Service“ für Rekrutierung, die Recruitee ihren Kundinnen und Kunden (nachfolgend: Kunden) anbietet. In solchen Fällen trägt der Kunde die Verantwortung für die verarbeiteten personenbezogenen Daten. Der Kunde ist dann der Verantwortliche, Recruitee ist der Auftragsverarbeiter. Bewerberinnen und Bewerber, potenzielle Stellenkandidatinnen und -kandidaten sowie Endnutzerinnen und -nutzer der SaaS (nachfolgend: Nutzer) sollten sich für Auskünfte über die Verarbeitung ihrer personenbezogenen Daten im Rahmen unserer SaaS sowie über die Verantwortlichkeiten des Kunden, die möglicherweise von denen von Recruitee abweichen, immer an den Kunden wenden.
+In diesem Dokument sind die Verarbeitungsaktivitäten in Bezug auf SaaS-Nutzer niedergelegt. Recruitee ist jedoch nicht in jedem Fall der Verantwortliche für die personenbezogenen Daten der Nutzer. Bitte beachten Sie daher, dass die Verarbeitungsaktivitäten des Kunden von diesem Dokument abweichen können.
+Personenbezogene Daten von SaaS-Nutzern
+Recruitee verarbeitet zu folgenden Zwecken personenbezogene Daten von SaaS-Nutzern:
+Kundensupport seitens Recruitee und Kundenerfolg;
+Rechnungsstellung und Verwaltung seitens Recruitee;
+Bereitstellung der SaaS von Recruitee und Erbringung zugehöriger Dienstleistungen;
+Vertrieb und Marketing für Produkte und Dienstleistungen von Recruitee.
+Verarbeitet werden die folgenden Kategorien personenbezogener Daten:
+Kontaktdaten wie Anschrift, E-Mail-Adresse und Telefonnummer;
+Support-Korrespondenz;
+Rechnungsdaten;
+Benutzername und Passwort;
+SaaS-Aktivitäten;
+sonstige personenbezogene Daten, wie in die SaaS eingegeben.
+Wie lange personenbezogene Daten aufbewahrt werden, deren Aufbewahrung der Kunde und/oder der Nutzer über die SaaS kontrollieren kann oder über die er im Rahmen der Vereinbarungen zwischen dem Kunden und Recruitee Anweisungsbefugnis hat, bestimmt/bestimmen vorrangig der Kunde und/oder der Nutzer. Recruitee löscht personenbezogene Daten in Bezug auf Nutzer nach Stornierung der Dienstleistungen, zu deren Zweck die personenbezogenen Daten erhoben wurden, und sofern die personenbezogenen Daten zu den in diesem Abschnitt aufgeführten Zwecken nicht länger benötigt werden.
+Die Nutzung und die Übermittlung an andere Anwendungen von Informationen von Google APIs erfolgen im Einklang mit der Nutzerdatenrichtlinie für Google API-Dienstleistungen, einschließlich geltender Nutzungsbeschränkungen, („Limited Use“). Informationen von Google APIs umfassen Daten von Gmail-Konten oder Google-Calendar-Konten, die Nutzer mit der SaaS verknüpfen. Recruitee nutzt Daten aus Gmail-Konten oder Google-Calendar-Konten von Nutzern ausschließlich zum Zwecke der Bereitstellung der SaaS von Recruitee.
+Soziale Medien und verbreitete Inhalte
+Recruitee kann zum Zwecke der Kontaktpflege oder zum Teilen von Inhalten die Dienste unserer Partner nutzen. Zum Beispiel können wir Ihnen Artikel über unsere Facebook-Seite zur Verfügung stellen. Die Dienste von Partnern von Recruitee können für Recruitee oder unsere Partner zu folgenden Zwecken auch zur Verarbeitung personenbezogener Daten oder zur Platzierung von Cookies auf Ihrem Gerät genutzt werden:
+Vertrieb und Marketing für Produkte und Dienstleistungen von Recruitee;
+Produktoptimierung und Verbesserung der Nutzererfahrung;
+Thought Leadership und Branding;
+Kommunikation mit (potenziellen) Kunden.
+Zu den voranstehend genannten Zwecken kann Recruitee die folgenden personenbezogenen Daten verarbeiten:
+Social-Media-Profil;
+eindeutige Kennungen;
+Kontaktdaten.
+Recruitee kann zudem öffentliche Postings in sozialen Medien verarbeiten, um auf dem Laufenden zu bleiben und auf Social-Media-Aktivitäten in Bezug auf ihre Geschäftstätigkeit eingehen zu können.
+Werbung
+Die folgenden Unternehmen verarbeiten Ihre personenbezogenen Daten, die zu Vertriebs- und Marketingzwecken erhoben wurden und dazu dienen, dass Recruitee Ihnen auf Websites und in Anwendungen Dritter Werbung anzeigen kann: Facebook, Google, LinkedIn, Microsoft (Bing), Twitter, Quora, Oath (Yahoo), Reddit und Outbrain. Eindeutige Kennungen (mithilfe von Cookies), Kontaktdaten und Browserverläufe werden zu diesen Zwecken verarbeitet. Von der Verarbeitung Ihrer personenbezogenen Daten zu diesem Zweck können Sie sich über folgende Seiten abmelden:
+http://optout.aboutads.info/
+(Facebook, Google, LinkedIn, Microsoft, Twitter, Oath und Outbrain)
+https://www.quora.com/optout
+(Quora)
+https://www.reddit.com/personalization/
+(Reddit)
+E-Mails und sonstige Korrespondenz
+Recruitee kann Ihnen E-Mails mit Informationen zu Produkten und Dienstleistungen von Recruitee oder mit anderen möglicherweise für Sie interessanten Informationen senden. Dem Empfang solcher E-Mails müssen Sie im Voraus zustimmen. Dies gilt nicht, wenn Sie Dienstleistungen von Recruitee in Anspruch nehmen. Wenn Sie Dienstleistungen von Recruitee in Anspruch nehmen, erhalten Sie gegebenenfalls E-Mails mit Informationen zu ähnlichen Dienstleistungen oder mit Hinweisen dazu, wie Sie unsere Dienstleistungen erfolgreich nutzen können. Unsere E-Mails können Sie per E-Mail an uns oder über den entsprechenden Link in unseren E-Mails abbestellen.
+Korrespondenz zwischen Ihnen und Recruitee wie etwa Chats, E-Mails, Telefonate und private Nachrichten können zum Zwecke der Optimierung unserer Kommunikation und zur späteren Verwendung aufbewahrt werden.
+Bewerber/innen für Stellen bei Recruitee (jobs.recruitee.com)
+Die nachstehenden Bestimmungen gelten für Bewerberinnen und Bewerber für die auf unserer Karriereseite (jobs.recruitee.com) angezeigten Stellen bei Recruitee sowie für sämtliche sonstigen Bewerberinnen und Bewerber und Interessenten für Stellen bei Recruitee. Unsere Kunden haben eigene Datenschutzrichtlinien für ihre Tätigkeiten im Rahmen der Personalrekrutierung, und diese Tätigkeiten fallen nicht unter die vorliegende Datenschutzrichtlinie.
+Recruitee kann Ihre personenbezogenen Daten zu Rekrutierungszwecken auf einem der folgenden drei Wege erfassen:
+Sie bewerben sich auf eine Stelle bei Recruitee: Wenn Sie sich auf eine Stelle bei Recruitee bewerben, verarbeiten wir Ihre personenbezogenen Daten im Rahmen des gesamten Bewerbungsverfahrens auf der Grundlage unserer berechtigten Interessen im Zusammenhang mit der Rekrutierung. Ihre Daten werden von Recruitee bis zu 97 Tage aufbewahrt. Dieser Zeitraum kann um 37 Tage ab unserer letzten E-Mail-Korrespondenz mit Ihnen verlängert werden, um sicherzustellen, dass Ihre personenbezogenen Daten nicht gelöscht werden, solange Ihr Bewerbungsverfahren andauert. Der Aufbewahrungszeitraum kann zudem verlängert werden, wenn Sie Ihre Einwilligung dazu erteilt haben, dass Recruitee Ihr Profil in seinem Talentpool speichert, um Sie über zukünftige Stellenangebote zu informieren und Ihre personenbezogenen Daten anderweitig in Bezug auf die Rekrutierung für Stellen bei Recruitee zu verarbeiten.
+Wir finden Ihre Daten über öffentlich verfügbare Quellen: Recruitee kann aufgrund seiner berechtigten Interessen bei der Personalbeschaffung über öffentlich verfügbare Quellen wie LinkedIn Stellenkandidaten und -kandidatinnen suchen, die über Fähigkeiten, Erfahrungen und Interessen verfügen, die dem Personalbedarf von Recruitee entsprechen. Wenn Recruitee der Ansicht ist, dass Sie dem Personalbedarf von Recruitee entsprechen könnten, wird Recruitee aufgrund seiner berechtigten Interessen für die Personalbeschaffung Ihre personenbezogenen Daten verarbeiten, um Sie zu kontaktieren und Ihre Einwilligung dazu einzuholen, dass Recruitee Sie Stellenangeboten von Recruitee zuordnen und Ihre personenbezogenen Daten anderweitig im Zusammenhang mit der Rekrutierung für freie Stellen bei Recruitee verarbeiten darf. Erteilen Sie diese Einwilligung nicht, werden Ihre personenbezogenen Daten innerhalb von 37 Tagen nach der erstmaligen Erfassung automatisch gelöscht. Wenn nach geltendem Recht eine Zustimmung erforderlich ist, um mit Ihnen in Kontakt zu treten, werden wir Sie nur mit Ihrer Zustimmung kontaktieren.
+Sie werden uns von jemandem empfohlen: Möglicherweise werden Sie uns von einer Person empfohlen, die der Ansicht ist, dass Sie über Fertigkeiten, Erfahrungen und Interessen verfügen, die dem Personalbedarf von Recruitee entsprechen. Wenn wir Ihre Kontaktdaten erhalten haben und der Ansicht sind, dass Sie dem Personalbedarf von Recruitee entsprechen könnten, werden wir Sie aufgrund unserer berechtigten Interessen für die Personalbeschaffung kontaktieren und um Ihre Einwilligung dazu bitten, dass Recruitee Sie Stellenangeboten von Recruitee zuordnen und Ihre personenbezogenen Daten anderweitig im Zusammenhang mit der Rekrutierung für freie Stellen bei Recruitee verarbeiten darf. Erteilen Sie diese Einwilligung nicht, werden Ihre personenbezogenen Daten innerhalb von 37 Tagen nach der erstmaligen Erfassung automatisch gelöscht. Wenn nach geltendem Recht eine Zustimmung erforderlich ist, um mit Ihnen in Kontakt zu treten, werden wir Sie nur mit Ihrer Zustimmung kontaktieren.
+Im Rahmen von Bewerbungsverfahren oder anderweitigen Rekrutierungstätigkeiten können die folgenden personenbezogenen Daten verarbeitet werden:
+sämtliche personenbezogenen Daten, die Sie uns über unser Bewerbungsformular zur Verfügung stellen oder die wir im Rahmen des Rekrutierungsverfahrens erfassen, u. a.:
+Kontaktdaten wie vollständiger Name, E-Mail-Adresse, Telefonnummer
+Bild, Anschreiben, Lebenslauf und LinkedIn-Profil
+die Stelle, auf die Sie sich beworben haben
+Status, Notizen, Bewertungen und Planungsinformationen in Bezug auf Ihre Bewerbung
+E-Mail-Korrespondenz.
+Nach europäischem Datenschutzrecht sind wir verpflichtet, Sie darauf hinzuweisen, dass Ihnen durch die Zurückhaltung personenbezogener Daten in Bewerbungen möglicherweise Nachteile gegenüber Mitbewerbenden entstehen.
+Cookie-Erlaubnis
+Bei Ihrem ersten Besuch auf unserer Website wird Ihnen unser Cookie-Tool angezeigt. Über dieses Tool können Sie Cookies, für die nach geltendem Datenschutzrecht eine Zustimmung erforderlich ist, akzeptieren oder ablehnen. Recruitee respektiert stets Ihre diesbezüglichen Entscheidungen. Sie können Cookies zudem über Ihren Webbrowser deaktivieren oder löschen.
+Anträge und Fragen
+Bei Fragen zu Ihren personenbezogenen Daten stehen wir Ihnen gerne zur Verfügung. Auch mit Anträgen zur Durchsetzung Ihrer Rechte nach europäischem Datenschutzrecht können Sie sich an uns wenden. Sie haben unter anderem ein Recht auf Auskunft, Berichtigung, Löschung, Beschränkung der Verarbeitung, Datenübertragbarkeit und ein Widerspruchsrecht.
+Anträge oder Fragen in Bezug auf Ihre personenbezogenen Daten richten Sie bitte an:
+hello@recruitee.com
+Aktualisierung dieser Richtlinie
+Recruitee wird diese Richtlinie von Zeit zu Zeit ohne Ankündigung aktualisieren. Bitte überprüfen Sie diese Richtlinie regelmäßig auf Aktualisierungen. Von umfassenden Änderungen, die die Nutzerinteressen beeinträchtigen, setzt Recruitee die Nutzer über den Live-Chat in der App oder per E-Mail in Kenntnis. Die vorliegende Richtlinie gilt nicht für Dienste Dritter, zu denen Sie über in den Diensten von Recruitee enthaltene Verlinkungen gelangen können.
+Ihr Kontakt zu Recruitee
+Die Kontaktdaten von Recruitee lauten wie folgt:
+Recruitee B.V., Keizersgracht 313, 1016 EE Amsterdam, Niederlande
+Aufsichtsbehörde
+Die niederländische „Autoriteit Persoonsgegevens“ ist die für die Verarbeitung personenbezogener Daten durch Recruitee zuständige Aufsichtsbehörde.
+https://autoriteitpersoonsgegevens.nl/
+Politique de confidentialité
+Données personnelles des visiteurs de Recruitee.com
+Recruitee traite les données personnelles des visiteurs de Recruitee.com,
+comme décrit dans ce paragraphe, y compris les utilisateurs du SaaS, à l'exclusion des visiteurs des sites web de carrière des clients (Visiteurs).
+Recruitee recueille et utilise les données personnelles des Visiteurs pour :
+Le fonctionnement du site web ;
+Le suivi des performances du site web ;
+Soutenir les opérations commerciales de Recruitee, y compris les ventes et le marketing ;
+Améliorer et optimiser le site web et les services de Recruitee.
+Les catégories de données à caractère personnel utilisées aux fins énumérées dans ce paragraphe sont les suivantes :
+Appareil, navigateur et référent ;
+Identificateurs uniques ;
+Fuseau horaire et lieu approximatif ;
+Utilisation du site web ;
+Demandes et réponses envoyées vers et depuis votre appareil.
+Recruitee et ses partenaires placent des cookies à toutes les fins énumérées dans le présent paragraphe.
+Recruitee utilise ses intérêts légitimes pour le traitement des données à caractère personnel aux fins énumérées dans le présent paragraphe, ces intérêts légitimes sont les mêmes que les finalités pour lesquelles Recruitee traite les données à caractère personnel. Les données à caractère personnel énumérées dans ce paragraphe seront supprimées lorsqu'elles ne seront plus nécessaires aux fins pour lesquelles elles ont été collectées.
+Responsabilité des données à caractère personnel des candidats du client, des candidats potentiels et des utilisateurs du SaaS
+Dans certains cas, Recruitee traite les données à caractère personnel comme un service pour les clients SaaS. Le SaaS est le logiciel-service de recrutement que Recruitee propose à ses clients (Clients). Dans ces cas, le Client est responsable des données à caractère personnel qui sont traitées, en d'autres termes, le Client est le responsable du traitement et Recruitee est le sous-traitant. Les candidats à un emploi, les candidats potentiels à un emploi et les utilisateurs finaux du SaaS (Utilisateurs) doivent toujours contacter le Client pour obtenir plus d'informations sur la manière dont leurs données à caractère personnel sont traitées dans notre SaaS, et sur les responsabilités du Client par rapport à celles de Recruitee.
+Le présent document décrit les activités de traitement concernant les Utilisateurs du SaaS, malgré le fait que Recruitee ne soit pas toujours le Responsable du traitement des données à caractère personnel des Utilisateurs. Veuillez noter que les activités de traitement que le Client effectue peuvent ne pas être conformes au présent document.
+Données à caractère personnel des Utilisateurs du SaaS
+Recruitee traite les données à caractère personnel des Utilisateurs pour les finalités suivantes :
+Le soutien aux Clients de Recruitee et son succès ;
+La facturation et l'administration de Recruitee ;
+La fourniture du SaaS de Recruitee et des services annexes ;
+La vente et le marketing des produits et services de Recruitee.
+Les catégories suivantes de données à caractère personnel des Utilisateurs sont traitées :
+Coordonnées telles que l'adresse, l'adresse électronique et le numéro de téléphone ;
+Communications de soutien ;
+Les données de facturation ;
+Le nom d'utilisateur et mot de passe ;
+Activités au sein du Saas ;
+Autres données à caractère personnel saisies dans le SaaS.
+Le Client et/ou l'Utilisateur décide en premier lieu de la période de conservation de toutes les données à caractère personnel dont il peut contrôler la conservation par le biais du SaaS ou pour lesquelles il peut donner des instructions dans le cadre des accords entre le Client et Recruitee. Recruitee supprimera les données à caractère personnel relatives aux Utilisateurs après que les services associés aux données à caractère personnel auront été annulés et que lesdites données ne seront plus nécessaires à l'une des finalités énumérées dans le présent paragraphe.
+L'utilisation et le transfert par Recruitee vers toute autre application des informations reçues des Google API respecteront les règles relatives aux données utilisateur des services Google API, y compris les exigences d'utilisation limitée « Limited Use ». Les informations provenant des API Google comprennent les informations de tout compte Gmail ou Google Agenda qu'un Utilisateur connecte au SaaS. Recruitee n'utilisera pas les informations provenant du compte Gmail ou du compte Google Agenda d'un Utilisateur à d'autres finalités que la fourniture du SaaS de Recruitee.
+Réseaux sociaux et contenus distribués
+Recruitee peut utiliser les services de nos partenaires pour rester en contact avec vous ou pour vous fournir du contenu. Par exemple, nous pouvons vous fournir des articles par le biais de notre page Facebook. Les services des partenaires de Recruitee peuvent également être utilisés par Recruitee et ses partenaires pour traiter des données à caractère personnel ou placer des cookies sur votre appareil pour les finalités suivantes :
+La vente et le marketing des produits et services de Recruitee ;
+Améliorer notre produit et l'expérience de l'utilisateur ;
+Leadership et stratégie de marque ;
+La communication avec les clients existants et potentiels.
+Recruitee peut traiter les données à caractère personnel suivantes pour les finalités énumérées ci-dessus dans le présent paragraphe :
+Profil de réseau social ;
+Identifiants uniques ;
+Information de contact.
+Recruitee peut également traiter des publications publiques sur les réseaux sociaux afin de se tenir au courant de l'activité sur les réseaux sociaux en rapport avec son activité et d'y répondre.
+Publicité
+Les sociétés suivantes traitent vos données à caractère personnel qui ont été collectées à des finalités de marketing et de vente pour aider Recruitee à vous proposer des publicités de Recruitee sur les sites Internet et les applications de tiers : Facebook, Google, LinkedIn, Microsoft (Bing), Twitter, Quora, Oath (Yahoo), Reddit et Outbrain. Des identifiants uniques (à l'aide de cookies), des coordonnées et l'historique de navigation sont traités pour ces finalités. Des options de refus de traitement de vos données à caractère personnel pour cette finalité sont disponibles sur les pages suivantes :
+http://optout.aboutads.info/
+(Facebook, Google, LinkedIn, Microsoft, Twitter, Oath et Outbrain)
+https://www.quora.com/optout
+(Quora)
+https://www.reddit.com/personalization/
+(Reddit)
+Courriels et autres communications
+Recruitee peut vous envoyer des courriels contenant des informations sur ses produits et services ou d'autres informations susceptibles de vous intéresser. Les courriels ne seront envoyés que sur la base de l'option de consentement, à moins que vous ne vous inscriviez aux services de Recruitee. Si vous êtes inscrit à un service de Recruitee, vous pouvez recevoir des courriels sur des services similaires ou pour vous aider à devenir un utilisateur efficace de nos services. Vous pouvez nous contacter par courriel pour vous désabonner de nos courriers électroniques ou utiliser les liens de désabonnement fournis dans les communications par courriel que nous vous envoyons.
+Les communications entre vous et Recruitee, telles que les chats, les courriels, les conversations téléphoniques et les messages privés, peuvent être stockées afin d'améliorer nos communications et pour référence future.
+Candidats à des emplois chez Recruitee (jobs.recruitee.com)
+Cette section s'applique aux personnes qui postulent à des emplois chez Recruitee tels que présentés sur notre site carrière (jobs.recruitee.com) et à tout autre candidat ou candidat potentiel pour tout emploi chez Recruitee. Nos clients ont des politiques de confidentialité distinctes pour leurs activités de recrutement et celles-ci ne sont pas soumises à la présente politique de confidentialité.
+Recruitee peut collecter vos données à caractère personnel à des fins de recrutement de l'une des trois manières suivantes :
+Vous postulez à un emploi chez Recruitee : Si vous postulez à un emploi chez Recruitee, nous traitons vos données à caractère personnel pour faciliter l'ensemble de la procédure de candidature en raison de nos intérêts légitimes de recrutement. Vos données seront conservées par Recruitee pendant une durée maximale de 97 jours. Cette période peut être prolongée de 37 jours après notre dernier échange par e-mail afin de s'assurer que vos données à caractère personnel ne soient pas supprimées au cours de votre procédure de candidature. La période de conservation peut également être prolongée si vous autorisez Recruitee à garder votre profil dans sa réserve de talents pour pouvoir vous contacter en cas de futures opportunités d'emploi et traiter autrement vos données à caractère personnel dans le cadre du recrutement pour des postes à pourvoir chez Recruitee.
+Nous vous recherchons en utilisant des ressources accessibles au public : Recruitee peut, en fonction de ses intérêts légitimes pour le recrutement, rechercher dans des ressources accessibles au public comme LinkedIn pour trouver des candidats ayant des compétences, de l'expérience et des intérêts correspondant aux besoins en personnel de Recruitee. Si Recruitee considère que vous pouvez correspondre à ses besoins en personnel, Recruitee traitera vos données à caractère personnel, dans le cadre de ses intérêts légitimes pour le recrutement, afin de vous contacter et de vous demander l’autorisation de vous mettre en relation avec des opportunités d'emploi chez Recruitee, et de traiter autrement vos données à caractère personnel dans le cadre du recrutement pour des postes à pourvoir chez Recruitee. À défaut de votre consentement, vos données à caractère personnel seront automatiquement supprimées dans les 37 jours suivant leur première collecte. Lorsque le droit applicable exige le consentement pour vous contacter, nous ne vous contacterons qu'avec votre consentement.
+Vous êtes recommandé par quelqu'un : Quelqu'un qui vous connaît peut vous recommander à nous parce que cette personne pense que vous avez des compétences, de l'expérience et des intérêts qui correspondent aux besoins en personnel de Recruitee. Dès réception de vos coordonnées et après avoir déterminé que vous êtes un bon candidat, nous vous contacterons, en fonction de nos intérêts légitimes pour le recrutement, pour vous demander l’autorisation de vous associer à des opportunités d'emploi chez Recruitee et pour traiter autrement vos données à caractère personnel dans le cadre du recrutement pour des postes à pourvoir chez Recruitee. À défaut de votre consentement, vos données à caractère personnel seront automatiquement supprimées dans les 37 jours suivant leur première collecte. Lorsque le droit applicable exige le consentement pour vous contacter, nous ne vous contacterons qu'avec votre consentement.
+Les données à caractère personnel suivantes peuvent être traitées dans le cadre d’une procédure de candidature ou d'autres activités de recrutement :
+Toute donnée à caractère personnel que vous fournissez par le biais de notre formulaire de candidature ou que nous recueillons au cours du processus de recrutement, y compris, mais sans s'y limiter :
+Coordonnées telles que le nom complet, l'adresse électronique, le numéro de téléphone
+Photo, lettre de motivation, curriculum vitae et profil LinkedIn
+L'emploi pour lequel vous avez postulé
+Statuts, notes, évaluations et planification liés à votre demande d'emploi
+Communications par courriel
+En vertu de la législation européenne sur la protection des données, nous sommes tenus de vous informer que la rétention de données à caractère personnel dans votre candidature peut vous désavantager par rapport aux autres candidats qui postulent au même poste.
+Autorisation des cookies
+Lorsque vous visitez notre site Internet pour la première fois, notre outil de consentement aux cookies vous est présenté. L'outil de consentement aux cookies offre aux visiteurs le choix d'accepter ou de refuser les cookies qui nécessitent votre consentement en vertu de la loi sur la protection des données. Recruitee respectera toujours vos choix. Il est également possible de désactiver ou de supprimer nos cookies dans votre navigateur Internet.
+Demandes ou questions
+N'hésitez pas à nous contacter si vous avez des questions concernant vos données à caractère personnel. Vous pouvez également nous contacter pour nous demander d'exercer vos droits en vertu de la législation européenne sur la protection des données. Ces droits comprennent les droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité des données et d'opposition.
+Si vous avez des demandes ou des questions concernant vos données à caractère personnel, vous pouvez nous contacter à l'adresse suivante :
+hello@recruitee.com
+Mises à jour de cette politique
+De temps en temps, Recruitee révisera cette politique, sans autre notification. Recruitee vous recommande de vérifier régulièrement si cette politique a été modifiée. Toutefois, Recruitee informera les Utilisateurs, par le biais de notifications dans le chat en direct de l'application ou par courriel, de tout changement majeur qui pourrait avoir un impact négatif sur les intérêts des Utilisateurs. Cette politique ne s'applique pas aux services de tiers auxquels on peut accéder par des liens sur les Services.
+Identité et adresse de Recruitee
+Les coordonnées de Recruitee sont les suivantes :
+Recruitee B.V., Keizersgracht 313, 1016 EE Amsterdam, Pays-Bas.
+Autorité de contrôle
+L'instance « Autoriteit Persoonsgegevens » est l'autorité de contrôle du traitement des données à caractère personnel par Recruitee.
+https://autoriteitpersoonsgegevens.nl/
+Privacybeleid
+Persoonsgegevens van bezoekers van Recruitee.com
+Recruitee verwerkt de persoonsgegevens van bezoekers van Recruitee.com zoals beschreven in deze paragraaf. Hieronder vallen ook de gebruikers van de SaaS, maar niet de bezoekers van vacaturewebsites van klanten (Bezoekers).
+Recruitee verwerkt en gebruikt de persoonsgegevens van Bezoekers ten behoeve van:
+Het functioneren van de website;
+Het toezicht op de prestaties van de website;
+Het ondersteunen van de bedrijfsactiviteiten van Recruitee, met inbegrip van sales en marketing;
+Het verbeteren en optimaliseren van de website en dienstverlening van Recruitee.
+De categorieën persoonsgegevens die voor de in deze paragraaf genoemde doeleinden worden gebruikt, zijn:
+Apparaat, browser en referrer;
+Unieke identificatoren;
+Tijdzone en geschatte locatie;
+Gebruik van de website;
+Verzoeken en responsen die van en naar uw apparaat worden verzonden.
+Recruitee en haar partners plaatsen cookies voor alle hiervoor genoemde doeleinden.
+Recruitee beroept zich op haar gerechtvaardigde belangen voor het verwerken van persoonsgegevens voor de in deze paragraaf genoemde doeleinden, waarbij geldt dat die gerechtvaardigde belangen gelijk zijn aan de doeleinden waarvoor Recruitee persoonsgegevens verwerkt. De in deze paragraaf genoemde persoonsgegevens worden verwijderd zodra ze niet langer nodig zijn voor het doel waarvoor ze zijn verzameld.
+Verantwoordelijkheid voor persoonsgegevens van sollicitanten van de Klant, potentiële kandidaten en Gebruikers van de SaaS
+In sommige gevallen verwerkt Recruitee persoonsgegevens als dienst voor SaaS-klanten. De SaaS is de "software-as-a-service" voor wervingsdoeleinden die Recruitee aanbiedt aan klanten ("Klanten"). In die gevallen draagt de Klant de verantwoordelijkheid voor de persoonsgegevens die worden verwerkt, dat wil zeggen dat de Klant de verwerkingsverantwoordelijke is en Recruitee de verwerker. Sollicitanten, potentiële kandidaten en eindgebruikers van de SaaS ("Gebruikers") moeten altijd contact opnemen met de Klant voor meer informatie over de wijze waarop hun persoonsgegevens worden verwerkt met behulp van onze SaaS en de verdeling van de verantwoordelijkheden tussen de Klant en Recruitee.
+In dit document worden de verwerkingsactiviteiten met betrekking tot Gebruikers van de SaaS beschreven, ondanks het feit dat Recruitee niet altijd de verwerkingsverantwoordelijke is voor persoonsgegevens van Gebruikers. Wij maken u erop attent dat de verwerkingsactiviteiten die de Klant uitvoert mogelijk niet altijd in overeenstemming zijn met dit document.
+Persoonsgegevens van Gebruikers van de SaaS
+Recruitee verwerkt persoonsgegevens van Gebruikers voor de volgende doeleinden:
+Klantondersteuning door en het succes van Recruitee;
+Facturering door en de boekhouding van Recruitee;
+Het bieden van de SaaS van Recruitee en bijbehorende diensten;
+Verkoop en marketing van de producten en diensten van Recruitee.
+De volgende categorieën van persoonsgegevens van Gebruikers worden verwerkt:
+Contactgegevens, zoals adres, e-mailadres en telefoonnummer;
+Communicatie over ondersteuning;
+Facturatiegegevens;
+Gebruikersnaam en wachtwoord;
+Activiteiten in de SaaS;
+Overige persoonsgegevens die in de SaaS worden ingevoerd.
+Primair bepaalt de Klant en/of de Gebruiker de bewaartermijn voor alle persoonsgegevens waarvan hij de opslag via de SaaS kan beheren of waarvoor hij aanwijzingen kan geven op grond van de overeenkomsten tussen de Klant en Recruitee. Recruitee zal alle persoonsgegevens met betrekking tot Gebruikers verwijderen na annulering van de met de persoonsgegevens samenhangende dienstverlening en zodra die persoonsgegevens niet langer nodig zijn voor een van de in deze paragraaf genoemde doeleinden.
+Het gebruik en de doorgifte door Recruitee naar andere apps van informatie die wordt ontvangen van Google API's zal in overeenstemming zijn met het Beleid inzake Gebruikersgegevens voor Google API-diensten, daaronder begrepen de voorschriften voor beperkt gebruik (“Limited Use”). Onder informatie van Google API's wordt mede begrepen informatie uit enig Gmail-account of Google Calendar-account waarmee een Gebruiker verbinding maakt met de SaaS. Recruitee zal geen gebruik maken van informatie uit een Gmail-account of Google Calendar-account van een Gebruiker voor enig ander doel dan het bieden van de SaaS van Recruitee.
+Sociale media en verspreide content
+Recruitee kan gebruikmaken van de diensten van onze partners om met u in contact te blijven of aan u content ter beschikking te stellen. Zo kunnen wij u artikelen bieden via onze Facebook-pagina. Recruitee en haar partners kunnen ook gebruikmaken van diensten van de partners van Recruitee voor het verwerken van persoonsgegevens of het plaatsen van cookies op uw apparaat voor de volgende doeleinden:
+Verkoop en marketing van de producten en diensten van Recruitee;
+Het verbeteren van onze producten en gebruikerservaring;
+Doordacht(e) leiderschap en branding;
+Communicatie met (potentiële) klanten.
+Recruitee kan de volgende persoonsgegevens verwerken voor de hiervoor in deze paragraaf genoemde doeleinden:
+Profiel op sociale media;
+Unieke identificatoren;
+Contactgegevens.
+Daarnaast kan Recruitee ook openbare berichten op sociale media verwerken om op de hoogte te blijven van en in te spelen op activiteiten op sociale media met betrekking tot haar onderneming.
+Advertenties
+De volgende ondernemingen verwerken uw persoonsgegevens die zijn verzameld ten behoeve van marketing en verkoop om Recruitee te helpen om u de advertenties van Recruitee te tonen op websites en applicaties van derden: Facebook, Google, LinkedIn, Microsoft (Bing), Twitter, Quora, Oath (Yahoo), Reddit en Outbrain. Voor die doeleinden worden unieke identificatoren (met behulp van cookies), contactgegevens en browsergeschiedenis verwerkt. Op de volgende pagina's zijn links (opt-outs) te vinden waarmee u kunt aangegeven dat u niet wilt dat uw persoonsgegevens voor dit doel worden verwerkt:
+http://optout.aboutads.info/
+(Facebook, Google, LinkedIn, Microsoft, Twitter, Oath en Outbrain)
+https://www.quora.com/optout
+(Quora)
+https://www.reddit.com/personalization/
+(Reddit)
+E-mails & andere communicatie
+Recruitee kan u e-mails sturen met informatie over de producten en diensten van Recruitee, of andere informatie die voor u interessant kan zijn. E-mails worden uitsluitend toegezonden als u hebt aangegeven dat u dat wenst (opt-in), tenzij u zich registreert voor de diensten van Recruitee. Als u geregistreerd bent voor een dienst van Recruitee, dan kunt u e-mails ontvangen over soortgelijke diensten of om u te helpen doeltreffend gebruik te maken van onze diensten. U kunt contact met ons opnemen per e-mail om aan te geven dat u onze e-mails niet wenst te ontvangen (opt-out) of gebruikmaken van de links in de e-mailberichten die wij u toesturen om u af te melden (unsubscribe).
+Communicatie tussen u en Recruitee, zoals chats, e-mails, telefoongesprekken en privéberichten kunnen worden opgeslagen voor het verbeteren van onze communicatie en om later nogmaals te kunnen inzien.
+Sollicitanten naar banen via Recruitee (jobs.recruitee.com)
+Dit gedeelte geldt voor sollicitanten naar banen bij Recruitee zoals die verschijnen op onze Werken-bij Site (jobs.recruitee.com) en alle andere (potentiële) kandidaten voor banen bij Recruitee. Onze klanten hebben een apart privacybeleid voor hun wervingsactiviteiten en dergelijke wervingsactiviteiten vallen niet onder dit privacybeleid.
+Recruitee kan op een van de volgende drie manieren uw persoonsgegevens voor wervingsdoeleinden verzamelen:
+U solliciteert naar een baan bij Recruitee: Als u solliciteert naar een baan bij Recruitee, dan zullen wij uw persoonsgegevens verwerken om de gehele sollicitatieprocedure mogelijk te maken op basis van onze gerechtvaardigde belangen ten behoeve van werving. Uw gegevens worden maximaal 97 dagen door Recruitee bewaard. Die termijn kan worden verlengd met 37 dagen nadat wij voor het laatst e-mailcontact met u hebben gehad, zodat uw persoonsgegevens niet worden verwijderd terwijl u nog in een sollicitatieprocedure zit. De bewaartermijn kan ook worden verlengd indien u Recruitee toestemming geeft om uw profiel in haar talentenbestand te bewaren, zodat Recruitee u bij toekomstige vacatures kan bereiken en uw persoonsgegevens anderszins kunnen worden verwerkt in verband met de werving voor vacatures bij Recruitee.
+Wij werven u via openbare bronnen: Recruitee kan op grond van haar gerechtvaardigde belangen voor werving openbare bronnen zoals LinkedIn raadplegen om kandidaten te vinden die beschikken over vaardigheden, ervaring en interesses die aansluiten bij de personeelsbehoeften van Recruitee. Als Recruitee van mening is dat u beantwoordt aan de personeelsbehoeften van Recruitee, dan zal Recruitee op grond van haar gerechtvaardigde belangen voor werving uw persoonsgegevens verwerken om contact met u op te nemen en uw toestemming te vragen om u aan vacatures bij Recruitee te koppelen en om uw persoonsgegevens anderszins te verwerken in verband met de werving voor vacatures bij Recruitee. Als de toestemming niet wordt gegeven, dan worden uw persoonsgegevens automatisch verwijderd binnen 37 dagen nadat deze voor het eerst zijn verzameld. Indien onder de toepasselijke wetgeving toestemming vereist is om contact met je op te nemen zullen wij alleen contact met je opnemen als je daar toestemming voor hebt gegeven.
+U wordt door iemand doorverwezen: Iemand die u kent, kan u naar ons doorverwijzen, omdat diegene van mening is dat u beschikt over vaardigheden, ervaring en interesses die aansluiten bij de personeelsbehoeften van Recruitee. Wanneer wij uw contactgegevens ontvangen en vaststellen dat u aan de eisen voldoet, dan zullen wij op grond van onze gerechtvaardigde belangen voor werving contact met u opnemen om uw toestemming te vragen om u aan vacatures bij Recruitee te koppelen en om uw persoonsgegevens anderszins te verwerken in verband met de werving voor vacatures bij Recruitee. Als de toestemming niet wordt gegeven, dan worden uw persoonsgegevens automatisch verwijderd binnen 37 dagen nadat deze voor het eerst zijn verzameld. Indien onder de toepasselijke wetgeving toestemming vereist is om contact met je op te nemen zullen wij alleen contact met je opnemen als je daar toestemming voor hebt gegeven.
+De volgende persoonsgegevens kunnen worden verwerkt ten behoeve van een sollicitatieprocedure of andere wervingsactiviteiten:
+Alle persoonsgegevens die u verstrekt via ons sollicitatieformulier of die wij tijdens het wervingsproces verzamelen, daaronder begrepen doch niet beperkt tot:
+Contactgegevens zoals volledige naam, e-mailadres, telefoonnummer
+Foto, begeleidende brief, cv en LinkedIn-profiel
+Naar welke functie u hebt gesolliciteerd
+Statussen, aantekeningen, evaluaties en planning met betrekking tot uw sollicitatie
+E-mailberichten
+Op grond van Europese wetgeving inzake gegevensbescherming zijn wij verplicht om u te laten weten dat het niet verstrekken van persoonsgegevens bij uw sollicitatie nadeel voor u kan opleveren in vergelijking met andere kandidaten die naar dezelfde functie solliciteren.
+Cookietoestemmingen
+Als u onze website voor het eerst bezoekt, krijgt u onze cookietoestemmingstool te zien. De cookietoestemmingstool biedt Bezoekers de mogelijkheid om cookies waarvoor op grond van wetgeving inzake gegevensbescherming uw toestemming vereist is te accepteren of te weigeren. Recruitee zal uw keuzes altijd respecteren. Het is ook mogelijk om onze cookies via uw internetbrowser uit te schakelen of te verwijderen.
+Verzoeken of vragen
+Voor vragen over uw persoonsgegevens kunt u altijd contact met ons opnemen. Ook kunt u contact met ons opnemen voor verzoeken tot uitoefening van uw rechten op grond van Europese wetgeving inzake gegevensbescherming. Die rechten betreffen onder meer het recht op inzage, rectificatie, wissing en beperking van de verwerking, rechten met betrekking tot overdraagbaarheid van gegevens en het recht van bezwaar.
+Voor verzoeken of vragen met betrekking tot uw persoonsgegevens kunt u contact met ons opnemen via:
+hello@recruitee.com
+Aanpassingen in dit beleid
+Recruitee zal dit beleid van tijd tot tijd herzien zonder nadere kennisgeving. Wij raden u dan ook aan regelmatig te controleren of dit beleidsdocument is gewijzigd. Recruitee zal Gebruikers wel via de in-app live chat of per e-mail op de hoogte stellen van grote wijzigingen die nadelige gevolgen zouden hebben voor de belangen van Gebruikers. Dit beleid geldt niet voor diensten van derden waartoe u mogelijk toegang verkrijgt via links in de Dienst.
+Identiteit en adres van Recruitee
+De gegevens van Recruitee luiden als volgt:
+Recruitee B.V., Keizersgracht 313, 1016 EE Amsterdam, Nederland.
+Toezichthoudende autoriteit
+De “Autoriteit Persoonsgegevens” is de toezichthoudende autoriteit voor de verwerking van persoonsgegevens door Recruitee.
+https://autoriteitpersoonsgegevens.nl/
+As seen on
+Follow us
+Language
+English
+Product
+Compare solutions
+Roadmap
+Roadmap
+Mobile apps
+Marketplace
+Status
+Company
+Careers
+Press resources
+Contact us
+Impressum
+Vulnerability disclosure program
+Resources
+Help center
+FAQ
+Blog
+Sales
+sales@recruitee.com
+Get a demo now
+US: +1 888-272-3709
+EU: +31 85 888 0226
+Copyright © 2021 Recruitee.com. All rights reserved.
+Terms & Conditions
+Privacy
+GDPR
+Choose company...
+Nederlands
+Deutsch
+Français
+Launch solutions
+Promote jobs to new talent
+Hire together with your team
+Integrate with your hiring tech stack
+Expand your hiring reach
+Scale solutions
+Automate recurring actions
+Create optimized processes
+Broaden your talent search
+Measure success
+Lead solutions
+Empower your hiring team
+Customize your experience
+All plans
+See which solution is a fit for you.
+Schedule your demo
+US: +1 888-272-3709
+EU: +31 85 888 0226
+How many job openings do you have live right now?
+1-10
+10-50
+50-200
+200+
+Continue
+Launch
+Kickstart your recruitment with all of the essentials.
+Scale
+Extend, optimize, and automate your most important hiring processes.
+Lead
+Align your recruitment strategy to your mission.
+Plans
+Solutions
+Launch
+Scale
+Lead
+Plans
+Customers
+Pricing
+Blog
+Log in
+Try for free
+Languages
+Nederlands
+Deutsch
+Français

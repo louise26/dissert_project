@@ -1,0 +1,40 @@
+Policy – NHSmail Support
+Menu
+Help Home Portal Home Email Service Status Announcements Contact
+Home
+Policy
+Search For
+Search
+Policy
+Information Management Policies
+Information is stored in the NHSmail service for a variety of reasons and is retained in accordance with our policies.
+General Data Protection Regulation (GDPR)
+How GDPR is used on NHSmail in England's policies.
+Access Policy
+NHSmail is available to organisations with a valid reason to use it. The NHSmail Access Policy provides full details.
+Acceptable Use Policy
+Explains how the NHSmail service should be used and users' responsibilities when consuming the services provided. It is your responsibility to
+ensure you understand and comply with this policy.
+Clinical Safety
+The NHSmail Service is approved for the exchange of clinical/sensitive data in line with the National Clinical Safety Case.
+ISO Compliance Documentation
+Details of the ISO Standards that NHSmail is compliant with.
+Transport Layer Security (TLS) Deprecation Guidance
+Microsoft will start removing access within O365 and Exchange Online for connectivity using TLS versions 1.0 and 1.1 on 15 October 2020.
+Need Support?Can’t find the answer you’re looking for? Don’t worry we’re here to help!Contact Support
+Announcements
+INC23132709 – Users aren’t receiving Briefing email – RESOLVED
+12/08/2021
+INC23123156 – Delayed email delivery from external domain – RESOLVED
+11/08/2021
+Microsoft 365 Alert : Service Degradation – Custom connector added to a DLP policy via PowerShell may be removed if policy is edited in Power Platform admin center – RESOLVED
+09/08/2021
+Popular Articles
+Reset your password
+Registering for an NHSmail account
+Mobile Device Support Guide
+Start a Chat
+Refresh User Guide
+Need Support?Can’t find the answer you’re looking for? Don’t worry we’re here to help!Contact Support
+© 2021 Accenture. All Rights Reserved.
+Help Home Portal Home Email Service Status Announcements Contact

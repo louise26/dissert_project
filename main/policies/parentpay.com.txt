@@ -1,0 +1,283 @@
+Privacy Notice - ParentPay
+Home
+What We Do
+Our Product
+Schoolcomms
+Data Protection and Security
+Case Studies
+Parents
+Help
+Forgotten login details?
+Login
+Forgotten login details?
+Privacy Notice
+Privacy Notice for ParentPay Users
+ParentPay (Holdings) Limited (“ParentPay Group”) through its subsidiaries ParentPay Limited, Nimbl Limited, Cypad Limited and Just Education Limited is engaged in the design, development, sales, marketing, supply, operation and maintenance of, in the case of ParentPay Limited (“PPL”) and Cypad Limited , payment collection, payment processing, school meal management, parent communication and management information systems and services for the education market, in the case of Nimbl Limited, youth banking, payment and debit card issuing services, and, in the case of Just Education Limited, education recruitment services (together the “Group Products and Services”).
+This notice explains to ParentPay Users (“you/your”) how ParentPay Group (“we/us”) use your personal information.
+This privacy notice covers:
+Why we use your personal information
+The legal basis for processing
+What personal information we use
+How we use your personal information
+Your rights under data protection legislation
+Sharing personal information with third parties
+How long we may keep your information
+Changes to our privacy notice
+Contact details for our Data Protection Officer
+Why we use your personal information
+The PPL payment solutions, catering systems and communication platforms (“PPL Products and Services”), which are marketed in the UK under the ParentPay, Schoolcomms and Cypad brands, are provided to schools and their parents governed by a contract between us and the schools, Multi-Academy Trust or a Local Education Authority (“ParentPay Customer”), and also the Terms and Conditions that you agree with when you sign up (“ParentPay User”).
+We process your personal data for the following purposes:
+to provide you with the service activated and registered for
+the verification of your identity where required
+for the prevention and detection of crime, fraud and anti-money laundering
+for the ongoing administration of the service
+to allow us to improve the products and services we offer to our customers
+to ask for your opinion about our products and offer surveys
+for research and statistical analysis including payment and usage patterns
+We only use the data in an anonymized manner when we use your data for this purpose.
+to enable us to comply with our legal and regulatory obligations
+to offer new products and services to you which are relevant and appropriate, and only to the extent that would be reasonably expected.
+If we plan to introduce further processes for the use of your information, we will provide information about that purpose prior to such processing.
+The legal basis for processing
+Under Data Protection Law, there are various grounds which are considered to be a ‘legal basis for processing’.
+The legal basis for processing should be determined by the Data Controller.
+Where we are the Data Processor, the legal basis is determined by the Customer. Typically, the legal basis in this scenario is:
+‘processing is necessary for the performance of a task carried out in the public interest’
+and/or
+‘processing is necessary for the purposes of legitimate interests pursued by the controller’
+Where we are the Data Controller, the legal basis for processing is based on:
+‘processing is necessary for the purposes of legitimate interests pursued by the controller’
+It should be noted that in some circumstances this legal basis may vary, however, we always operate in full compliance with Data Protection Law and will only process data with a fair and reasonable legal basis for doing so.
+What personal information we process
+In order to carry out these services, we obtain (either from the Customer and/or from you directly) and process the following information:
+Data Subject (Who)
+Data Category (What)
+Description
+Pupil \ Student
+Forename
+This is the forename of the pupil.
+Pupil \ Student
+Surname
+This is the surname of the pupil.
+Pupil \ Student
+Known as
+This is the name that the pupil is known as.
+Pupil \ Student
+DOB
+This is the date of birth of the pupil.
+Pupil \ Student
+Gender
+This is the pupil’s gender
+Pupil \ Student
+Groups
+Registration group (if any), year, other groups
+Pupil \ Student
+Salutation
+This is the pupil’s salutation.
+Pupil \ Student
+Dietary Requirements
+This is the pupils special dietary requirements
+Pupil \ Student
+Postal Address
+The student’s postal address
+Pupil \ Student
+Identifiers
+Roll/Admission number, UPN, management system identifier
+Pupil \ Student
+Meal Selections and spend history
+This is a history of a pupil’s meal selections and spends for school meals or non-meal-related items, including free school meals
+Pupil \ Student
+Trip information
+Trip details collected from parents, e.g. emergency contacts, medical details, dietary requirements, doctor’s contact, EHIC and Passport
+Parents \ Contacts
+Title
+This is the contact’s title (Mr, Mrs, Ms, etc).
+Parents \ Contacts
+Forename
+This is the contact’s forename.
+Parents \ Contacts
+Surname
+This is the contact’s surname.
+Parents \ Contacts
+Authentication data
+Username and password, single-sign-or multi-factor-authentication tokens
+Parents \ Contacts
+Gender
+The contact’s gender (Salutation)
+Parents \ Contacts
+House Name
+The text entered as the contact’s house name.
+Parents \ Contacts
+Street
+The text entered as the contact’s street.
+Parents \ Contacts
+Locality
+The text entered as the contact’s locality.
+Parents \ Contacts
+Town
+The text entered as the contact’s town.
+Parents \ Contacts
+Postcode
+The text entered as the contact’s post code.
+Parents \ Contacts
+Day Telephone
+The contact’s daytime telephone number.
+Parents \ Contacts
+Home Telephone
+The contact’s home telephone number.
+Parents \ Contacts
+Mobile Telephone
+This is the contact’s mobile telephone number used to receive alerts from Parentpay and for school communications
+Parents \ Contacts
+Email
+This is the contact’s E-mail address used to receive communications from Parentpay and for school communications.
+Parents \ Contacts
+Payment History and balances
+This is the contact’s history of payment transactions, including reversals, refunds and withdrawals of funds.
+Parents \ Contacts
+Payment card details
+Payment card details are captured and passed to a 3rd party for authorisation.
+Parents \ Contacts
+Other
+This is the contact’s alternative communication method.
+Parents \ Contacts
+In-app messages
+Messages sent from parents to school within the ParentPay application
+Parents \ Contacts
+Message Status
+We may record the ‘opened’ status of emails sent from the platform, via pixel tags
+Parents \ Contacts
+Trouble ticket data
+When users submit trouble ticket information, this gets stored.
+Parents \ Contacts
+Shop information
+ParentPay can be used as a payment page from externally or internally hosted shop systems. This the information captured as part of that (“shopping basket”).
+Parents \ Contacts
+Browser Details
+IP address, cookies, browser information
+Parents \ Contacts
+Scottish UPRN
+For users in Scotland who sign up via MyGovScot
+School Staff
+Title
+This is the staff member’s title (Mr, Mrs, Ms, etc.).
+School Staff
+Forename
+This is the staff member’s forename.
+School Staff
+Surname
+This is the staff member’s surname.
+School Staff
+Gender
+The staff member’s gender
+Website Access
+IP Address
+The network address of your device or internet connection
+Website Access
+Browser Type and Version
+The type of Web Browser your device is using
+Website Access
+Cookies
+Special records in your browser to help the website operate
+Website Access
+Web Analytics
+Generalised information about browsing behaviour and page statistics
+How we process your personal information
+We use your personal information, and some of our employees have access to such information, only to the extent required to carry out the services for you and on behalf of the Customer.
+We have introduced appropriate technical and organisational measures to protect the confidentiality, integrity and availability of your personal information during storage, processing and transit.
+We are a Level 1 PCI-DSS certified organisation and are subject to regular and comprehensive security audits. We operate an ISO27001 compliant security programme to help protect your data at all times.
+The PPL Products and Services only processes your personal information in the UK.
+Some of our supporting services (for example ZenDesk), might use cloud platforms that operate from Third Countries outside of the EEA. Where this is the case, we ensure that adequate safeguards are established to protect your data.
+Your rights under Data Protection Law
+Right to Access
+You have the right of access to your personal information that we process and details about that processing.
+You can usually access that information directly within the PPL Products and Services (self-service). However, should this not be possible, you can raise a Data Subject Access Request (DSAR) to receive this information in another format.
+Right to Rectification
+You have the right to request that information is corrected if it’s inaccurate.  You can usually update your own information using the PPL Products and Services (self-service). However, should this not be possible, you can contact us to make the changes on your behalf. In some circumstances, you may have to contact your child’s school, to correct the data held by them and provided to us for processing.
+Right to Erasure (Right to be Forgotten)
+You have the right to request that your information is removed; depending on the circumstances, we may or may not be obliged to action this request.
+Right to Object
+You have the right to object to the processing of your information; depending on the circumstances, we may or may not be obliged to action this request.
+Right to Restriction of Processing
+You have the right to request that we restrict the extent of our processing activities; depending on the circumstances, we may or may not be obliged to action this request.
+Right to Data Portability
+You have the right to receive the personal data which you have provided to us in a structured, commonly used and machine readable format suitable for transferring to another controller.
+Right to lodge a complaint with a supervisory authority
+If you think we have infringed your privacy rights, you can lodge a complaint with the relevant supervisory authority. You can lodge your complaint in particular in the country where your live, your place of work or place where you believe we infringed your right(s).
+You can exercise your rights be sending an e-mail to dpo@parentpay.com. Please state clearly in the subject that your request concerns a privacy matter, and provide a clear description of your requirements.
+Note: We may need to request additional information to verify your identity before we action your request.
+Sharing personal information with third parties
+We use a range of trusted service providers to help deliver our services. All of our suppliers are subject to appropriate safeguards, operating in accordance with our specific instructions and limitations, and in full compliance with Data Protection Law.
+These service providers include:
+Payment Processors – to securely process your card payments (we do not see, or store payment card details)
+SMS Providers – to send out our SMS notifications or messages sent by Customers using PPL Products and Services
+Email Providers – to send out our email notifications or messages sent by Customers using PPL Products and Services
+Hosting Providers – to manage our secure enterprise datacentres
+Security Providers – to protect our systems from attack
+Telephony Providers – we might record calls for training, quality and security purposes
+Training Platforms – to train school staff on the use of our services
+Support Portal (ZenDesk) – so that you can easily ask for help
+Bank Transfer functionality – working with Corvid and Experian
+Cloud Hosting and Recovery – working with AWS and Azure
+Security insight and system logging – working with Rapid7
+Cloud email delivery – working with Sendgrid (USA hosted)
+Anonymous Web Analytics – working with Google
+Feedback Platforms (Optional) – working with SurveyMonkey
+We may also have access to your personal information as part of delivering the service. If we need to change or add additional third parties, we will always update our Privacy Notice accordingly. We will only disclose your information to other parties in the following limited circumstances
+where we are legally obliged to do so, e.g. to law enforcement and regulatory authorities
+where there is a duty to disclose in the public interest
+where disclosure is necessary to protect our interest e.g. to prevent or detect crime and fraud
+where you give us permission to do so e.g. by providing consent within the PPL Products and Services or via an online application or consent form
+How long we may keep your personal information
+We will only retain information for as long as is necessary to deliver the service safely and securely. We may need to retain some records to maintain compliance with other applicable legislation – for example finance, taxation, fraud and money laundering law requires certain records to be retained for an extended duration, in some cases for up to seven years.
+Pupil data will typically be removed or anonymised when the following rules are met:
+The pupil has been archived by the School for longer than one month.
+The pupil does not have any meal consumption or attendance data within the last 13 months.
+The pupil has not received a payment for any payment item within the last 13 months.
+The pupil balance is zero.
+Payer (Parent) data will usually be removed or anonymised when the following rules are met:
+They have not logged in for 13 months.
+They have not topped up or spent within the last 13 months.
+Parent balance is 0 (zero), and all pupil balances are 0 (zero).
+There are no active pupils associated with the account
+Manager Accounts that have been disabled and have not logged in for 13 months, will be removed or anonymised. Other school staff accounts are subject to the same rules as pupils (above)
+Message attachments will be removed after 24 months.
+File area uploads will be purged after 24 months.
+Personal information in trip records will be removed 1 month after trip completion
+It should be noted that Schools will still retain a complete finance audit trail for their statutory requirements. In unusual cases where specific personal information needs to be retained, then this can be facilitated upon request.
+Changes to our Privacy Notice
+This policy will be reviewed regularly and updated versions will be posted on our websites.
+Contact details for our Data Protection Officer
+We have appointed a Data Protection Officer (DPO); their contact details are as follows:
+dpo@parentpay.com
+or
+Data Protection Officer
+ParentPay
+Coventry Building Society Arena
+Phoenix Way
+Coventry
+CV6 6GE
+© ParentPay 2021. All rights reserved.
+Terms & Conditions
+Use of cookies
+GDPR
+Privacy Notice
+Fair Use
+Facebook
+Twitter
+LinkedIn
+Schools
+For Schools
+What can ParentPay do?
+Case Studies
+Parents
+For Parents
+Help
+Login
+About ParentPay
+About Us
+Our Story
+Group
+Partners
+News and Blogs
+Careers

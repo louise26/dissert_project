@@ -1,0 +1,115 @@
+Audi Used Car Locator Cookie Policy > Legal & Privacy > Audi UK
+Audi Used Car Locator Cookie Policy > Legal & Privacy > Audi UK
+Audi Used Car Locator Cookie Policy
+Audi Used Car Locator Cookie Policy
+The Audi UK Used Car Locator (www.audi.co.uk/uk/web/en/legal-and-privacy/cookies-used-cars.html) uses cookies to improve your experience and our services. These cookies provide a better performance, enhanced features and enable certain functionalities.If you wish to disable the cookies used on the Audi UK Used Car Locator you can do so through your browser settings (guidance on how to do this can be found here: http://files.investis.com/info/disabling-cookies.html). However please bear in mind that disabling cookies through your browser will also impact the cookies used on other websites you visit.
+Disable the cookies
+What Are Cookies?
+A cookie is a very small text file that is saved to the hard drive of your computer or device (such as your mobile phone or tablet) when you access a website.Cookies are a well-known technology that is used by most websites in order to make the website work, or work more efficiently. Cookies do not harm your device.Our cookies collect information anonymously, so they cannot be used to personally identify you directly.
+What do Cookies do?
+Cookies enable us to collect information on a number of things, including recognising your device (so we can display the mobile version or tablet version of our website if you are viewing on a mobile device). Cookies also show us how you use the Audi UK Configurator and which pages you visit and allow us to customise your experience. They also provide information that helps us monitor and improve our website's performance.
+How do Audi Use Cookies?
+We use four types of cookies on the Audi UK Used Car Locator:
+Necessary
+These are the cookies that are essential for our website to operate effectively. They include cookies that allow you to access restricted areas of our website, or remember your cookie preferences. Necessary cookies can only be disabled by changing your internet browser settings, although this may mean our website will not display or function properly.
+Analytics
+These cookies allow us to recognise and keep track of the number of visitors to our website, and see which pages you view. This allows us to improve the functionality and design of our website, for example by ensuring you can easily find the content you are interested in.
+Marketing
+Marketing cookies are third-party cookies which are used to provide you with advertisements that are relevant to you and your interests. This may result in you seeing these advertisements on our website and on other websites you visit. If you disable Audi’s marketing cookies, you will still see advertisements when you view our website, or other websites, but these will not be personalised to you.
+Personalisation
+We use personalisation cookies to understand how you use our website across all your devices, by anonymously matching your devices to you. This will include us keeping track of your browsing history and activity to help us identify you. This will allow us to provide you with targeted and personalised marketing on our website, by email (if you have consented to email marketing) and on other websites through other marketing channels.
+You can view a full list of Audi’s cookies and third-party cookies that are used on this website in the table below.
+How long do Audi’s Cookies stay on your device?
+The length of time that our cookies will stay on your device varies from cookie-to-cookie. Some are known as ‘session cookies’ which will only stay on your device whilst you are viewing our website. Others cookies, known as ‘persistent cookies’ will stay on your device for a longer period. Some ‘persistent cookies’ will expire after a certain length of time, and others will stay on your device until they are deleted.
+More Information?
+If you would like to find out more information about cookies and their uses, or your privacy online, you may find the Information Commissioner’s website useful.
+Information Commissioner
+What Cookies do Audi Use?
+Necessary Cookies
+Cookie Name
+From
+How the Cookie Functions
+PHPSESSID
+JSESSIONID
+Audi
+This cookie allow our web servers to respond to your actions while you are browsing the website. The website would not work for you without them.
+LBCOOKIE
+nlbi_*
+Audi
+This cookie is necessary for load distribution via the load balancer
+Visid_incap*
+Incap_ses*
+Audi
+We use the incapsula CDN to increase reliability, security and speed of our website. As part of this, incapsula sets cookies to improve functionality and performance.
+cookieCompliance
+Audi
+This cookie captures whether you have accepted cookies or not.
+CAOCID
+caoPopInMode
+Audi
+These cookies are used to enable our live chat features which is available for used car listings and allows you to chat directly to the Audi Centre selling the vehicle.
+consumerId
+LPCKEY-p-66921
+ASP.NET_Session
+cobrowse-storage_expiration
+Contactatonce
+Analytics Cookies
+Cookie Name
+From
+How the Cookie Functions
+AMCV_*
+AMCVS_*
+s_ecid
+Adobe
+These cookies enable our website analytics which help us understand how users are browsing our website. We use this information to better understand how people are using our site and identify improvements we can make to improve customer experience.
+_gat
+_ga
+_gid
+Contactatonce
+These cookies are used to collect information about how visitors use our website. This information is used to compile reports and to help us improve the website. The cookies collect information in an anonymous form, including the number of visitors to the website and blog, where visitors have come to the website from and the pages they visited.
+Marketing Cookies
+Cookie Name
+From
+How the Cookie Functions
+Demdex
+Dextp
+dpm
+Everest_g_v2
+Everest_session_v2
+Adobe
+These cookies are used for targeted advertising. Information collected may be used to understand your browsing behaviour and interests to serve you more relevant advertising. They will also be used to understand the effectiveness of the advertising you have been shown.
+_gcl_au
+Audi
+This cookie is used by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+DSID
+FLC
+IDE
+Google
+This is part of a group of cookies used to remember user's most recent searches, previous interactions with an advertiser’s ads or search results, and visits to an advertiser’s website.
+TDCPM
+TDID
+TheTradeDesk
+This cookie is used by our third party advertising trading platform. It contains a unique randomly-generated value that enables the platform to distinguish browsers and devices. It is matched against information, such as advertising interest segments and histories of ads shown in the browser or device, provided by Clients or other third parties and stored on the platform to determine which ads you will see.
+_mkto_trk
+_fbp
+Contactatonce
+Allows a website to link visitor behaviour to the recipient of an email marketing campaign, to measure campaign effectiveness.
+This cookie will help deliver advertising to people who have already visited the website when they are on Facebook or a digital platform powered by Facebook Advertising.
+Personalistion Cookies
+Cookie Name
+From
+How the Cookie Functions
+location_aukgwb
+aukgwb_s_search
+aukgwb_allFilters
+Audi
+These cookies are used to remember your searches from previous visits to the Audi Used Car Locator so that you don't have to enter the information again.
+Error
+VHostwww.audi.co.uk
+Version123.0.0
+Build20210805060532
+Frontend123.0.0
+Rendertime20210813105845
+StaticVersion20210805060532
+Activated Scopes
+Context Scopes
